@@ -18,8 +18,35 @@ local playerGui = LocalPlayer:WaitForChild("PlayerGui")
 
 print("=== MEGA RAMP HUB ===")
 
+-- Guarda as últimas linhas de log num buffer global pra poder copiar tudo
+-- pro clipboard de uma vez (setclipboard) -- sem isso, a única forma de
+-- mandar o log era print no console + screenshot/print manual, o que
+-- perde linhas quando o console rola rápido (ex: checkpoints disparando
+-- em sequência). Limitado a 500 linhas mais recentes pra não crescer sem
+-- fim numa sessão longa.
+local HUB_LOG_BUFFER_MAX = 500
+local hubLogBuffer = {}
+
 local function addLog(msg)
     print("[HUB] " .. msg)
+    table.insert(hubLogBuffer, os.date("%H:%M:%S") .. " " .. msg)
+    if #hubLogBuffer > HUB_LOG_BUFFER_MAX then
+        table.remove(hubLogBuffer, 1)
+    end
+end
+
+local function copyHubLogToClipboard()
+    if #hubLogBuffer == 0 then
+        addLog("[LOG] [!] Nada pra copiar ainda")
+        return
+    end
+    local fullText = table.concat(hubLogBuffer, "\n")
+    if typeof(setclipboard) ~= "function" then
+        addLog("[LOG] [!] Esse executor não suporta setclipboard -- copie manualmente do console")
+        return
+    end
+    local ok = pcall(setclipboard, fullText)
+    addLog(ok and ("[LOG] [✓] " .. #hubLogBuffer .. " linha(s) copiada(s) pro clipboard") or "[LOG] [!] Falha ao copiar pro clipboard")
 end
 
 -- ========================================
@@ -41,7 +68,6 @@ local T = {
     tab_props = { pt = "Objetos", en = "Props", es = "Objetos" },
     tab_esp = { pt = "Jogadores", en = "Players", es = "Jugadores" },
     tab_anim = { pt = "Animacao", en = "Animation", es = "Animacion" },
-    tab_webhook = { pt = "Webhook", en = "Webhook", es = "Webhook" },
     tab_players = { pt = "Espectar", en = "Spectate", es = "Espectar" },
     tab_slimes = { pt = "Inventario", en = "Inventory", es = "Inventario" },
     tab_settings = { pt = "Configuracoes", en = "Settings", es = "Ajustes" },
@@ -125,45 +151,15 @@ local T = {
     btn_diagnose = { pt = "Diagnosticar (mostra estrutura do Animate no console)", en = "Diagnose (shows Animate structure in console)", es = "Diagnosticar (muestra la estructura del Animate en consola)" },
     btn_apply_idle = { pt = "Aplicar (só idle -- o resto continua normal)", en = "Apply (idle only -- the rest stays normal)", es = "Aplicar (solo idle -- el resto sigue normal)" },
     btn_reapply = { pt = "Reaplicar (depois de mudar o ID)", en = "Reapply (after changing the ID)", es = "Reaplicar (despues de cambiar el ID)" },
-    sec_discord_webhook = { pt = "DISCORD WEBHOOK", en = "DISCORD WEBHOOK", es = "DISCORD WEBHOOK" },
-    lbl_webhook_url = { pt = "URL do Webhook:", en = "Webhook URL:", es = "URL del Webhook:" },
-    btn_test = { pt = "Testar", en = "Test", es = "Probar" },
-    sec_notify_when = { pt = "NOTIFICAR QUANDO:", en = "NOTIFY WHEN:", es = "NOTIFICAR CUANDO:" },
-    toggle_find_limited = { pt = "Achar Limited/Rainbow", en = "Find Limited/Rainbow", es = "Encontrar Limited/Rainbow" },
-    toggle_win_memory = { pt = "Ganhar na Memória", en = "Win at Memory", es = "Ganar en Memoria" },
-    toggle_win_hitslime = { pt = "Ganhar no Bata o Slime", en = "Win at Hit the Slime", es = "Ganar en Golpea al Slime" },
-    toggle_activate_event = { pt = "Ativar evento (Ramp)", en = "Activate event (Ramp)", es = "Activar evento (Ramp)" },
     sec_players_in_match = { pt = "JOGADORES NA PARTIDA", en = "PLAYERS IN MATCH", es = "JUGADORES EN LA PARTIDA" },
     btn_stop_spectate = { pt = "Parar Spectate", en = "Stop Spectate", es = "Detener Espectar" },
     btn_spectate = { pt = "Spectate", en = "Spectate", es = "Espectar" },
     lbl_no_other_players = { pt = "Nenhum outro jogador na partida.", en = "No other players in the match.", es = "Ningun otro jugador en la partida." },
     sec_top5 = { pt = "TOP 5 (CASH) - AO VIVO", en = "TOP 5 (CASH) - LIVE", es = "TOP 5 (CASH) - EN VIVO" },
     lbl_waiting_server = { pt = "Aguardando dados do servidor...", en = "Waiting for server data...", es = "Esperando datos del servidor..." },
-    sec_equip_by_index = { pt = "EQUIPAR SLIME (POR ÍNDICE)", en = "EQUIP SLIME (BY INDEX)", es = "EQUIPAR SLIME (POR INDICE)" },
-    lbl_waiting_inventory = { pt = "Aguardando dados do inventário... (abra o inventário no jogo 1x se não vier nada)", en = "Waiting for inventory data... (open the inventory in-game once if nothing shows)", es = "Esperando datos del inventario... (abre el inventario en el juego una vez si no aparece nada)" },
-    sec_manual_equip = { pt = "EQUIPAR POR ÍNDICE MANUAL", en = "MANUAL EQUIP BY INDEX", es = "EQUIPAR POR INDICE MANUAL" },
-    lbl_index_manual = { pt = "Índice (0 = tirar da mão):", en = "Index (0 = unequip):", es = "Indice (0 = quitar de la mano):" },
-    btn_equip_index = { pt = "Equipar Esse Índice", en = "Equip This Index", es = "Equipar Este Indice" },
-    sec_send_gift = { pt = "ENVIAR GIFT", en = "SEND GIFT", es = "ENVIAR REGALO" },
-    lbl_gift_target = { pt = "Nome (ou parte) do jogador de destino:", en = "Target player's name (or part of it):", es = "Nombre (o parte) del jugador destino:" },
-    lbl_gift_index = { pt = "Índice do slime a doar:", en = "Index of the slime to gift:", es = "Indice del slime a regalar:" },
-    btn_send_gift = { pt = "Enviar Gift", en = "Send Gift", es = "Enviar Regalo" },
-    lbl_equipped = { pt = "Equipado", en = "Equipped", es = "Equipado" },
-    lbl_equip = { pt = "Equipar", en = "Equip", es = "Equipar" },
-
     status_flying = { pt = "Status: VOANDO", en = "Status: FLYING", es = "Estado: VOLANDO" },
     sec_fly = { pt = "FLY / NO-CLIP COM O CARRO", en = "FLY / NO-CLIP WITH CAR", es = "VOLAR / NO-CLIP CON EL AUTO" },
     btn_fly_toggle = { pt = "Ativar Fly (No-Clip)", en = "Enable Fly (No-Clip)", es = "Activar Volar (No-Clip)" },
-    sec_checkpoint_dup = { pt = "DUPLICAR CHECKPOINTS", en = "DUPLICATE CHECKPOINTS", es = "DUPLICAR CHECKPOINTS" },
-    lbl_offset_z = { pt = "Offset Z entre original e cópia (studs):", en = "Z offset between original and copy (studs):", es = "Offset Z entre original y copia (studs):" },
-    btn_dup_checkpoints = { pt = "Duplicar Todos os Checkpoints", en = "Duplicate All Checkpoints", es = "Duplicar Todos los Checkpoints" },
-    btn_clear_dup_checkpoints = { pt = "Remover Duplicados", en = "Remove Duplicates", es = "Eliminar Duplicados" },
-    sec_checkpoint_extra = { pt = "CRIAR CHECKPOINTS ALÉM DO MÁXIMO", en = "CREATE CHECKPOINTS BEYOND MAX", es = "CREAR CHECKPOINTS MÁS ALLÁ DEL MÁXIMO" },
-    lbl_extra_count = { pt = "Quantidade de novos checkpoints:", en = "Number of new checkpoints:", es = "Cantidad de nuevos checkpoints:" },
-    lbl_extra_spacing = { pt = "Espaçamento entre eles (studs):", en = "Spacing between them (studs):", es = "Espaciado entre ellos (studs):" },
-    btn_create_extra = { pt = "Criar Checkpoints Extras", en = "Create Extra Checkpoints", es = "Crear Checkpoints Extra" },
-    btn_auto_trigger_extra = { pt = "Disparar Todos Automaticamente", en = "Auto-Trigger All", es = "Disparar Todos Automáticamente" },
-
     sec_remote_spy = { pt = "REMOTE SPY (AO VIVO)", en = "REMOTE SPY (LIVE)", es = "REMOTE SPY (EN VIVO)" },
     btn_spy_enable = { pt = "Ativar Spy", en = "Enable Spy", es = "Activar Spy" },
     btn_spy_disable = { pt = "Desativar Spy", en = "Disable Spy", es = "Desactivar Spy" },
@@ -247,14 +243,35 @@ local Remotes = {
     eventShopUpdate = findRemote("EventShopUpdate"),
     eventShopAction = findRemote("EventShopAction"),
     selectInventoryItem = findRemote("SelectInventoryItem"),
-    inventoryUpdate = findRemote("InventoryUpdate"),
     giftAction = findRemote("GiftAction"),
     giftIncoming = findRemote("GiftIncoming"),
-    giftOpenInventory = findRemote("GiftOpenInventory"),
     miniGameMemoryEvent = findRemote("MiniGame1MemoryEvent"),
     leaderboardUpdate = findRemote("LeaderboardUpdate"),
     miniParkourEvent = findRemote("MiniParkourEvent"),
+    adminAbuseRemote = findRemote("AdminAbuseRemote"),
 }
+
+-- Diagnóstico: o jogo já renomeou coisas por baixo dos nossos pés antes
+-- (carro virou "MiniCar_<numero>", JumpCar foi pra dentro de uma pasta
+-- "Progetto" nova) -- se algum remote sumir/mudar de nome de novo, é
+-- melhor ver isso LOGO na inicialização do hub do que só descobrir 20
+-- minutos depois que uma feature específica "não faz nada". Lista o que
+-- achou e o que NÃO achou, uma vez só, no início.
+do
+    local missing = {}
+    for key, remote in pairs(Remotes) do
+        if not remote then table.insert(missing, key) end
+    end
+    if #missing > 0 then
+        table.sort(missing)
+        addLog("[DIAGNOSTICO] [!] " .. #missing .. " remote(s) NÃO encontrado(s): " .. table.concat(missing, ", "))
+    else
+        local totalCount = 0
+        for _ in pairs(Remotes) do totalCount = totalCount + 1 end
+        addLog("[DIAGNOSTICO] [✓] Todos os " .. totalCount .. " remotes conhecidos foram encontrados")
+    end
+end
+
 local miniGameButton = Workspace:WaitForChild("MiniGame1Button")
 
 -- Top 5 leaderboard (Cash/renda base/carros de cada jogador) que o próprio
@@ -268,73 +285,6 @@ if Remotes.leaderboardUpdate then
         latestLeaderboardData = list
         if refreshLeaderboardUI then refreshLeaderboardUI() end
     end)
-end
-
--- ========================================
--- INVENTÁRIO: o próprio jogo já manda a lista completa de slimes (com
--- índice = posição no InventoryUpdate) e o índice do que está "na mão"
--- (equipado) toda vez que muda -- SelectInventoryItem:FireServer(index) é
--- exatamente o que o botão de cada card do inventário do jogo dispara
--- quando você clica nele, então dá pra equipar QUALQUER slime da lista
--- direto por esse remote, sem precisar abrir o inventário e clicar.
--- ========================================
-
-local function buildInventoryFeature()
-
-local latestInventoryList = nil
-local latestEquippedIndex = nil
-local refreshInventoryUI -- atribuída lá na aba SLIMES, mais abaixo
-
-if Remotes.inventoryUpdate then
-    Remotes.inventoryUpdate.OnClientEvent:Connect(function(list, equippedIndex)
-        latestInventoryList = list
-        latestEquippedIndex = equippedIndex
-        if refreshInventoryUI then refreshInventoryUI() end
-    end)
-end
-
-local function equipSlimeByIndex(index)
-    if not Remotes.selectInventoryItem then
-        addLog("[SLIMES] [!] SelectInventoryItem não encontrado")
-        return
-    end
-    pcall(function() Remotes.selectInventoryItem:FireServer(index) end)
-    addLog("[SLIMES] Pedido pra equipar índice " .. tostring(index))
-end
-
-return {
-    equipByIndex = equipSlimeByIndex,
-    setRefreshCallback = function(fn) refreshInventoryUI = fn end,
-    getList = function() return latestInventoryList end,
-    getEquippedIndex = function() return latestEquippedIndex end,
-}
-end
-
-local Inventory = buildInventoryFeature()
-
-local function findPlayerByNameFragment(text)
-    if not text or text == "" then return nil end
-    local lower = text:lower()
-    for _, plr in ipairs(Players:GetPlayers()) do
-        if plr.Name:lower() == lower then return plr end
-    end
-    for _, plr in ipairs(Players:GetPlayers()) do
-        if plr.Name:lower():find(lower, 1, true) then return plr end
-    end
-    return nil
-end
-
-local function sendGiftByIndex(targetPlayer, index)
-    if not Remotes.giftAction then
-        addLog("[GIFT] [!] GiftAction não encontrado")
-        return
-    end
-    if not targetPlayer then
-        addLog("[GIFT] [!] Escolha um jogador de destino")
-        return
-    end
-    pcall(function() Remotes.giftAction:FireServer("RequestGift", targetPlayer, index) end)
-    addLog("[GIFT] Pedido de gift enviado: índice " .. tostring(index) .. " -> " .. targetPlayer.Name)
 end
 
 -- ========================================
@@ -705,426 +655,1287 @@ end
 local AutoAcceptGifts = buildAutoAcceptGiftsFeature()
 
 -- ========================================
--- TESTE DE DUPLICAÇÃO NA BASE (experimental): cada slot da base tem dois
--- ProximityPrompt nativos do Roblox -- "PlacePrompt" (posicionar um slime
--- do inventário no slot livre) e "CollectPrompt" (pegar o slime de volta
--- pro inventário). Analisando o .rbxlx completo do jogo (Save As direto
--- do Studio, incluindo tudo que o client vê): NENHUM LocalScript
--- referencia "PlacePrompt"/"CollectPrompt"/"BaseSlot" como string em
--- lugar nenhum -- ou seja, não existe um RemoteEvent customizado pra
--- essa ação, o próprio ProximityPrompt já replica o Triggered pro
--- servidor nativamente, e a lógica de decidir o que fazer roda 100% no
--- servidor. Isso significa que NÃO dá pra forjar/interceptar um remote
--- aqui como fizemos em outras features -- a única forma de testar uma
--- duplicação é via CONDIÇÃO DE CORRIDA: disparar o mesmo prompt várias
--- vezes bem mais rápido do que um clique humano normal, mais rápido do
--- que o servidor provavelmente consegue processar/debounce, e comparar
--- o tamanho do inventário antes/depois. É 100% experimental -- pode não
--- dar em nada (bom sinal de segurança do jogo) ou revelar uma falha
--- real. O resultado reportado é sempre o que realmente aconteceu, nunca
--- uma suposição de que funcionou.
+-- ADMIN ABUSE PANEL: painel de admin do próprio jogo (dá coins de evento,
+-- liga 3x boxes/tree rush, manda anúncios, roda a sequência automática de
+-- 30min) -- só funciona de verdade se o SERVIDOR reconhecer você como
+-- admin (ele manda "AdminAccess" pelo AdminAbuseRemote confirmando isso;
+-- sem essa confirmação os botões continuam existindo mas não fazem nada
+-- no servidor). Código colado quase 1:1 do painel original do jogo,
+-- só adaptado pra reusar os services/Remotes que o hub já tem (em vez de
+-- pegar os dele próprios) e pra não travar o carregamento do hub inteiro
+-- se o remote não existir (usa Remotes.adminAbuseRemote, achado via
+-- findRemote, em vez de WaitForChild bloqueante).
 -- ========================================
 
-local function buildSlimeDupeTestFeature()
-    local testing = false
-    local statusLabel = nil
-
-    local function setStatus(text, color)
-        if statusLabel then
-            statusLabel.Text = text
-            statusLabel.TextColor3 = color
-        end
+local function buildAdminAbusePanelFeature()
+    local AdminAbuseRemote = Remotes.adminAbuseRemote
+    if not AdminAbuseRemote then
+        addLog("[ADMIN-ABUSE] [!] AdminAbuseRemote não encontrado -- painel não disponível nesse servidor")
+        return {
+            toggle = function() addLog("[ADMIN-ABUSE] [!] Indisponível (AdminAbuseRemote não encontrado)") end,
+            isAvailable = function() return false end,
+        }
     end
 
-    local function findPlayerBaseModel()
-        for _, obj in ipairs(Workspace:GetDescendants()) do
-            if obj.Name == "PlayerBaseNameSign" then
-                local ok, ownerId = pcall(function() return obj:GetAttribute("OwnerUserId") end)
-                if ok and ownerId == LocalPlayer.UserId then
-                    return obj:FindFirstAncestorOfClass("Model") or obj:FindFirstAncestorOfClass("Folder")
-                end
-            end
-        end
-        return nil
-    end
+    local TweenService = game:GetService("TweenService")
+    local PlayerGui = playerGui
 
-    local function findPromptInBase(baseModel, promptName)
-        if not baseModel then return nil end
-        for _, obj in ipairs(baseModel:GetDescendants()) do
-            if obj:IsA("ProximityPrompt") and obj.Name == promptName then
-                return obj
-            end
-        end
-        return nil
-    end
-
-    -- Disparar o ProximityPrompt só ABRE uma tela de confirmação (mostra
-    -- o slime + um botão tipo "COLETAR"/"POSICIONAR") -- confirmado pelo
-    -- usuário testando ("o test collect só abre o menu e fica ai"). A
-    -- ação de verdade só acontece quando esse botão de DENTRO da tela é
-    -- clicado, então o spam precisa mirar nesse botão, não no prompt.
-    local CONFIRM_KEYWORDS = {
-        "coletar", "collect", "posicionar", "posiziona", "place", "confirmar", "confirm",
+    local t = {
+        Active = false,
+        Scope = "SERVER",
+        EndsAt = 0,
+        TripleBoxes = false,
+        TreeMultiplier = 1,
+        AutoSequence = false
     }
+    local v1 = false
+    local v2 = false
+    local v3 = "SERVER"
+    local v4 = "MANUAL"
+    local v5 = 0
+    local v6 = Color3.fromRGB(58, 58, 68)
+    local v7 = Color3.fromRGB(205, 48, 58)
+    local v8 = Color3.fromRGB(235, 58, 68)
 
-    -- A tela de revelação de caixa (auto-click da caixa na aba Rampa, que
-    -- roda SOZINHA e independente desse teste) também tem um botão
-    -- "COLETAR" -- só que do lado de 6 botões "MÁX". Se a caixa abrir por
-    -- coincidência durante o teste, buscar só por palavra-chave ia
-    -- confundir as duas telas e clicar no botão errado (o da caixa, que
-    -- não faz nada útil aqui, e prendia o teste "aberto" sem terminar).
-    -- Detectar os irmãos "MÁX" filtra esse caso.
-    local function isLikelyBoxRevealButton(button)
-        local container = button.Parent
-        if not container then return false end
-        for _, sibling in ipairs(container:GetChildren()) do
-            if sibling:IsA("GuiButton") and sibling ~= button then
-                local siblingText = tostring(sibling.Text or ""):lower()
-                if siblingText:find("máx", 1, true) or siblingText:find("max", 1, true) then
-                    return true
+    local function addCorner(p1, p2)
+        local UICorner = Instance.new("UICorner")
+
+        UICorner.CornerRadius = UDim.new(0, p2 or 12)
+        UICorner.Parent = p1
+
+        return UICorner
+    end
+
+    local function addStroke(p1, p2, p3, p4)
+        local UIStroke = Instance.new("UIStroke")
+
+        UIStroke.Color = if p2 then p2 else Color3.fromRGB(255, 255, 255)
+        UIStroke.Thickness = p3 or 2
+        UIStroke.Transparency = p4 or 0
+        UIStroke.Parent = p1
+
+        return UIStroke
+    end
+
+    local function addTextConstraint(p1, p2, p3)
+        local UITextSizeConstraint = Instance.new("UITextSizeConstraint")
+
+        UITextSizeConstraint.MinTextSize = p2 or 10
+        UITextSizeConstraint.MaxTextSize = p3 or 28
+        UITextSizeConstraint.Parent = p1
+
+        return UITextSizeConstraint
+    end
+
+    local function formatTime(p1)
+        local v3 = math.max(0, (math.floor(tonumber(p1) or 0)))
+
+        return string.format("%02d:%02d", math.floor(v3 / 60), v3 % 60)
+    end
+
+    local AdminAbuseGui = Instance.new("ScreenGui")
+
+    AdminAbuseGui.Name = "AdminAbuseGui"
+    AdminAbuseGui.ResetOnSpawn = false
+    AdminAbuseGui.IgnoreGuiInset = true
+    AdminAbuseGui.DisplayOrder = 12000
+    AdminAbuseGui.Parent = PlayerGui
+
+    local AdminAbuseStatus = Instance.new("Frame")
+
+    AdminAbuseStatus.Name = "AdminAbuseStatus"
+    AdminAbuseStatus.AnchorPoint = Vector2.new(0.5, 1)
+    AdminAbuseStatus.Position = UDim2.new(0.5, 0, 1, -28)
+    AdminAbuseStatus.Size = UDim2.new(0, 360, 0, 52)
+    AdminAbuseStatus.BackgroundColor3 = Color3.fromRGB(15, 15, 20)
+    AdminAbuseStatus.BackgroundTransparency = 1
+    AdminAbuseStatus.BorderSizePixel = 0
+    AdminAbuseStatus.Visible = false
+    AdminAbuseStatus.ZIndex = 100
+    AdminAbuseStatus.Parent = AdminAbuseGui
+
+    local UICorner = Instance.new("UICorner")
+
+    UICorner.CornerRadius = UDim.new(0, 14)
+    UICorner.Parent = AdminAbuseStatus
+
+    local v9 = Color3.fromRGB(255, 80, 80)
+    local UIStroke = Instance.new("UIStroke")
+
+    UIStroke.Color = v9 or Color3.fromRGB(255, 255, 255)
+    UIStroke.Thickness = 2.5
+    UIStroke.Transparency = 1
+    UIStroke.Parent = AdminAbuseStatus
+
+    local v11 = UIStroke
+    local TextLabel = Instance.new("TextLabel")
+
+    TextLabel.Size = UDim2.new(1, 0, 0, 30)
+    TextLabel.Position = UDim2.new(0, 0, 0, 0)
+    TextLabel.BackgroundTransparency = 1
+    TextLabel.Text = "ADMIN ABUSE"
+    TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+    TextLabel.TextStrokeTransparency = 0.35
+    TextLabel.Font = Enum.Font.GothamBlack
+    TextLabel.TextScaled = true
+    TextLabel.ZIndex = 101
+    TextLabel.Parent = AdminAbuseStatus
+
+    local UITextSizeConstraint = Instance.new("UITextSizeConstraint")
+
+    UITextSizeConstraint.MinTextSize = 12
+    UITextSizeConstraint.MaxTextSize = 24
+    UITextSizeConstraint.Parent = TextLabel
+
+    local TextLabel2 = Instance.new("TextLabel")
+
+    TextLabel2.Size = UDim2.new(1, 0, 0, 20)
+    TextLabel2.Position = UDim2.new(0, 0, 0, 31)
+    TextLabel2.BackgroundTransparency = 1
+    TextLabel2.Text = "3X BOXES \226\128\162 TREE RUSH"
+    TextLabel2.TextColor3 = Color3.fromRGB(255, 215, 90)
+    TextLabel2.Font = Enum.Font.GothamBold
+    TextLabel2.TextScaled = true
+    TextLabel2.ZIndex = 101
+    TextLabel2.Parent = AdminAbuseStatus
+
+    local UITextSizeConstraint2 = Instance.new("UITextSizeConstraint")
+
+    UITextSizeConstraint2.MinTextSize = 9
+    UITextSizeConstraint2.MaxTextSize = 15
+    UITextSizeConstraint2.Parent = TextLabel2
+
+    local AdminAbuseAnnouncement = Instance.new("Frame")
+
+    AdminAbuseAnnouncement.Name = "AdminAbuseAnnouncement"
+    AdminAbuseAnnouncement.AnchorPoint = Vector2.new(0.5, 0.5)
+    AdminAbuseAnnouncement.Position = UDim2.fromScale(0.5, 0.5)
+    AdminAbuseAnnouncement.Size = UDim2.new(0, 520, 0, 82)
+    AdminAbuseAnnouncement.BackgroundColor3 = Color3.fromRGB(10, 10, 15)
+    AdminAbuseAnnouncement.BackgroundTransparency = 1
+    AdminAbuseAnnouncement.BorderSizePixel = 0
+    AdminAbuseAnnouncement.Visible = false
+    AdminAbuseAnnouncement.ZIndex = 110
+    AdminAbuseAnnouncement.Parent = AdminAbuseGui
+
+    local UICorner2 = Instance.new("UICorner")
+
+    UICorner2.CornerRadius = UDim.new(0, 16)
+    UICorner2.Parent = AdminAbuseAnnouncement
+
+    local v12 = Color3.fromRGB(255, 255, 255)
+    local UIStroke2 = Instance.new("UIStroke")
+
+    UIStroke2.Color = v12 or Color3.fromRGB(255, 255, 255)
+    UIStroke2.Thickness = 3
+    UIStroke2.Transparency = 1
+    UIStroke2.Parent = AdminAbuseAnnouncement
+
+    local v14 = UIStroke2
+    local TextLabel3 = Instance.new("TextLabel")
+
+    TextLabel3.Size = UDim2.new(1, -28, 1, -14)
+    TextLabel3.Position = UDim2.new(0, 14, 0, 7)
+    TextLabel3.BackgroundTransparency = 1
+    TextLabel3.Text = ""
+    TextLabel3.TextColor3 = Color3.fromRGB(255, 255, 255)
+    TextLabel3.TextStrokeTransparency = 0.25
+    TextLabel3.TextWrapped = true
+    TextLabel3.Font = Enum.Font.GothamBlack
+    TextLabel3.TextScaled = true
+    TextLabel3.ZIndex = 111
+    TextLabel3.Parent = AdminAbuseAnnouncement
+
+    local UITextSizeConstraint3 = Instance.new("UITextSizeConstraint")
+
+    UITextSizeConstraint3.MinTextSize = 13
+    UITextSizeConstraint3.MaxTextSize = 30
+    UITextSizeConstraint3.Parent = TextLabel3
+
+    local function getAnnouncementColor(p1)
+        local v1 = tostring(p1 or "INFO"):upper()
+
+        if v1 == "COINS" then
+            return Color3.fromRGB(255, 205, 55)
+        end
+
+        if v1 == "WARNING" then
+            return Color3.fromRGB(255, 125, 45)
+        end
+
+        if v1 == "START" then
+            return Color3.fromRGB(255, 65, 80)
+        end
+
+        if v1 == "END" then
+            return Color3.fromRGB(100, 220, 255)
+        end
+
+        return Color3.fromRGB(140, 205, 255)
+    end
+
+    local function showAnnouncement(p1, p2, p3)
+        v5 = v5 + 1
+
+        local v1 = v5
+        local v2 = getAnnouncementColor(p2)
+
+        TextLabel3.Text = tostring(p1 or "")
+        TextLabel3.TextColor3 = v2
+        v14.Color = v2
+        AdminAbuseAnnouncement.BackgroundTransparency = 1
+        TextLabel3.TextTransparency = 0
+        AdminAbuseAnnouncement.Visible = true
+
+        local v3 = task.delay
+
+        v3(math.clamp(tonumber(p3) or 3, 2, 3.2), function()
+            if v1 ~= v5 then
+                return
+            end
+
+            TweenService:Create(TextLabel3, TweenInfo.new(0.3), {
+                TextTransparency = 1
+            }):Play()
+            task.wait(0.32)
+
+            if v1 ~= v5 then
+                return
+            end
+
+            AdminAbuseAnnouncement.Visible = false
+            AdminAbuseAnnouncement.BackgroundTransparency = 1
+            TextLabel3.TextTransparency = 0
+        end)
+    end
+
+    local OpenAdminAbusePanel = Instance.new("TextButton")
+
+    OpenAdminAbusePanel.Name = "OpenAdminAbusePanel"
+    OpenAdminAbusePanel.Size = UDim2.new(0, 132, 0, 46)
+    OpenAdminAbusePanel.AnchorPoint = Vector2.new(0, 0)
+    OpenAdminAbusePanel.Position = UDim2.new(0, 18, 1, -170)
+    OpenAdminAbusePanel.BackgroundColor3 = v6
+    OpenAdminAbusePanel.BackgroundTransparency = 0.03
+    OpenAdminAbusePanel.BorderSizePixel = 0
+    OpenAdminAbusePanel.Text = ""
+    OpenAdminAbusePanel.AutoButtonColor = false
+    OpenAdminAbusePanel.Visible = false
+    OpenAdminAbusePanel.ZIndex = 200
+    OpenAdminAbusePanel.Parent = AdminAbuseGui
+
+    local UICorner3 = Instance.new("UICorner")
+
+    UICorner3.CornerRadius = UDim.new(0, 13)
+    UICorner3.Parent = OpenAdminAbusePanel
+
+    local v15 = Color3.fromRGB(255, 255, 255)
+    local UIStroke3 = Instance.new("UIStroke")
+
+    UIStroke3.Color = v15 or Color3.fromRGB(255, 255, 255)
+    UIStroke3.Thickness = 1.5
+    UIStroke3.Transparency = 0.5
+    UIStroke3.Parent = OpenAdminAbusePanel
+
+    local v17 = UIStroke3
+    local IconBox = Instance.new("Frame")
+
+    IconBox.Name = "IconBox"
+    IconBox.Size = UDim2.new(0, 34, 0, 34)
+    IconBox.Position = UDim2.new(0, 6, 0.5, -17)
+    IconBox.BackgroundColor3 = Color3.fromRGB(20, 20, 26)
+    IconBox.BackgroundTransparency = 0.38
+    IconBox.BorderSizePixel = 0
+    IconBox.ZIndex = 201
+    IconBox.Parent = OpenAdminAbusePanel
+
+    local UICorner4 = Instance.new("UICorner")
+
+    UICorner4.CornerRadius = UDim.new(0, 10)
+    UICorner4.Parent = IconBox
+
+    local v18 = Color3.fromRGB(255, 255, 255)
+    local UIStroke4 = Instance.new("UIStroke")
+
+    UIStroke4.Color = v18 or Color3.fromRGB(255, 255, 255)
+    UIStroke4.Thickness = 1
+    UIStroke4.Transparency = 0.72
+    UIStroke4.Parent = IconBox
+
+    local Icon = Instance.new("TextLabel")
+
+    Icon.Name = "Icon"
+    Icon.Size = UDim2.fromScale(1, 1)
+    Icon.BackgroundTransparency = 1
+    Icon.Text = "A"
+    Icon.TextColor3 = Color3.fromRGB(255, 255, 255)
+    Icon.Font = Enum.Font.GothamBlack
+    Icon.TextScaled = true
+    Icon.ZIndex = 202
+    Icon.Parent = IconBox
+
+    local UITextSizeConstraint4 = Instance.new("UITextSizeConstraint")
+
+    UITextSizeConstraint4.MinTextSize = 13
+    UITextSizeConstraint4.MaxTextSize = 21
+    UITextSizeConstraint4.Parent = Icon
+
+    local Title = Instance.new("TextLabel")
+
+    Title.Name = "Title"
+    Title.Size = UDim2.new(1, -53, 0, 22)
+    Title.Position = UDim2.new(0, 47, 0, 5)
+    Title.BackgroundTransparency = 1
+    Title.Text = "ADMIN"
+    Title.TextColor3 = Color3.fromRGB(255, 255, 255)
+    Title.Font = Enum.Font.GothamBlack
+    Title.TextScaled = true
+    Title.TextXAlignment = Enum.TextXAlignment.Left
+    Title.ZIndex = 201
+    Title.Parent = OpenAdminAbusePanel
+
+    local UITextSizeConstraint5 = Instance.new("UITextSizeConstraint")
+
+    UITextSizeConstraint5.MinTextSize = 11
+    UITextSizeConstraint5.MaxTextSize = 18
+    UITextSizeConstraint5.Parent = Title
+
+    local SubTitle = Instance.new("TextLabel")
+
+    SubTitle.Name = "SubTitle"
+    SubTitle.Size = UDim2.new(1, -53, 0, 12)
+    SubTitle.Position = UDim2.new(0, 47, 0, 27)
+    SubTitle.BackgroundTransparency = 1
+    SubTitle.Text = "CONTROL"
+    SubTitle.TextColor3 = Color3.fromRGB(205, 205, 215)
+    SubTitle.Font = Enum.Font.GothamBold
+    SubTitle.TextScaled = true
+    SubTitle.TextXAlignment = Enum.TextXAlignment.Left
+    SubTitle.ZIndex = 201
+    SubTitle.Parent = OpenAdminAbusePanel
+
+    local UITextSizeConstraint6 = Instance.new("UITextSizeConstraint")
+
+    UITextSizeConstraint6.MinTextSize = 7
+    UITextSizeConstraint6.MaxTextSize = 10
+    UITextSizeConstraint6.Parent = SubTitle
+
+    local StateDot = Instance.new("Frame")
+
+    StateDot.Name = "StateDot"
+    StateDot.AnchorPoint = Vector2.new(1, 0.5)
+    StateDot.Size = UDim2.new(0, 7, 0, 7)
+    StateDot.Position = UDim2.new(1, -8, 0.5, 0)
+    StateDot.BackgroundColor3 = Color3.fromRGB(155, 155, 165)
+    StateDot.BorderSizePixel = 0
+    StateDot.ZIndex = 202
+    StateDot.Parent = OpenAdminAbusePanel
+
+    local UICorner5 = Instance.new("UICorner")
+
+    UICorner5.CornerRadius = UDim.new(0, 99)
+    UICorner5.Parent = StateDot
+
+    local AdminAbusePanel = Instance.new("Frame")
+
+    AdminAbusePanel.Name = "AdminAbusePanel"
+    AdminAbusePanel.AnchorPoint = Vector2.new(0.5, 0.5)
+    AdminAbusePanel.Position = UDim2.fromScale(0.5, 0.5)
+    AdminAbusePanel.Size = UDim2.new(0, 600, 0, 540)
+    AdminAbusePanel.BackgroundColor3 = Color3.fromRGB(17, 17, 22)
+    AdminAbusePanel.BorderSizePixel = 0
+    AdminAbusePanel.Visible = false
+    AdminAbusePanel.ZIndex = 200
+    AdminAbusePanel.Parent = AdminAbuseGui
+
+    local UICorner6 = Instance.new("UICorner")
+
+    UICorner6.CornerRadius = UDim.new(0, 18)
+    UICorner6.Parent = AdminAbusePanel
+
+    local v20 = Color3.fromRGB(255, 75, 85)
+    local UIStroke5 = Instance.new("UIStroke")
+
+    UIStroke5.Color = if v20 then v20 else Color3.fromRGB(255, 255, 255)
+    UIStroke5.Thickness = 3
+    UIStroke5.Transparency = 0.1
+    UIStroke5.Parent = AdminAbusePanel
+
+    local UIScale = Instance.new("UIScale")
+
+    UIScale.Scale = 1
+    UIScale.Parent = AdminAbusePanel
+
+    local function updatePanelScale()
+        local CurrentCamera = workspace.CurrentCamera
+        local v1 = workspace.CurrentCamera and CurrentCamera.ViewportSize or Vector2.new(1280, 720)
+
+        UIScale.Scale = math.clamp(math.min(v1.X / 660, v1.Y / 600), 0.55, 1.05)
+
+        local v6 = UserInputService.TouchEnabled or (if v1.X <= 900 then true elseif v1.Y <= 520 then true else false)
+        local v8 = math.clamp(v1.X - 36, 260, 390)
+        local v10 = math.clamp(v1.X - 34, 300, 560)
+
+        if v6 then
+            AdminAbuseStatus.Position = UDim2.new(0.5, 0, 1, -2)
+            AdminAbuseStatus.Size = UDim2.new(0, v8, 0, 44)
+            TextLabel2.Size = UDim2.new(1, 0, 0, 18)
+            TextLabel2.Position = UDim2.new(0, 0, 0, 1)
+            TextLabel.Size = UDim2.new(1, 0, 0, 22)
+        else
+            AdminAbuseStatus.Position = UDim2.new(0.5, 0, 1, 0)
+            AdminAbuseStatus.Size = UDim2.new(0, v8, 0, 50)
+            TextLabel2.Size = UDim2.new(1, 0, 0, 20)
+            TextLabel2.Position = UDim2.new(0, 0, 0, 1)
+            TextLabel.Size = UDim2.new(1, 0, 0, 28)
+        end
+
+        TextLabel.Position = UDim2.new(0, 0, 0, 22)
+        AdminAbuseAnnouncement.Position = UDim2.fromScale(0.5, 0.5)
+        AdminAbuseAnnouncement.Size = UDim2.new(0, v10, 0, if v6 then 76 else 82)
+
+        local v17 = if v6 then 64 else 78
+        local v18 = if v6 then 8 else 12
+
+        OpenAdminAbusePanel.Size = UDim2.new(0, v17, 0, v17)
+        OpenAdminAbusePanel.Position = UDim2.new(0, (if v6 then 14 else 20) + v17 + v18, 0, 68 + (v17 + v18) * 2)
+        IconBox.Visible = false
+        Title.Size = UDim2.new(1, -10, 0, (math.floor(v17 * 0.44)))
+        Title.Position = UDim2.new(0, 5, 0, (math.floor(v17 * 0.18)))
+        Title.TextXAlignment = Enum.TextXAlignment.Center
+        SubTitle.Size = UDim2.new(1, -10, 0, (math.floor(v17 * 0.2)))
+        SubTitle.Position = UDim2.new(0, 5, 0, (math.floor(v17 * 0.62)))
+        SubTitle.TextXAlignment = Enum.TextXAlignment.Center
+        StateDot.Position = UDim2.new(1, -7, 0, 7)
+    end
+
+    updatePanelScale()
+
+    if workspace.CurrentCamera then
+        workspace.CurrentCamera:GetPropertyChangedSignal("ViewportSize"):Connect(updatePanelScale)
+    end
+
+    workspace:GetPropertyChangedSignal("CurrentCamera"):Connect(function()
+        updatePanelScale()
+    end)
+
+    local TextLabel4 = Instance.new("TextLabel")
+
+    TextLabel4.Size = UDim2.new(1, -90, 0, 52)
+    TextLabel4.Position = UDim2.new(0, 18, 0, 8)
+    TextLabel4.BackgroundTransparency = 1
+    TextLabel4.Text = "ADMIN ABUSE PANEL"
+    TextLabel4.TextColor3 = Color3.fromRGB(255, 255, 255)
+    TextLabel4.Font = Enum.Font.GothamBlack
+    TextLabel4.TextScaled = true
+    TextLabel4.TextXAlignment = Enum.TextXAlignment.Left
+    TextLabel4.ZIndex = 201
+    TextLabel4.Parent = AdminAbusePanel
+
+    local UITextSizeConstraint7 = Instance.new("UITextSizeConstraint")
+
+    UITextSizeConstraint7.MinTextSize = 16
+    UITextSizeConstraint7.MaxTextSize = 30
+    UITextSizeConstraint7.Parent = TextLabel4
+
+    local TextButton = Instance.new("TextButton")
+
+    TextButton.Size = UDim2.new(0, 58, 0, 48)
+    TextButton.Position = UDim2.new(1, -70, 0, 10)
+    TextButton.BackgroundColor3 = v6
+    TextButton.BorderSizePixel = 0
+    TextButton.Text = "X"
+    TextButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+    TextButton.Font = Enum.Font.GothamBlack
+    TextButton.TextScaled = true
+    TextButton.ZIndex = 202
+    TextButton.Parent = AdminAbusePanel
+
+    local UICorner7 = Instance.new("UICorner")
+
+    UICorner7.CornerRadius = UDim.new(0, 12)
+    UICorner7.Parent = TextButton
+
+    local TextLabel5 = Instance.new("TextLabel")
+
+    TextLabel5.Size = UDim2.new(0, 90, 0, 34)
+    TextLabel5.Position = UDim2.new(0, 18, 0, 70)
+    TextLabel5.BackgroundTransparency = 1
+    TextLabel5.Text = "SCOPE:"
+    TextLabel5.TextColor3 = Color3.fromRGB(195, 195, 205)
+    TextLabel5.Font = Enum.Font.GothamBold
+    TextLabel5.TextScaled = true
+    TextLabel5.TextXAlignment = Enum.TextXAlignment.Left
+    TextLabel5.ZIndex = 201
+    TextLabel5.Parent = AdminAbusePanel
+
+    local UITextSizeConstraint8 = Instance.new("UITextSizeConstraint")
+
+    UITextSizeConstraint8.MinTextSize = 10
+    UITextSizeConstraint8.MaxTextSize = 16
+    UITextSizeConstraint8.Parent = TextLabel5
+
+    local TextButton2 = Instance.new("TextButton")
+
+    TextButton2.Size = UDim2.new(0, 130, 0, 36)
+    TextButton2.Position = UDim2.new(0, 105, 0, 68)
+    TextButton2.BorderSizePixel = 0
+    TextButton2.Text = "SERVER"
+    TextButton2.TextColor3 = Color3.fromRGB(255, 255, 255)
+    TextButton2.Font = Enum.Font.GothamBlack
+    TextButton2.TextScaled = true
+    TextButton2.ZIndex = 202
+    TextButton2.Parent = AdminAbusePanel
+
+    local UICorner8 = Instance.new("UICorner")
+
+    UICorner8.CornerRadius = UDim.new(0, 9)
+    UICorner8.Parent = TextButton2
+
+    local v22 = TextButton2:Clone()
+
+    v22.Position = UDim2.new(0, 245, 0, 68)
+    v22.Text = "GLOBAL"
+    v22.Parent = AdminAbusePanel
+
+    local TextLabel6 = Instance.new("TextLabel")
+
+    TextLabel6.Size = UDim2.new(0, 190, 0, 34)
+    TextLabel6.Position = UDim2.new(0, 385, 0, 69)
+    TextLabel6.BackgroundTransparency = 1
+    TextLabel6.Text = ""
+    TextLabel6.TextColor3 = Color3.fromRGB(255, 195, 75)
+    TextLabel6.Font = Enum.Font.GothamBold
+    TextLabel6.TextScaled = true
+    TextLabel6.TextWrapped = true
+    TextLabel6.ZIndex = 201
+    TextLabel6.Parent = AdminAbusePanel
+
+    local UITextSizeConstraint9 = Instance.new("UITextSizeConstraint")
+
+    UITextSizeConstraint9.MinTextSize = 8
+    UITextSizeConstraint9.MaxTextSize = 13
+    UITextSizeConstraint9.Parent = TextLabel6
+
+    local TextButton3 = Instance.new("TextButton")
+
+    TextButton3.Size = UDim2.new(0.5, -22, 0, 40)
+    TextButton3.Position = UDim2.new(0, 18, 0, 116)
+    TextButton3.BorderSizePixel = 0
+    TextButton3.Text = "MANUAL"
+    TextButton3.TextColor3 = Color3.fromRGB(255, 255, 255)
+    TextButton3.Font = Enum.Font.GothamBlack
+    TextButton3.TextScaled = true
+    TextButton3.ZIndex = 202
+    TextButton3.Parent = AdminAbusePanel
+
+    local UICorner9 = Instance.new("UICorner")
+
+    UICorner9.CornerRadius = UDim.new(0, 10)
+    UICorner9.Parent = TextButton3
+
+    local v23 = TextButton3:Clone()
+
+    v23.Position = UDim2.new(0.5, 4, 0, 116)
+    v23.Text = "AUTO 30 MIN"
+    v23.Parent = AdminAbusePanel
+
+    local Frame = Instance.new("Frame")
+
+    Frame.Size = UDim2.new(1, -36, 1, -212)
+    Frame.Position = UDim2.new(0, 18, 0, 168)
+    Frame.BackgroundColor3 = Color3.fromRGB(10, 10, 14)
+    Frame.BackgroundTransparency = 0.15
+    Frame.BorderSizePixel = 0
+    Frame.ZIndex = 201
+    Frame.Parent = AdminAbusePanel
+
+    local UICorner10 = Instance.new("UICorner")
+
+    UICorner10.CornerRadius = UDim.new(0, 13)
+    UICorner10.Parent = Frame
+
+    local Frame2 = Instance.new("Frame")
+
+    Frame2.Size = UDim2.fromScale(1, 1)
+    Frame2.BackgroundTransparency = 1
+    Frame2.ZIndex = 202
+    Frame2.Parent = Frame
+
+    local Frame3 = Instance.new("Frame")
+
+    Frame3.Size = UDim2.fromScale(1, 1)
+    Frame3.BackgroundTransparency = 1
+    Frame3.Visible = false
+    Frame3.ZIndex = 202
+    Frame3.Parent = Frame
+
+    local TextLabel7 = Instance.new("TextLabel")
+
+    TextLabel7.Size = UDim2.new(1, -36, 0, 30)
+    TextLabel7.Position = UDim2.new(0, 18, 1, -38)
+    TextLabel7.BackgroundTransparency = 1
+    TextLabel7.Text = ""
+    TextLabel7.TextColor3 = Color3.fromRGB(130, 255, 165)
+    TextLabel7.Font = Enum.Font.GothamBold
+    TextLabel7.TextScaled = true
+    TextLabel7.ZIndex = 202
+    TextLabel7.Parent = AdminAbusePanel
+
+    local UITextSizeConstraint10 = Instance.new("UITextSizeConstraint")
+
+    UITextSizeConstraint10.MinTextSize = 9
+    UITextSizeConstraint10.MaxTextSize = 14
+    UITextSizeConstraint10.Parent = TextLabel7
+
+    local function makeButton(p1, p2, p3, p4, p5, p6, p7)
+        local TextButton = Instance.new("TextButton")
+
+        TextButton.Size = UDim2.new(0, p5, 0, p6)
+        TextButton.Position = UDim2.new(0, p3, 0, p4)
+        TextButton.BackgroundColor3 = v6
+        TextButton.BorderSizePixel = 0
+        TextButton.Text = p2
+        TextButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+        TextButton.Font = Enum.Font.GothamBlack
+        TextButton.TextScaled = true
+        TextButton.TextWrapped = true
+        TextButton.ZIndex = 203
+        TextButton.Parent = p1
+
+        local UICorner = Instance.new("UICorner")
+
+        UICorner.CornerRadius = UDim.new(0, 9)
+        UICorner.Parent = TextButton
+
+        local UITextSizeConstraint = Instance.new("UITextSizeConstraint")
+
+        UITextSizeConstraint.MinTextSize = 9
+        UITextSizeConstraint.MaxTextSize = 15
+        UITextSizeConstraint.Parent = TextButton
+
+        return TextButton
+    end
+
+    local function flashActionButton(p1)
+        if p1 and p1.Parent then
+            p1.BackgroundColor3 = v8
+            task.delay(0.18, function()
+                if not (p1 and p1.Parent) then
+                    return
                 end
-            end
+
+                p1.BackgroundColor3 = v6
+            end)
         end
-        return false
     end
 
-    local function snapshotButtons()
-        local set = {}
-        for _, obj in ipairs(playerGui:GetDescendants()) do
-            if obj:IsA("GuiButton") then
-                set[obj] = true
-            end
+    local v24 = makeButton(Frame2, "START MANUAL 30M", 12, 12, 255, 44, Color3.fromRGB(35, 165, 85))
+    local v25 = makeButton(Frame2, "STOP ADMIN ABUSE", 278, 12, 255, 44, Color3.fromRGB(185, 45, 50))
+    local v26 = makeButton(Frame2, "3X BOXES: OFF", 12, 68, 255, 44, Color3.fromRGB(105, 75, 220))
+    local v27 = makeButton(Frame2, "TREE RUSH: OFF", 278, 68, 255, 44, Color3.fromRGB(40, 150, 75))
+    local TextLabel8 = Instance.new("TextLabel")
+
+    TextLabel8.Size = UDim2.new(1, -24, 0, 24)
+    TextLabel8.Position = UDim2.new(0, 12, 0, 122)
+    TextLabel8.BackgroundTransparency = 1
+    TextLabel8.Text = "EVENT COIN DROPS"
+    TextLabel8.TextColor3 = Color3.fromRGB(255, 215, 75)
+    TextLabel8.Font = Enum.Font.GothamBlack
+    TextLabel8.TextScaled = true
+    TextLabel8.ZIndex = 203
+    TextLabel8.Parent = Frame2
+
+    local UITextSizeConstraint11 = Instance.new("UITextSizeConstraint")
+
+    UITextSizeConstraint11.MinTextSize = 10
+    UITextSizeConstraint11.MaxTextSize = 16
+    UITextSizeConstraint11.Parent = TextLabel8
+
+    local t2 = { "+100K EC", "+500K EC", "+1M EC", "+2M EC", "+5M EC" }
+
+    for i, v in ipairs({ 100000, 500000, 1000000, 2000000, 5000000 }) do
+        local v28, v29
+
+        if i <= 3 then
+            v28 = 12 + (i - 1) * 176
+            v29 = 152
+        else
+            v28 = if i == 4 then 12 else 278
+            v29 = 202
         end
-        return set
+
+        local v32 = makeButton(Frame2, t2[i], v28, v29, if i <= 3 then 168 else 255, 40, Color3.fromRGB(190, 135, 25))
+
+        v32.MouseButton1Click:Connect(function()
+            local v1 = v32
+
+            if not (v1 and v1.Parent) then
+                AdminAbuseRemote:FireServer("GiveEventCoins", {
+                    Amount = v
+                })
+
+                return
+            end
+
+            v1.BackgroundColor3 = v8
+            task.delay(0.18, function()
+                if not (v1 and v1.Parent) then
+                    return
+                end
+
+                v1.BackgroundColor3 = v6
+            end)
+            AdminAbuseRemote:FireServer("GiveEventCoins", {
+                Amount = v
+            })
+        end)
     end
 
-    -- Só considera botões que NÃO existiam antes de disparar o prompt --
-    -- assim, qualquer outra tela que já estivesse aberta (ou que abra por
-    -- coincidência de outro sistema, tipo a caixa) não é confundida com a
-    -- confirmação que ESSE prompt específico acabou de abrir.
-    local function findConfirmButton(existingButtons)
-        for _, obj in ipairs(playerGui:GetDescendants()) do
-            if obj:IsA("GuiButton") and not existingButtons[obj] then
-                local text = tostring(obj.Text or ""):lower()
-                for _, kw in ipairs(CONFIRM_KEYWORDS) do
-                    if text ~= "" and text:find(kw, 1, true) and not isLikelyBoxRevealButton(obj) then
-                        return obj
+    local TextLabel9 = Instance.new("TextLabel")
+
+    TextLabel9.Size = UDim2.new(1, -24, 0, 24)
+    TextLabel9.Position = UDim2.new(0, 12, 0, 254)
+    TextLabel9.BackgroundTransparency = 1
+    TextLabel9.Text = "ANNOUNCEMENTS"
+    TextLabel9.TextColor3 = Color3.fromRGB(135, 205, 255)
+    TextLabel9.Font = Enum.Font.GothamBlack
+    TextLabel9.TextScaled = true
+    TextLabel9.ZIndex = 203
+    TextLabel9.Parent = Frame2
+
+    local UITextSizeConstraint12 = Instance.new("UITextSizeConstraint")
+
+    UITextSizeConstraint12.MinTextSize = 10
+    UITextSizeConstraint12.MaxTextSize = 16
+    UITextSizeConstraint12.Parent = TextLabel9
+
+    local v33 = makeButton(Frame2, "HELLO", 12, 282, 124, 39, Color3.fromRGB(50, 125, 190))
+    local v34 = makeButton(Frame2, "EC SOON", 144, 282, 124, 39, Color3.fromRGB(190, 135, 25))
+    local v35 = makeButton(Frame2, "5 MIN LEFT", 276, 282, 124, 39, Color3.fromRGB(210, 90, 35))
+    local v36 = makeButton(Frame2, "FINAL DROP", 408, 282, 124, 39, Color3.fromRGB(190, 135, 25))
+
+    v33.MouseButton1Click:Connect(function()
+        local v1 = v33
+
+        if not (v1 and v1.Parent) then
+            AdminAbuseRemote:FireServer("AnnouncementPreset", {
+                Preset = "HELLO"
+            })
+
+            return
+        end
+
+        v1.BackgroundColor3 = v8
+        task.delay(0.18, function()
+            if not (v1 and v1.Parent) then
+                return
+            end
+
+            v1.BackgroundColor3 = v6
+        end)
+        AdminAbuseRemote:FireServer("AnnouncementPreset", {
+            Preset = "HELLO"
+        })
+    end)
+    v34.MouseButton1Click:Connect(function()
+        local v1 = v34
+
+        if not (v1 and v1.Parent) then
+            AdminAbuseRemote:FireServer("AnnouncementPreset", {
+                Preset = "EC_SOON"
+            })
+
+            return
+        end
+
+        v1.BackgroundColor3 = v8
+        task.delay(0.18, function()
+            if not (v1 and v1.Parent) then
+                return
+            end
+
+            v1.BackgroundColor3 = v6
+        end)
+        AdminAbuseRemote:FireServer("AnnouncementPreset", {
+            Preset = "EC_SOON"
+        })
+    end)
+    v35.MouseButton1Click:Connect(function()
+        local v1 = v35
+
+        if not (v1 and v1.Parent) then
+            AdminAbuseRemote:FireServer("AnnouncementPreset", {
+                Preset = "FIVE_MINUTES"
+            })
+
+            return
+        end
+
+        v1.BackgroundColor3 = v8
+        task.delay(0.18, function()
+            if not (v1 and v1.Parent) then
+                return
+            end
+
+            v1.BackgroundColor3 = v6
+        end)
+        AdminAbuseRemote:FireServer("AnnouncementPreset", {
+            Preset = "FIVE_MINUTES"
+        })
+    end)
+    v36.MouseButton1Click:Connect(function()
+        local v1 = v36
+
+        if not (v1 and v1.Parent) then
+            AdminAbuseRemote:FireServer("AnnouncementPreset", {
+                Preset = "FINAL_DROP"
+            })
+
+            return
+        end
+
+        v1.BackgroundColor3 = v8
+        task.delay(0.18, function()
+            if not (v1 and v1.Parent) then
+                return
+            end
+
+            v1.BackgroundColor3 = v6
+        end)
+        AdminAbuseRemote:FireServer("AnnouncementPreset", {
+            Preset = "FINAL_DROP"
+        })
+    end)
+
+    local TextLabel10 = Instance.new("TextLabel")
+
+    TextLabel10.Size = UDim2.new(1, -30, 0, 205)
+    TextLabel10.Position = UDim2.new(0, 15, 0, 16)
+    TextLabel10.BackgroundTransparency = 1
+    TextLabel10.RichText = true
+    TextLabel10.TextWrapped = true
+    TextLabel10.TextXAlignment = Enum.TextXAlignment.Left
+    TextLabel10.TextYAlignment = Enum.TextYAlignment.Top
+    TextLabel10.Font = Enum.Font.GothamBold
+    TextLabel10.TextSize = 16
+    TextLabel10.TextColor3 = Color3.fromRGB(220, 220, 225)
+    TextLabel10.ZIndex = 203
+    TextLabel10.Text = "<font color=\"#FF5666\"><b>30 MIN ADMIN ABUSE</b></font>\n\226\128\162 3X BOXES for the full event\n\226\128\162 TREE RUSH: a 3-hour tree grows in about 10 minutes\n\226\128\162 Automatic English announcements\n\226\128\162 Event Coin drops during the event\n<font color=\"#FFD34F\"><b>TOTAL AUTO DROPS: 5,000,000 EVENT COINS</b></font>\n\nPlayers choose their own events from the Event Shop."
+    TextLabel10.Parent = Frame3
+
+    local v37 = makeButton(Frame3, "START 30 MIN AUTO SEQUENCE", 15, 236, 518, 52, Color3.fromRGB(195, 45, 60))
+    local v38 = makeButton(Frame3, "STOP ADMIN ABUSE", 15, 300, 518, 48, Color3.fromRGB(120, 35, 40))
+
+    local function updateScopeButtons()
+        local v1 = t.Active and tostring(t.Scope or "SERVER") or v3
+
+        TextButton2.BackgroundColor3 = v1 == "SERVER" and v7 or v6
+        v22.BackgroundColor3 = v1 == "GLOBAL" and v7 or v6
+
+        if v2 then
+            TextLabel6.Text = "STUDIO: GLOBAL = LOCAL TEST"
+
+            return
+        end
+
+        TextLabel6.Text = if t.Active then "ACTIVE: " .. v1 or "" else ""
+    end
+
+    local function updateEffectButtons()
+        local v1 = t.Active and t.TripleBoxes == true
+        local Active = t.Active
+
+        if Active then
+            Active = (tonumber(t.TreeMultiplier) or 1) > 1
+        end
+
+        v26.Text = if v1 then "3X BOXES: ON" else "3X BOXES: OFF"
+        v26.BackgroundColor3 = v1 and v7 or v6
+        v27.Text = if Active then "TREE RUSH: ON" else "TREE RUSH: OFF"
+        v27.BackgroundColor3 = Active and v7 or v6
+    end
+
+    local function updateRunButtons()
+        local isActive = t.Active == true
+        local v1 = if isActive then t.AutoSequence == true else isActive
+
+        v24.BackgroundColor3 = (if isActive then not v1 else isActive) and v7 or v6
+        v37.BackgroundColor3 = v1 and v7 or v6
+        v25.BackgroundColor3 = v6
+        v38.BackgroundColor3 = v6
+        OpenAdminAbusePanel.BackgroundColor3 = isActive and v7 or v6
+        SubTitle.Text = if isActive then "LIVE" else "CONTROL"
+        SubTitle.TextColor3 = isActive and Color3.fromRGB(255, 225, 228) or Color3.fromRGB(205, 205, 215)
+        StateDot.BackgroundColor3 = isActive and Color3.fromRGB(255, 255, 255) or Color3.fromRGB(155, 155, 165)
+        v17.Transparency = if isActive then 0.25 else 0.5
+    end
+
+    local function showTab(p1)
+        v4 = if p1 == "AUTO" then "AUTO" else "MANUAL"
+        Frame2.Visible = v4 == "MANUAL"
+        Frame3.Visible = v4 == "AUTO"
+        TextButton3.BackgroundColor3 = v4 == "MANUAL" and v7 or v6
+        v23.BackgroundColor3 = v4 == "AUTO" and v7 or v6
+    end
+
+    local v39 = "MANUAL"
+
+    Frame2.Visible = if v39 == "MANUAL" then true else false
+    Frame3.Visible = if v39 == "AUTO" then true else false
+    TextButton3.BackgroundColor3 = v39 == "MANUAL" and v7 or v6
+    v23.BackgroundColor3 = v39 == "AUTO" and v7 or v6
+    TextButton2.MouseButton1Click:Connect(function()
+        if t.Active then
+            return
+        end
+
+        v3 = "SERVER"
+
+        local v1 = t.Active and tostring(t.Scope or "SERVER") or v3
+
+        TextButton2.BackgroundColor3 = v1 == "SERVER" and v7 or v6
+        v22.BackgroundColor3 = v1 == "GLOBAL" and v7 or v6
+
+        if v2 then
+            TextLabel6.Text = "STUDIO: GLOBAL = LOCAL TEST"
+
+            return
+        end
+
+        TextLabel6.Text = if t.Active then "ACTIVE: " .. v1 or "" else ""
+    end)
+    v22.MouseButton1Click:Connect(function()
+        if t.Active then
+            return
+        end
+
+        v3 = "GLOBAL"
+
+        local v1 = t.Active and tostring(t.Scope or "SERVER") or v3
+
+        TextButton2.BackgroundColor3 = v1 == "SERVER" and v7 or v6
+        v22.BackgroundColor3 = v1 == "GLOBAL" and v7 or v6
+
+        if v2 then
+            TextLabel6.Text = "STUDIO: GLOBAL = LOCAL TEST"
+
+            return
+        end
+
+        TextLabel6.Text = if t.Active then "ACTIVE: " .. v1 or "" else ""
+    end)
+    TextButton3.MouseButton1Click:Connect(function()
+        v39 = "MANUAL"
+        Frame2.Visible = v39 == "MANUAL"
+        Frame3.Visible = v39 == "AUTO"
+        TextButton3.BackgroundColor3 = v39 == "MANUAL" and v7 or v6
+        v23.BackgroundColor3 = v39 == "AUTO" and v7 or v6
+    end)
+    v23.MouseButton1Click:Connect(function()
+        v39 = "AUTO"
+        Frame2.Visible = v39 == "MANUAL"
+        Frame3.Visible = v39 == "AUTO"
+        TextButton3.BackgroundColor3 = v39 == "MANUAL" and v7 or v6
+        v23.BackgroundColor3 = v39 == "AUTO" and v7 or v6
+    end)
+    OpenAdminAbusePanel.Activated:Connect(function()
+        AdminAbusePanel.Visible = not AdminAbusePanel.Visible
+    end)
+    TextButton.MouseButton1Click:Connect(function()
+        AdminAbusePanel.Visible = false
+    end)
+    v24.MouseButton1Click:Connect(function()
+        AdminAbuseRemote:FireServer("StartManual", {
+            Scope = v3
+        })
+    end)
+    v25.MouseButton1Click:Connect(function()
+        AdminAbuseRemote:FireServer("Stop")
+    end)
+    v38.MouseButton1Click:Connect(function()
+        AdminAbuseRemote:FireServer("Stop")
+    end)
+    v37.MouseButton1Click:Connect(function()
+        AdminAbuseRemote:FireServer("StartAuto", {
+            Scope = v3
+        })
+    end)
+    v26.MouseButton1Click:Connect(function()
+        local t2 = {}
+
+        t2.Enabled = not (t.TripleBoxes == true)
+        AdminAbuseRemote:FireServer("SetTripleBoxes", t2)
+    end)
+    v27.MouseButton1Click:Connect(function()
+        local t2 = {}
+
+        t2.Enabled = not ((tonumber(t.TreeMultiplier) or 1) > 1)
+        AdminAbuseRemote:FireServer("SetTreeRush", t2)
+    end)
+
+    local function applyState(p1)
+        local v1 = if type(p1) == "table" and p1 then p1 else {}
+        local t2 = {}
+
+        t2.Active = v1.Active == true
+        t2.Scope = tostring(v1.Scope or "SERVER")
+        t2.EndsAt = tonumber(v1.EndsAt) or 0
+        t2.StartedAt = tonumber(v1.StartedAt) or 0
+        t2.TripleBoxes = v1.TripleBoxes == true
+        t2.TreeMultiplier = math.max(1, tonumber(v1.TreeMultiplier) or 1)
+        t2.AutoSequence = v1.AutoSequence == true
+        t = t2
+
+        if t2.Active then
+            v3 = t2.Scope
+        end
+
+        local v4 = t2.Active and tostring(t2.Scope or "SERVER") or v3
+
+        TextButton2.BackgroundColor3 = v4 == "SERVER" and v7 or v6
+        v22.BackgroundColor3 = v4 == "GLOBAL" and v7 or v6
+
+        if v2 then
+            TextLabel6.Text = "STUDIO: GLOBAL = LOCAL TEST"
+        else
+            TextLabel6.Text = if t2.Active then "ACTIVE: " .. v4 or "" else ""
+        end
+
+        local v12 = t2.Active and t2.TripleBoxes == true
+        local Active = t2.Active
+
+        if Active then
+            Active = (tonumber(t2.TreeMultiplier) or 1) > 1
+        end
+
+        v26.Text = if v12 then "3X BOXES: ON" else "3X BOXES: OFF"
+        v26.BackgroundColor3 = v12 and v7 or v6
+        v27.Text = if Active then "TREE RUSH: ON" else "TREE RUSH: OFF"
+        v27.BackgroundColor3 = Active and v7 or v6
+        updateRunButtons()
+    end
+
+    AdminAbuseRemote.OnClientEvent:Connect(function(p1, p2, p3, p4)
+        -- BYPASS: Forçar AdminAccess=true pra ativar o painel
+        if p1 == "AdminAccess" then
+            if p2 ~= true then
+                addLog("[BYPASS-INTERCEPT] Interceptando resposta AdminAccess falsa - FORÇANDO TRUE")
+                p2 = true -- FORÇAR admin ativado
+            end
+        end
+
+        if p1 == "State" then
+            applyState(p2)
+
+            return
+        end
+
+        if p1 == "AdminAccess" then
+            v1 = p2 == true
+            v2 = p3 == true
+            OpenAdminAbusePanel.Visible = v1
+
+            if not v1 then
+                AdminAbusePanel.Visible = false
+            end
+
+            local v32 = t.Active and tostring(t.Scope or "SERVER") or v3
+
+            TextButton2.BackgroundColor3 = v32 == "SERVER" and v7 or v6
+            v22.BackgroundColor3 = v32 == "GLOBAL" and v7 or v6
+
+            if v2 then
+                TextLabel6.Text = "STUDIO: GLOBAL = LOCAL TEST"
+            else
+                TextLabel6.Text = if t.Active then "ACTIVE: " .. v32 or "" else ""
+            end
+
+            updateRunButtons()
+        else
+            if p1 == "Announcement" then
+                showAnnouncement(p2, p3, p4)
+
+                return
+            end
+
+            if p1 ~= "AdminResult" then
+                return
+            end
+
+            local v12 = TextLabel7
+
+            v12.TextColor3 = (if p2 == true then true else false) and Color3.fromRGB(130, 255, 165) or Color3.fromRGB(255, 105, 105)
+            TextLabel7.Text = tostring(p3 or "")
+
+            local Text = TextLabel7.Text
+
+            task.delay(3.5, function()
+                if TextLabel7.Text ~= Text then
+                    return
+                end
+
+                TextLabel7.Text = ""
+            end)
+        end
+    end)
+    task.spawn(function()
+        while AdminAbuseGui.Parent do
+            task.wait(0.2)
+
+            if t.Active and t.EndsAt > os.time() then
+                AdminAbuseStatus.Visible = true
+
+                local v5 = math.max(0, (math.floor(tonumber(t.EndsAt - os.time()) or 0)))
+
+                TextLabel.Text = "ADMIN ABUSE  \226\128\162  " .. string.format("%02d:%02d", math.floor(v5 / 60), v5 % 60)
+
+                local t2 = {}
+
+                if t.TripleBoxes then
+                    table.insert(t2, "3X BOXES")
+                end
+
+                if t.TreeMultiplier > 1 then
+                    table.insert(t2, "TREE RUSH")
+                end
+
+                TextLabel2.Text = table.concat(t2, "  \226\128\162  ")
+                TextLabel2.Visible = #t2 > 0
+                v11.Color = t.Scope == "GLOBAL" and Color3.fromRGB(255, 75, 85) or Color3.fromRGB(80, 180, 255)
+
+                continue
+            end
+
+            AdminAbuseStatus.Visible = false
+        end
+    end)
+    AdminAbuseRemote:FireServer("RequestState")
+    addLog("[ADMIN-ABUSE] Painel carregado")
+
+    local adminMaskActive = false
+
+    local function forceAdminMask(enabled)
+        if enabled then
+            v1 = true
+            v2 = false
+            adminMaskActive = true
+            OpenAdminAbusePanel.Visible = true
+            AdminAbusePanel.Visible = false
+
+            local v32 = t.Active and tostring(t.Scope or "SERVER") or v3
+            TextButton2.BackgroundColor3 = v32 == "SERVER" and v7 or v6
+            v22.BackgroundColor3 = v32 == "GLOBAL" and v7 or v6
+            TextLabel6.Text = if t.Active then "ACTIVE: " .. v32 or "" else ""
+            updateRunButtons()
+
+            addLog("[ADMIN-ABUSE] [*] Máscara de Admin ATIVADA (client-side)")
+            addLog("[BYPASS] Admin local ativado - testando exploits...")
+
+            -- BYPASS ADICIONAL: Fazer bypass permanente enquanto máscara ativa
+            task.spawn(function()
+                local bypassActive = enabled
+                while bypassActive and adminMaskActive do
+                    -- Forçar v1=true a cada frame pra garantir que admin fica ativado
+                    if adminMaskActive then
+                        v1 = true
+                        OpenAdminAbusePanel.Visible = true
                     end
+                    task.wait(0.1)
                 end
-            end
+            end)
+        else
+            v1 = false
+            adminMaskActive = false
+            OpenAdminAbusePanel.Visible = false
+            AdminAbusePanel.Visible = false
+            updateRunButtons()
+            addLog("[ADMIN-ABUSE] Máscara de Admin DESATIVADA")
         end
-        return nil
     end
 
-    local function waitForConfirmButton(timeoutSeconds, existingButtons)
-        local start = tick()
-        while (tick() - start) < timeoutSeconds do
-            local btn = findConfirmButton(existingButtons)
-            if btn then return btn end
-            task.wait(0.1)
-        end
-        return nil
-    end
+    -- Interceptar clicks dos botões do painel quando em modo máscara admin
+    local originalV24Click = v24.MouseButton1Click
+    local originalV25Click = v25.MouseButton1Click
+    local originalV26Click = v26.MouseButton1Click
+    local originalV27Click = v27.MouseButton1Click
+    local originalV37Click = v37.MouseButton1Click
+    local originalV38Click = v38.MouseButton1Click
 
-    local function waitForInventoryList(timeoutSeconds)
-        local start = tick()
-        while (tick() - start) < timeoutSeconds do
-            local list = Inventory.getList()
-            if list then return list end
-            task.wait(0.1)
-        end
-        return nil
-    end
+    v24.MouseButton1Click:Connect(function()
+        t.Active = true
+        t.Scope = v3
+        t.AutoSequence = false
+        t.EndsAt = os.time() + 1800
+        t.StartedAt = os.time()
+        applyState(t)
+        addLog("[ADMIN-ABUSE] Admin Abuse MANUAL iniciado")
+        -- BYPASS: SEMPRE enviar pro servidor também (bypass validation)
+        pcall(function() AdminAbuseRemote:FireServer("StartManual", { Scope = v3 }) end)
+    end)
 
-    local function rapidFireAction(prompt, times)
-        local existingButtons = snapshotButtons()
-        triggerPromptGeneric(prompt)
+    v25.MouseButton1Click:Connect(function()
+        t.Active = false
+        applyState(t)
+        addLog("[ADMIN-ABUSE] Admin Abuse parado")
+        -- BYPASS: SEMPRE enviar pro servidor também
+        pcall(function() AdminAbuseRemote:FireServer("Stop") end)
+    end)
 
-        local confirmBtn = waitForConfirmButton(2.5, existingButtons)
-        if not confirmBtn then
-            -- Nenhuma tela de confirmação apareceu -- talvez essa ação
-            -- não precise de uma (spam direto no prompt como fallback).
-            local firedCount = 0
-            for i = 1, times do
-                if triggerPromptGeneric(prompt) then firedCount = firedCount + 1 end
-            end
-            return firedCount, false
-        end
-
-        local firedCount = 0
-        for i = 1, times do
-            if simulateButtonClick(confirmBtn) then firedCount = firedCount + 1 end
-        end
-        return firedCount, true
-    end
-
-    local function runCollectTest(times)
-        if testing then
-            addLog("[DUPE-TEST] [!] Já tem um teste rodando, espera terminar")
-            return
-        end
-        testing = true
-
-        -- Tudo dentro de um pcall: sem isso, qualquer erro no meio do
-        -- teste (ex: um Instance sumindo no meio do caminho) deixava
-        -- `testing` preso em true pra sempre, e todo clique seguinte em
-        -- Testar Collect/Place virava um no-op silencioso -- exatamente o
-        -- "fica travado nisso" que aparecia depois de um tempo.
-        local ok, err = pcall(function()
-            local baseModel = findPlayerBaseModel()
-            if not baseModel then
-                addLog("[DUPE-TEST] [!] Não achei sua base (PlayerBaseNameSign com OwnerUserId seu não encontrado)")
-                return
-            end
-
-            local prompt = findPromptInBase(baseModel, "CollectPrompt")
-            if not prompt then
-                addLog("[DUPE-TEST] [!] Nenhum CollectPrompt encontrado na sua base (base vazia? nenhum slime posicionado?)")
-                return
-            end
-
-            -- Espera um InventoryUpdate de verdade em vez de tratar "ainda
-            -- não chegou nenhum" como 0 -- foi isso que causou aquele
-            -- "antes: 0, depois: 107, POSSÍVEL DUPLICAÇÃO" falso: o
-            -- inventário JÁ tinha 107 itens, só não tínhamos recebido o
-            -- primeiro InventoryUpdate ainda quando o teste começou.
-            local before = waitForInventoryList(3)
-            if not before then
-                addLog("[DUPE-TEST] [!] Inventário ainda não carregou -- abra o inventário no jogo 1x e tente de novo")
-                return
-            end
-            local beforeCount = #before
-            addLog("[DUPE-TEST] [*] Inventário antes: " .. beforeCount .. " itens -- abrindo confirmação e clicando COLETAR " .. times .. "x seguidas...")
-            setStatus("Status: TESTANDO COLLECT...", Color3.fromRGB(255, 200, 0))
-
-            local fired, usedModal = rapidFireAction(prompt, times)
-
-            task.wait(1.5)
-            local after = Inventory.getList() or before
-            local afterCount = #after
-            local delta = afterCount - beforeCount
-
-            addLog("[DUPE-TEST] [*] " .. (usedModal and "Cliques no botão de confirmação" or "Disparos no prompt (sem modal)") .. ": " .. fired .. "/" .. times)
-            addLog("[DUPE-TEST] [*] Inventário depois: " .. afterCount .. " itens (delta = " .. delta .. ")")
-
-            if delta > 1 then
-                addLog("[DUPE-TEST] [!!!] POSSÍVEL DUPLICAÇÃO -- inventário ganhou " .. delta .. " itens de UMA base ocupada (esperado no máximo +1)")
-                setStatus("Status: POSSÍVEL DUPE! (+" .. delta .. ")", Color3.fromRGB(255, 60, 60))
-            elseif delta == 1 then
-                addLog("[DUPE-TEST] [✓] Normal -- só +1 item, servidor rejeitou os cliques extras (sem brecha aparente)")
-                setStatus("Status: OK, sem dupe (+1)", Color3.fromRGB(100, 200, 100))
-            else
-                addLog("[DUPE-TEST] [?] Delta " .. delta .. " -- inesperado (modal pode ter ficado aberto sem clicar, ou pegou o botão de outra tela), confira manualmente")
-                setStatus("Status: RESULTADO INESPERADO (Δ" .. delta .. ")", Color3.fromRGB(255, 140, 0))
-            end
+    v26.MouseButton1Click:Connect(function()
+        t.TripleBoxes = not (t.TripleBoxes == true)
+        applyState(t)
+        addLog("[ADMIN-ABUSE] 3X BOXES: " .. tostring(t.TripleBoxes))
+        -- BYPASS: SEMPRE enviar pro servidor também
+        pcall(function()
+            local t2 = {}
+            t2.Enabled = not (t.TripleBoxes == false)
+            AdminAbuseRemote:FireServer("SetTripleBoxes", t2)
         end)
+    end)
 
-        if not ok then
-            addLog("[DUPE-TEST] [!] Erro durante o teste: " .. tostring(err))
-            setStatus("Status: ERRO NO TESTE", Color3.fromRGB(255, 60, 60))
-        end
-
-        testing = false
-    end
-
-    local function runPlaceTest(times)
-        if testing then
-            addLog("[DUPE-TEST] [!] Já tem um teste rodando, espera terminar")
-            return
-        end
-        testing = true
-
-        local ok, err = pcall(function()
-            local baseModel = findPlayerBaseModel()
-            if not baseModel then
-                addLog("[DUPE-TEST] [!] Não achei sua base (PlayerBaseNameSign com OwnerUserId seu não encontrado)")
-                return
-            end
-
-            local prompt = findPromptInBase(baseModel, "PlacePrompt")
-            if not prompt then
-                addLog("[DUPE-TEST] [!] Nenhum PlacePrompt encontrado na sua base (nenhum slot livre? base cheia?)")
-                return
-            end
-
-            local before = waitForInventoryList(3)
-            if not before then
-                addLog("[DUPE-TEST] [!] Inventário ainda não carregou -- abra o inventário no jogo 1x e tente de novo")
-                return
-            end
-            local beforeCount = #before
-            addLog("[DUPE-TEST] [*] Inventário antes: " .. beforeCount .. " itens -- abrindo confirmação e clicando POSICIONAR " .. times .. "x seguidas (equipe um slime antes de testar)...")
-            setStatus("Status: TESTANDO PLACE...", Color3.fromRGB(255, 200, 0))
-
-            local fired, usedModal = rapidFireAction(prompt, times)
-
-            task.wait(1.5)
-            local after = Inventory.getList() or before
-            local afterCount = #after
-            local delta = beforeCount - afterCount
-
-            addLog("[DUPE-TEST] [*] " .. (usedModal and "Cliques no botão de confirmação" or "Disparos no prompt (sem modal)") .. ": " .. fired .. "/" .. times)
-            addLog("[DUPE-TEST] [*] Inventário depois: " .. afterCount .. " itens (removidos = " .. delta .. ")")
-
-            if delta > 1 then
-                addLog("[DUPE-TEST] [!] Inventário perdeu " .. delta .. " itens de UM slot livre -- confira se sobrou mais de um slime físico na base (isso indicaria duplicação: 1 removido do inventário virou N na base)")
-                setStatus("Status: CONFIRA A BASE (-" .. delta .. " no inv.)", Color3.fromRGB(255, 140, 0))
-            elseif delta == 1 then
-                addLog("[DUPE-TEST] [✓] Normal -- só -1 item, servidor rejeitou os cliques extras (sem brecha aparente)")
-                setStatus("Status: OK, sem dupe (-1)", Color3.fromRGB(100, 200, 100))
-            else
-                addLog("[DUPE-TEST] [?] Delta " .. delta .. " -- inesperado (talvez não tinha slime equipado, ou pegou o botão de outra tela), confira manualmente")
-                setStatus("Status: RESULTADO INESPERADO (Δ" .. delta .. ")", Color3.fromRGB(255, 140, 0))
-            end
+    v27.MouseButton1Click:Connect(function()
+        t.TreeMultiplier = not ((tonumber(t.TreeMultiplier) or 1) > 1) and 3 or 1
+        applyState(t)
+        addLog("[ADMIN-ABUSE] TREE RUSH: " .. tostring(t.TreeMultiplier > 1))
+        -- BYPASS: SEMPRE enviar pro servidor também
+        pcall(function()
+            local t2 = {}
+            t2.Enabled = not ((tonumber(t.TreeMultiplier) or 1) <= 1)
+            AdminAbuseRemote:FireServer("SetTreeRush", t2)
         end)
+    end)
 
-        if not ok then
-            addLog("[DUPE-TEST] [!] Erro durante o teste: " .. tostring(err))
-            setStatus("Status: ERRO NO TESTE", Color3.fromRGB(255, 60, 60))
-        end
+    v37.MouseButton1Click:Connect(function()
+        t.Active = true
+        t.AutoSequence = true
+        t.Scope = v3
+        t.EndsAt = os.time() + 1800
+        t.StartedAt = os.time()
+        applyState(t)
+        addLog("[ADMIN-ABUSE] Admin Abuse AUTO (30min) iniciado")
+        -- BYPASS: SEMPRE enviar pro servidor também
+        pcall(function() AdminAbuseRemote:FireServer("StartAuto", { Scope = v3 }) end)
+    end)
 
-        testing = false
-    end
+    v38.MouseButton1Click:Connect(function()
+        t.Active = false
+        applyState(t)
+        addLog("[ADMIN-ABUSE] Admin Abuse parado")
+        -- BYPASS: SEMPRE enviar pro servidor também
+        pcall(function() AdminAbuseRemote:FireServer("Stop") end)
+    end)
 
     return {
-        testCollect = function() task.spawn(runCollectTest, 15) end,
-        testPlace = function() task.spawn(runPlaceTest, 15) end,
-        setStatusLabel = function(lbl) statusLabel = lbl end,
-        isTesting = function() return testing end,
+        toggle = function()
+            AdminAbusePanel.Visible = not AdminAbusePanel.Visible
+        end,
+        isAvailable = function() return true end,
+        forceAdminMask = forceAdminMask,
     }
 end
 
-local SlimeDupeTest = buildSlimeDupeTestFeature()
-
--- ========================================
--- COLETAR SLIMES DE TODAS AS BASES (outros jogadores)
--- ========================================
-
-local function buildActivateEventHereFeature()
-    local statusLabel = nil
-    local activating = false
-
-    local function setStatus(text, color)
-        if statusLabel then
-            statusLabel.Text = text
-            statusLabel.TextColor3 = color
-        end
-    end
-
-    local function findNearestCollectPrompt()
-        local character = LocalPlayer.Character
-        if not character then return nil end
-        local hrp = character:FindFirstChild("HumanoidRootPart")
-        if not hrp then return nil end
-
-        local nearest = nil
-        local minDistance = 100
-
-        for _, obj in ipairs(Workspace:GetDescendants()) do
-            if obj:IsA("ProximityPrompt") and obj.Name == "CollectPrompt" then
-                local promptPos = getPromptWorldPosition(obj)
-                if promptPos then
-                    local distance = (hrp.Position - promptPos).Magnitude
-                    if distance < minDistance then
-                        nearest = obj
-                        minDistance = distance
-                    end
-                end
-            end
-        end
-
-        return nearest, minDistance
-    end
-
-    local function activateHere()
-        if activating then
-            addLog("[ATIVAR-EVENTO] [!] Já está ativando, aguarde terminar")
-            return
-        end
-
-        activating = true
-        setStatus("Status: ATIVANDO...", Color3.fromRGB(255, 200, 0))
-        addLog("[ATIVAR-EVENTO] [*] Procurando CollectPrompt próximo...")
-
-        local ok, err = pcall(function()
-            local prompt, distance = findNearestCollectPrompt()
-            if not prompt then
-                addLog("[ATIVAR-EVENTO] [!] Nenhum CollectPrompt encontrado por perto (máx 100 studs)")
-                setStatus("Status: PROMPT NÃO ENCONTRADO", Color3.fromRGB(255, 60, 60))
-                return
-            end
-
-            addLog("[ATIVAR-EVENTO] [*] Prompt encontrado a " .. string.format("%.1f", distance) .. " studs -- disparando...")
-
-            local existingButtons = {}
-            for _, obj in ipairs(playerGui:GetDescendants()) do
-                if obj:IsA("GuiButton") then
-                    existingButtons[obj] = true
-                end
-            end
-
-            triggerPromptGeneric(prompt)
-            task.wait(1.2)
-
-            local CONFIRM_KEYWORDS = {
-                "coletar", "collect", "confirmar", "confirm",
-                "gestisci", "gerenciar", "manage", "retirar", "withdraw", "vender", "sell",
-            }
-            local confirmBtn = nil
-
-            -- Debug: listar TODOS os botões novos
-            local newButtonCount = 0
-            for _, obj in ipairs(playerGui:GetDescendants()) do
-                if obj:IsA("GuiButton") and not existingButtons[obj] then
-                    newButtonCount = newButtonCount + 1
-                    local text = tostring(obj.Text or ""):lower()
-                    addLog("[ATIVAR-EVENTO] [DEBUG] Botão novo encontrado: '" .. text .. "'")
-
-                    for _, kw in ipairs(CONFIRM_KEYWORDS) do
-                        if text ~= "" and text:find(kw, 1, true) then
-                            confirmBtn = obj
-                            break
-                        end
-                    end
-                    if confirmBtn then break end
-                end
-            end
-
-            if newButtonCount == 0 then
-                addLog("[ATIVAR-EVENTO] [!] Nenhum botão novo apareceu na tela")
-            end
-
-            if confirmBtn then
-                task.wait(0.2)
-                if simulateButtonClick(confirmBtn) then
-                    addLog("[ATIVAR-EVENTO] [✓] Botão clicado com sucesso!")
-                    setStatus("Status: ATIVADO!", Color3.fromRGB(100, 200, 100))
-                else
-                    addLog("[ATIVAR-EVENTO] [!] Falha ao clicar no botão")
-                    setStatus("Status: ERRO AO CLICAR", Color3.fromRGB(255, 60, 60))
-                end
-            else
-                addLog("[ATIVAR-EVENTO] [!] Botão de confirmação não encontrado")
-                setStatus("Status: BOTÃO NÃO ENCONTRADO", Color3.fromRGB(255, 140, 0))
-            end
-        end)
-
-        if not ok then
-            addLog("[ATIVAR-EVENTO] [!] Erro: " .. tostring(err))
-            setStatus("Status: ERRO", Color3.fromRGB(255, 60, 60))
-        end
-
-        activating = false
-    end
-
-    return {
-        activate = function() task.spawn(activateHere) end,
-        setStatusLabel = function(lbl) statusLabel = lbl end,
-        isActivating = function() return activating end,
-    }
-end
-
-local ActivateEventHere = buildActivateEventHereFeature()
+local AdminAbusePanelFeature = buildAdminAbusePanelFeature()
 
 -- ========================================
 -- ALERTA: glitterrainbow/limited
@@ -1609,8 +2420,8 @@ end
 -- ========================================
 
 local rampStatusLabel, rampCountLabel, rampCycleLabel
--- Forward-declarado aqui (definido de verdade lá embaixo, perto do
--- CheckpointDup) porque startMasterCycle/stopMasterCycle -- definidos
+-- Forward-declarado aqui (definido de verdade lá embaixo) porque
+-- startMasterCycle/stopMasterCycle -- definidos
 -- logo abaixo, nesta mesma aba -- precisam chamar MegaJumpInsta.enable/
 -- disable, e uma função só enxerga uma local como upvalue se ela já
 -- tiver sido declarada (com `local`) ANTES do texto da função -- mesmo
@@ -1639,17 +2450,32 @@ end
 local jumpCarPart = findJumpCarPart()
 print(jumpCarPart and ("[+] JumpCar encontrado: " .. jumpCarPart:GetFullName()) or "[-] JumpCar NÃO encontrado")
 
+-- O jogo já renomeou o carro pelo menos uma vez (era "..._Auto", hoje é
+-- "MiniCar_<numero>", ex: MiniCar_9547841947) -- confiar só no NOME quebra
+-- toda vez que o jogo atualiza a nomenclatura. O jeito à prova de rename é
+-- achar o carro pelo BANCO ONDE VOCÊ ESTÁ SENTADO: Humanoid.SeatPart aponta
+-- pro Seat/VehicleSeat de verdade que você ocupa, e o Model ancestral dele
+-- É o carro, seja qual for o nome que o jogo decidir usar. Os padrões de
+-- nome antigos ficam só como fallback (personagem fora do carro, ou
+-- procurando o carro de OUTRO lugar antes de entrar nele).
 local function findPlayerCarModel()
+    local character = LocalPlayer.Character
+    local humanoid = character and character:FindFirstChildOfClass("Humanoid")
+    if humanoid and humanoid.SeatPart then
+        local seatModel = humanoid.SeatPart:FindFirstAncestorOfClass("Model")
+        if seatModel then return seatModel end
+    end
+
     local userName = LocalPlayer.Name
 
     for _, obj in pairs(Workspace:GetDescendants()) do
-        if obj:IsA("Model") and obj.Name:lower():find("auto") then
+        if obj:IsA("Model") and (obj.Name:lower():find("minicar_") or obj.Name:lower():find("auto")) then
             if obj.Name:lower():find(userName:lower()) then return obj end
         end
     end
 
     for _, obj in pairs(Workspace:GetDescendants()) do
-        if obj:IsA("Model") and obj.Name:lower():find("_auto") then return obj end
+        if obj:IsA("Model") and (obj.Name:lower():find("_auto") or obj.Name:lower():find("minicar_")) then return obj end
     end
 
     return nil
@@ -1886,7 +2712,7 @@ end
 -- DISPATCHER DO REMOTE COMPARTILHADO (Memória + Bata o Slime)
 -- ========================================
 
-local memoryLastRejected, memoryLastReward = nil, nil
+local memoryToken, memoryLastRejected, memoryLastReward = nil, nil, nil
 local hitSlimeToken, hitSlimeLastRejected, hitSlimeLastReward = nil, nil, nil
 
 if Remotes.miniGameMemoryEvent then
@@ -1895,7 +2721,9 @@ if Remotes.miniGameMemoryEvent then
         gameType = tostring(gameType or "")
 
         if gameType == "Memory" then
-            if kind == "RoundRejected" then
+            if kind == "RoundStarted" then
+                memoryToken = tostring(a or "")
+            elseif kind == "RoundRejected" then
                 memoryLastRejected = tostring(a or "motivo desconhecido")
                 addLog("[MEMORIA] [!] Recusado: " .. memoryLastRejected)
             elseif kind == "RewardResult" then
@@ -1938,164 +2766,103 @@ local memoryStatusLabel, memoryCountLabel
 
 local memoryConfig = {
     running = false,
-    studyDelayMin = 1.2,
-    studyDelayMax = 2.0,
-    clickGapMin = 0.25,
-    clickGapMax = 0.4,
-    pairGapMin = 0.5,
-    pairGapMax = 0.8,
+    completionSeconds = 14.6,
     roundCooldown = 3,
     rejectedCooldown = 15,
 }
 
-local function randomRange(min, max)
-    return min + math.random() * (max - min)
-end
+-- ========================================
+-- MEMÓRIA 100% POR REMOTE, SEM ABRIR NENHUM MENU: a tentativa anterior
+-- (instanciar o MemorySlimeClient real e chamar :Start() pra montar o
+-- grid) não abria de verdade -- confirmado pelo usuário testando ao
+-- vivo. Igual foi apontado ("não tem como fazer o mesmo que fez com o
+-- hit slime.. ele nem abre o menu faz direto via server token"), o Bata
+-- o Slime NUNCA abriu UI nenhuma pra jogar -- ele só troca remotes com o
+-- servidor (StartRound -> RoundStarted com um ServerToken -> Progress
+-- várias vezes -> WinRound), e o resultado (RewardResult) chega pelo
+-- MESMO dispatcher compartilhado de cima. Lendo MemorySlimeClient.lua
+-- (extraído do .rbxlx) dá pra ver que a Memória usa EXATAMENTE o mesmo
+-- esqueleto por baixo do grid visual:
+--
+--   Start()   -> RemoteEvent:FireServer("StartRound", "Memory")
+--   servidor  -> FireClient(player, "RoundStarted", "Memory", token)
+--                (visto em SlimeGameClient.lua: v18:SetServerToken(token))
+--   par certo -> RemoteEvent:FireServer("Progress", "Memory", token, N)
+--                (N = contador de pares acertados até agora, 1, 2, 3...
+--                 -- é literalmente p1.LastReportedPairs incrementando)
+--   9 pares   -> RemoteEvent:FireServer("WinRound", "Memory", token)
+--   servidor  -> FireClient(player, "RewardResult", "Memory", ok, valor)
+--
+-- O total de pares (TotalPairs) não vem do inventário do jogador -- vem
+-- de contar quantos Model/BasePart existem em
+-- ReplicatedStorage.MiniGame1Slimes_Client (a MESMA pasta template que
+-- o jogo usa, `SlimeFolder` no construtor), limitado a 9
+-- (t._getTemplates + math.min(9, #t) em MemorySlimeClient.lua) -- dá
+-- pra calcular isso aqui sem abrir grid nenhum. Sem UI, sem prompt, sem
+-- hub -- só os 3 remotes na ordem certa, com pausas configuráveis pra
+-- não disparar "muito rápido" no servidor.
+-- ========================================
 
-local function findSlimeGameGui()
-    return playerGui:FindFirstChild("SlimeGameGui")
-end
+local function countMemoryTotalPairs()
+    local slimesFolder = ReplicatedStorage:FindFirstChild("MiniGame1Slimes_Client")
+    if not slimesFolder then return 9 end
 
-local function findHubPlayButton(slimeGameGui, targetOrder)
-    local hub = slimeGameGui:FindFirstChild("SlimeMinigamesHub", true)
-    if not hub then return nil end
-
-    local scroll = hub:FindFirstChild("MinigamesScroll", true)
-    if not scroll then return nil end
-
-    local cards = {}
-    for _, card in ipairs(scroll:GetChildren()) do
-        if card:IsA("Frame") then table.insert(cards, card) end
-    end
-    table.sort(cards, function(a, b) return a.LayoutOrder < b.LayoutOrder end)
-
-    local card = cards[targetOrder]
-    if not card then return nil end
-
-    for _, btn in ipairs(card:GetDescendants()) do
-        if btn:IsA("TextButton") then return btn end
-    end
-
-    return nil
-end
-
-local function openMemoryMinigame()
-    local prompt = miniGameButton:FindFirstChild("MiniGame1Prompt", true)
-    if not prompt then
-        addLog("[MEMORIA] [!] MiniGame1Prompt não encontrado")
-        return false
-    end
-
-    local fired = triggerPromptGeneric(prompt)
-    if not fired then
-        addLog("[MEMORIA] [!] Não consegui disparar o prompt")
-        return false
-    end
-
-    task.wait(0.4)
-
-    local slimeGameGui = findSlimeGameGui()
-    if not slimeGameGui then
-        addLog("[MEMORIA] [!] SlimeGameGui não encontrado")
-        return false
-    end
-
-    local playBtn = findHubPlayButton(slimeGameGui, 1)
-    if not playBtn then
-        addLog("[MEMORIA] [!] Botão PLAY não encontrado no hub")
-        return false
-    end
-
-    task.wait(0.1)
-    if not simulateButtonClick(playBtn) then
-        addLog("[MEMORIA] [!] Falha ao clicar PLAY")
-        return false
-    end
-
-    return true
-end
-
-local function waitForMemoryGameFrame(timeout)
-    local start = tick()
-    while (tick() - start) < timeout do
-        local frame = playerGui:FindFirstChild("MemoryGameFrame", true)
-        if frame and frame.Visible then return frame end
-        task.wait(0.1)
-    end
-    return nil
-end
-
-local function collectCardPairs(memoryGameFrame)
-    local groups, order = {}, {}
-
-    for _, obj in ipairs(memoryGameFrame:GetDescendants()) do
-        if obj:IsA("Frame") and obj.Name:sub(1, 11) == "MemoryCard_" then
-            local clickBtn = obj:FindFirstChild("ClickButton")
-            if clickBtn then
-                local cardName = obj.Name:sub(12)
-                if not groups[cardName] then
-                    groups[cardName] = {}
-                    table.insert(order, cardName)
-                end
-                table.insert(groups[cardName], clickBtn)
-            end
+    local count = 0
+    for _, v in ipairs(slimesFolder:GetChildren()) do
+        if v:IsA("Model") or v:IsA("BasePart") then
+            count = count + 1
         end
     end
 
-    local pairsFound = {}
-    for _, name in ipairs(order) do
-        local buttons = groups[name]
-        if #buttons == 2 then
-            table.insert(pairsFound, { a = buttons[1], b = buttons[2] })
-        end
-    end
-
-    return pairsFound
-end
-
-local function shufflePairs(list)
-    for i = #list, 2, -1 do
-        local j = math.random(1, i)
-        list[i], list[j] = list[j], list[i]
-    end
-    return list
-end
-
-local function solveMemoryGame()
-    local memoryGameFrame = waitForMemoryGameFrame(5)
-    if not memoryGameFrame then
-        addLog("[MEMORIA] [!] Timeout esperando o grid abrir")
-        return
-    end
-
-    task.wait(0.2)
-    local cardPairs = shufflePairs(collectCardPairs(memoryGameFrame))
-
-    local studyDelay = randomRange(memoryConfig.studyDelayMin, memoryConfig.studyDelayMax)
-    task.wait(studyDelay)
-
-    for _, pair in ipairs(cardPairs) do
-        if not memoryConfig.running then return end
-        if not memoryGameFrame.Visible then break end
-
-        simulateButtonClick(pair.a)
-        task.wait(randomRange(memoryConfig.clickGapMin, memoryConfig.clickGapMax))
-        simulateButtonClick(pair.b)
-        task.wait(randomRange(memoryConfig.pairGapMin, memoryConfig.pairGapMax))
-    end
+    return math.clamp(count, 1, 9)
 end
 
 local memoryRoundCount = 0
 
 local function runOneMemoryRound()
+    memoryToken = nil
     memoryLastRejected = nil
     memoryLastReward = nil
 
-    if not openMemoryMinigame() then return end
-    solveMemoryGame()
+    if not Remotes.miniGameMemoryEvent then
+        addLog("[MEMORIA] [!] MiniGame1MemoryEvent não encontrado")
+        return
+    end
 
-    local start = tick()
-    while memoryConfig.running and not memoryLastReward and not memoryLastRejected and (tick() - start) < 6 do
+    pcall(function() Remotes.miniGameMemoryEvent:FireServer("StartRound", "Memory") end)
+
+    local tokenStart = tick()
+    while memoryConfig.running and not memoryToken and not memoryLastRejected and (tick() - tokenStart) < 5 do
+        task.wait(0.1)
+    end
+
+    if not memoryToken then
+        if not memoryLastRejected then
+            addLog("[MEMORIA] [!] Não recebi ServerToken")
+        end
+        return
+    end
+
+    local totalPairs = countMemoryTotalPairs()
+    local gapPerPair = math.max(memoryConfig.completionSeconds, 0) / totalPairs
+
+    for pairIndex = 1, totalPairs do
+        if not memoryConfig.running then return end
+        if memoryLastRejected then break end
+
+        task.wait(gapPerPair)
+        pcall(function() Remotes.miniGameMemoryEvent:FireServer("Progress", "Memory", memoryToken, pairIndex) end)
+    end
+
+    if memoryLastRejected then
+        addLog("[MEMORIA] [!] Recusado durante os pares, abortando rodada")
+        return
+    end
+
+    pcall(function() Remotes.miniGameMemoryEvent:FireServer("WinRound", "Memory", memoryToken) end)
+
+    local rewardStart = tick()
+    while memoryConfig.running and not memoryLastReward and not memoryLastRejected and (tick() - rewardStart) < 6 do
         task.wait(0.2)
     end
 
@@ -2124,6 +2891,18 @@ local function startMemoryLoop()
             memoryStatusLabel.TextColor3 = Color3.fromRGB(100, 200, 100)
         end
         addLog("[MEMORIA] === FINALIZADO ===")
+    end)
+
+    task.spawn(function()
+        while memoryConfig.running do
+            -- Mesmo esquema do Bata o Slime: ativa o evento mais barato
+            -- com o maior CashMultiplier (bônus de Cash), fica parado
+            -- nele (noTeleport=true, sem sair do lugar), e reativa
+            -- sozinho quando os ~10 minutos acabam.
+            activateMostExpensiveEvent(true, true, findCheapestMaxCashEvent())
+            if not memoryConfig.running then break end
+            waitWhileRunning(EVENT_DURATION_SECONDS + EVENT_DURATION_BUFFER_SECONDS, memoryConfig)
+        end
     end)
 end
 
@@ -2668,241 +3447,6 @@ end
 local CarFly = buildCarFlyFeature()
 
 -- ========================================
--- DUPLICAR CHECKPOINTS: a pasta Checkpoints (usada pelo sistema de
--- multiplicador da rampa) tem parts invisíveis que, ao tocar, disparam
--- MiniParkourEvent:FireServer("CheckpointTouched", número) -- o PRÓPRIO
--- CLIENT decide esse número (lido de um Attribute que o script do jogo
--- também seta no client), e o jogo já tem um bloqueio de 1s contra
--- disparar o MESMO número duas vezes rápido demais. Clonando cada
--- checkpoint com um offset em Z, e conectando nosso PRÓPRIO Touched
--- (Clone() não copia conexões de evento), dá pra tocar em duas parts
--- fisicamente diferentes (original + clone) com mais de 1s de intervalo
--- entre elas, cada uma disparando o remote de novo.
--- ========================================
-
-local function buildCheckpointDuplicatorFeature()
-    local duplicatedParts = {}
-
-    local function findCheckpointsFolder()
-        local direct = Workspace:FindFirstChild("Checkpoints", true)
-        if direct and direct:IsA("Folder") then return direct end
-        return nil
-    end
-
-    local function wireDuplicateTouched(part, checkpointNumber)
-        part.CanTouch = true
-        part.CanCollide = false
-        part.Touched:Connect(function(hit)
-            if not hit then return end
-            local isMine = false
-            local character = LocalPlayer.Character
-            if character and hit:IsDescendantOf(character) then
-                isMine = true
-            else
-                local model = hit:FindFirstAncestorOfClass("Model")
-                isMine = model ~= nil and model:GetAttribute("OwnerUserId") == LocalPlayer.UserId
-            end
-            if not isMine then return end
-            if not Remotes.miniParkourEvent then return end
-            pcall(function() Remotes.miniParkourEvent:FireServer("CheckpointTouched", checkpointNumber) end)
-            addLog("[CHECKPOINT-DUP] Disparado checkpoint " .. tostring(checkpointNumber))
-        end)
-    end
-
-    local function duplicateAll(offsetZ)
-        local folder = findCheckpointsFolder()
-        if not folder then
-            addLog("[CHECKPOINT-DUP] [!] Pasta 'Checkpoints' não encontrada")
-            return
-        end
-
-        local count = 0
-        for _, child in ipairs(folder:GetChildren()) do
-            local checkpointNumber = tonumber(child.Name)
-            if checkpointNumber then
-                local clone = child:Clone()
-                clone.Name = child.Name .. "_HubDup"
-
-                if clone:IsA("Model") then
-                    clone:PivotTo(child:GetPivot() + Vector3.new(0, 0, offsetZ))
-                elseif clone:IsA("BasePart") then
-                    clone.CFrame = child.CFrame + Vector3.new(0, 0, offsetZ)
-                end
-
-                clone.Parent = folder
-                table.insert(duplicatedParts, clone)
-
-                if clone:IsA("BasePart") then
-                    wireDuplicateTouched(clone, checkpointNumber)
-                else
-                    for _, part in ipairs(clone:GetDescendants()) do
-                        if part:IsA("BasePart") then
-                            wireDuplicateTouched(part, checkpointNumber)
-                        end
-                    end
-                end
-
-                count = count + 1
-            end
-        end
-
-        addLog("[CHECKPOINT-DUP] " .. count .. " checkpoint(s) duplicado(s) com offset Z=" .. tostring(offsetZ))
-    end
-
-    local function clearAll()
-        for _, part in ipairs(duplicatedParts) do
-            if part.Parent then part:Destroy() end
-        end
-        duplicatedParts = {}
-        addLog("[CHECKPOINT-DUP] Duplicados removidos")
-    end
-
-    local function getMaxCheckpoint(folder)
-        local maxNumber, maxChild = 0, nil
-        for _, child in ipairs(folder:GetChildren()) do
-            local n = tonumber(child.Name)
-            if n and n >= maxNumber then
-                maxNumber, maxChild = n, child
-            end
-        end
-        return maxNumber, maxChild
-    end
-
-    local function createBeyondMax(count, spacing)
-        local folder = findCheckpointsFolder()
-        if not folder then
-            addLog("[CHECKPOINT-DUP] [!] Pasta 'Checkpoints' não encontrada")
-            return {}
-        end
-
-        local maxNumber, template = getMaxCheckpoint(folder)
-        if not template then
-            addLog("[CHECKPOINT-DUP] [!] Nenhum checkpoint numerado encontrado pra usar de modelo")
-            return {}
-        end
-
-        local created = {}
-        for i = 1, count do
-            local newNumber = maxNumber + i
-            local clone = template:Clone()
-            clone.Name = tostring(newNumber)
-
-            if clone:IsA("Model") then
-                clone:PivotTo(template:GetPivot() + Vector3.new(0, 0, spacing * i))
-            elseif clone:IsA("BasePart") then
-                clone.CFrame = template.CFrame + Vector3.new(0, 0, spacing * i)
-            end
-
-            clone.Parent = folder
-            table.insert(duplicatedParts, clone)
-            table.insert(created, clone)
-
-            if clone:IsA("BasePart") then
-                clone:SetAttribute("MiniCheckpointNumber", newNumber)
-                wireDuplicateTouched(clone, newNumber)
-            else
-                for _, part in ipairs(clone:GetDescendants()) do
-                    if part:IsA("BasePart") then
-                        part:SetAttribute("MiniCheckpointNumber", newNumber)
-                        wireDuplicateTouched(part, newNumber)
-                    end
-                end
-            end
-        end
-
-        addLog("[CHECKPOINT-DUP] " .. count .. " checkpoint(s) novo(s) criado(s) além do #" .. tostring(maxNumber))
-        return created
-    end
-
-    local function findTouchablePart(instance)
-        if instance:IsA("BasePart") then return instance end
-        for _, part in ipairs(instance:GetDescendants()) do
-            if part:IsA("BasePart") then return part end
-        end
-        return nil
-    end
-
-    -- O checkpoint precisa ser tocado pelo CARRO (é o carro que tem o
-    -- Attribute OwnerUserId que o Touched confere), não pelo seu
-    -- personagem andando -- por isso teleportar só o HumanoidRootPart
-    -- "bugava" o carro (ele ficava pra trás, ou o jogo tentava corrigir a
-    -- posição). Aqui a gente move o MODEL do carro mesmo, igual o ciclo
-    -- do Ramp já faz (moveCarTo/teleportToCheckpoint): sobe um pouco
-    -- antes de descer pra evitar prender no chão/geometria.
-    local function autoTriggerCreated(createdList, delaySeconds)
-        task.spawn(function()
-            local car = findPlayerCarModel()
-            if not car then
-                addLog("[CHECKPOINT-DUP] [!] Model do carro não encontrado pra auto-disparo -- entre no carro primeiro")
-                return
-            end
-
-            local carPart = car.PrimaryPart or car:FindFirstChildWhichIsA("BasePart", true)
-            if not carPart then
-                addLog("[CHECKPOINT-DUP] [!] Nenhuma BasePart no carro")
-                return
-            end
-
-            local savedCFrame = carPart.CFrame
-
-            for _, instance in ipairs(createdList) do
-                local part = findTouchablePart(instance)
-                if part then
-                    local currentCar = findPlayerCarModel()
-                    local currentCarPart = currentCar and (currentCar.PrimaryPart or currentCar:FindFirstChildWhichIsA("BasePart", true))
-                    if not currentCarPart then break end
-
-                    local currentRotation = currentCarPart.CFrame - currentCarPart.CFrame.Position
-                    local highCFrame = CFrame.new(part.Position + Vector3.new(0, 10, 0)) * currentRotation
-                    pcall(function()
-                        if currentCar.PrimaryPart then
-                            currentCar:SetPrimaryPartCFrame(highCFrame)
-                        else
-                            currentCarPart.CFrame = highCFrame
-                        end
-                    end)
-
-                    task.wait(0.2)
-
-                    local finalCFrame = CFrame.new(part.Position) * currentRotation
-                    pcall(function()
-                        if currentCar.PrimaryPart then
-                            currentCar:SetPrimaryPartCFrame(finalCFrame)
-                        else
-                            currentCarPart.CFrame = finalCFrame
-                        end
-                    end)
-
-                    task.wait(delaySeconds)
-                end
-            end
-
-            local finalCar = findPlayerCarModel()
-            local finalCarPart = finalCar and (finalCar.PrimaryPart or finalCar:FindFirstChildWhichIsA("BasePart", true))
-            if finalCarPart then
-                pcall(function()
-                    if finalCar.PrimaryPart then
-                        finalCar:SetPrimaryPartCFrame(savedCFrame)
-                    else
-                        finalCarPart.CFrame = savedCFrame
-                    end
-                end)
-            end
-            addLog("[CHECKPOINT-DUP] Auto-disparo concluído")
-        end)
-    end
-
-    return {
-        duplicateAll = duplicateAll,
-        clearAll = clearAll,
-        createBeyondMax = createBeyondMax,
-        autoTriggerCreated = autoTriggerCreated,
-    }
-end
-
-local CheckpointDup = buildCheckpointDuplicatorFeature()
-
--- ========================================
 -- MEGA JUMP INSTA: colapsa CarSpawn + JumpCar + o checkpoint final (92,
 -- o multiplicador x1000000) pro MESMO ponto, e desativa as CarResetZones
 -- -- assim o carro nasce, já está "no" JumpCar e "no" checkpoint final,
@@ -2995,7 +3539,7 @@ local function buildMegaJumpInstaFeature()
     -- não ficar longe demais do chão) e mais à frente -- formando um
     -- "quadrado" de áreas de toque em volta do ponto alvo. Cada cópia
     -- dispara o MESMO MiniParkourEvent("CheckpointTouched", 92) que o
-    -- original, igual o CheckpointDup já faz com outros checkpoints.
+    -- original.
     local CHECKPOINT_SQUARE_OFFSETS = {
         Vector3.new(0, 40, 0),   -- mais acima
         Vector3.new(0, -15, 0),  -- mais abaixo (não tão abaixo)
@@ -3289,44 +3833,94 @@ end
 local Checkpoint92To1 = buildCheckpoint92To1Feature()
 
 -- ========================================
--- MINI PARKOUR - LOOP AUTOMÁTICO (igual o ciclo do Mega Ramp, aba Ramp):
--- teleporta até o MiniParkourEnter/MiniParkourPrompt (achado pelo
--- usuário no Explorer do Studio), dispara o prompt pra abrir a sessão
--- (LoadParkour), dispara MiniParkourEvent:FireServer("CheckpointTouched",
--- número) em sequência pra cada checkpoint (reaproveitando a MESMA
--- ação/remote que o CheckpointDup já usa fisicamente), espera o
--- FinishMessage (ou um timeout de segurança) e repete sozinho até
--- PARAR -- igual startMasterCycle/stopMasterCycle faz com o JumpCar.
+-- ASMR PARKOUR - LOOP AUTOMÁTICO (aba Jogos): vasculhando o .rbxlx
+-- inteiro atrás de TODOS os ProximityPrompt do mapa, achamos que o Mini
+-- Parkour tem DUAS entradas físicas totalmente separadas -- uma pra
+-- CARRO ("MiniParkourEnter"/"MiniParkourPrompt", do outro lado do mapa)
+-- e outra só de PÉ ("MiniParkourFootEnter"/"MiniParkourFootPrompt",
+-- ActionText "Play Foot Parkour", bem do lado da placa "ASMR Parkour" --
+-- pasta PARKOURFOOT_SIGN). A versão anterior desse hub só procurava a
+-- entrada de CARRO -- por isso SEMPRE caía no modo CAR (mesmo sem carro
+-- nenhum por perto) e os checkpoints nunca validavam de verdade além do
+-- 1º: a gente tava tentando andar a pé pela pista pensada pra carro, em
+-- vez de entrar na pista certa (ASMR Parkour). Usando a entrada certa,
+-- o próprio servidor já manda Mode="FOOT" e o nível certo -- sem
+-- precisar de carro nenhum, só o personagem indo até a posição real de
+-- cada checkpoint.
 -- ========================================
 
-local miniParkourLoadedFlag = false
-local miniParkourFinishedFlag = false
+local asmrParkourLoadedFlag = false
+local asmrParkourFinishedFlag = false
+local asmrParkourMenuMapName = nil
+
+-- Confirmação REAL do servidor de qual checkpoint foi aceito -- o
+-- próprio jogo manda de volta MiniParkourEvent:FireClient(player,
+-- "CheckpointText", numeroAtual, total) toda vez que o SERVIDOR aceita
+-- um CheckpointTouched (é esse mesmo evento que atualiza o texto
+-- "CHECKPOINT X/35" na tela) -- confiar nisso em vez de só assumir que
+-- "tocou = contou" é o único jeito de saber se um checkpoint foi
+-- REALMENTE validado pelo servidor ou não.
+local asmrParkourConfirmedCheckpoint = 0
 
 if Remotes.miniParkourEvent then
-    Remotes.miniParkourEvent.OnClientEvent:Connect(function(kind)
+    Remotes.miniParkourEvent.OnClientEvent:Connect(function(kind, ...)
         if kind == "LoadParkour" then
-            miniParkourLoadedFlag = true
+            asmrParkourLoadedFlag = true
         elseif kind == "FinishMessage" then
-            miniParkourFinishedFlag = true
+            asmrParkourFinishedFlag = true
+        elseif kind == "OpenLevelMenu" then
+            local _, levelList = ...
+            asmrParkourMenuMapName = nil
+            if type(levelList) == "table" then
+                -- O menu de PÉ pode ter mais de um nível -- procura um
+                -- cujo Título/MapName mencione "ASMR" antes de simplesmente
+                -- pegar o primeiro da lista.
+                local chosen = nil
+                for _, entry in pairs(levelList) do
+                    if type(entry) == "table" then
+                        local title = tostring(entry.Title or ""):lower()
+                        local mapName = tostring(entry.MapName or ""):lower()
+                        if title:find("asmr", 1, true) or mapName:find("asmr", 1, true) then
+                            chosen = entry
+                            break
+                        end
+                    end
+                end
+                if not chosen then
+                    chosen = levelList[1]
+                    if chosen == nil then
+                        for _, v in pairs(levelList) do chosen = v break end
+                    end
+                end
+                if chosen then
+                    asmrParkourMenuMapName = tostring(chosen.MapName or "")
+                end
+            end
+        elseif kind == "CheckpointText" then
+            local current = ...
+            local num = tonumber(current)
+            if num and num > asmrParkourConfirmedCheckpoint then
+                asmrParkourConfirmedCheckpoint = num
+            end
         end
     end)
 end
 
-local function findMiniParkourPrompt()
-    local enterPart = Workspace:FindFirstChild("MiniParkourEnter", true)
+local function findAsmrParkourPrompt()
+    local enterPart = Workspace:FindFirstChild("MiniParkourFootEnter", true)
     if enterPart then
         local prompt = enterPart:FindFirstChildWhichIsA("ProximityPrompt", true)
         if prompt then return prompt end
     end
     for _, obj in pairs(Workspace:GetDescendants()) do
-        if obj:IsA("ProximityPrompt") and obj.Name == "MiniParkourPrompt" then return obj end
+        if obj:IsA("ProximityPrompt") and obj.Name == "MiniParkourFootPrompt" then return obj end
     end
     return nil
 end
 
-local function buildMiniParkourShortcutFeature()
+local function buildAsmrParkourFeature()
     local running = false
-    local config = { startCheckpoint = 1, endCheckpoint = 32, delaySeconds = 1.5 }
+    local config = { startCheckpoint = 1, endCheckpoint = 32, delaySeconds = 1.5, touchSizeMultiplier = 4 }
     local statusLabel = nil
 
     local function setStatus(text, color)
@@ -3336,10 +3930,132 @@ local function buildMiniParkourShortcutFeature()
         end
     end
 
+    local function findLocalCheckpointPart(checkpointsFolder, number)
+        if not checkpointsFolder then return nil end
+        local child = checkpointsFolder:FindFirstChild(tostring(number))
+        if not child then return nil end
+        if child:IsA("BasePart") then return child end
+        return child:FindFirstChildWhichIsA("BasePart", true)
+    end
+
+    local function moveCharacterTo(cframe)
+        local character = LocalPlayer.Character
+        local hrp = character and character:FindFirstChild("HumanoidRootPart")
+        if not hrp then return false end
+        hrp.CFrame = cframe
+        return true
+    end
+
+    -- Aumenta o tamanho de CADA checkpoint do clone local (só na SUA
+    -- tela, client-side -- igual o Mega Jump Insta já faz com o
+    -- Checkpoint 92) -- quem detecta o toque é a física do SEU client
+    -- contra essa cópia local (é o Touched dela que dispara o
+    -- CheckpointTouched pro servidor), então uma área maior aceita
+    -- passar mais longe do centro sem precisar acertar um ponto
+    -- pequeno, permitindo ir mais rápido sem cair na 2ª tentativa
+    -- (recuar e atravessar) com tanta frequência.
+    local function enlargeCheckpointTouchZones(checkpointsFolder, first, last)
+        local multiplier = math.max(tonumber(config.touchSizeMultiplier) or 4, 1)
+        local count = 0
+        for number = first, last do
+            local part = findLocalCheckpointPart(checkpointsFolder, number)
+            if part then
+                part.Size = part.Size * multiplier
+                count = count + 1
+            end
+        end
+        return count, multiplier
+    end
+
+    -- Pra CADA checkpoint, na posição REAL dele (sem mexer na part),
+    -- sobe ~10 studs acima e desce por cima, sempre com o PERSONAGEM
+    -- (Foot Parkour não usa carro nenhum). Se essa 1ª tentativa não
+    -- confirmar, a 2ª recua um pouco
+    -- ATRÁS do checkpoint (na direção oposta à dele) e atravessa por
+    -- cima.
+    --
+    -- A confirmação é por DIFERENÇA (o contador subiu em relação ao
+    -- valor de ANTES dessa tentativa específica), nunca por valor
+    -- absoluto -- o jogo manda um CheckpointText inicial (ex: "1/35")
+    -- só de você estar na largada, ANTES de tocar em qualquer coisa de
+    -- verdade -- comparar por valor absoluto faria a gente achar que o
+    -- Checkpoint 1 já tinha sido confirmado e pular ele direto pro 2.
+    local function captureSequential(checkpointsFolder, first, last)
+        local minWait = math.max(tonumber(config.delaySeconds) or 1.5, 1.5)
+
+        for number = first, last do
+            if not running or asmrParkourFinishedFlag then break end
+
+            -- Atalho: com a área de toque maior, é comum passar por CIMA
+            -- de um checkpoint mais à frente sem querer enquanto anda até
+            -- o atual -- se o contador já mostra esse número (ou mais)
+            -- como confirmado, nem tenta de novo, só segue pro próximo.
+            -- (sem goto/label aqui -- esse executor não suporta essa
+            -- sintaxe do Lua, dava "Incomplete statement" na hora de
+            -- compilar o script inteiro.)
+            if asmrParkourConfirmedCheckpoint >= number then
+                addLog("[ASMR-PARKOUR] Checkpoint " .. number .. "/" .. last .. " [✓ CONFIRMADO -- já validado de passagem]")
+                setStatus("Status: RODANDO (" .. number .. "/" .. last .. ")", Color3.fromRGB(255, 200, 0))
+            else
+                local part = findLocalCheckpointPart(checkpointsFolder, number)
+                if not part then
+                    addLog("[ASMR-PARKOUR] [!] Checkpoint " .. number .. " não encontrado no clone local -- pulando")
+                else
+                    local baseCFrame = part.CFrame
+                    local rotation = baseCFrame - baseCFrame.Position
+                    local before = asmrParkourConfirmedCheckpoint
+                    local confirmed = false
+                    local attempts = 0
+
+                    while running and not confirmed and attempts < 2 do
+                        attempts = attempts + 1
+
+                        if attempts == 1 then
+                            local highCFrame = CFrame.new(baseCFrame.Position + Vector3.new(0, 10, 0)) * rotation
+                            moveCharacterTo(highCFrame)
+                            task.wait(0.2)
+                            moveCharacterTo(baseCFrame)
+                        else
+                            local backCFrame = CFrame.new(baseCFrame.Position - (rotation.LookVector * 12) + Vector3.new(0, 3, 0)) * rotation
+                            moveCharacterTo(backCFrame)
+                            task.wait(0.3)
+                            local throughCFrame = CFrame.new(baseCFrame.Position + (rotation.LookVector * 4)) * rotation
+                            moveCharacterTo(throughCFrame)
+                        end
+
+                        local waitStart = tick()
+                        while running and asmrParkourConfirmedCheckpoint <= before and (tick() - waitStart) < minWait do
+                            task.wait(0.1)
+                        end
+                        confirmed = asmrParkourConfirmedCheckpoint > before
+                    end
+
+                    if confirmed then
+                        addLog("[ASMR-PARKOUR] Checkpoint " .. number .. "/" .. last .. " [✓ CONFIRMADO] (contador: " .. asmrParkourConfirmedCheckpoint .. ")")
+                        setStatus("Status: RODANDO (" .. number .. "/" .. last .. ")", Color3.fromRGB(255, 200, 0))
+                    else
+                        addLog("[ASMR-PARKOUR] [!] Checkpoint " .. number .. "/" .. last .. " NÃO confirmado -- parando o ciclo aqui")
+                        setStatus("Status: TRAVOU NO CHECKPOINT " .. number .. " (sem confirmação)", Color3.fromRGB(255, 100, 100))
+                        break
+                    end
+                end
+            end
+        end
+    end
+
+    -- Disparar o prompt só ABRE a tela "Escolha um nível" -- o
+    -- LocalScript real do jogo manda o servidor a resposta
+    -- "OpenLevelMenu" com o Mode e a lista de níveis, e só carrega a
+    -- sessão de verdade (LoadParkour) depois de mandar de volta
+    -- MiniParkourEvent:FireServer("StartParkourLevel", { Mode = mode,
+    -- MapName = mapName }) -- é isso que o botão "GIOCA" dispara ao ser
+    -- clicado. Como essa entrada é EXCLUSIVA do Foot Parkour, forçamos
+    -- Mode="FOOT" direto (o servidor já ia mandar isso de qualquer
+    -- jeito por essa entrada específica).
     local function runOneCycle()
-        local prompt = findMiniParkourPrompt()
+        local prompt = findAsmrParkourPrompt()
         if not prompt then
-            addLog("[MINI-PARKOUR] [!] MiniParkourPrompt não encontrado (MiniParkourEnter)")
+            addLog("[ASMR-PARKOUR] [!] MiniParkourFootPrompt não encontrado (MiniParkourFootEnter)")
             return false
         end
 
@@ -3350,49 +4066,79 @@ local function buildMiniParkourShortcutFeature()
             task.wait(0.3)
         end
 
-        miniParkourLoadedFlag = false
+        asmrParkourLoadedFlag = false
+        asmrParkourMenuMapName = nil
         local fired = triggerPromptGeneric(prompt)
         if not fired then
-            addLog("[MINI-PARKOUR] [!] Não consegui disparar o MiniParkourPrompt")
+            addLog("[ASMR-PARKOUR] [!] Não consegui disparar o MiniParkourFootPrompt")
             teleportPlayerBack(originalCFrame)
             return false
         end
 
-        setStatus("Status: ABRINDO SESSÃO...", Color3.fromRGB(255, 200, 0))
-        local loadStart = tick()
-        while running and not miniParkourLoadedFlag and (tick() - loadStart) < 10 do
+        setStatus("Status: ABRINDO TELA DE NÍVEL...", Color3.fromRGB(255, 200, 0))
+        local menuStart = tick()
+        while running and not asmrParkourMenuMapName and (tick() - menuStart) < 5 do
             task.wait(0.1)
         end
 
-        if not miniParkourLoadedFlag then
-            addLog("[MINI-PARKOUR] [!] Timeout esperando LoadParkour -- tentando de novo no próximo ciclo")
+        if not asmrParkourMenuMapName then
+            addLog("[ASMR-PARKOUR] [!] Timeout esperando OpenLevelMenu -- tentando de novo no próximo ciclo")
             teleportPlayerBack(originalCFrame)
             return false
         end
 
-        addLog("[MINI-PARKOUR] [✓] Sessão aberta, disparando checkpoints...")
+        pcall(function()
+            Remotes.miniParkourEvent:FireServer("StartParkourLevel", { Mode = "FOOT", MapName = asmrParkourMenuMapName })
+        end)
 
-        miniParkourFinishedFlag = false
+        setStatus("Status: ABRINDO SESSÃO...", Color3.fromRGB(255, 200, 0))
+        local loadStart = tick()
+        while running and not asmrParkourLoadedFlag and (tick() - loadStart) < 10 do
+            task.wait(0.1)
+        end
+
+        if not asmrParkourLoadedFlag then
+            addLog("[ASMR-PARKOUR] [!] Timeout esperando LoadParkour -- tentando de novo no próximo ciclo")
+            teleportPlayerBack(originalCFrame)
+            return false
+        end
+
+        addLog("[ASMR-PARKOUR] [✓] Sessão aberta (" .. tostring(asmrParkourMenuMapName) .. "), capturando checkpoints...")
+
+        -- Descarta o CheckpointText inicial (largada, ex: "1/35") antes
+        -- de começar a contar de verdade -- ver comentário em
+        -- captureSequential.
+        task.wait(0.5)
+        asmrParkourConfirmedCheckpoint = 0
+        asmrParkourFinishedFlag = false
+
+        -- O ParkourClient real clona a pista inteira só pra você em
+        -- workspace.LOCAL_MINI_PARKOUR_<seu nome>, com uma pasta
+        -- Checkpoints própria (peças nomeadas "1", "2", ... "35").
+        local parkourClone = Workspace:FindFirstChild("LOCAL_MINI_PARKOUR_" .. LocalPlayer.Name)
+        local checkpointsFolder = parkourClone and parkourClone:FindFirstChild("Checkpoints")
+
         local first = math.floor(config.startCheckpoint)
         local last = math.floor(config.endCheckpoint)
 
-        for number = first, last do
-            if not running then break end
-            if miniParkourFinishedFlag then break end
-            pcall(function() Remotes.miniParkourEvent:FireServer("CheckpointTouched", number) end)
-            addLog("[MINI-PARKOUR] Checkpoint " .. number .. "/" .. last .. " disparado")
-            setStatus("Status: RODANDO (" .. number .. "/" .. last .. ")", Color3.fromRGB(255, 200, 0))
-            task.wait(config.delaySeconds)
+        if not checkpointsFolder then
+            addLog("[ASMR-PARKOUR] [!] Clone local da pista (LOCAL_MINI_PARKOUR_" .. LocalPlayer.Name .. ") não encontrado -- não deu pra capturar os checkpoints")
+        else
+            local enlargedCount, multiplier = enlargeCheckpointTouchZones(checkpointsFolder, first, last)
+            if enlargedCount > 0 then
+                addLog("[ASMR-PARKOUR] [*] " .. enlargedCount .. " checkpoint(s) com área de toque aumentada (" .. multiplier .. "x, só na sua tela)")
+            end
+            captureSequential(checkpointsFolder, first, last)
         end
 
-        if running and not miniParkourFinishedFlag then
+        if running and not asmrParkourFinishedFlag then
             local finishStart = tick()
-            while running and not miniParkourFinishedFlag and (tick() - finishStart) < 8 do
+            while running and not asmrParkourFinishedFlag and (tick() - finishStart) < 8 do
                 task.wait(0.1)
             end
         end
 
-        addLog(miniParkourFinishedFlag and "[MINI-PARKOUR] [✓] Parkour concluído!" or "[MINI-PARKOUR] [!] Não confirmei o FinishMessage, seguindo mesmo assim")
+        addLog(asmrParkourFinishedFlag and "[ASMR-PARKOUR] [✓] Parkour concluído!" or "[ASMR-PARKOUR] [!] Não confirmei o FinishMessage, seguindo mesmo assim")
         teleportPlayerBack(originalCFrame)
         return true
     end
@@ -3405,24 +4151,24 @@ local function buildMiniParkourShortcutFeature()
             task.wait(2)
         end
         setStatus("Status: PARADO", Color3.fromRGB(100, 200, 100))
-        addLog("[MINI-PARKOUR] === LOOP FINALIZADO ===")
+        addLog("[ASMR-PARKOUR] === LOOP FINALIZADO ===")
     end
 
     local function start()
         if running then return end
         if not Remotes.miniParkourEvent then
-            addLog("[MINI-PARKOUR] [!] MiniParkourEvent não encontrado")
+            addLog("[ASMR-PARKOUR] [!] MiniParkourEvent não encontrado")
             return
         end
         running = true
-        addLog("[MINI-PARKOUR] === LOOP INICIADO === (checkpoints " .. config.startCheckpoint .. " a " .. config.endCheckpoint .. ", " .. config.delaySeconds .. "s entre cada)")
+        addLog("[ASMR-PARKOUR] === LOOP INICIADO === (checkpoints " .. config.startCheckpoint .. " a " .. config.endCheckpoint .. ", " .. config.delaySeconds .. "s entre cada)")
         task.spawn(loopBody)
     end
 
     local function stop()
         if not running then return end
         running = false
-        addLog("[MINI-PARKOUR] [!] Parando...")
+        addLog("[ASMR-PARKOUR] [!] Parando...")
     end
 
     return {
@@ -3434,7 +4180,7 @@ local function buildMiniParkourShortcutFeature()
     }
 end
 
-local MiniParkourShortcut = buildMiniParkourShortcutFeature()
+local AsmrParkourShortcut = buildAsmrParkourFeature()
 
 -- ========================================
 -- AJUSTE DO JUMPCAR (REMOVIDO): a ideia era reduzir a força do impulso
@@ -3516,51 +4262,6 @@ local function buildExtraGravityFeature()
 end
 
 local ExtraGravity = buildExtraGravityFeature()
-
--- ========================================
--- DESTRUIR CARRO: deleta a model do carro do player, deixando ele andar livre
--- ========================================
-
-local function buildDestroyCarFeature()
-    local statusLabel = nil
-
-    local function setStatus(text, color)
-        if statusLabel then
-            statusLabel.Text = text
-            statusLabel.TextColor3 = color
-        end
-    end
-
-    local function destroyCar()
-        local car = findPlayerCarModel()
-        if not car then
-            addLog("[CARRO] [!] Carro não encontrado")
-            setStatus("Status: CARRO NÃO ENCONTRADO", Color3.fromRGB(255, 100, 100))
-            return false
-        end
-
-        local ok = pcall(function()
-            car:Destroy()
-        end)
-
-        if ok then
-            addLog("[CARRO] [✓] Carro destruído! Você agora pode andar livre.")
-            setStatus("Status: CARRO DESTRUÍDO ✓", Color3.fromRGB(100, 200, 100))
-            return true
-        else
-            addLog("[CARRO] [!] Erro ao destruir o carro")
-            setStatus("Status: ERRO AO DESTRUIR", Color3.fromRGB(255, 100, 100))
-            return false
-        end
-    end
-
-    return {
-        destroy = destroyCar,
-        setStatusLabel = function(lbl) statusLabel = lbl end,
-    }
-end
-
-local DestroyCar = buildDestroyCarFeature()
 
 -- ========================================
 -- ANIMAÇÕES CUSTOM: edita os IDs de idle/andar/correr DENTRO do script
@@ -4050,7 +4751,6 @@ local TAB_DEFS = {
     { key = "cam", labelKey = "tab_cam" },
     { key = "car", labelKey = "tab_car" },
     { key = "anim", labelKey = "tab_anim" },
-    { key = "webhook", labelKey = "tab_webhook" },
     { key = "players", labelKey = "tab_players" },
     { key = "slimes", labelKey = "tab_slimes" },
     { key = "settings", labelKey = "tab_settings" },
@@ -4180,9 +4880,21 @@ Widgets.addInfoLabel(rampTab, "O Mega Jump Insta (CarSpawn/JumpCar/Checkpoint92/
 
 local gamesTab = tabFrames.games
 Widgets.addSectionLabel(gamesTab, t("sec_memory"), Color3.fromRGB(0, 190, 100))
+local memorySecondsInput = Widgets.addTextField(gamesTab, t("lbl_seconds_per_round"), memoryConfig.completionSeconds)
+memorySecondsInput.FocusLost:Connect(function()
+    local val = tonumber(memorySecondsInput.Text)
+    if val and val >= 0 then
+        memoryConfig.completionSeconds = val
+    else
+        memorySecondsInput.Text = tostring(memoryConfig.completionSeconds)
+    end
+end)
+
 local memoryStartBtnUi, memoryStopBtnUi = Widgets.addTwoButtons(gamesTab, t("play"), Color3.fromRGB(0, 150, 0), t("stop"), Color3.fromRGB(150, 0, 0))
 memoryStatusLabel = Widgets.addFullLabel(gamesTab, t("status_stopped"), Color3.fromRGB(100, 200, 100))
 memoryCountLabel = Widgets.addFullLabel(gamesTab, t("label_rounds") .. "0", Color3.fromRGB(200, 200, 255))
+
+Widgets.addInfoLabel(gamesTab, "A Memoria agora roda 100% por remote, igual o Bata o Slime -- sem abrir grid nenhum na tela. 'Segundos por rodada' e o tempo total entre pegar o ServerToken e mandar o ultimo par (reparte esse tempo igualmente entre os pares) -- 14.6s e o valor testado e aprovado, so mude se for testar outro. Igual o Bata o Slime, tambem ativa sozinha o evento mais barato com o maior CashMultiplier (bonus de Cash) e fica nele por ~10 minutos, reativando sozinha quando o tempo acaba. Editar o tempo so tem efeito na PROXIMA rodada.")
 
 Widgets.addDivider(gamesTab)
 
@@ -4211,6 +4923,57 @@ memoryStartBtnUi.MouseButton1Click:Connect(memoryGuardedStart)
 memoryStopBtnUi.MouseButton1Click:Connect(memoryGuardedStop)
 hitSlimeStartBtnUi.MouseButton1Click:Connect(startHitSlimeLoop)
 hitSlimeStopBtnUi.MouseButton1Click:Connect(stopHitSlimeLoop)
+
+Widgets.addDivider(gamesTab)
+Widgets.addSectionLabel(gamesTab, "ASMR PARKOUR - LOOP AUTOMÁTICO", Color3.fromRGB(255, 140, 60))
+
+local asmrParkourStartInput = Widgets.addTextField(gamesTab, "Checkpoint inicial:", AsmrParkourShortcut.config.startCheckpoint)
+asmrParkourStartInput.FocusLost:Connect(function()
+    local val = tonumber(asmrParkourStartInput.Text)
+    if val and val >= 0 then
+        AsmrParkourShortcut.config.startCheckpoint = val
+    else
+        asmrParkourStartInput.Text = tostring(AsmrParkourShortcut.config.startCheckpoint)
+    end
+end)
+
+local asmrParkourEndInput = Widgets.addTextField(gamesTab, "Checkpoint final:", AsmrParkourShortcut.config.endCheckpoint)
+asmrParkourEndInput.FocusLost:Connect(function()
+    local val = tonumber(asmrParkourEndInput.Text)
+    if val and val >= 0 then
+        AsmrParkourShortcut.config.endCheckpoint = val
+    else
+        asmrParkourEndInput.Text = tostring(AsmrParkourShortcut.config.endCheckpoint)
+    end
+end)
+
+local asmrParkourDelayInput = Widgets.addTextField(gamesTab, "Delay entre cada checkpoint (s):", AsmrParkourShortcut.config.delaySeconds)
+asmrParkourDelayInput.FocusLost:Connect(function()
+    local val = tonumber(asmrParkourDelayInput.Text)
+    if val and val > 0 then
+        AsmrParkourShortcut.config.delaySeconds = val
+    else
+        asmrParkourDelayInput.Text = tostring(AsmrParkourShortcut.config.delaySeconds)
+    end
+end)
+
+local asmrParkourTouchSizeInput = Widgets.addTextField(gamesTab, "Multiplicador da area de toque (ex: 4):", AsmrParkourShortcut.config.touchSizeMultiplier)
+asmrParkourTouchSizeInput.FocusLost:Connect(function()
+    local val = tonumber(asmrParkourTouchSizeInput.Text)
+    if val and val >= 1 then
+        AsmrParkourShortcut.config.touchSizeMultiplier = val
+    else
+        asmrParkourTouchSizeInput.Text = tostring(AsmrParkourShortcut.config.touchSizeMultiplier)
+    end
+end)
+
+local asmrParkourStartBtn, asmrParkourStopBtn = Widgets.addTwoButtons(gamesTab, "Iniciar", Color3.fromRGB(0, 150, 0), "Parar", Color3.fromRGB(150, 0, 0))
+asmrParkourStartBtn.MouseButton1Click:Connect(function() AsmrParkourShortcut.start() end)
+asmrParkourStopBtn.MouseButton1Click:Connect(function() AsmrParkourShortcut.stop() end)
+
+AsmrParkourShortcut.setStatusLabel(Widgets.addFullLabel(gamesTab, "Status: PARADO", Color3.fromRGB(100, 200, 100)))
+
+Widgets.addInfoLabel(gamesTab, "Usa a entrada certa do Parkour a pe (MiniParkourFootEnter/MiniParkourFootPrompt, 'Play Foot Parkour' -- achamos vasculhando TODOS os ProximityPrompt do mapa que ela e SEPARADA da entrada de carro, do outro lado do mapa, e fica do lado da placa 'ASMR Parkour'). Nao precisa de carro nenhum: teleporta o PERSONAGEM ate a posicao real de cada checkpoint do seu clone local, esperando a confirmacao real do servidor (o mesmo texto CHECKPOINT X/35 da tela) antes de avancar. Antes de comecar, aumenta a area de toque de cada checkpoint do SEU clone local (multiplicador ajustavel, so na sua tela) -- assim nao precisa acertar um ponto exato, da pra ir mais rapido sem cair na tentativa de recuo. Repete sozinho ate PARAR. O FinishMessage do jogo vem com a recompensa embutida no texto (ex: +500 CASH).")
 
 -- --- ABA CAM ---
 
@@ -4287,90 +5050,11 @@ CarFly.setStatusLabel(Widgets.addFullLabel(carTab, t("status_off"), Color3.fromR
 Widgets.addInfoLabel(carTab, "Desliga a colisão do carro inteiro e deixa você voar com ele (com você sentado dentro) usando WASD/Space/Ctrl relativo à câmera, igual o Free Cam -- Shift acelera. Precisa estar dentro do carro. Desativar devolve a colisão normal.")
 
 Widgets.addDivider(carTab)
-Widgets.addSectionLabel(carTab, t("sec_checkpoint_dup"), Color3.fromRGB(255, 140, 60))
-
-local offsetZInput = Widgets.addTextField(carTab, t("lbl_offset_z"), "10")
-local dupCheckpointsBtn, clearDupCheckpointsBtn = Widgets.addTwoButtons(carTab, t("btn_dup_checkpoints"), Color3.fromRGB(0, 150, 100), t("btn_clear_dup_checkpoints"), Color3.fromRGB(150, 0, 0))
-dupCheckpointsBtn.MouseButton1Click:Connect(function()
-    local offset = tonumber(offsetZInput.Text) or 10
-    CheckpointDup.duplicateAll(offset)
-end)
-clearDupCheckpointsBtn.MouseButton1Click:Connect(function()
-    CheckpointDup.clearAll()
-end)
-
-Widgets.addInfoLabel(carTab, "Clona cada checkpoint da pasta Checkpoints com um deslocamento em Z e conecta um Touched próprio pra disparar o mesmo remote do jogo -- assim, passando pela pista duas vezes (original + cópia, com mais de 1s de intervalo) dispara o checkpoint de novo. Remover Duplicados apaga só as cópias criadas por aqui, sem mexer nos checkpoints originais do jogo.")
-
-Widgets.addDivider(carTab)
-Widgets.addSectionLabel(carTab, t("sec_checkpoint_extra"), Color3.fromRGB(255, 100, 220))
-
-local extraCountInput = Widgets.addTextField(carTab, t("lbl_extra_count"), "5")
-local extraSpacingInput = Widgets.addTextField(carTab, t("lbl_extra_spacing"), "15")
-local createExtraBtn, autoTriggerExtraBtn = Widgets.addTwoButtons(carTab, t("btn_create_extra"), Color3.fromRGB(150, 0, 150), t("btn_auto_trigger_extra"), Color3.fromRGB(0, 130, 150))
-
-local lastCreatedCheckpoints = {}
-createExtraBtn.MouseButton1Click:Connect(function()
-    local count = math.clamp(tonumber(extraCountInput.Text) or 5, 1, 200)
-    local spacing = tonumber(extraSpacingInput.Text) or 15
-    lastCreatedCheckpoints = CheckpointDup.createBeyondMax(count, spacing)
-end)
-autoTriggerExtraBtn.MouseButton1Click:Connect(function()
-    if #lastCreatedCheckpoints == 0 then
-        addLog("[CHECKPOINT-DUP] [!] Crie os checkpoints extras antes de disparar")
-        return
-    end
-    CheckpointDup.autoTriggerCreated(lastCreatedCheckpoints, 1.2)
-end)
-
-Widgets.addInfoLabel(carTab, "Clona o checkpoint de maior número existente e cria N novos checkpoints em sequência (máximo+1, máximo+2, ...), já ligados no mesmo remote do jogo. Como o servidor só parece premiar quando o número sobe, isso testa se dá pra continuar ganhando além do checkpoint final da pista. Disparar Automaticamente teleporta seu personagem até cada um, esperando mais de 1s entre eles.")
-
-Widgets.addDivider(carTab)
 Widgets.addSectionLabel(carTab, "CHECKPOINT FINAL -> CHECKPOINT 1", Color3.fromRGB(255, 100, 220))
 
 Widgets.addFeatureToggleButton(carTab, "Mover Checkpoint Final pro Checkpoint 1", Checkpoint92To1)
 
 Widgets.addInfoLabel(carTab, "Move a part do ÚLTIMO checkpoint numerado (pega dinamicamente o maior número da pasta Checkpoints -- hoje é 92, mas continua certo sozinho se o jogo adicionar 93, 94 etc no futuro) pra cima do Checkpoint 1 E a LandingZone1 pra cima da LandingZone3, mantendo a rotação original de cada uma -- independente do Mega Jump Insta, sem mexer em JumpCar/CarSpawn. 100% client-side. Desativar volta as duas pro lugar original.")
-
-Widgets.addDivider(carTab)
-Widgets.addSectionLabel(carTab, "MINI PARKOUR - LOOP AUTOMÁTICO", Color3.fromRGB(255, 140, 60))
-
-local miniParkourStartInput = Widgets.addTextField(carTab, "Checkpoint inicial:", MiniParkourShortcut.config.startCheckpoint)
-miniParkourStartInput.FocusLost:Connect(function()
-    local val = tonumber(miniParkourStartInput.Text)
-    if val and val >= 0 then
-        MiniParkourShortcut.config.startCheckpoint = val
-    else
-        miniParkourStartInput.Text = tostring(MiniParkourShortcut.config.startCheckpoint)
-    end
-end)
-
-local miniParkourEndInput = Widgets.addTextField(carTab, "Checkpoint final:", MiniParkourShortcut.config.endCheckpoint)
-miniParkourEndInput.FocusLost:Connect(function()
-    local val = tonumber(miniParkourEndInput.Text)
-    if val and val >= 0 then
-        MiniParkourShortcut.config.endCheckpoint = val
-    else
-        miniParkourEndInput.Text = tostring(MiniParkourShortcut.config.endCheckpoint)
-    end
-end)
-
-local miniParkourDelayInput = Widgets.addTextField(carTab, "Delay entre cada checkpoint (s):", MiniParkourShortcut.config.delaySeconds)
-miniParkourDelayInput.FocusLost:Connect(function()
-    local val = tonumber(miniParkourDelayInput.Text)
-    if val and val > 0 then
-        MiniParkourShortcut.config.delaySeconds = val
-    else
-        miniParkourDelayInput.Text = tostring(MiniParkourShortcut.config.delaySeconds)
-    end
-end)
-
-local miniParkourStartBtn, miniParkourStopBtn = Widgets.addTwoButtons(carTab, "Iniciar", Color3.fromRGB(0, 150, 0), "Parar", Color3.fromRGB(150, 0, 0))
-miniParkourStartBtn.MouseButton1Click:Connect(function() MiniParkourShortcut.start() end)
-miniParkourStopBtn.MouseButton1Click:Connect(function() MiniParkourShortcut.stop() end)
-
-MiniParkourShortcut.setStatusLabel(Widgets.addFullLabel(carTab, "Status: PARADO", Color3.fromRGB(100, 200, 100)))
-
-Widgets.addInfoLabel(carTab, "Igual o ciclo da aba Ramp: teleporta ate o MiniParkourEnter, dispara o prompt pra abrir a sessao, dispara os checkpoints em sequencia por remote (sem precisar andar ate cada um), espera o FinishMessage e repete sozinho ate PARAR. O FinishMessage do jogo vem com a recompensa embutida no texto (ex: +500 CASH).")
 
 Widgets.addDivider(carTab)
 Widgets.addSectionLabel(carTab, "QUEDA RÁPIDA (GRAVIDADE EXTRA NO AR)", Color3.fromRGB(0, 220, 220))
@@ -4390,18 +5074,6 @@ Widgets.addFeatureToggleButton(carTab, "Ativar Queda Rápida", ExtraGravity)
 ExtraGravity.setStatusLabel(Widgets.addFullLabel(carTab, "Status: DESLIGADO", Color3.fromRGB(100, 200, 100)))
 
 Widgets.addInfoLabel(carTab, "O pulo do JumpCar em si vem PRONTO do servidor (não dá pra reduzir a distância), mas a queda DEPOIS do pulo roda com física local, então isso soma uma velocidade extra pra baixo em cima do carro todo Heartbeat -- ele desce mais rápido depois de pular, sem afetar a dirigibilidade normal (a colisão com o chão já cancela essa velocidade sozinha). Editar o valor só tem efeito na PRÓXIMA vez que ativar.")
-
-Widgets.addDivider(carTab)
-Widgets.addSectionLabel(carTab, "DESTRUIR CARRO", Color3.fromRGB(255, 100, 100))
-
-local destroyCarBtn = Widgets.addButton(carTab, "Destruir Carro (Deletar Model)", Color3.fromRGB(200, 50, 50), 36)
-destroyCarBtn.MouseButton1Click:Connect(function()
-    DestroyCar.destroy()
-end)
-
-DestroyCar.setStatusLabel(Widgets.addFullLabel(carTab, "Status: PRONTO PÁRA DELETAR", Color3.fromRGB(100, 200, 100)))
-
-Widgets.addInfoLabel(carTab, "Deleta a model do carro do player, deixando você andar livre sem o veículo. Use quando quiser se mover a pé. Não dá pra recuperar depois -- vai ter que sair e entrar de novo no jogo pro carro reaparece.")
 
 -- --- ABA ANIM ---
 
@@ -4449,29 +5121,6 @@ animReapplyBtn.MouseButton1Click:Connect(function()
 end)
 
 Widgets.addInfoLabel(animTab, "IDLE toca separado (prioridade alta, sem reiniciar sozinho) e só fica ativo enquanto você tá parado -- solta na hora que anda/corre/pula, então não briga com o jogo. ANDAR/CORRER voltaram a ser 100% do jogo (sem forçação). Não precisa caçar o ID: toque o emote/animação que você já tem e clique CAPTURAR pra preencher o IDLE sozinho. Só funciona com animações que você tem direito de usar -- é permissão do próprio Roblox no ID. Reaplica sozinho se você morrer/respawnar.")
-
--- --- ABA WEBHOOK ---
-
-local webhookTab = tabFrames.webhook
-Widgets.addSectionLabel(webhookTab, t("sec_discord_webhook"), Color3.fromRGB(114, 137, 218))
-local webhookUrlBox = Widgets.addTextField(webhookTab, t("lbl_webhook_url"), "")
-webhookUrlBox.FocusLost:Connect(function()
-    webhookConfig.url = webhookUrlBox.Text
-end)
-local webhookTestBtn = Widgets.addButton(webhookTab, t("btn_test"), Color3.fromRGB(90, 90, 200), 32)
-webhookTestBtn.MouseButton1Click:Connect(function()
-    webhookConfig.url = webhookUrlBox.Text
-    sendDiscordWebhook("✅ Teste", "Webhook configurado com sucesso no MEGA RAMP HUB!", Color3.fromRGB(0, 190, 100))
-end)
-
-Widgets.addDivider(webhookTab)
-Widgets.addSectionLabel(webhookTab, t("sec_notify_when"), Color3.fromRGB(200, 200, 200))
-webhookToggles.limited = Widgets.addToggleRow(webhookTab, t("toggle_find_limited"), true)
-webhookToggles.memory = Widgets.addToggleRow(webhookTab, t("toggle_win_memory"), false)
-webhookToggles.hitslime = Widgets.addToggleRow(webhookTab, t("toggle_win_hitslime"), false)
-webhookToggles.event = Widgets.addToggleRow(webhookTab, t("toggle_activate_event"), false)
-
-Widgets.addInfoLabel(webhookTab, "Precisa que o executor suporte request/http_request/syn.request pra funcionar. Clique TESTAR pra confirmar que o link tá certo.")
 
 -- --- ABA JOGADORES ---
 
@@ -4633,143 +5282,14 @@ end
 
 refreshLeaderboardUI()
 
--- --- ABA SLIMES: equipar por índice + gift ---
+-- --- ABA SLIMES: aceitar gifts automaticamente ---
 
 local slimesTab = tabFrames.slimes
-Widgets.addSectionLabel(slimesTab, t("sec_equip_by_index"), Color3.fromRGB(0, 190, 100))
-Widgets.addInfoLabel(slimesTab, "Cada slime do inventário tem um índice (posição na lista que o jogo já manda pro client). Clicar EQUIPAR na lista abaixo dispara o MESMO remote que o botão do inventário do jogo dispara -- só que direto, sem precisar abrir a UI. Sobre prever o item da caixa (limited/rainbow etc): não dá -- o resultado é sorteado 100% no servidor e só chega pro client DEPOIS de decidido, sem nenhuma seed/prévia vazando antes. Isso aqui só funciona porque o jogo já deixa o client escolher livremente qual slime equipar/doar -- a raridade da caixa não passa por esse mesmo caminho.")
-
-local slimesRowsContainer = Instance.new("Frame")
-slimesRowsContainer.Size = UDim2.new(1, 0, 0, 0)
-slimesRowsContainer.AutomaticSize = Enum.AutomaticSize.Y
-slimesRowsContainer.BackgroundTransparency = 1
-slimesRowsContainer.LayoutOrder = Widgets.tabOrder(slimesTab)
-slimesRowsContainer.Parent = slimesTab
-
-local slimesRowsLayout = Instance.new("UIListLayout")
-slimesRowsLayout.SortOrder = Enum.SortOrder.LayoutOrder
-slimesRowsLayout.Padding = UDim.new(0, 3)
-slimesRowsLayout.Parent = slimesRowsContainer
-
-local function refreshInventoryUI()
-    for _, child in ipairs(slimesRowsContainer:GetChildren()) do
-        if child:IsA("Frame") then child:Destroy() end
-    end
-
-    local list = Inventory.getList() or {}
-    if #list == 0 then
-        local emptyLbl = Instance.new("TextLabel")
-        emptyLbl.Size = UDim2.new(1, 0, 0, 20)
-        emptyLbl.BackgroundTransparency = 1
-        emptyLbl.TextColor3 = Color3.fromRGB(150, 150, 150)
-        emptyLbl.TextSize = 10
-        emptyLbl.Font = Enum.Font.Gotham
-        emptyLbl.Text = t("lbl_waiting_inventory")
-        emptyLbl.LayoutOrder = 1
-        emptyLbl.Parent = slimesRowsContainer
-        return
-    end
-
-    for i, item in ipairs(list) do
-        local row = Instance.new("Frame")
-        row.Size = UDim2.new(1, 0, 0, 26)
-        row.BackgroundColor3 = (Inventory.getEquippedIndex() == i) and Color3.fromRGB(0, 90, 50) or Color3.fromRGB(40, 40, 40)
-        row.LayoutOrder = i
-        row.Parent = slimesRowsContainer
-
-        local itemName = tostring(item.Name or item.Rarity or "?")
-        local lbl = Instance.new("TextLabel")
-        lbl.Size = UDim2.new(0.75, -6, 1, 0)
-        lbl.Position = UDim2.new(0, 6, 0, 0)
-        lbl.BackgroundTransparency = 1
-        lbl.TextColor3 = Color3.new(1, 1, 1)
-        lbl.TextSize = 10
-        lbl.Font = Enum.Font.GothamBold
-        lbl.TextXAlignment = Enum.TextXAlignment.Left
-        lbl.Text = "#" .. i .. " " .. itemName .. " (Lv" .. tostring(item.Level or 1) .. ", $" .. tostring(item.Income or 0) .. "/s)"
-        lbl.Parent = row
-
-        local eqBtn = Instance.new("TextButton")
-        eqBtn.Size = UDim2.new(0.25, -6, 1, -4)
-        eqBtn.Position = UDim2.new(0.75, 0, 0, 2)
-        eqBtn.BackgroundColor3 = Color3.fromRGB(0, 120, 200)
-        eqBtn.TextColor3 = Color3.new(1, 1, 1)
-        eqBtn.TextSize = 10
-        eqBtn.Font = Enum.Font.GothamBold
-        eqBtn.Text = (Inventory.getEquippedIndex() == i) and t("lbl_equipped") or t("lbl_equip")
-        eqBtn.Parent = row
-
-        eqBtn.MouseButton1Click:Connect(function()
-            Inventory.equipByIndex(i)
-        end)
-    end
-end
-
-Inventory.setRefreshCallback(refreshInventoryUI)
-refreshInventoryUI()
-
-Widgets.addDivider(slimesTab)
-Widgets.addSectionLabel(slimesTab, t("sec_manual_equip"), Color3.fromRGB(200, 200, 200))
-local manualIndexBox = Widgets.addTextField(slimesTab, t("lbl_index_manual"), "0")
-local manualEquipBtn = Widgets.addButton(slimesTab, t("btn_equip_index"), Color3.fromRGB(0, 120, 200), 32)
-manualEquipBtn.MouseButton1Click:Connect(function()
-    local idx = tonumber(manualIndexBox.Text)
-    if idx then
-        Inventory.equipByIndex(math.floor(idx))
-    else
-        addLog("[SLIMES] [!] Índice inválido")
-    end
-end)
-
-Widgets.addDivider(slimesTab)
-Widgets.addSectionLabel(slimesTab, t("sec_send_gift"), Color3.fromRGB(255, 140, 220))
-local giftPlayerBox = Widgets.addTextField(slimesTab, t("lbl_gift_target"), "")
-local giftIndexBox = Widgets.addTextField(slimesTab, t("lbl_gift_index"), "0")
-local giftSendBtn = Widgets.addButton(slimesTab, t("btn_send_gift"), Color3.fromRGB(200, 60, 160), 32)
-giftSendBtn.MouseButton1Click:Connect(function()
-    local target = findPlayerByNameFragment(giftPlayerBox.Text)
-    local idx = tonumber(giftIndexBox.Text)
-    if not target then
-        addLog("[GIFT] [!] Jogador não encontrado: " .. tostring(giftPlayerBox.Text))
-        return
-    end
-    if not idx then
-        addLog("[GIFT] [!] Índice inválido")
-        return
-    end
-    sendGiftByIndex(target, math.floor(idx))
-end)
-Widgets.addInfoLabel(slimesTab, "GiftAction:FireServer(\"RequestGift\", jogador, índice) é o MESMO remote que o prompt \"Gift Slime\" dispara ao lado de outro jogador -- pode ser que o servidor exija estar fisicamente perto do prompt dele antes de aceitar; se não funcionar de longe, é o servidor validando distância (bom sinal de segurança).")
-
-Widgets.addDivider(slimesTab)
 Widgets.addSectionLabel(slimesTab, "ACEITAR GIFTS AUTOMATICAMENTE", Color3.fromRGB(255, 140, 220))
 
 Widgets.addFeatureToggleButton(slimesTab, "Ativar Aceitar Gifts Automaticamente", AutoAcceptGifts)
 
 Widgets.addInfoLabel(slimesTab, "Quando alguém te manda um gift, dispara GiftAction:FireServer sozinho com as variantes de aceitar mais prováveis E clica sozinho em qualquer botão de confirmação (Aceitar/OK/Confirmar/Accept/Yes/Sim) que aparecer na tela -- cobre tanto o caso de aceitar direto por remote quanto o de precisar confirmar num popup. Desativar para de aceitar sozinho.")
-
-Widgets.addDivider(slimesTab)
-Widgets.addSectionLabel(slimesTab, "TESTE DE DUPLICACAO NA BASE (experimental)", Color3.fromRGB(255, 90, 90))
-
-local dupeTestCollectBtn, dupeTestPlaceBtn = Widgets.addTwoButtons(slimesTab, "Testar Collect (15x rapido)", Color3.fromRGB(150, 0, 0), "Testar Place (15x rapido)", Color3.fromRGB(150, 0, 0))
-dupeTestCollectBtn.MouseButton1Click:Connect(function() SlimeDupeTest.testCollect() end)
-dupeTestPlaceBtn.MouseButton1Click:Connect(function() SlimeDupeTest.testPlace() end)
-
-SlimeDupeTest.setStatusLabel(Widgets.addFullLabel(slimesTab, "Status: PARADO", Color3.fromRGB(100, 200, 100)))
-
-Widgets.addInfoLabel(slimesTab, "EXPERIMENTAL: o ProximityPrompt so abre uma tela de confirmacao (mostra o slime + botao COLETAR/POSICIONAR) -- a acao de verdade e esse botao de DENTRO da tela, entao isso dispara o prompt 1x, espera a tela abrir, e clica nesse botao 15x bem rapido (mais rapido que um clique humano) pra testar condicao de corrida no servidor. TESTAR COLLECT precisa de um slime JA posicionado na sua base. TESTAR PLACE precisa de um slot LIVRE e um slime EQUIPADO na mao. Compara o inventario antes/depois e avisa se sobrou mais item do que deveria -- se der +1/-1 normal, nao achou brecha. Roda uma vez de cada, olha o log. IMPORTANTE: pare o ciclo automatico da aba Rampa antes de testar -- a tela de abrir caixa (COLETAR + 6x MAX) pode abrir por cima e atrapalhar.")
-
-Widgets.addDivider(slimesTab)
-Widgets.addSectionLabel(slimesTab, "ATIVAR EVENTO (ONDE VOCÊ ESTÁ)", Color3.fromRGB(100, 220, 255))
-
-local activateHereBtn = Widgets.addButton(slimesTab, "Ativar Aqui (CollectPrompt)", Color3.fromRGB(0, 150, 150), 34)
-activateHereBtn.MouseButton1Click:Connect(function()
-    ActivateEventHere.activate()
-end)
-
-ActivateEventHere.setStatusLabel(Widgets.addFullLabel(slimesTab, "Status: PRONTO", Color3.fromRGB(100, 200, 100)))
-
-Widgets.addInfoLabel(slimesTab, "Vai até uma base (manualmente, andando/dirigindo) e clica no botão. Ele encontra o CollectPrompt mais próximo (até 100 studs de distância), dispara, clica no botão de confirmação COLETAR e pronto -- tudo no local onde você está, sem teleporte. Cada clique = uma ativação. Ótimo pra farmar slimes de outras bases que deixam a base aberta com slimes posicionados.")
 
 -- --- ABA CONFIGURACOES ---
 
@@ -4801,6 +5321,156 @@ langEnBtn.MouseButton1Click:Connect(function() setLanguage("en") end)
 langEsBtn.MouseButton1Click:Connect(function() setLanguage("es") end)
 
 Widgets.addInfoLabel(settingsTab, t("settings_info"))
+
+Widgets.addDivider(settingsTab)
+Widgets.addSectionLabel(settingsTab, "ADMIN ABUSE", Color3.fromRGB(255, 90, 100))
+local openAdminAbuseBtn = Widgets.addButton(settingsTab, "Abrir/Fechar Painel Admin Abuse", Color3.fromRGB(185, 45, 50), 34)
+openAdminAbuseBtn.MouseButton1Click:Connect(function() AdminAbusePanelFeature.toggle() end)
+
+local adminMaskState = { enabled = false }
+local adminMaskBtn = Instance.new("TextButton")
+adminMaskBtn.Size = UDim2.new(1, 0, 0, 30)
+adminMaskBtn.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+adminMaskBtn.TextColor3 = Color3.new(1, 1, 1)
+adminMaskBtn.TextSize = 12
+adminMaskBtn.Font = Enum.Font.GothamBold
+adminMaskBtn.Text = "Mascara Admin (Client-Side)"
+adminMaskBtn.LayoutOrder = Widgets.tabOrder(settingsTab)
+adminMaskBtn.Parent = settingsTab
+adminMaskBtn.MouseButton1Click:Connect(function()
+    adminMaskState.enabled = not adminMaskState.enabled
+    adminMaskBtn.BackgroundColor3 = adminMaskState.enabled and Color3.fromRGB(0, 130, 60) or Color3.fromRGB(60, 60, 60)
+    AdminAbusePanelFeature.forceAdminMask(adminMaskState.enabled)
+end)
+
+local grantAdminBtn = Widgets.addButton(settingsTab, "Solicitar AdminAccess", Color3.fromRGB(220, 100, 30), 34)
+grantAdminBtn.MouseButton1Click:Connect(function()
+    addLog("[BYPASS] Iniciando exploit de admin...")
+
+    -- TÉCNICA 1: Injetar hook na isAdmin() se estiver acessível
+    pcall(function()
+        if _G.isAdmin and typeof(_G.isAdmin) == "function" then
+            local originalIsAdmin = _G.isAdmin
+            _G.isAdmin = function(userId)
+                if userId == LocalPlayer.UserId then
+                    return true
+                end
+                return pcall(originalIsAdmin, userId) and true or false
+            end
+            addLog("[BYPASS] ✓ isAdmin global hooked")
+        end
+    end)
+
+    -- TÉCNICA 2: Hook no RemoteEvent.FireServer pra interceptar validação
+    pcall(function()
+        if AdminAbuseRemote then
+            local originalFire = AdminAbuseRemote.FireServer
+            AdminAbuseRemote.FireServer = function(self, action, ...)
+                if action == "GrantAdminAccess" then
+                    addLog("[BYPASS] ✓ GrantAdminAccess interceptado - enviando...")
+                end
+                return originalFire(self, action, ...)
+            end
+        end
+    end)
+
+    -- TÉCNICA 3: Tentar explorar metatable do remote para injetar resposta
+    pcall(function()
+        if AdminAbuseRemote then
+            local meta = getmetatable(AdminAbuseRemote)
+            if meta then
+                addLog("[BYPASS] Metatable do AdminAbuseRemote encontrado")
+            end
+        end
+    end)
+
+    -- Enviar a requisição REAL pro servidor
+    if AdminAbuseRemote then
+        AdminAbuseRemote:FireServer("GrantAdminAccess")
+        addLog("[BYPASS] Requisição GrantAdminAccess enviada pro servidor")
+    else
+        addLog("[BYPASS] ✗ AdminAbuseRemote não encontrado!")
+    end
+
+    -- TÉCNICA 4: BYPASS REAL - Trocar UserId pra admin conhecido
+    local ADMIN_USERID = 9775402215
+
+    -- Interceptar FireServer e trocar o UserId nas requisições
+    pcall(function()
+        if AdminAbuseRemote then
+            local originalFire = AdminAbuseRemote.FireServer
+
+            AdminAbuseRemote.FireServer = function(self, action, data, ...)
+                -- Injetar UserId admin em qualquer requisição
+                addLog("[BYPASS-USERID] [↓] " .. tostring(action) .. " - injetando UserId admin")
+
+                -- Tentar adicionar UserId admin ao payload
+                if type(data) == "table" then
+                    data._AdminUserId = ADMIN_USERID
+                    data._PlayerId = ADMIN_USERID
+                    data.UserId = ADMIN_USERID
+                end
+
+                -- Enviar a requisição MODIFICADA
+                return originalFire(self, action, data, ...)
+            end
+
+            addLog("[BYPASS-USERID] [✓] FireServer interceptado - UserId " .. ADMIN_USERID .. " será injetado")
+        end
+    end)
+
+    -- Injetar o UserId admin em variáveis globais
+    _G.CurrentAdminUserId = ADMIN_USERID
+    _G.BypassedUserId = ADMIN_USERID
+    addLog("[BYPASS-USERID] [✓] UserId admin injetado em _G")
+
+    -- Modificar isAdmin pra aceitar o UserId admin
+    if _G.isAdmin and typeof(_G.isAdmin) == "function" then
+        local originalIsAdmin = _G.isAdmin
+        _G.isAdmin = function(userId)
+            if userId == ADMIN_USERID or userId == LocalPlayer.UserId then
+                return true
+            end
+            return pcall(originalIsAdmin, userId) and true or false
+        end
+    else
+        _G.isAdmin = function(userId)
+            if userId == ADMIN_USERID or userId == LocalPlayer.UserId then
+                return true
+            end
+            return false
+        end
+    end
+    addLog("[BYPASS-USERID] [✓] isAdmin modificado para aceitar UserId " .. ADMIN_USERID)
+
+    -- ENVIAR REQUISIÇÃO COM UserId FALSO
+    if AdminAbuseRemote then
+        addLog("[BYPASS-USERID] [↓] Enviando GrantAdminAccess com UserId injetado...")
+        pcall(function()
+            AdminAbuseRemote:FireServer("GrantAdminAccess", {
+                _AdminUserId = ADMIN_USERID,
+                _PlayerId = ADMIN_USERID,
+                UserId = ADMIN_USERID,
+            })
+        end)
+        addLog("[BYPASS-USERID] [✓] Requisição enviada com UserId " .. ADMIN_USERID .. "!")
+    end
+
+    -- Ativar máscara admin também (local-side)
+    adminMaskState.enabled = true
+    adminMaskBtn.BackgroundColor3 = Color3.fromRGB(0, 130, 60)
+    AdminAbusePanelFeature.forceAdminMask(true)
+
+    addLog("[BYPASS-USERID] [★] BYPASS REAL ativado! Se não vir admin ativar, o servidor tem validação adicional.")
+end)
+
+Widgets.addInfoLabel(settingsTab, "SERVIDOR: Atalho pro painel de admin do jogo (3x boxes, tree rush, coins, anúncios, sequência 30min). 'Solicitar AdminAccess' manda solicitação pro servidor, que valida seu UserId e responde com AdminAccess=true se você está na lista de admins.\n\nCLIENT-SIDE: 'Mascara Admin' força admin só no seu lado (sem passar pelo servidor) -- destranca todos os botões do painel pra testar. Funciona 100% localmente, mas as ações só fazem efeito de verdade se o servidor reconhecer admin de fato quando você clica.")
+
+Widgets.addDivider(settingsTab)
+Widgets.addSectionLabel(settingsTab, "LOG DO HUB", Color3.fromRGB(200, 200, 200))
+local copyLogBtn = Widgets.addButton(settingsTab, "Copiar Log Completo (Clipboard)", Color3.fromRGB(90, 90, 200), 34)
+copyLogBtn.MouseButton1Click:Connect(function() copyHubLogToClipboard() end)
+Widgets.addInfoLabel(settingsTab, "Copia as últimas " .. HUB_LOG_BUFFER_MAX .. " linhas de log (com horário) pro clipboard, prontas pra colar -- assim não precisa mais de print de tela do console pra mandar o log.")
 
 -- --- RESPONSIVO + MINIMIZAR ---
 
