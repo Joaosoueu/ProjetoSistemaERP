@@ -2151,34 +2151,28 @@ local function sellAllSlimesBlocking()
     end
 
     sellingAll = true
-    addLog("[*] Vendendo todos os slimes...")
+    local countBefore = #latestSellList
+    addLog("[*] Vendendo todos os " .. countBefore .. " slime(s) de uma vez...")
 
-    local sold = 0
-    local stuckCount = 0
+    -- O v4 adicionou um botão "SELL ALL" de verdade no jogo -- em vez de
+    -- vender item por item (FireServer("Sell", index), um de cada vez,
+    -- esperando a lista encolher a cada chamada -- lento e o motivo do
+    -- loop com stuckCount/timeout antigo), agora é só uma chamada:
+    -- FireServer("SellAll") vende o inventário inteiro no servidor de
+    -- uma vez, exatamente como o botão SELL ALL do próprio jogo
+    -- (achado no .rbxlx do v4, dentro de setupSellSlimeUI -- o botão só
+    -- dispara SellSlimeActionEvent:FireServer("SellAll") e mais nada).
+    pcall(function() Remotes.sellSlimeAction:FireServer("SellAll") end)
 
-    while latestSellList and #latestSellList > 0 and stuckCount < 20 do
-        local sizeBefore = #latestSellList
-        local item = latestSellList[1]
-        local index = item and item.Index
-
-        if index then
-            pcall(function() Remotes.sellSlimeAction:FireServer("Sell", index) end)
-            sold = sold + 1
-            addLog("[✓] Vendido slime #" .. sold .. " (Index=" .. tostring(index) .. ", restam ~" .. (sizeBefore - 1) .. ")")
-        end
-
-        local start = tick()
-        while latestSellList and #latestSellList >= sizeBefore and (tick() - start) < 1.5 do
-            task.wait(0.05)
-        end
-
-        if latestSellList and #latestSellList >= sizeBefore then
-            stuckCount = stuckCount + 1
-        else
-            stuckCount = 0
-        end
+    -- Espera a lista esvaziar (ou até 3s -- folga generosa, o botão real
+    -- do jogo já considera a venda concluída depois de 1.5s) antes de
+    -- seguir pra fechar o painel.
+    local start = tick()
+    while latestSellList and #latestSellList > 0 and (tick() - start) < 3 do
+        task.wait(0.05)
     end
 
+    local sold = countBefore - (latestSellList and #latestSellList or 0)
     addLog("[+] Venda finalizada! Total vendido: " .. sold)
     sellingAll = false
 
