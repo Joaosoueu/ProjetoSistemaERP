@@ -99,7 +99,14 @@ end
 
 -- ======================= JANELA PRINCIPAL =======================
 local existing = playerGui:FindFirstChild("EventsLabHub"); if existing then existing:Destroy() end
-local screenGui = new("ScreenGui", playerGui, { Name="EventsLabHub", ResetOnSpawn=false, DisplayOrder=998, IgnoreGuiInset=true })
+-- DisplayOrder alto: fica ACIMA do modal de Offline Earnings (DisplayOrder=10030),
+-- que senao cobriria/esconderia o hub e impediria o clique.
+local screenGui = new("ScreenGui", playerGui, { Name="EventsLabHub", ResetOnSpawn=false, DisplayOrder=10050, IgnoreGuiInset=true })
+-- guard: o modal de Offline chama hideOtherGameUIs (Enabled=false em todas as ScreenGuis).
+-- Isso re-habilita o hub na hora, mantendo ele clicavel durante a janela de coleta.
+screenGui:GetPropertyChangedSignal("Enabled"):Connect(function()
+    if not screenGui.Enabled then screenGui.Enabled = true end
+end)
 
 local TITLE_H = 32
 local frame = new("Frame", screenGui, { Size=UDim2.new(0,380,0,460), Position=UDim2.new(0,420,0,60),
@@ -568,7 +575,8 @@ end)
 -- ======================= EDITOR DE SCRIPTS (overlay) =======================
 local function openScriptEditor()
     local sg = playerGui:FindFirstChild("ScriptEditorGui"); if sg then sg:Destroy() end
-    sg = new("ScreenGui", playerGui, { Name="ScriptEditorGui", ResetOnSpawn=false, DisplayOrder=1000, IgnoreGuiInset=true })
+    sg = new("ScreenGui", playerGui, { Name="ScriptEditorGui", ResetOnSpawn=false, DisplayOrder=10060, IgnoreGuiInset=true })
+    sg:GetPropertyChangedSignal("Enabled"):Connect(function() if not sg.Enabled then sg.Enabled = true end end)
 
     local W, H, TH = 720, 520, 28
     local RX = 266
