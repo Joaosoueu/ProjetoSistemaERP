@@ -1,1 +1,5810 @@
-return(function(...)local ZG={"lufB";"lddHg<?Rens[.f","ll=A1)ieg";"l+S8I>Za]U$]u-m+9N*+^(5?EP]<CH.r$aR/HXS?W%<gE]Uek[H1BZN3bd<2_CTCs";"lg?YC)ed*^,","lb,0n#ho";"lg%\'%g!3:Z";"l[>KA:()iQ","l$!2/","lt(a^Pk8VF?)]7a%[EI/9G3;55o<?8AXa%","lZ98fP4+\\7G7rrR9@^M","lCH\'@Hj^e&";"lXW(NT<B2","lT`d0";"l7ThP7Y#F^s@Bk]\"nBiC^/+;c";"l(b4&GP_hZ&F1DR","lf=6Z[E?X/YM!","l5,E,","lGEp`)FcDcu","l\\T\"FhBE7#d9@&iH5I\"/lh>_i%=I?=\"N;V4^NocU";"lQ;%`HD+&";"lj\\Fu/cm9^";"l,k6ErTr]";"l3M6lue>b<S-]>Kr(=0X1V2";"l%\"6We0Ro.gl+C-j+#","lYrm(DdZWqVJXqL2@)F)`l%";"llgQaC,h+)7[F6[(m`#s2@[0?iBt+","l!Sa","l]$<)kbVB^:";"lBg,6M(B,-\"GV05+?tDDKF9UQ3hqo\\S%M<V.c7@p@rL%ta#h0`3Wm,B7gunb=FCS(W?_l2a=p??]om\"","lrr,u","l9:BdnfLtH5";"luP,p#00mKH!ZL","l3eQIi@kYNR^509@d(";"lY6Dc%l6hbORouosmYn<CW:&QK9g","lBW=L7PNU#U8HT(=?\"O4TGWB0DT=JZ]#HCkr1-uG(R@prf`!0t=i06I3L&R\\!_8BK_2q[!+Z[%^","l9L</D";"lK`Ip","lbcha";"l/NNR^/T#>-";"lW\"LQM*WFNL;BV","lbCPY<(K!#XY^>Xbg\\)kDZ.r9>";"l==O$s?Vtba1+Wjd";"l\'qh9";"lg.+<uGMa.2@7g","l#pf*#";"l*R4sE)461paJq\"X";"lfRb1:/RSrI";"l@`luH>Z!k4","lV3","lq)p";"lmDY4_l,?6gX0q3i>dQ(&.V";"lWDdA^)E,s","l\\dH3Ff,oe$";"l&@t","l<_2?)?Bf2sK+\\5G$c";"l53n@5R[","lYqd","lHVgdYkaj","l*pmig";"lN,j:J9o`28G];eh","l<\\UDp";"l3`uGEh4Yp<";"l28R";"lUP0Qo";"l[ip?,<Ygt?FUe;p;XtNo$#PX";"l3Y$K&:h65JO\\8HoR@:tl),d>6!>AG7","lWY8e!&AA","lMV!G5N7FbDQqQXrgA^(aJs?F<Z-/\"=d+","lWfl3_";"lYY^T&g90\'DF(GG2&^CfCV.UB0mus*f>3@m!Bj2SLdm6GSd:9h","l$+dcL4(ESSJTEHaD>dZH4oV\'&2JGchSJ\'+";"lBu(K8*2?";"lK\'*?K7`";"l*N1t9#_>!7LD_QmlQXIA\"tK?","l^g)(W;8b#Yq??=F)QFTZ.C3m";"l:grks<;^P\\8Q\\\\=7#UIN","l4Ke\'3";"l2;i>MJ0Z@";"lAi]85&^)!s#VfA/b1(";"lb14j7=_os):\";Wl/8$S1AT;o`k^oT+r6\\m4Cs=mpb\'Uh!pu&0";"lFmi!j%M#J3Hnp";"lBceFM5TS5(>Ml6","lH]#;";"lZ7M","lCQ<-)Eh+T5c[";"l=lgrAtn8o+9qWQo","lp#6#","l+5qoW","l]>d","l\"&c>SRNH";"l4jKOt^VtY!]tW-27#GZ\'54";"lpC";"l8#N6>=j>","lkI/g";"l_S\'nFTQ%]\"Z)Gjl";"l29BK>u`Jlu$&Y","l1+1aHMOkA5Z05V9CJ!@_/Qi","ld<qG$E^\'P6@+?q_;`=";"lODt.","l<EjFD";"ldr";"lpa,D";"lo14^cpIb\'7)6\\sCFs6/cKU@cYJ%","lf/Y5A5KB";"lVKR#";"lJtt\\A","l4T\\L)pJ7E","lp@E@R_Yq]`FaD\"","lWF<";"l.]g9","lGW\\";"l7T0[L!_`@7","lfH;";"lMof";"lMlqT;1DKV","l`!ldlE&5/3u?:?!Xe";"l`Uup#KA9im;=_VrN`K5iBEg;2";"l]Z8r1Oe/","l4cZ%5%<&PB`3";"ld@jSWmr>","lZMdBp`+8<*`jm)[AXBQS>O*_BABFjD","l`TDu?G7","lJi/.4._k","llHm<\"","l@JZuj";"lFG;M[0/;RZ!\"F;KBlYJ.)%je&&e9@l,N7+Z9eJShY^,","l^7nu,LKbeWQ>_XJdlZ&Qbk\'s-k8=m5q_qC`TubId-&L,scNd19.^%8-lAQ*9eUqJ=_QNEiX\"#\"=a=dPdGMP.7NKSBGdWU[d:ZiJ@CpKh`+j:k&R9Ca=<3ubuS,ru(%Cs<4>q-HPbq9/i1Pn#[U$g3_Hd\\VgBib%Hh5`C\\oR4#Mq]cAeLV\'m<Zc:]#@MoTCW^LdJuY[8N?o,i[>fPY:us=MN\'tiW)K8Y6EcA[J,LBLn@03`@KrOQ#7(rJA\"h,@S6*?-28QVW;34lf\\XE&Sq>e#UM4\'?72`]Yln$,fYH6uXf2ZS>,KEh(OlWQja3!2?$uVSMt2nq`ePj]g44=I9<8n=Bq7ou)l:jHit";"ldi>kZr2ATX;;S";"l#j+Hqf69H";"l_c","lqGukqNem";"l?=I>o";"l(q?[iJ\\%hllM";"l(\"(";"lqsl]=t.L";"ltp8";"l$N1=";"l-VB";"lG6\'#41P,";"lL)X3HT89ebIe_.dSm`7q","l<a_(!N>";"lYEB6s_7","l;%Vg%Q5m","lu.M^e%-/","l:bC\\7";"lGt*$Z@5";"lS6n1%8kbD/%[";"l#E!:C";"l4[\"5utL%M8!]lGJ.X4L-n>";"l>uqYH5j7>Zf.5:","l\\gd9^\'t9RPF%@(h^Wh";"l","l.qI\"CnF<^k#;T=u7Ea=!\";O!NN/*","lM*T+mKVqKma`G94";"l$i;+G";"lE4]R/F;>";"l@\'6Zr,I@bJfus\'Sp>u&n7X^5";"leMK,DMG>&*E%I&jQYua:";"lP]qW","lXa!T<.tQm?nNJ?]gSk8M","l\"7<G-V!D)(";"lK[q!!","ltMa<(35o$!cX_-9p9:","lh1?UNW:1*#*#hV(H=]S+";"l5\'el-Q;J","lo3iT9l,I2L<A\"VYQa*5k-n;#4J0&","l=JV:a7k!iel(OU,*GE%Z:\\*5h)Y*2G^7+\\SE?i8oghNJ";"li8C0_+#\"uQdWtmdS>OMmPXK?Q5ort&VL\"lLN3\\1ZfaUQ:tp;.1S<+tO";"ll\"m7)1CPoi";"l;S_";"lDc\'f?<TfA.","l:=F$","l1/*\'Hqbd:&Fg6tV[Jl";"lKIK0J<YQ3.DOs/Q";"lcbC>ojm!O","lmK\\A0","lO+-!Sf7","lBf1Njf,J*g","l2;fL&]?";"l!t\"03@q;.sR<`nfhMZDN<g\"","l\\paU+KHNkllr5%Z5@]\'S";"lTlHFru@`CM4BIJK";"lo[hFVS8>)Vu,i,eJTeLo","lIu2CWJ:eCd.Pg\"5(cg`f%\\@Gi7:2eU-:8";"l(T.N9Ha>ia0r","l3bm","l-CPQo>&t5@0dCHku\\,iuS[.[2";"lo<)_e!-o$udR2MA","lQ,=_M2$I/[2@UGV@Og","lkk\'D","l\';=\"t","lg@oNWSZ";"lUba\"Ko^`3qGIS";"l\';6.g91Ub\'","l_@,<Le&rq@Z)4>!ho","lZKW@L]Mc2B`(Z@U","l&%","lNP3i^0QB((9$Q7B=;,MU(,Eq+,W5`.qrL:Xra[ePgWYg7]._";"l*@S#1";"l0-dX","lYet";"l1nOg<3`tmWE=6","lOkF5i>KjLNNI","lD`=I0/)(gr/ug>DBZK\'i<#t<28kF";"l9Ncp\"VIRp>W3O","lW8\"hQ<PUmP","lL=f";"l;7qL:@U+R7*A2W6kni0`Lo\\\\Fi?i:Re(=?F*LK&4%^k1)BcX","lZ\"@V1","l9dD/L2n","lIJ9t\\jelM*A`Hbj9rI38","l3BNNR%4_IWe`-^;(l88/";"l>%@#>0BRh","lcG/?G\\9B5,I$=u1DlA","lUpqOMj;F\\";"lZA0=(";"lO8M+hiK@","lpmlro>oFL1REEduB>","liGBP";"ll:VcP&RHC";"lrB9E-J>%","lj\'0Tc";"l\'@Ek5iks";"l:Vo\"k:q:`orAO9AUe]Gi[>";"lthi7D,Tul","lR1)9k\";e,";"lk4;<Gm(>o+RO_";"le93`rr?Z%&dpN2i";"lYAD-U","l<L??L[kD9_9-uXd?,q";"lV,MNL?](dAKt(rAZ]p8","l=9*","lq![_";"lfiX*kY.A0+VLKrq";"l.\\\'K:nHT[";"lN7b","lK#bb2g4\'<SX\'1i)([HH%9ku;s-W,98D@Q=-2n";"l4YXnE]t=HC[bdS)N_/).\\\'rkatp.HP&D(N$Y))bD>W$@h[I";"lYl\'FcF?s*plSkck?6es%(8YgA]2,";"l!^.X=g!";"ldU9@sfZXYs%ZW\"";"lIKJ2?;Vc`YD)mAW";"l%D)","l2Md";"lGDn!";"lG#gZBhu<6";"lQ?0WZ";"l..>RWO))\\E:bfACHg@do\"_\"!";"lX7B_J\\+[,dI%6O/AGZY";"l9@R";"lVE2&6Ee*C","lZhLs#LM";"l1P`g";"luk!\"lNET*hc@G)VGm(a%";"l#WD","lS4Y[NFtto","lP?R)";"l:#6j:\"0J0D","l&(1u(T$%#Jej*PT.^TTW$pu0>TQTU(faAP-C=S;","lm:FbOmc\\.E@5","l%NKWsJOEL_(\"%","lfr\\DkE1@p$>6[Fttd$5GhZ_rpin7OQloFJVKGf!ijR\\0Z1.*uaTbe&)#7H1Md\\)7uIhq+Dh7_WE,QbX8jDsejTYrfd(488`5R&Q;)a%<K=OjU<WN#t";"l$=PX?dU+#i1%m[,L$>","l$Uk7&:k6","l\'Sn.`eN906Q9ak6jWG\"!m(?A\'gijd:mR*JHlM9oLtBFga0i.]DAo8@<K<?FIt(Xk6\"]tfZ7AJ-.?IV2ar5=I&brGi*Ysp0MS7Pr","llg=";"lu)J@G7&t0_>!5+K(K:.=3u7g";"lHU@bkLj(Zt","l%ak5G";"lp1ie[Vqr","l3\'D(erDRm","l<F8!_.2aE\"458rSA=kL3?$>K@&84&alTr#*?rfT_S\";Q@_MSRn*g","lBE2;2Af=","ld`hQZ9(BdE[=","l]Y-&6ch#";"llTn";"l`WZ";"lX8Y=fh[K#[N>";"lN],sf*5Gi,@]\"4ZGsPG(0QBb5VA-6Q/RVCS","l!#K,p","l;#Y0bY><K2:l@Tu/Om";"lk]YBSl&G)C,^8CVoQ8\\@nI";"lP($U-_aA-V[\'i<2@7:$#FM\'\"n\"a6?X","l[>";"l$Z)`JUM2IC$5rmoVb&","lE154jrT@5X*=t:kkdFb","lS+jO","l:i6";"luIsR";"lpbJj";"lj=jFJT5U`2qNA,Qf[2m6Z$qDnNYprQYU4p","lhmciuH%PuoZ)7]NBa]dZ>c7cUp3&h%ePEN4_^+Uu34eO&(P>kQ<G,R2Vd!0%BsF","lNl!!+R`,C(Z.qO%#&p*T";"ltI6J5Nid+,FkL[&*eBCL>@C8q","lCIls5E4";"ln@?","lr!Pc9";"lb*;C6bE[@lrc\'k!U(Q";"l4Qc+d@)\'t5kd=";"lX74@[09pe1UNR\\#]Q!+mWTIajUDF-Qqn8\"40+OWlc`f,aP\')l@AN>Kf5q,ZhAN_AhdH1lJ/Xe`R;StG`RX*H?22n^hTT/2%n;+t\'e^dEU8sVsBIickE-(RY%FX[#RZ%292p6O+s=Z>?)_jWplg,1,(D7Vr7,!>aV\\UtMNN<j,mBd*PA.kp\'@,^Kl38UICaWr8mdotI_4e_b`FgP^pM";"l$Wsl","l=ilSat,D(oTp9Q","lhdX/ub?EQJ#0/Ds","l1:Lq)";"l`;>h71@Z0JbDA:#4s1nI$5/rn)rJ\")3*0u>-Ok","l]WCPlna^im:lGT(1\':L";"lAsS9%\'2*aU","lt!XTo!%^6^.S#k@[X\"KjBHT;?<Ipk","lg1\\";"l*Q5)h7D(!&R^Wr";"lUF@CQt5[[=U-4UL#g#&aeN";"ld<8<";"l/1J*r";"l+P6+J89u(aH69+=T8m","lL3)d,";"l[\'d";"l,8aN";"l4qo0:7%\"r&mTi6(";"l]0X;!+%Y)+`2W;mCoX3AQkkE%9G]SSSGp51N4PGOQEjEaH`R5$BEF)^";"lnHmV","lc,CQk2K^D/o$j6O>6)$Z!4","lLu]<G.AkC8c`h5";"lF9X9B]LfQ";"l\"HRT@(0ufjbI9qIV6X3tR5A)LHVS","l_hq?_XWfr&,:AN:BiFqVb1L`rQ/IBO:m#9k!bfpODt%N8=#%:pBkO4n$dAeALPH`p\\[oJ4V6;r\'Yq]V+i,a$BKM","lr+36[X,tcokGS/X`\"%3";"lGYlW";"l&Tl3]]K*";"l>5(c=M0QU+<+b&";"lF127/UE)2,*aOcr]kU_]k)/","l<R#Mb";"lVb,q\"r_]o@4`Q";"lna)<+%I1Xj-$OSkkX]3,8^2(:E%dX/13<SE+_7+R";"lMKJOX`=mhgObE.#8*A","ljq$pTeiFp]Yl`b^9UO>?;E^*e1^<:9Ls@E)<1G:F^u_^)K\'Xo/HDVqJX#OG89C9YRie^1%0QVLL_PZo?2C";"l1WO/hlX","lD)P6b&>C";"lItSW3.j?\'d?jC&";"lS(,oIi?#6rNjjKIn=","lT(=I?$<sAFl!nICb=H-D&Bf$V/G#","l\'b=s]!)&B","lfA;o/KcGm";"l\\?_%3h6[9>FeIDU!EXZ=1T.6l[3X,1%*el3erqd`g+>VT)i0<HbNFnb2coDmDc!sdR_^J#8=","l+G)AV*8S65U;9t6:dE","l=lra8Hugg";"lp^9","lkY,)hQ`tr.Z7GtC","l%C*p";"l5h#Ju<@";"l=+%G894,VJ$Lapp";"lZrO#\"VgY<c";"l\\E)]]lUC4\'tT5n]o/W),AV)=o","l2ZaR/iP$0]juAP4XaN9m;(","lq7tY\'1&-3`88jb\'","l/F0O2.^H@n(MDZO";"lX1@/a)F?=d>[k","lkY/%s,U(>%nc:i.n>\'","le\\-ij=SgOTbBD)?","l>bmj#(%>pF8iN</","lBGVGR>+:R1[=X!U","lFY;*4^&u","liO9r];fB","lB:/+D/+RT,iB","l%cDC3EE","l<GMjh`D3MJ042h";"l1eE\"k=mIh/KlcBamJfu6";"lEMO*G","l&:UbrLgbHK","l]iW*","l$h?l6;F5U!pO5M";"l$5b(K^7&EM&s@]cRu*%N51gPlX)","lUW5iu\\pS","lEEtEHhWm!","l\"YXe8g&6\\","l$sf[aZh8>ae>Hh^fKja;","lu7?!L&]d[pt0$d7%7`";"l+:)K.L\"P(iZT[";"lt+e*N";"l=g#^LqOn";"ljLp!&85_";"lcP4CnAd[Mq";"lLE\"0A24";"l5O9jCYuLS\']?";"lu`!<eGP%","l\'p7,$","l\'%NKiC\\:LL<gA+-\"_O2lDds<=t`&eBuH2`D`)WDMhW+V/^+QN_\'F#sEp/u_6rQ5#+>M-<";"lJlTZM<h8q","lnsm8lSW7n3,M=lJd;5XHpb","lojKg";"lj2HMf#k2","lQi.OTq\'n","l%W3bbhX\\";"l?XX)6=QB]/";"lg!X0>Ns??\\CL5";"lNM<7-Au3BJommS!+JV3NK6%%u<\'lFeb,>&l\"M+c!";"l-Bf%DM!","lh41D<)R&/Eh*hL6._IL\\V?iN#";"ljd90N].H)o\\b9","l;up$+","lPs4mEJ\'(/VK,l";"l+^mtr";"l:)n!o4IW\\","lG/LrV","lroW^D/oZ","l#H%IEAkKSp/tBA+Hq&","l,R/N";"l]uLQZ\'2p>","lXo5P","l]09No";"l&MKD22Lkp3m,`Se0Ff<","lFd-JlSLY3E","lETVd";"lS%^Y\\";"lKHZ:!Z)RrjF6\'XIjYK2","lTc>[";"lV\"SlSIXN","lDpmcuTCZ","l2^7dJrn>.","lDMudF","lI7G<*(/l3jk37","l#GnBf\\TM6C\\A\"cj","l*d*_^QDhn/\\Z1U_,G)ZA<;)U,)gjddYFdZ";"lpG1Kh$k\".s)i","lqLerO";"lXbc-2&bmDkE6!;@C-V:r","le:o=4";"lgck,47U8O";"l7MNrstq/1n";"l1;NW)%JaiN;2\'dorL>";"l\\t8[Q","l>Oi","l9bGLn","l2Z^","lSHh1bG:_6mY^Pa\'o.n","lgN[IW$ffu?X#6@/;(";"l+:Wb)B.]hN";"l<\'10B^+>C","lM#pP/","l=]9,>8IFHke!oI";"l1mXAd-;Jq";"lgt>oc","l-r-r";"l38$aG\'urr","lr6f!@","l&XZPJmQ<=K";"lA,hs&;,8`)/%","l8l\"FsTu?V.IN";"lXiI1tj7ds";"l(2q@B!WH";"lQTGgBI\\c@";"l4^1fb";"l09?mWJS%i9kcLiCX[`#";"lQMXJ","l;3C?Lb4dd$^go9#G0)";"l@$(o+3TCO","lp0F","liq$cT`q>Ft","l-:&Y","l!FMJAOMKDX_>tU//Pk_Z";"lDr","l-R\'Kb,;$/RAp8!YR9*X";"lMCQ";"lH;PEa!.c,A!WG3P3\\u;%WM6";"lH[WeYF?C>\\@,XcLCY/LM";"lknc","lhW7E7f4ZNAl2K$f34g";"l&76q+`;[1L=e<DP$Cr$j","l0i]f)9s%3a+#;J4)C\'%j8)C-","lHmR?@";"l4d:kPSNfHNAaTPAt=";"ll6=5V";"l1[t*%;\"qAVDl#","lCS\\<mkLJ","lRtt","lq#?H3Mq\'pp7OeE";"l4`n,E\\4Y<dZ%5";"l@qL/","ljF,_W)`$@=8l>b\"MN+;JSfY";"lS)r<","lq\"Eb","l8eh\\\"ke:W8j$QADM5","lGoj7SR6;","l&rcY=fA>qcR8YXEJmO]@dG<d@;(";"lNDdRh","lt(MP6tC(R@[R,/.q`+","lH7Ku2Y.";"l+H5","l#-Lh@4n";"luX^4X","lqM1Ef/tCG";"l?GLh@\'U-","l<rF@L","lP&f61","lHX!>f+]bR#B9\'M";"lnb\\h;<BVc)FQD7B2^l:4";"l[.KZ1";"lUJ=FdR^SFZ%]+]o`atf%<oGD;KRoW32rK#","l\\%B@B+>H","l9su_\">IG1T","lu\'>So@F","lDZ\"oJe@jY%","l1\'*Gtq1tY";"lO4Tq4.V*:/^7","lN.*IOlur";"li0`q-\\lr0W\\j]";"l.DrqL`KYf\'HuiYI8=";"lt*9%MMX!","l.@+#t0@,","lt@(sXA>0W","lH(*\\P*.gu";"lqs8I`e)qp,kto#^!b";"lkIL(l!!.[]";"l8a7A2Q9s?J@=gj:?i";"llYkW2";"lFN2";"l%jX2p";"l@M]Gd3\\!EgFkrf0c^SD";"lum^nl";"lP9[f";"lU`mr(","lZhUYo[qca<Z5QN";"lo1hZj";"lY04_`N)oBA[s","l.AP=\\.Jr\'&)nV?j&qqa\':i","lCQ]0@i>i>nI6g","l7ji%;*oC/ur<0";"lBpHQ&T/[Q`";"l>E_d#jlVG";"lt1W";"lkjYf[G\'\"","lP!?aHY0R";"lr6qP\'=o8&b3fX8`LkF8\"^de=PhqB";"l3\\>$";"l\'+IKFTVbn","l,N]4!\"#,Bl\"WsCE0C[skkg";"l?e\\I6c\\tN<`5V";"lH$L*,>Kh^_Jh!:pOc";"lbEF1","l5Y>>c\"P<lse*?c_$Z8:g3n";"lq(a7]=A";"lPeIVqT\"(<X,UY";"l<4I1";"l>4X;4]fBF&\'\'AeQB,\'fdM5";"l.uuk15_!P77Z_";"lPDHc0b/,jh&$k[";"l+f&p\'G4a?q0$EG9qUXr+r0TFZqC[qKV(B\'";"l(dJ)V","l\"UhC";"lr.X^-(u>8";"lkYYm_&WH#r?gX)_g[Bul-Aai","lQYI![\"H_(p^>cd`tI","l:>uua2X]*(_*-SU";"lM]h_^!d1G#j2@","l06\\V11+D5X&Ok,PW\\X;_9ac#D[g#";"ld%8X3MTc";"lPZ#:V";"l4i[=+o;>";"lp\"e";"lNV#JnVKs6","l)q\"","lQ(d.i";"leA%j7DLaFhMu>","lBJ?tP+o:(N).LlIT6d\"f1%";"l+>OSR","l1``BR$f&$rHD94T","lIbG","lR>9#5O!Y";"li<AXge\"V7Xt!R1L.%%9PP?","l*A\'j";"lrjGV","lil`";"l\\t,gRjuJ","liPo<[,-mm*L,>ONR^=eH[hcB:AR,o>SP@";"lfTKA(o-%Ob&S5@?\\-!T\\:[7TAonl:hmuGlHpiM!)-tabAok7u=oUQ&7#)5-=Gt\"-<j$9<OJ5%PCSG5Mo7u%mc\"+";"lbuoY-ju1";"l?>]4mOY2JF[T<8:3n66","l5;V";"l\\>hPtbV;A)";"llMrjn%<nQ","lQ*^5","lkY4.","lSO]QM_%cD.(/fL`,OV";"lFD%.uW.9Z\'%+<#s4.GE";"l$ln&2>lJS,C8pG1`[7hd^S27<*kJSe\\sLVE\"Vog2","lD:DUdEcaj4+h?#,5khs1YY\'<bmiecs?E`d1$OOA>WF?o9Q`_fI$VuWg1Htie2[@","l`4@Uf%hn,.r4oV";"lmfq&\\q]iKp?O.WHKZ,;?KY>RpXp$","lhs7k";"l9DE#";"lgt>VA","lFOcJ?>39,U*)JgAJg5e#D)goc5A^Q:#4\\XR<RAbRVnq)@gSr:";"lkikno";"l*l>D4H^H(CN1\'ErY@a";"l?smlDh&Y8\'EIYB","lF[#@;","lid>t;*Yk`)9$L_V$G?t8P,PE";"lU:m3KX=+MFh$ORnO5lYR","le]d","l]J6","lLe=Eqlms","lupG*P9\'#X","lKCsZ";"lZhrWN)^B(DE^Y%7S^_dB","lUflX?","lNtul&Z+Ri";"lTY;Ae&\"##qbgpuq<%FIa","lE,\'7InTeUU]e)O7","lJq#Ko,;W[)","lL,1ME%rg_?-QLN\'5/&6-";"lC.fl&`]>9YVB_<llN6c3","lj/\"]";"l)o4m","l:KR1^","l]jWMD\'WX1gk:SOep\\mL!`N9","l11E","l>DiY:04kH/9&P";"lhRRN_ua#","lCZiF:ts)r0","lk%BE";"l[]]B+","lL-9-1`65iSJKOU?";"l:maaG`D7O";"ltML!*";"llI!AdUeY?c<<u,OT>IK)b$F&]9\"c","l-16j4:ge";"l;1\'`H`QTkq0uS[t";"l[0\"UtXt0^Gcsa","lbXj/7J>c>6Ri\"","lu%\'nh\\(Ncc]27<T","lHW_,^/`7/>";"l9032R!4","l7pjDY)VU";"l;0X*,a\'A","ln>>Gi]sFK";"l8/D`aZGBeaOc","l.*Oil-dc","lFgT>I","lGW]","l\",]>Bp^LmrUYk65";"lNYWE(%\'KWOT0XC=HncVl_tr?E.$AJ=2C(","l]^27Wpn$$G9QUeKWEi\\!";"lTfn";"lh6OFT","l)h`:e\'.`ar=i","l1/tD9XtV","l1e-!","lf^r50qqUV%8!UX`*UD","lr07l[b6)","l[##";"lFA9b0";"lI&HO/RS<P557`FITLl?%RP_2UWOp";"l$mbYGiP&[DY=@:J.J3dur#Zs","lW:lD9","l/6_u";"l9@_L6Q\\n7u]=","l?QE=ppW/B";"l`JE88@F","l$HWsj","l\",rL64C","l,+>*@XS@`b3D&=M_EL\\<Sr";"lE4cUr","l.kTXg=-G\\126G7Ec8","lgPa^4","lm.Cm2?4*Y\\lH7t)fsB=","l>=C#cuu6O<-&h7W<FXo-gm2_a8iS\\\"U*OCpV4eGX.7,hEO*m\'7)NM)RAhJ)n&:8\'";"l;37nAJKHVfef_#nB9ou5rICP&HMC?&/jQi(","lR6<";"l>42<=cXg";"l!t-$4Z\\iQG","luC6e0@^FG";"lT4M";"lgW*d(Ejq0FqC_9\\&h<]";"l#$\",:O9:a=oUOIK","lFK\\b;Q\"<d[m[";"lh!iRU";"lqpa-95^-","l7#TlG_*+DNn!M,tob=";"ln=>T";"lRZt5","l$9Bg","lu4$M<","l08e-h\"bb","llTWG,","lXP=i","lgY8raB4D6bI2";"l\'X9`RHA","lEbe!cFrB*","lhM;2Oj,.[0k)1","lMsZG2>rf@$O_(m","l-74m/";"l0u\\\"(h%i5e5f<[VI3","lrh[PbD!,@fVm;F`","lmb&ah;flZhK(b7bD4lm+&-13";"l/Z,(K";"l\"FXBVRXsd/\"22d4S:e.\'qdVK,Xsm=Efg","lE%Q(D.2n";"lK%VB%OoGOl?*G","ln[(\"LA\"@k","lou&";"lfm[JRktEg@K7fQN!APQb)A","li`C_i/\'c","lDUoTDN_JB","lH\'\"E","lkDF><","lY35!6(,Co1Beg","l\\X.]]m)l";"l!<YL7A[i)S^-W";"lW8L3q\\d7";"l;4=&V4BR";"lE.!^JA.c","ll0$P3[:Y0>FUQ@Dt=","lgDm,g!4";"l(LT1:bA!P","lEH5<";"lQj*","l#Ja$VEsD?lDCZLF%GDP&;.[-Au#","lrGUA[le(*!A3","l)jX#XM0VK","lRi&OR7tIO3;(","lZ7oADWM","lCV@[c","lI]J!hfc";"lde7\"eT(]X";"lC#5SPd\'XOkr,\\@_","lB:sBZW9PBZ/S\'05raH0qH^3DAe>(","l+NV_";"l2C","l/ET";"l42iGL&WB#E.]g","lHA+Y:F?jp-","l=.CqG4Z:DJHj#Nj@mWlu";"lZ:6Mt&]XaCe3";"l/SgVapfi7#";"l\"@2*HkO/","l^c87";"lIUnqH&Ju&KOP$jSc5","llU3/:\'L!f4m/cseQ\'VX(";"l8IB:X%9&NR*J:";"l8$M1","l3?Ge[&%tOhhN902.QB$$";"lBdi!t","lOlJYn\'N.(-1u$cQg\'f[:Rek5@R&O","l2b1B!","l0I^uPEP6=";"l\'KL7T&h+a[q^nA]O-O4OT!\'\":(&L2B4nlquit8>";"lEWI&Qn?a\'n/-G/W0!b/8!6:c\"uI+lK/,c\"@G@\'ZILNhm68!CN^&uR;5Ce$eO8.^\"YR,215D<Y0N)nEHuAt`s3GY@Giue;DJ","l\"&H(","l[SK;\\iSRW@Dpo#onJcU$","l1/2Rc:[OM";"lo2&q256knW=XJ3VVo15","l@)md[l`KqG-@7g";"liis","l8%(4";"l0<q2","liAX`gn\\E!+$ekTP","l/%","lk)/>T%sV","lD>M=4V\"^;5f<s?O+Q56E";"lrnY\'L";"l!<i(-","l>BeogpeC3G<+Q\\l","l\\:kDqj^Ho";"lWT-[";"l]NUilno_4?V\\_","lGdZAPk#_E";"ldQLb0";"lqD`YL[Kh\"@AcHl;BI","lKP?Z>G<>";"lJAX=q9M$rR@k+\"C","lUg$thYEe+9";"l3?G&/","l5X\"","lS+^c^j1p","lh&16,NBt";"l&As","lg5%1o[pW","lAncA;jZlQ:;tLF4h#","lh!L","l]/VWL";"lOLQ";"l^?63hi\\UA";"lQ`7Jq>8,pu\\o-7%M;BugWQcBPcJKelYVC46RM=2M:%Fb\\uP-BVh1l.er\',-3%JGer3C","lCp<#498HMepK&NkjuB1kQ,,E)fE.,);fh/63u(R(leEs7","l!$K&h>2";"lj$,S,WWAO$BU10/8=";"ldP0(uAI\\XU";"loDGhemgt5fF-,6(_4VK","lol\"m%&05/","lP0di]9fh^85EeU2","l9M<iW","lKh>j?WFYi#em=N.t.2@UY2;*,]\"DCEu0*OA[qkN1.%g","l0O1,ISL%N]";"lr^Ho>+R@`PGQEacY`\\";"l-Z\\\'e)Uk:S","lXqbMN,+7t","l(>M,)","l_-/","llI!m:!X,(F&M","lGFSrfU^Q";"l!F&<6%iUD\\%9\\YX!*.#";"l,f#;la.sEf&B9o95n","lEFED.#b913j.s<C5&2O\\PE<$","lUKSf\\Jme@.f\"l7";"l@eF]","liu^-%&Sn";"lUDsoh";"lSNtp@9m";"lhLa#[8\\n\'2J%","l&[:","l=\\RMlguY0?CLZq7";"leY$.bmT\'.;(.99Me`d)nm3-24[\'XSf4q$t0)Sp";"lgNN","lk3cfX1-/-h1@)]";"l2%;6ub\\l*XAj<\\P0HF<m^P=";"lF\"Di";"lZM9Q\\;W/P5l6\'!%\'3";"lj]K3=JfC","lH?Wl(cM=","lYr\',RI-3FVoi";"lHD7Z61hl672bBaBPZn","lTM^G5ilcbe]F=[\'q+*/i","lg-9qGFbsmj/X";"l...pVt+J[r?YT1f","lCOh.s4DCHF1H5oS>U=-%b4","l]nFWH1U2.GEa]k&&5E2c","lo`r`dP4&";"luYsE(B5LM","l4EYh.3L*96PkR>C","lA4E/T_G=DT/s7DF%+cH\'(?jiCQM:";"l:D\'T5i?p6m0Ju&n&R?","lbjQE3t/D","lb>\\6DCn","llecRQHN>","l91U","laNUpj$,K=HC#DM!uq\'6V;#0>b*s7?[ZHn*f\'ppuKM-?+O>p%$Z";"lA_C";"l\\)]BD\\*%`Rd]4p%DWi##E\"k6*,H\'d7nHc3P7f12`DFAsMCBX%","l3/?#K!9hG)`LK=M","l`uu@J5X6e*hgHY)Mk63ZM#\'l[(H)I=?qpDb]Hcf#0uE3.h!mgVCgF2T1jN.6mKM4`\'h;VJZ$\'37ofbJAiCYO1\\J]Iq+`pR5qbtoQ=1asKo\\0jTWj[o4Fr9\"i%%T\"Zq5@ac.P_M8!D:+S%#:jM4TW8lXTeN6d@kK9f,94f<r!$O(kKHLi<iBsVCqTeXOZ$+c`n,X\\]D:&2C(ED(5[<JF-h)oBug.l<o<sDk&X3bYHF)H,We:r0JZdfI+t948@[+%::*D@q1CM:?V+\"u(^\".UkVrG3LGK@_Z%Z0iHe4BertRM";"l4VVcr(l$gJ5c/t:!H0)B";"l/3Z*F^8hcem+RltON\\X3$J@ZWXL\'Z@o\"s/4rY_J:QFt*t\"HlTC%fIiop834e`2sVm*A(mq-bWR^YOO#rCC","ldNR-\'A#p<Y;ar8";"l3\'fW\"D+9]^MXm%J5%!6Zb:-";"lUF<q=^LncAX&eU";"l#XGb^\\bNTAc4B4oqe","lX$B@n&Ll","lA5d","l@0sSY8-f";"lFr-u","l]i=<.IrbUe\\YO";"l&QkNR";"l7n:*8NhQO:F6m4s","lM_JPLYQ`.[\\B-,51/T","ltGR$udGL9Ad(","l\\ok46ND*?QXdGf","l+^dY\'M\'4#abV`9&";"l.E0BA^c","lg2Ft$FQjZ$Kr*#M","ltr&B0VGS@";"l\'aJ,G0fX","l.6\\b\"","l\\\"oV!W(l`b","l7tWU1_nn";"l[K2]E","lN.m?Og[?","lU$tiLI(REOA0;H";"lE@_3,urrs","lm!TQ+?A","l#%:c@\"eneaYNs=*cM!t;","l\\MIC`XA5P";"l;!t]5dYZ`IY9I8ZcoiO";"lIAF\'n1hgL(n,BF","le(n68kjY\'","l19OO.!=T:GK(Un2:b$dC>(T1b(5u","lG-0?$kDs$E]!Bl[?V";"l?I#CZHoo^sMT;Z2#8T";"l\"4c:=B,gV/2:lUbCldEWu!caHFMZ\'!G[TKM)e7bFWp\"#spVN";"l)uqt@F!!F)@(.a:K*3Sa","lW\\DWddpp","l,atl$9ES*c5*q:T9F3?","l!o[BH`)@W<h.j\'hd3^g6;DkC<l8qajgKMMDg5","l\"U(mdbW7D$l!a$o#s#X";"lb,5pRK;*RfupTmAk*PmKSHsNZ_f7^rE:!bN+u;\'&m=<`<4\"k!fL*KW#oU$d`r^jeMIAU>cCCp^G\"L71gn8OOX9U&i]%A;MR>o&T)-KHniIJT";"l7]+X%)j%Z5K:ls*##it-^>f\"D%.jK;DMbM<h;%j\\L&iSZfjbSYb7D","lmteM5rkaa","l_?L>";"lifo\'>YO\"*ac`MBq";"li3Srhc0s>aL,f+";"l[5ODp","lJ\"Fn+8@_8g1%";"lPb/SBo5ETB","lfk+#","l%Z8:7gc<Yk*c";"l^\'Acu,oO%N_-1Ck3ek-Y=m%Sbjt\'F4/f4";"lH\"[Q?pN)*UnLf=>;rgj\\4C","l;3n1","lrT<L3;.n#sc@;&i3&d.&Bs","l.\\ba&";"lgQm";"ltTE7tf`_6ClJd+";"lPG9`$MhT2)Y4LhGWlbnag7#8F`A2";"lre";"l-\'Bg";"lj@@d*Xn89PL\'7mcg[","le*X8];&3ALIN";"l7k\\8n2GBl0h!E=nYlRB/\\m&SU1!4auQS18oPP/-s]4H1&%qlPBP2T$a)9AT;L-\'o#\"$YD:>+/<c-V`Q";"l:41#^Igb#d=T/<TPLG8V!MAT:mF*Cr&YLltU-.:a_)%MOn&fo(olMWLK8WD","l^>*u9.>63P%8<I!cE1@","lui+P<","lXOa\'Z1t,?2#bT";"liYo*2";"lqq,61m&GPX2OBn+";"lp)7^bk\\G-oH#h73[>","luQO@?j4bX5+#","lcM7tLDXMke1iQgu[Nq@r]I";"l,MU";"lKS$7l]VGo_","l8ieLU?`QAk-l]=5B81Te","lqlHdk8eK&";"l9l4KZ";"lV39RFt=";"lMCmVsdi=*YUIBjZn[JpU";"l=;G(tI2";"lWX";"lcK<";"l&k=L2%F96tZ!","l=)7aW";"lO%@g","l(grZJf^^:,W+\'YnWki%[FC","lU?-Nq#@0jl$c";"l3KpfK;:+2";"lL2n9lh48h<Khrnq:5jUqQYf:Buf/mn]r/cX-/)Y-0lU29K]\"2";"l[]cnI\"bb-DuNu`NrnSe>ak8pOcPE,#fuc92_]>[B5;34Ri]\"Q7C+H;\"gMYH0tR)LV-c^%Jm//QhfH+R>#M&>aQGk7:92&=-\"lr+t2b#j?Pmbd_&tX4U9sf_!q<9^r.=\\Oj\'3>J>$NlVR5[J:;_7+iU4F$HYEL5i9VGEG-L(-BI<%D&sA\'ZAqnR3JC0>fPf%:%TV;ET*hD</noDiKmQKK=:M0;GhTCMk0&;?@\'UOGUDVK;/i?RH@(t0j(sSeFR*hop3O_LOGu7[34%/Jcj-1-N)!#O7a6/J?2A@gY41mq-MjDF#\'*Rm/P)3Y1pfXp.pok89E63HC!M\'K&crfpN@ma=Z$:lh.7r1><f3##durJ7PU)W\\c\\UV,[GtO2rHJ0#8Nj%!cZ.5\"_iNA\':sJ&Yar;O)!pEfbATemq/[[6;ic5:mh4B;11>s>I+GZ\\i3";"l`nNh","lORIe:QQG,","luJ-B";"lpV;irYSU28;<rf[";"l);u.f-np";"lt0_O/rP96UPu0QP","l2[[lJQ)XmQr`";"l^-S9O","lYA","l?^T";"lDQWi+iX-QMn\'=4Om4Oc_G0P<","lHm8]p";"l.bi+q2$S49@\"7","lE4kb";"l-.";"luB);TenZdbY&@F","lk6!ucMlN,UP8Gr\"dfGg1Qo","l->sj5\'WoH";"l<3WY$@)V15","ltb6oY";"lttKPY2\'o\\M^g(bd#k2f!!)jB5JNW8Om-S","li/7g%DMlO8EAY&II0_hiAj=k\'<I2SKXGdZ*e\'m";"lXU$Z";"l$u";"l!l53C8c=","lBdN2q&lbG#o\"E";"l\\mYcY","l,`IG[m5";"l/G[!-<J*ksL(MdgqQXWo@!";"lU\"P0nI3";"lqLMi\'Nh$B";"ld)+kMiB";"lup10NZ.hg$","lA8B\\fN.7)\"QO8";"lqS\"q-@hrLP\'Olf","lN2qV\\";"lII/N;","lC1no-_c";"lo!%\\B7t[uQ:GF9&";"li)OH6","l:&ZT","lqMngCfmYMnqe","lRAL&p";"lLcPI6:V^\"h3OJIk\'[]8>\"jf","lI03p*\'6)/<I3";"l@=n\"GT<:hSDr";"lr`[";"l!qE\'q";"l;Dhrl0L*_oqlJ-8:s)&Nq+-";"lrW&sf-4c";"lK>3D&H\\2O?g>LMbP1<\\_(g=XFE2]=)m\\)Fe=-W[","lj0s`8kr(j_";"lj4G`@BX@9jksu94hJ3*X5C";"lO4*qg","l/frMYE5?9_,i%";"lW9T4FZ:Vh<","l#XrAmb.U$<N`Mo","l\',n;J:Q6OmmT?","liiZ<";"l`0/UZJ9Bpn\\LSg";"lu]D","lnnF/P@pAB<l649]IW!!","lOQu80F3$?g0%\"3..A";"l@h8f<YrC\'g,\\T","lG^3LrfhW\"IF&Rd8","l@nt5";"lf0R","lAr1FGql`";"l\"&4Jp.)\'DrG);";"l(X-,AoZ8-HuoIYGK[l$","l?nmVn\"NfUm-.","l75*77","lm4F2.)MO(hQbgl4M,1T\"WV3n^,l0","l7l&=*,\"\"934C<8arjm9eEgMP";"l8kabi33P:","l\'C]h,\"W2";"lJbm4aQf@k";"l*!Jk,j`A;r_*Cd","l_J$hH9)`$","lO5IN";"l[(h","l!G0","l:_]Af";"l4\\VG>\"^MA/L$j_keHW2GbYQHk!0@","l@iu7t5./1uIuDj>R7E2p)s1","l=/(\'P,KL5","l[)M\"\"c57?LE@31\'W;OT";"l5%M/G";"lu0;)l`\\<I";"l7oLq%L)FeB[Q=F.3)%?","ltd)eoU9\'mm^PM;T/q0IAp4","l>P,l`WX","l,$%","l:.#m^";"lKk]i","lZ.!\\:=JrF`,Zc\\4t,T\'F","luBJVupl6c19\\8M!i60TO,./So7hL$@gs>qAp!Eb5C4C#!","lf<NhE*n4[2q2c!>GHuR";"lXp@=?dWQH6lQIuU%Qgou","lEbdS<)^Zs3QS6=4LHEV8fEeuL9SiuOc%XhN)Z*8","l[hEVL5;\\7Q";"lc3ut1pAQ.u","lpZkd*=g1f","l\"Wm6c:j[b)","l9\'@g^;S[Wc","l1!K";"l+T70]LkM5[)+bJ+%U4:^5$@0c7A5]BlPiL*9\"r","lU5:A","lLO^CY&UFduCprVn7&l_Du)";"ljj^ESA\"pMW_0WZ!o:tR<";"lLmN:j1VLW)phebZ`*4%7q)l-utB7f!I=d\'E\';0*m[D+eZ5#p^\"n(iUg$G&T706^KnJ%uB>8&lhdM$*-";"l3$]";"lHaYQ8QTM_S8]#GcObh","lri-\\";"l#K;O+tr$dLCr>H","l,\"-","l$DifBnk>\"\":ef>","lVFsQZBeXM.bb8RMG4@l","l&>Cg","lZc9kTobhrV^BWoj#N";"l^:m#90Jdm1";"l;DA\"\"<Sj7+","ln)g*kIU7</";"l^s%d>A?s%=r-bY<","lt>_","ld.gI=`]GI\'A5ZR*7#";"lq]rao3\'%2I-t`F^^i!S2<OY-%2Z*A_.A";"lU,q5NE1r","l;!oWg0rC&M!.(&1";"l]U2]BQ&p";"lZ@D>MjbF+?","l<rf[ajb/V";"lZqd3U<t?)Lr`","lue5Kb","lj&#";"l$.q.pX7_/\\hkFJN)/d=:";"lIcg+f8j?!^[L;","lpop\"QU`0p","l-75@XU2Q3(htA_","lGg?G","l+%[j<!4","l^p.i<%cqq11CYH6X#","lT/6PT";"l-!X*cpDm`V;8Jk+>ieQ7?QtnC9m";"lZ4np-^GF","l^+0";"l&s:+QNCPTo\'NMZlYt]?&[*=3+W?F/ZYLZmX2D`[,[*%VM`Ed-gLdg3k\\?(WIm+YkN","lXf.6utrY,59F6O4=i";"lO\"_SFFqI\"O";"l7KnI:[Uh9";"l#\'^WPlC!U","lfBFT3?-u(Ch1f2V,2*0B";"lR$?*=kk*","l4KREs8AL0&";"l%d:f<","lUIn.uM&PcKU=Su\"FPb";"lA.iP-$WK&f/mW9g";"lmu-=V","l*o.\"5OFMHH","l\"+;t@Zn:";"l%o^","leqd@","l\\#as!\\umU^8KLt21`LV","l33*uq\'Z,";"l;I\"fH=Nc";"lHl+\"u5S4R";"l28f\'0uu+XH","ljO@g&)ZF//r:g*KqlPM;el`FG(,-g1I[Gm";"l@XoS78An_";"lA8V$\"","lOgH$et*]*\"fIus\'kat","l3Qa";"l8\"Y0h_@kcI-C+","l_QAJ\\>-,<5H0m(:\'bg!O","lR(A";"lQcY+Q";"lL<^6o","lT=k\"";"l:N!F8p`n/j_q2";"lrX/^Sd\'5)";"lS!,hj(CKCF@V6M>KPn4\"]%Y+E","l&R";"l@;8qfpu(_M0O;!oRn8*>77$<";"l34[<]";"lJf;<Y=^pb","lCJ0N(_s)h";"ljWN<[?Nm";"l,s;3W+_\"\"^/FqoF+A\\j0";"l\';jFa>#<*32\"`WHAL=ob","lC-FAscTH";"l!s0-_","lPU_Eh","l@><G&5Gj";"l&#jG1jiDKh";"l-uNKRnLA:HK(`f]<c_.Zo`GS)f7";"l-8s+ckV/\\p";"lf7!","lBJ4L","lijtse4X([Ta`70au90`k^/*&\"1GL<BKCU+cEKZi[Pk@F1:iW","l9IeP1k6hI","leKKT7D7X-?iPcC","lTkJOFE8l=%qXu3O","lnSh(_","l@R[H&l5SX\'t[r";"lf?g3gfW(TsrA+oV.Q%hbE12JG>Yn%P9&_Xn5)JSB54";"leWWC","lpD<Jj,L6@M5T-L_T(";"lDVY30bp-H[";"l];8KQ\'?R","lU#X8`e-AV&E@9#[>:P)`\'MP:tL8L/Qrc>6nlEp5#","lIZB0Yd].p>Er1(IuURua>:nLV>_cD8E>HK1%1@Wru)","lgKk#","lu:DRYJ;]HA`3";"l!A%8e_8$,_j1q0>","lbYYK[MjV8M";"lLP)<;I8t##ec]71?i";"lBs1cNETrE`RqgJ\"!cd","lg-Gk9:NePcfIMWj->1</&WMrT]L\\Y\"9_(S1<lSElj^6:@fO6\":`B$";"l3`r6<l\\Z)gho";"lP+asK/iFS^kPC","l_/QU","l;0F&7>j`EU+n`U?";"l)Xq9<DO\"r::Ilu=CfKVfr`";"l/8nUkig`p?";"l\\cpp.XuGg8";"l+EB]X0^?";"lD<_k+u9?","l5qrIWS6\'hGe2";"lEalYIM&(,Wd_ejE";"l93/D","l-cL";"ll]<";"lF$O","lig!@j","l-WL/!r,u$\\","lM:2\'Ydl8Ta@G68Z`2";"lkFn","lFJUg8,%QhY*sdh)SAYE\\","ll9+D$IN","lbU$&,p4";"l=?6","l)%8JgFR*","l#HW6<ap(3bTe+BPVQkEKXK/.MGnFTm_4\\C<H<9A%(sj:)_b]3tn!j4";"lKDfHIh>Ud\'.$E!+l!6Gj\\\\&I","l^M2b<Uf9Ae\':3MhPXWLi!1$EcCC";"lD2cMBMht]W?]5";"lX\'I\\U@]OkA";"lVs5a:$c";"l5K1Al2AJb","l]H9]";"lu\\?JJVg?>";"li2[Ee";"lH4V7(9k@mp%kQ4mEb";"l<7!l$grHs,<`f\'JrdnqQ:A","l=iNI*","lns";"l#CnnW.?V+8GVRfaK51j[/fKC5G\'Q/:5S?SZ1R","lB;\\C";"l%%Vj!QI_0/qK,77`AO[-","l1U0jmiceP";"lg#/Nhh!IAf>`!;+@2_79WOof";"lpb";"lh,JiA&dH","l&2Q&e2=,)iA2O","lp-iq`PQh,","lB\'P9m!Y6";"lTS!F","lcNIaI]W\\>eg1#9";"lHM:4&%UoP","lPfd[%2IEbO*/Iu";"l]5joO(5";"l\\9M^#","lTHSKS2\'nXl`3","l_AfY:$V;VAo#Q#^","lZs$mKHc+gA(>j";"lRG>$)Tco8k3]M";"l4636l","lU-#3>";"lq\',Pn$ne)$Z!","lG-j\'%:?Fa";"lDo#YlpX!M";"l\'3:]`j\"Iab77+";"lK3Z)","l[6!m[=eCda3kcCE(u@";"l\"Xkn,*+#mZ";"lUE2C3*nt^/4:(`E-?\\)Hu#";"lRaTS6^Bh\\iR5";"lL^`[Y)!bfTg4:V\'";"lIqEPs/j4nCX.:aSLTp?O137ZK.sC3\',UqBUd+";"lG(0^s@-pdm)>/";"l,^X^sk2q","l:k?k-uii<UL]/","lH?hL";"l$dWLW";"lJn@=";"lKQ@YT";"lA=KdBX\'N","lCp8@Z=hEHKV^G5it\"N9>1(LHgKU.FtRir7[HMRu4`i!T;+-bPEeOW0X_<k9TYT\"RXP0cZ;S+t7jJg694iDl)","ld:d6OVq6o","l7eeT.";"l\\8TT-\\=";"lq>gbe\'XW76AI\"YLk*\"","l2e$4`&#`DIb0(FW\"llf<c^q?%-2G;]hcaUr*frQV:7PpDnZi","lj!C";"lP+:hnH%97W3%\"";"lIBn=88:;WJD0m;:lkc@N1D&u$!P&RLNJ.e.c;\'JS==)";"lXmhJiIQf$";"lP=","lrd_V^cs!HdI`&daqe";"l:\'[bC]/r%j","lNmc","lk1bB/3q@OA";"l=A4N.-K;$>K^6b+Pte%";"lFL6R+S__W;VYdK,5Cb)DmD/JL^0@`ESB=?-!P4jie0EhOCn";"l:RBhNFC","l)QiZMiZfDR@q\'";"l7(kJBB&to,i.m;Uup@G8[X!W&]s","l/E`C\':=h_eTd0QLTsnu";"lM?X2lQ9$g","l@)Zp6`dJH&$C579Uu_Q\\pU^RN_6-aN/m=","lb@BG\'/jfnXS-8e>pQt%`";"lNNj>.,RhloYYVbR","lVNgAaMb^Ot+KE&2B>","loYcp";"l!B9Bf<![W\'W0Sc","l/JDjFe$LTpd+";"l$YurNPbIAo%[?V3D_@rj_g","lY9DpsKFn^d^^e9";"l:02GL@I#J&O0I]l";"lP8gkXP9!>";"lG@E3jpi>ZeU^u&n2dnJ7lt$5tV*q6KNI6<e8&P/]+JR7rRk0Q-ff0=[Ps","l\"YLhs:8=l","l1o4pG%\\*JS","l9aXRX_7`","l]>3EdL%","lkNCA^ntkCXJ\"5Vk:P]^$";"l<WHlpN;AMmN1@DRn2]gn";"ln4EN,O:\"";"l\"mMt","l:N*k";"lZ>K_lfVH50F=8B6OR(";"lJ8SUg9dd7","l5o/fP?#k";"l__$","lK6S>1CoN";"l/`U1)ZSZc)k\"BFh","lUSi`JIK&bCL+BWR;$X,^h\"i2mYHOecb(\"Ct(ofS";"lINq]@fVO","lqaO1I";"l3t.M3tTJiT?\"L01F4Vd\"EC";"lZSaht*<Ogu+\'h;/S];4&q)<6";"lrtgW\':V$4<-Y->CN\'`>QqFDlB-E1nMA3jrIeh<-&";"lBHV,IAuN@@1-\'07/Nhk@UB#5mHi","l;i>A/Yu[n<Wu]d:2mGCijZ";"lIaf^[VCK";"l,YK2e<A%[D1;5-","ltt_i(Gc","l1>9i","lREq3b5s9c[.`a5K\'9Z[X";"lA-I:","l=\".3IcL!1ea`p","l[@L\'$R+\\VDB%%oCr]h5","l_bH\\UJbe*","lRj/&;A4OEtQmge`NI";"l]?8aZ";"l+Y00Q";"li>_>A+S*`Qm>/","lf]0O","l5r_","l/f`!<tZ0L","ll@(u","l:ZQ,d";"ljr";"lSf#?p*P%b1SKEU>i+CY`:/He=","ltgI]di6)rJX+55j[s","l0J8UX/[oWQJd5!D";"l?m4Te\\?/@2+eT6B;54n;","l]?l";"lQe:\\`";"lGg","l)._<^4H3jXmWMgknjE<lInb,C=?IA*0%Dp\'&RfK(","l.iM],","lK%AL\\","lZ2ZU:i\\;;b";"lHnj7$","lot6TKCV6B!#ZFc:$qc<X8F%^cqB+:;KdqZ_-nC_Q_9;Kd";"l9:lB:k<l:u5eIAc";"lGCR>2","llQTnToLY";"lO\"M:B";"l[eAE+";"lj)]W0@eUXK\'V<M@","l=]jHUHgeeh0\\U0<XLu?X;oR%h5$*","l/m[7?8=","l\"CE","l2/Z2;DjUWJ,9/5R#ZNcGeia.j\"\\CM4$$d,HElW_+9Eur1NI";"l9i(JoO#jY!h)","lif\"c*";"lTP6nV";"lj=8BgG.;Q","lY!QBU7Jan\"ns";"l$\\tR.usrnuJpd@_q86c@@.Zk<KOZ;\\\\le1=.pC6=$TfiP$![r:Ao5Vu%V_<id.+^s\"O2:;V2S\'j.U7D)NSR9+g]?qAnq%_";"l2>f?O";"lX7]DW7O;;m";"lg.9m%2g.fV9c@]W0EGpsW\'K8^jjitHSh88tmFsQ","l1/sDs4`>CWf<qNDu)";"l;fBcU";"lfXd>I0o],f!n2F1_tX3";"lh0YDj7e";"lPRU9","l_>9,+^Qbj\'D=SjK]O%`+";"le<\\GR2@!.,lE:T";"lD%Z(`1j7I","l$QW&H";"l07q=1#1+R4V41","lZGE]h$@95V3q/";"l9W0^$";"l^!-!Bh4N@-","lr6%;(`^qe?QB+@s","lQ)";"l?A0r)S+J","ll^8R]4>:!7","l`4:nI:$J";"l5q;>@=AoN","lb3e/?","lo*`3N\\11";"l^ZqglRKW";"l>&[qg3ZlNnt?","l@M*3k5/7)1hNUSG=u#g";"lX[6Y<[bpR\'","lSGXFP&\\LMs,(IjQ*(4p","l;iAQ8mlf!20E;a";"lna/X&Hi","lNOu8PYa02(";"lVu[C3!W3.>>3>\\1AqXG$1=m4/k5A1JJM","llcY+1mSiq","l=k@a6)d#","l(PVI!n3WPr@8g.RjjMJ>4rl";"l5Kfj3r@Y";"lE*bOW1;!/Fh(E0QG1IK";"l0U8s";"lmmQ[L2Um6","lfg!ns\'_i","l9kl";"lb!a)q4&?jZhF,h","lK`d+H_64(&=V","l^C#$*l%0)";"l!7>>a","lNAPXWWi-E","l9be4I";"loP9L00iu";"l`/pP7DQ)H:;#\"C9mm4_q08b`/PiU)\\q6n\'RZbY.*^t`_\\iN","lFeiWL\'lYr^","l8jt3gJa_N>r=M.U&\"/3iq?20Bb]B<pcZF:B30LJBAO/)3dAH%tXEQ+","l3L36o9e:g;_u$","l(U@","lcbGrOTI@1dZ7a\"$_FI2B06&F-F;_","l18aGDo$3m;","lJa`04jf7";"lb\\*\">","lI[u(f";"l9<KPG8#/FujBGn";"l=Y;`7fLF$/peZ>0";"lR7Isf-\\0!";"lO4m>2KZ-","lL6PMKO=B>A!DKGfm)3scd327$M\";BftL85:(*#Ymf\\eP;Q=$6QN\"lrUnL5_?.r6:)moP8sQhfO3P.T8E%?\\G<5X[Z/t=!Z`MFT-b\"6lB_mfXqb,A6bgX$M]\'^(^G0IF[>bjP53gth<7@iTA9Mh1#aFn1UL.nQ`PRZq_VD`9::pk9P/$]Pe;UOoL$j>t\']\"4=*4)?(Ko;R\'TFQJEbjQ9=I-5ojpcgg2n]M`Rc5X?ZPf@9/g3e/C;8?+)s0((JJA,#2";"lSX+d^3kQg*;jHTGM!#<Mdr","lh:c";"lAVq4(C&;o6W;@7Z^PBC";"l\"6$@A4kCQ=?K(mnjbTTEOnt=&&f&Ztt[FN/Sk2&\'8<l,Gfuk%hU$X7$(+$(g&L14Ei#JDBq)M0*K%Ye<+[*?rjObdfXVo]>7RjbL]Ot7R4S2Td*aP?a8iNk,Fb","lV_p8p(mrRNM5iud[%NQ!p;LQ7-Y(+0L%hdm,ZaE<(60HaQ7CIJ`S9pj:+P#BiLr01","l(:l","llI4h@9C@3u&n:\"f[7[\"`!>O6e\\@YY;2e_U>M4G4i<DGA9[f\\dR9#UPq2Lf>L9.i+8Lt-JM","lWAYRK","lkLC$";"l<4FJ_2>SL";"l0bYur","lbJcZQ";"lBssk\"\'a8:`8$?^CX^29hq1ag;Y@o^**K4bBI5E0";"lP*%","l-upQm&tH)FjH_WFX\"/t","lJ\\q-M5C","l\"JWn8M,:";"l4Z$%";"le8HD^0Zg)C=MpHklgojW]<NaIe\\XVV!qi8j7DR.?7ge8kKWPc;q#&\\95S%KD/6gg;Q\'*YV#U^oQhSL","l\";8/hW\"bdpc1Q^\\","l<rNtbgOmij%QJ]*=Stsg+XB";"l<QO4","lR\'Q&*";"lrss","l1u)\'+U\"n5[!fh","lWG%";"lpk_<\'?c1?>$3?pm-L$[SMp[WB;R<";"l/%LW;","l.bX","lguDI\'Jf[";"l0iB0,@ko&c","l_Y#=gumR)5%oq;2\"io";"lk\"[","lNe\"5(?l-";"lDhj2m";"l4uK=&","lmL!u<[Xd`g.B\'7,-N\\DW";"lId7EkZH=5","l,\\:^Pe;fTJ)%k.,Cq[I","le^q","la[)(;bLfe=2g5p","l&B\'/";"lX/#","lW_rn9>W7\"";"l[d7OEGg";"lTW7EYg!7ag","lV86W","lNKmUS\'$\'@,g3Go4","lHhZqp5B,S;nofHPi32D";"l!s?L@B\'SGkfgT4:-6g;*nP^;";"l&qcE[K\".^\"\"lp;L";"l>Z=Aj1h<a)";"lZ#!^$1it%\\\\,\"PgrAOa9?;e+NS,ip8$IJ\'=LJ<U[\"&@-\'U@SkT";"lG1Xt\'uLP/Z";"lk4;>TZBr";"lZ?i:9";"lMMRXlY=0U";"lfp0Rf90X6r!C","lLV=0CVDG/9HLun`ml>lAR5Y";"lSpfM";"l8B+e\'#LE6","l,GMOZZ]n";"lP/R4)<K;FF?k5a,(mh_.fPMps8<Adt?HHQV*C4fjbpai=\\Y`gQ7bDrs598uE[c_H:PKZbZ/A>$","l\\a8mH^_JZg`?r7","lOLq>f$DBB";"lS@ju/BT^7";"lY9T","l`/]J";"lSX37uSZ";"lATL9)3(D7*3&aC.B@<5p?V";"l/X+F&;^L,c/qn)f>SJ";"l\\=";"lJ:Wkq";"lJ`)KjWn`]E9]krnTUn6V-\"0FS","l#8Ua<ReR\\6\\>0fUSeEL.[ej6,rRSH8";"l;,i","lr,\\+*","l4/p#<7FShL>p?0CZHLhD";"l_L,D*C*uV","lWn`)i","lhW#","lL>.6O\\=";"l(@k1L";"l&%\'KY=)P","lld1s?","loMqWjiHR\'Q8^*b4FRVuk","lW/r^P","lF6ZtKRB*<pNh?oQJn,","l0>h7V#Us^G9uL&%X2Dt","lf8r0W";"lAI<c$","lU2NP(JVF","lmFN;1e3","l.giWMT%_?aRF(d/LJ^R;YmDLC]gN@V5`7p3-C46_@C.6G\"X#\">([","l>m\'@DY$9";"l2_D[/WfoBq3+d";"l\\hk7K[T2\";!R^t6RM!qI2n","lg/ZPE`7Q";"lYQg\'GQ83d`J&U65IhdPlW6A","l(dLO-,J\"OKfNHmF=K\'_Vl@5bQXjPV<Y2VmO_5n,(d4:m;","lXZ\\1CO:Gs";"lbuLi";"lqn2<1E;=mFWTH","lkMGE<\'_=&aoP>!KN@1TI!/I@VNjaBDgKf;\'$Md=TrJ*0jj70j2dLL<5";"l>[+kKltZ1r,QS-iiG+fZ";"lL;([r)k]XK?\"eg","lWf]a","l/#VC\'riSHT+2jI\\","lhZWI<!J?W=e[7)T","lD1qP.;=BZe`pK","l$F8","lFeu\"<,^\'K&","l`E@oa2o$r","l^n4","lH(7B\'GR!","ll1*";"lcVI:Yc0LQe=m^","lS*7HKDkath!4)";"lr`c?%?j4mki<k`I";"l$t8ZFrt)lkT(tngp^<o","lARlBPBNP";"lGuFUc%mb";"lf3)MDX^[","l<`$)J8eKa`?9i6m]TP";"l!A?Z@";"l=L\\B\'!G;";"lH5i";"lL81TuL97I:";"lm2*fcG`R6gR0,!B^IN@*Q0PQ5?H?hkUGbN&CIC8f(:e0,>l4RK)T/jOc8","lj#i0=","l-N\'","lb^f=;#9#XCesD?@!MN)$25;YL(\\2Q7r9(QFbKZd#\"!4$l]q9+Col@PRMHK";"lcAhP`CGU@";"l#R.@0P-j";"l:O[c4b`oHo<=Vrdf:^<";"lkcLh\\";"l$OO+X`4D";"l3lEg";"l#]ZdcZdh+0_P]b_R,0bo/Ff","lPa2oiFh^f#]=","lic.VYcN6-2BcP7N3<K9NC/JdNE-h","l/C>8QA3","l=;u9:`c38*\"3,3FcUF";"l<T\'/o&58Vm&#e%s-.","lRfSu","lYin.>C4E*K,M";"l!uZ]HgC\"24jp(","l)\\1c/=Xb;MSA\"\"\\_7","ljCMC","l:MSr*";"l!#9hV","lpmpBt17\'saj#s6\"5rZmQ";"lX;JG,5El@";"ljPY()L^&_3;4@";"l5)UN!";"lh.E","l:1[=hp50HX7S-4,_k8e:(\'kZ]fbH","l=L7Xr","l$irPg;9\"e:","lO,_YO";"l8;U\'@$6>b","lpe&NC9Z%","lf3W/:[UbKFK%","l1D0,<LM";"lHt02bOI+?";"l-8\\tN;df%";"l-<#H";"lu;fC5`)a@p,R";"lEu6L\"\\h[.&L*]865C";"lejC8bZ<A";"lo&(Z(Ljq";"lIsJ$0<Fb!UlJ0NdM1ND&22,c=";"lB4B:O^CECPR!","llj?aPA)d>5p1K%EU)","l.mZ-Jl6L";"l+92Xp\\(%4F7H\"M9","ltT?MPFcm","l\'?ZOF/p9CHHQ6Xb$Vln?-)j63r)/:nYV9U*Cqc<@","lPM.","l`#ORpLaYl]","lS9\"%gB2s;o","lum(F@jKi[P";"lRt:Zoc&,","l`(5/++<@!","l[YD";"lEf72`3+Q5u","lb%FD#:2rKUPn47[h_RKp^aD2","l5iAi0";"ln>uT:F2NWLjMW($QUV57.T-uh&4:5>dAN","lP-_/OZ/\"8C","lgjKg^<(","lD^0BmgfV";"lXi\"s\\]8B!K<uGW_,mMKqV%;aGT)`\\pQ=)rsER\'=E<\'WEIlUG:bCYG#6qqP^Bn2h@@)o<IjW3i:^;XG$_B:2X*Y,<TB^gcr^A)Bqb@Y(X$W5o&h9d.War1P)Z0cD6l=2:O=CJ&2b-/r_%AZnM\"u\"eplL2R0if\"`OTq:S@Q!D$e$]h[>2C>&)G+[kgI;$5G20GK=tH\"^I!`$t.D@)q/UHQ32m?rEBZ]W#>`_Y`nSH\'MP<uePtLMLBuaQI_9nVTZA0544Gn_Lk)quciR=p$)($34s\\tCX5(I;iH\"bP,..i(5n.Hh8o!GtfV)in^6Pje\",q";"lV3CiU","lGji,Ar!M=;VB/fS]l?S","l(7_nXf6%I";"lB-f#a";"lL=ip";"lj(rBl[39T+XbIWr:\\)";"l$-b.F^$89g=gpn4W2^1","lFSC#-";"lWlXQ";"l_]]X&`IR:HEtefPiOqK\'CDZG8?A,","l>KfBY+O(s","l]h)=aJGW)p9_ZK","l\\6a)Q";"lqbB<;.=@l9X%&";"l,R\'<kh$>ju!@OUaV8`3G$f*","lX-%=B8u>\"H","l9.2)","lB4*TPH+j";"lFnGJ]8\'[&?J@J^","loK7pa3FA";"l4JU\\4DOb&K3mOsH?T4AZAN","lXF]Ne","lKM\'>X)BoUC\\dlUr:u3\\]";"lA)@b","l]0J9Z","lT<%D:Fb9)","l8>A\'G5\"5L<JN9";"lc<$-";"ljs;+)";"lfWd$8NEghI?8gWW43>","l:UgAqBCJ@#","lB7<V4b/o";"l`m-Ip7N\'";"li2^";"l&q;7i";"lf=2OBO-1","lDZj";"lq`I]","lY[7\"<c\\k/","lRtY&:@ciE\'GsA8kA,T";"lM[","lM;;LH(7,;","la`<0H!C";"l;D\\3";"lP)Vt[F)sl)UDn0]","ldZTb=If9F]^ZDGW*Q;0X@K;@ee1`","l1h2,0(GR^md>TF.)#5_$4<Q&WLM","l)4MY)KJ#b","lu[6Q>nD_[","l&anr%#*&;","lU#","lr,p","lH8$=Wi#L_Tq*7D%*;ktAl9NG","lRSu2!SA*NpTX$1_]gF\'\')A","ldra?@opIGW4[3<2*8\"5QV;&","lZ_jL";"l?`(9","l\'QoDbDdNa\"9`]kE4_S","l8ejr;ef2e:,kX;\\e.\'5:Qo";"l@U,o:0eR@,@GXR";"l2F[0c54";"l,t9(R=2$Pj8I","l^\"U^gDN;e","lXc$q$HeY";"lu7b:ShPh,","l,3).sf)5IV";"lWK_[;";"l]s","lu%E1c";"laO@t";"l^q9<5h9a39!Lb1Y";"lM6NjH(#$";"l=o;3?E-+";"l*MFt+-GGK4dU<].QaLr/8@f+P+7u2\"%*h4Y48%#,p`i;<qr]BX<\\3j3@6@b]HQ%^8M?<\'%JZ,,o^`K","lZG`","l&k/N:0I=)OE)C<LR@g,","l.<Rqil$pY";"lWf;`=?V","l$G0A#";"lrCAQ\"2?]";"lr9O,Q";"le&eH\"!b","lt70.Ai=%,#lWD","lGC#SMW9mHHPD*7PV0?pZWd_uH_C#sKCE\\uHp43JDnND6,N=","lukck%p)]L1jdL:[qc2R!-i","lkdIC-n._6#43hM:Q;Nq]";"lt0I0";"lnp&l?h6^+e!Pp";"l&cZt(","lgm)]\"<(","lD3j+4O]G^19\'XOFXm91G";"ld=e:R","lJ]OrE$aP";"l@_&\"k","l2igPJ?PGi^5TB,&CTNC*c.Int=$n(\\n\"9QZPKM98";"lpQ=@GeN","lVdePY","l73Ni_i*t1i/\'g=-<G(K3<8\\%eA<C%J<EC1-g5","l1kIbE/g.";"lj$L\\:Jn1&S-ASN","l4G=]r]H?j4DrE\"i,e)\\b\'\"/&L","lnmi;CgLIZs\"r","lJ$BeXT)qbm_1A&GjsH#\'*7";"l!i-sVUj454";"lY^6/W";"l-26BVN\'KDhNqd1[G/_tuU!8Cb(8";"lCO.qn","ltHkM*d(";"leF1WG53Q,Qb/S;","l\"aqlXQkf7I";"l!6?=","lXZ<";"lf)t+I*]>VN";"lLjdN!QT%[t\'p","ln6&9].Vc?SApmk<]\".#G`3","lo0BHN_\"Z.hIep","l3]1[aF4oFc_7","lWE/","lk>[/g4!&(";"lb]4gnSOPl","lL08UC/%","l#F0a&TXY)B&R";"lS%OjNQa%9","l=fb0bj^4M";"lAQR/W.,IK","lII9lDBL,","lEb8?JJLI8j^Tq%hC[(m","lrK[j.8hX5","l!BK^EbRd;IlM";"l.XaNJN<]Jjc0[J2#%K%SLbU.sj`(H)36?Q5FdVY[8(h","l:DQproa]";"lT\\E","lnAA@oEddb(Y.","l`?_\"^pC";"l&.Z","l\\7UE=1M","leW^1-Pd=","l?E!gK";"lJ!sY1\'*J`@Q#";"lr7@\\8[Vrq%pEZ","lF)7Os.bGIV";"l1a&\"tPBgeW";"l1D:_:LZ\']0","lqXU";"l_\\4%c]s","lpFJ+8f5-S","l&8/";"lZ4^frD_Le!FW:";"l)s<6J_d8\"";"lmV9R[";"lrQ@(XrVHE;P;Xo4R!";"l?(0cjB>";"lkL/#ct/D+\',eqVLoj^0,mB`TJ?R0N:d_>l;?KG(j","lpBV(";"lgp6eRm\\8#6CC","lf@idJ(PD\\H$4&8\'[\"m?]","l4CTEE3CL+4";"ld^Cg\\TuLGPnBAjVM26H7Q%`UCKSl90GL(ALRPO1OB-2rJl8ijc>?M5Jp-3i>fON!,k$T5<CDWE*\\+H5#VW^M?p]Fjn-cMt)if>lsu]d8n,jL#?nu]1>&f(a=rn`W(Dl(o=ktlRoMF=LLV%c?,.EYJj/?\'UTYP0j#\"X?`Wkh>?&E<9%o`&JVaF_76_B2lhXct8XrYto/PWs(4Ob?A^V.gPnqd:i1\'8XXH^?AHbr=NO\'fH><J\'U0GhTb&CrtG+?C8^g?>8D(g-JS=?F#JYOQK`5S!?!5/E\"e.Fu+2=fg`48JJ4MQ.4)A[4U0X]=.rtV#L6\'YLTa&C.\\;<N16_eL(%Gc>:7$SsR1^H#h)X!b:7KO44DQj8_cBom-7Q2l4/s;jn<SpQbigom>*,i\\o#N-!EnI(\'@U3","lZAgg#_G/","l&dDS";"lZr/CLf$$l";"l;;?1@`fk[","l3!<7eZN&i,-XJ","l<2l?G","l[LmWqVrSlFbl>TLD#&8VZjDPP>OWB0,u=90<HT.;oI-0_Bp-Ae!2V^>D(";"l#cY";"lXdoZ[","l@7\'R";"l8bfqPVS27/R`HC^3gG3Gi\"R`G\\jkS+TH/KDW][,rfAL;h:oQHZ;d>D)<\"iefUXHG;_UsA,XnsY.D+LjZ(2\"#M-c4iAFKaWrSm\'J:[p@D9jqVim[-Eit";"lD.rR&24XmU(&Irfq7A8d:%.olm_tV0V_$\'S[[]","lZ&4Z:";"ln=";"l_.LfL\"%J";"lTu-+";"l#M0Xc";"lpd!=+JRl1t4GTIaAQVWL[-qSY1R";"lc0!<;UDN@f";"lJI\'!<06/=","lgX0a&,AHg2qH:(ReF.`Y","lDhX!8%in8","lAdj>YK4^","l2<ZT2J!`Sr8F%Ot";"lOJo9@K80>","lAba!eEA-";"l28)/a([","l3HEVLiPACCqFi0HC0kgS=.D[GJ\'P]h&R5F^oKkV$*%g;RVm)ndX[l6^O\\[%E],m-U5BF!Rn3g\\%_a/PR``Bmdm(K*7jpIB3J1W)cL/=3FMnit&AZX]YOM$eh^lI4k/4al_:q4eE\"rrgk22JKOo2KSPZ!8p^/u7E^#0ScfZIZu+AM9C#5.3L<q&UHT_<4eL7gGk>%%2Ar)+6D;K/HS0.M!&Y$;.RWdY]*oRBgfk,s,RIUj\":#.%hapR;M#a\\l%.>V;p\'V\';E\"DXq&uEKQ^%0+pqSS!Ndg4C]gnr*WaG?eD!,ofgI\'#+I^pH?mGt91;+)<EdZjQtPPF$c\"tO+Zh4B]Y^9&f/sn:G>k6Rb_i4i0Ku>lICtbGd3d#-8=CL=V-)!\'H&?Z7m!\"ruqFY@PkBTbR3DgXk7^T\\NkU4asek4S24`t7WkF,Y08-sPA9ME2BeJi\'irqq-DA`\"4d52-$k%d7Hgo?#AeS8C0iO.DA;^/+2A?1l<NR=JteC(L.dR\\uS5D4N7GQu&\"*T0o*7u]H1P$7$03YW7#?/V.$rLImV\'6$gS4CWKFaS&;V*b!hr+.-pZHPQb=e<fHt]0LL`bWpWDi%Al`n`UD`%F\'^c\"*N62shRBt&B4Jtg(k\\DKu_RmP?F@8#Tf_b3r)[=*k)EGNEY)F?C1(7rY-4LOV9,1.eWUT=Ppm;Bq$2bMoDEF7-X!U-?\"bWaF>hA_ppN>>Fj\"%f<-;[*JtfZS`HLgKj$,du`let<7]X=;RrMp*K5N+sVI@AICtCmEu3\'Zds\\bChj3;%J>u2#JAh*BDG(u0Qcm.n_p]nZ*sdXjh&M7PL\'fJU?BBgHOGI3isT5:%$JV!%U,BHt0:N0foa\\[;?W(#7\'hnWnfEC-9FH8H*lY$FlLt)PEIYJ3Eh&/+S*_&PG34>XDd<O,Nrdqd49\'GHsh.?:4*!4c14r$,l.4B2TBr;Bf\'W0$^.LV:Od#%VqE1#`q0S?\"MHL8VE<2o!q:D+AnR[=.(R*";"lXbh(->%-\\utDN_fE(h!*rau,8fPZACR0)tE(X\\\\HQTNnuf;Z?t\"Eh_]mh0+ga),!h,L4o65I11lX\"h31akg+j^ASUKN4(^`J.O)","l+8#M6I%9","lr#spt2>X","lpjPLoY%f\"I8XnWmts","ll3HZS%fo#7)8i<.";"l2=F3f+lVKgE`?rT:Dm","lt\\.c";"lO1kQ`\\[+";"lB0$]mPEG:&i\"Y-$[7\\WBZfiSR18We@rsB[\'c0;V:8OmZ";"lE(=!=;fCq";"l\"1`jpM!","l7JQl*OgVi#`uN46EZOI*t)O+%h1E";"lt0#V8gCpjD(5","lH%BWX$M9uPgGOoCoh!$*BZI%*";"l`.8LOSFIB>";"lJU%=","lf6-p9pnTQjhAr";"l?ml\'P";"l50Q41_qH`ml(6cfVQs=$BiV";"lT4S;#VYbm","lt,DsI\"3b<o";"lM@\'BcQdNS*u\\L","lJd6@.t5-","lq#>)&#J/*QfMFO\\-U#1m7]7GB#fHHc7_1lsfGBYWYiFD)3%@.";"lE$uN2hTtNN\'n5iQkM\'","lDMPeg3i*i`H4(","lR9M.AD+gmYNED_N";"lc^J<=G;-=;pJ-cb","l52P_@G#D#","lOTM","l,e*1kDM[IO\\8l\"k";"lho#","l^(:o8F-N";"lI%\'t";"lbi^-co\"-p";"l)Y6";"l4*$mae%MM>","l\'njE";"lL55#*.r8)","l#_dn%jr*^ER98Eidr","l?uYXq","lSsBB;M[PZ-dkI>RPpO","lL\\@sc","lc#9ds_8#Y!U`p+NmN]Gc:i","lfe\'%li&8:";"lp(kIc0Srjs#T+f/:B)F)/mf8\\co4gYdigK(>;H\\s7b;UG,$9,\\!q;","l$*LkoYi";"lJI^]Sq5XVEK%";"l\'/r_>Gc","l`kOiXlk.`";"ll$A5";"l$D4","lP-ME","lB>T2u\'l(a","l#=`L!QA9o:1i.N","lW\'Z&ZRb7","ldE5#b-@$<3m\\\"`\'";"lQYt>Bb3AFD","l1qnMlueO&tU)";"lDHKu\"ho";"lOl\'>i?CXT!TI!oVM5]?+gkMJcFXj","lN>2;!q/r?7,<(O;hTu\"m>?=>X8.4Et\'p","lAQ^((","lh>-F:>]!gY`3-fWtj8","l\')o;rrks6";"l9uq)0","lRAFo98TN7G%).D";"l%4$ci";"lBa9*-7kPLo","l\"ed2+";"l(tCD";"ll5Q-a";"l%.U_t","l?Cul>Nh>";"lB0h","lXI=`=\')s","l2B0sEC<%2","lI/q)D8\\Nn","l,@7jVQ%3HG$EP.K\\Y_";"ll3[B,%4]qV,0JBGhKE";"lgD<$#P?";"l[68Y^0:o>W,G#OS1hAHR?EGC#-$\\T@rHqrOI[F1QMPETC4b89Lf:/BJ:Jtagb4TP","lAq\'#+u#b57b770?Gg","lRHL","lmT>j:#\"7,U","l>qFN";"lMXS13##sm.^o/tk1=-,UCDeI*Z<O-]n\"h:_*DtM\"0\"_e+)i","lcN%r+10L:uR\'KXq`3";"l]?J\'";"lnZ(AkHMbO=*iD)Y0r";"l?\"Sc#f4JUq\\PI?","lY!8";"l*cTCl?2i";"l1d%B&K/Eah+eM!u8_D-*";"lZTk.Mc0DnE\"cO","ln*Z7tHi","l]XIfL\\,asYTJlu1";"lie&s-o:SWu[#nWfLYpKFoi","lp$5Ca\'d4T]Y$EYl5YE:i","lP3>;L\']\'`4Y%th#";"lY^B];n*J5G","l$c","lq_h%p-I*=M";"l?\'#&L?[F","lGtat\'n_!bji?^MM4a+","l46)c5919JeQ9L.";"lnElJ\"8=&","laN3Yh5J+%t";"l%s=Z6\'pt9","lhkD5j+Nj?%RCmC","l[]\'J";"l&+e;","lRP)tg","lPks7R^!rtpH[X)_A:A";"lP9/oOIrIaq7N^","l!Zc0>9>6q1(XKi9o3h*\\0r";"ll*OskJ/Z.S0q\',0/F<LhW37rMF(I5B!;&@;PC-";"l_0C.fG\\hTKZSHl","ljS/";"l@=(V&9m","lPqC653$IC,o.!NMue","lgZM!.!%(lu=/=f[[^t*!kWU80Ir\"aj@Ct_c@5","l7jb_=Sfj>U5K0,P";"lVT?c(\'h!m";"l\"(d";"l!*OK7[=pA6i5fg0-&rB68YG@\'-.","lJqjuCke\\oI:bmn@*[E\\b","l=la]ith\"Qf#\'U^","l`hk\'t*=o";"l@No`g,PV:";"lGHgVT","l22%=k-G>2A&kHbi^h0";"lI7e;.4n","l#mO\"[kAQd","l;YMu@,>A?m\"[F","lir,(#-Wr";"l#i)]FnaSRSJpA#R2P+,TQ]#gR,NW2f70eXWQ]\'d3Lji#WK@+hreJ+Gbco5@X4U<nd-T/e0:G2:hB&c`f.\"%reU8R\"<K/OdhmeLp0j4#$p)2qG^-JVo$er8hqds&2%kf#IM31&tS^K;$X2$G9n4>p9F/Sc?7$/^CSh-\'FJD\\fud";"l,27B4.M1@dZ0CDb]tg#e";"ln*Mo%i^Bm(QeM","lm;6L&Vl&@";"l_VF.9bT7T3&ia\"D/oG;=","lCDQ\"0WOAm";"l;;;ci","lN@*YN<h4iaM9FIYCC";"l)An-WDMCkH","l&d(57SkQ#o:\'QnZ","lh?tDCmKbHmch#>","l1/n]";"l9kFE+$h?]";"l%cb","l&gCsG7.Z#MC]\'MttD?&e=V","l-t`L;?p#+/8s","lbLF^6PGM:","ll>^$J","lh$e$Ub[%$","l*D@\\Kf[&NUl_OuR=Q%Qt\"a/K^SZ","l[X<=-u+\"XYE@cWJ?nSJ%OLdo";"ll\\B50L,t\'5";"ld+L34V/JE";"l&M,$","lPF=$2ogm","lA-+0\'&ke","l<eh1Z:6o";"l-hWSjC&\'sZFiq";"lDq9","lk^5HW#4?,$;$>A[";"lq.Mb<\\DUq.B#iet.^c7R]3ZCU!u,","l!celT]>g=CP9EPNk\'JM";"l$!\"\'YWM","l8D,8j\'!K";"lnYT-i","l+jd","l1\\bf","lu$F^om\"Pg@","lJLu\"V@j>+b^Sh$[;b<qT$W2I","l>M\"&]j?`Z","l$X%1]";"lDhuW6";"l+#6G","l)]\'XcI<P0";"lU0_%VSEl:P8El\'\")qs$t";"l2qH]!Vb\\;;;_\"Km";"l,Y><","l04Jip","lodaq","l<et\'D","lhFVqS)K2#]`PRYqe%6kGTbrE&__SGf\\<\\";"l\\g-t_&ol";"lOXB0B?A","ltm7O<q^8";"l\'u0]42C","l+Od*5jk7","l5r9\\","l=:[1&#rOcD1Pr4\'>6p;g.l:NW>lY6j%#t\\kNGJ5?+ir^","l]^8&k9TW>","l0p+PB2Bs","l&-*Vt\'<j","lM)Ri:ViKD2oI6)@*Q_.F)A","l4NR:!QHBHeg=^","l?bna4r#","lB@4";"ljI8G`bY[`o","lbC";"lo/07","l#[d";"lleA6fp=X&","l!YBNUT;BD-,UEH:;+ZX8","lmnuq`FHJP8_<dAi_en$2q4b)W]Xl(0?Ln";"l8@Te:F`leY(2g:<24";"lBh8FIh=qg","lLQ`WcBlRs_HdPtDP)VH:7*g;YEG]#PZ)=e_J]Oh","l1[@7";"l;cluS3M$!E@Nscm-!Hr/_!Igm(,RU$kc","lDh,`aMs:NhRs0]aDb+,k8s","l=^JDc\\c[d\"_0A,Q>YU%";"lSBFQ[E#h<;5:.eHm$dQPQJXXP:.","lGu^$c/;:&kQ\"0i)ksB_-e?jt";"lN&WD";"l!:+","lgZ*IPh_8e";"lf.7\'#UQ][_IZAg24p@*p0aVbr","l4a\"!c&?$";"l[a_";"l>`+*>SZ";"l\'a0_K";"l0E>";"lp*i(U";"leFd<!#N*","l0hYa+","lFZ,eTr7)";"lB>","lBuZOF%[GkYO&:\'\\8`5#$3P9QJ,\\U142:GOL*)p@F_lYXgjLru4\\D0C2>@\"(!_\'!U)#0U%K?)_14BopFLU]ONg,-\"pI";"lokR,";"l>^s:<5J$B^fAA%`H.";"lP#uT=j%hk\'h/8s\'$C4!)\'B$[P$m0#s,kc=","ljC#","l?o*;Q)YSSQ0b_-2M9hh","lntG0HFt:e!U8gb&n7AG=","lYkmDJ";"l-jh@\'^hR?\\";"lK?Q5";"l<5;s3YP_hd","lS!c";"l2PU*E*X=kD:HYapFASBuq:jeo*9BIe?i";"l<q:qOo:(/";"lCA?OOi%o#o";"l8rE","l[\")1M7_Fc","l#:^&=";"l,rf7lL*__u`GS@O^`X9g";"llD;5X","l[:qf";"l?eu`X>bL-R";"l$NPR0I#TW\\)-\\";"lhis,kts";"lq%jQ-f,.o9]NK*OP2]>lXf+s";"lj9GPF";"l#0f3";"l$OV\"CF_q0&ts","lkE0*";"l5lQPIiZb@s?Q_B`=[`$K+e","lY!5";"l$l<sQ5P\")Ud)-\\!J/4s]/M","l&*,0MXe/.";"l>f\"AQ*I[5";"l]K(-G9R>J";"l^MXB.\"t$$\"";"ljn\'+PYt+;f";"li=\"\"Hb=H\'+P9Y8dkttXS,M";"lLlDfqCN;`hZ\\Po@3VZ6NZDI,rAJH`A_:ejTQ*WVukCt8Ce7fEU.VbZ.Sf&#Q(I2WKR0doB70[fZG_OZ6`0].0$)d.","luZ%U";"lc2ea[A8a";"l?&#+=U^,1jBI","lbW5m*dbMYR";"le[Q@WQH*_","l^0umf";"ltYT!BR\"t%Z";"l4\"3D=(F)%h3;d","l]&Ea[k<K7#/gJ[HarsuHj7$u=n\"rNC!li_au0Jj0!C";"l9f%U";"l8XMSsu+/U";"l#3*;jF_Z1fM4N[";"ldMs!\'4g4]lB\"!tXOgttIr\'hiK*%kiX\\s";"l1A&0R]ee8DR0QOSlh^2","l9$XAp+N+e";"lZ)sMCqaT?Bp8c.&UpjiY@F";"l/d`ZPId]<N!C","lOWm=/";"l_Rg";"l=iE2Kn+7C9Cn","lhI>CcB^a$O!$_TPe\"ajem6cjBkN_K","lWX#hJ9&5H","lF*DY\'j4Cbqhui%I0pT#M.faP2F>_d7b/j)!L^\\i8CnI","l#TW>_fg";"l+6/=WQ*2c";"l&IHFWWT7MS%]aQ/hZJu8YR-9h","l(\\s.aX!KdB";"l-KZPU:27BY","li&G.,@W?Yc2+;#P","lP8u;5toO+M/62XnVtS%C=F*-qcZLh:EBCO7GQ\'R#N\"ga1Y$<(o/7B4K8bnh`fLf:PNH%Z<>j-*1g7O.b-Q>:VfJ@]iKS#gHD#G=-WCu<2Z79`4p0P<2=5D@._F$@,,Q7Dgju2fT;,(qrkamYct(/RTr*[tG@E1\'?AX7M2Rh-<:L*N!k%-C(ZF2SJH;Z>L)%E#Xr2L\"A)G)+1V!C@VB)liZe0ULZdru:R][?7\"Pc<q)]=1,\'DLe8]-Rhlnij\"8p0QD\'<D^%\')a!G]S,5*+t0)%[%&$u_3dZ,,A^&:I^F,Uq_\"!S&RmlDG/Q]o?r.p)E>#[BO7obLI>Cci^d0#\"%IJu*s(";"llNG[R$7","lL;U$";"l3,LpT\'J(/";"l3&SPaP<O-?McIBWj.(,?Sl.";"l-\\[";"luH%144K<^F-%(";"l\'6,;5YM^";"lM7lT";"lI#Z3<J/K","l.,.t","lU;N^","lr@@MSt_bS&t&&E1E%.UaWX";"l/SjJ^fcc";"l5d$";"lhQ20cA)2";"lgEsj4Jt,Pe/2Fh!9;F";"lHj688fc","l#2&Df#1:I","l]QsoET;5K";"l)_JT4d=jEe\\+m";"l0\'s-2";"l<Z,fkK6X-\"\"Z;","l`i*9S;tVPB`p","l<g*XiNjYT";"llM=kM5$8FL-i";"l_b:^!O=k?;:d+9,itZ#@","l\\LAEh&M";"l]ABGCOc5","l\'\'TkI^SJTir+9","lM/d]^Of9h]epai","lSUt:.Y4\\Pq","lWB5OOf7","l>inF";"lKscW8Np^jXAr=";"l[[=n6KkF.","lO!IUkqZ!qGborJA,c55:A2\\m`m];^O22>,n1mi4X\'JDZ(IV=%jk:P\\@g5NJ*5%l3%jm.Zh9!4AGg@/h)r`uB]#\'[,R\"C]4tS8g#UC>u%nH0uZP5W>Rd","l)&f6gn=","lonT>GlM","l%Q6bY?uOT#dr";"l@VD*tEqn62GkW","l`t/8qpf@OeS0d2H[AL","l@Tj]V";"lt@2mjIE5.pbKP\"l*]JV-bRVK","l]\'7p";"lH$TE9,jC^dh<p[m";"l!HHV@9p)>","lcL,","lc>U=G2n";"l:GJehTNKCB^I\\(pTr";"l!gi03/VaTe?uDG";"lLJb7]TRL6mb^eJdlX","l.j5q","l7;PsYu$P","lo:/3H";"l!,)\\K)-_bp:d!t8Lfe","laJ\'K%-]H7O&NkTob@rMO%j^\\J#A]uXmL#\\u?-=+q\'RB<jMj#6t]GC<]^f\'[q\"+","leWj-aUPbX!*T]$Xr$X","lj:!9J5#lq.mY10J","l,;#kiW/eTiQbp";"l2&^jD","lCcV$Q","lpBA%";"lC79e>\'W3f:iN";"l#11YQd!-6";"l0;ohSIk(";"l8F/p3L^M/K?[@g";"lAf[A","lc7oc\"ZpF5T0uCaf<k:]AlM";"l\"5*?4";"lBKAY4d+","lrO8G+<LML\'5\"9k2UEm`PQ)jFj<(","lKhr";"l0mFb*n>\'","l%9Pi9U]j","lY0h>*/Ja";"lrqIDE>FF>_c8","lX+;`LR8C^oCo*<<RJSN=FTre&R!(7<H]sX)","lPb7%i","lj@=W","l*n\'q(bW[","lQ8J";"lQBAY<fB5";"l9Y7Q[54\\Pb+8J\"R`R3k49fIPpmBLUj^W@W0*MN,a,7D^P;^I-";"luu1O\\\'5O)U<(h;2WM%Fs","le>V*%Yp9m^pX62HN8X#3lX";"liQ$E0XX?D","l54","lVX@92=4FV,>9\"u\\O,[X.";"l826","lI9N=sf7m$T:6EQ4";"l$CUUoPi+OD,si";"lmr:&Z9C_f";"l.ubSZ-hW.fE%qNO2-0u","lB>@dl&34Q+KPkZ5l3bLrt>\\F>,\'qVf\'lU%#([";"lq=p$","lADm]JD==","l4[bU3";"l/-/\'r;Wl*!J=fL","lh^oWDHofB@FsE_%#P//FSTKa5bAb3,iZWs+";"l/S.[\\,+hl","lkF9MF05\"u:@J<mSgQ&hgnA%+rpC","lAqko7";"l[[`7J`gA^(34kD)[E,+=(fmhe;Q@/d5<\\s";"lN\'4[cgr(e","l=!fbJh\'Yh79Su!","lMUuqZ","l*h&l:";"l8cZVYAd/qcFEE\"Nc8","lL#k^DrT9";"l(=]e$)%&#BXcHgPX%*mW","lEVPJP.G?a\\DZMj";"lJ4hX";"l$\\FmL";"l@2mSS!:r";"l2,B`5EG%C","l0Jg";"lK\'+\"udd0dS7`";"l0#Mu:+4KBWfPBD`Z@gNo*$rYN.baSCnbB8+Vpt7FQSP_hQHp!6_l5q@;&0sJ)H9NYB6h;1Sr","lj\"mR^<0R";"lB<G[?K,gp&jZ";"l2`3qGm@4";"lCQ1UaYq(0#";"lSQd@B*ZpC(:]E7bIBW\"<";"lI\"&","lU8qk?";"lXac","lK52N>(oYJ&]l1","l,^m*8g4#i\"8qeler59E","lP>?84n;=H","lYRiS\\U2\"/?No@E254";"lmuLoa-X1","lmhNmjQ]u8@i]\'f^8Ta.8","lktu";"l>/-K_7mWU34^OK";"lMl_Hog\\[$gelYm6\\pa$","l(%?FbfB:c","lrZF:5hse1Ql%";"lI-J)ei<Ynn0r","lufR+R!7Y/jE87W","lZQP=2ts";"lN%\'q?9&H/fo:X";"l?(6[34Ep";"l!ot[&","l#Indh.,cl&M\"3U[fl,q2>l\'MdLM";"l\";]`>9US7";"lDq2F%h15","llc2bZ].S!","l]3[f:t^IC\"?U/I#XgUB`0=f)rXRH.6UfF4\'cI=E-M7VF(r\']:)Htm%XgHCqWtkN:$>[E0*jinl9h\'*#HY1=I]iIK;3r1f7","lM.Vid>HZ\"+W*>cMluNb\"","lVgcR/","l=A!.l@ak";"lICH:H;)c(``p","l3L83t","lp=tm3YJ\\q#RH/GUB0rrU)g0;X=AHXFQMQoNuDi3RHdjX#\'I;$;8s","l\'oIBl","lR1Z8srXqiAf79K^";"llmo","ltE;Lt>,Zes^QRP,8UX","lPsq[-","lCo7u52Eh+[D!g";"l>\\S^+";"l;Jb6P&;,9PR;(","lLCX_Z=@:&","lEC`K";"l\'J&DH@>3W_(u^Q&OIaRDlO\"d(/?+[39(o`\\\'nT";"l]3/";"l:a8E7CeB\'4)JJ>I..Fe83n";"lkYWe?URO%7`!u1^[V$S`7s8?E;V?>Y;;O9e%cee)G!\')!nR%N]?s8YDn/eUJ=`V.;S@OEgMa%cspk:(0o8=,1O%DqlF+5\'?%Ya;]@F";"ll%","lKl7U","l8nI$?g49Qq1$uS.","lJ.K:p\"QO%%`]nbnink","l1eEY?lr!";"l,D:?a?-9";"l()2T[";"l3^\"p";"lo_o6i\\U&E","l(i\\Z","l;@$9H=U]f>%I4ut";"lg_)(<%lqXp:Jr#L&Z]","liVC4K^%b\\lZZJC]";"lQWC","l[OZpC","l,FEF2gINJ","l+.3";"llu3Nhr][293<Fg.R^%1U","lT;OHpGq3>@#b8$[9a;8DPI";"l8Kru";"l,X%UO)X-\'U$DSR1djn&)Sm6D=jpg","lCcil";"l<t+sDq$^OujEi";"l`ET;#4[G+UV7lKAVAae/2_g;10\'K93+*q]#UX*[+era4#D<s1m","lHgYtG#A!,11O7ErS@29d1tIh<%0tp!P&8O";"lTe[WG","l#YM5iQ2mE_+)","l`K)CYlK,A`WD[pn";"lJ3nRr+-Ka@=#fH/fIXW";"l)l.TWZUhIkOi;R/&R";"l/CLml/W2)","lK7e";"lc=A8";"l3UtnOb,de[u@2i!Mh5H^;J!","le(aQ\'b].D`e2ihhA0iQn-%\\qZ4(R70f;Y?g_g:XB9X7sV%15b8j#brfLuq-lkcI7nm?6+^i/^YU,i;;F:nFf-7TZ,ZQ+\'eh.9n_@@l+Qp+:r";"l2W>=au=R.u!4","l@lLm5*V-*&S=AS084Drg^aVL4]?","lrV9qU4*k","luVco-";"l*Kk";"l(m@&9?2s";"l@K$>#!6kjqF=1Hg\\VEsq","lRf;BK2ask))gZgLu`-O[D+";"lNIb/\"1@^Zb;;#u!l3_Pfe3LH@oTEl,grjb.D5@8q:dNu\"SR4E=jL;+H-k=FQ9g";"l_>A/Zmrd^","l)m)`","lE(?`d<GQXA\'2\"j<dK`","l9q\"n?-%Y@R3aXA^E)PmT","li_-\\nb42","lMR^,3e`O!";"ll<YdPV^Z.";"lq;3[,Q.me0\\p92oh1X0b!9I);9.3^YH5o";"lZp682C*h+_$dV";"lb*j3AF$cT2";"l7&/5>]D]`@ITIYacX@";"lt$luu","lLj`0$!#WfcWX";"lUo";"lbC`L\\eCZQR/FAU,pEi..","l.uE7MP1`uW=\'SXt;8%$DOJm<\"5L2[hCn2DJmpZ%ha7@SsG=a\'$","lT(in5!4hRr9\'mgF3XmSV","l@5e.Zc061:?PC(TE%^d<0RaU3#XNt>X7<T";"lZeFWIJMPe/","lFf)@","lolD4iVV#","lQgq#U`+]","lYiYiB\"dn0";"l:J)GmpBMUPN$;u";"l@4IC@M`L";"lZJUBu5r([uU\"(b$NN\'()g5";"l]uh\'D$J$\"";"l[E9#7jWi","lo![","l)Te.qIW9J[#5(MZil0TcdLIr5mV-]+uZq:OarCH>PBp]\"I9jXJ>%NRFXU\"\'9)3-fmTQ`\'#f`!%jLeGR_1\\*b%Foqa\'b\\rJD)_N-]-8a;9`M%/X$Kc+%RhK81TMs:nm.5:o\'C^","l4l!sgQNR6","l+IIZr","lQk,DBN%(7b\"M]>l";"l@k+GS","l%<h>aSDrbc2XsHFApeWG+.jAZ\'5L","l$KJ&dIa&V<\"=GAdB=Z\"(","l+=H+K";"l<dF5&\\#hg";"lAp?&s","l@$\\\"YKQtVe>*LPh<(","lBGot(\"*rYu^6MA?";"lE..aT@=0)I#2";"l*p=MX+F*]","l\"rDc9Sr","lOgWbX-j,o$:Qe=kX?NULtkm","l;_D`G;O8`WJeOc","l#jObIbfK","l#Da0U8<M#";"lN/Gfr","llhB","lf3Rdr>ksuC","lc=@,\"0cD","lQ1-qhqjS*//D1gGWQ*rFF6mtERo+c1+*P","l+jG*m";"l%%ngjHi","lo7UH","l^%f5u.qR<->9$SZ)lg\\";"lgfV","l&3gK9","lAIm=";"l<MY>Q@$!";"lem>+6eC[U6I7Q!X";"lDJ6-A#\',a/";"lL1l,","l)Hdp";"lnnrEG;.n?f";"l<l&2B%uVT@_X6E?b\"7`!>Y\\NJdJE]\"XMY6o_&S/uB_3J&Da)7b;4Xh7\"ag-,\\3n9pOqP6W4omef7Ns@37>Q^78X*Hep8,q7!0\"**DRfE*\\U@?\\";"lt!fe:3C","l,Co.WHp2","leHb^B","lF%#+obb","lm^N&K","lqBG+G`2g:";"ln^C7E96=!,";"lk0(0f5\"L";"l+O*6","lue4j>";"lCt\"*V\"JH+RCCCD\'0!INj7LAY1:nI","lYUk&\'[\'33ddBuoA";"lD31U!WP]TuH1>R7*p!\"krAf%*Ue7A<E_S","loW\\3ABI","lLJeZC^P9FCPaS(h\"V<ZpiB";"llM5kB-\"#4","lWKeqJC1\"\"";"l;M04<X2V";"lgP%*n","lLZ_9A\'_F@RrVL$2U2P-8<@";"l\"oBIKY7[lPE_&O";"lqPcS\'d]\'\"","lUVOX&\\b*";"lO8B[$pCP_XRWk","lKE0K58Nq";"ldCCe%(o84Df/=2+2FL<;[.6n(:kOJ#r^B?_RFd9Er*K4j_^@#&_*$(#\\PKiPc>Q-TW5/s[/_W5+","l%hCDR\\8!M","lUQ\"EY%+m","l_54M<3=k8YYs80";"lPdhuVq)","lfq^J1ArG*$>3","l7I<F;\"p\\OWcYYE6C5bmJc;,WSq]1ncA3D*P9^t9C#Wg","lPq[c^-$4Z?&D`D+10&U,","lfjP@G","l*^&_;nC6MB_d5o7DK/oTL9>ER%-Wk98>";"l`[<r7ZWX9e";"lmo-ff7:[";"lH)*<S","lpdT\'+\\&00G","l9%dCV";"lDVg-E&;.";"l`T\\[W";"l3-jK=T!O^P-H","l\'<_d","lj++JI[G/G6YY(SOD0\'";"l71I","l*_TAiD3jph","l[]P*FY;Ee4hPmr2`^.;5)ejZ^@1O";"lZ5","l?SFYUlcWH%G:?8:uY]mQV?#aQ@+F","lh)UHl%(#\"r`FPNBqb$><";"l<UYma>jP";"l:Q*su";"l!gV^","l-,6?N>Ku4bpn4";"lNR`##;&VgLMoC%P($G/0-.","l7Jar78RS6`>q\\5","le[an\"NpLZ1M=6e\"=[F";"ltV@","lS>fo^m,j","l,-5n";"l-X`6","l5!AMk%A\\CS)i+&olj\'Bb\"1#o=lTt";"l4(N?,n>","l]FDlN-IOn\\;m:NBd`L30>4_Ipp.=";"lDk<%cMK/";"l>6]h","l?pB4u%[7SpJTa#k^E5.i";"lNl*","l9@UNfp9Y","l<Z0(";"le\"Ws[l/f0hJ`A","l+T2Fq";"llLK*&8.gp34h\"6!C#0OUq$9DcnZ)";"lO(O?7LY.+GD\"VZtI28tFVdn[B@41a[fNN";"l9\'\"Ud*n=","lV;?!f89`";"l$_f^-BCOsBFjqX.","lN54*`2;8d";"lrFh&_","l%N-(Vci\"`qlG@(?(P6k\\3m^kiW5W%QI,9kir6WQ)i-/@M?5<o-&g7=XPI";"lE7T,8","l^P&JWEb5I";"lcG3KRO8a(6W<Lgq%Lo=iWM","lQTR+mBo0o","lMM=6$C=V/";"ln&nkAK1V!9DM.S^)#=P-9l-","li0<]#]_g","l#j-hJ]e\"+)\"TbO,NjX";"lf19/VRK-","lEa^[(.F\"]EqmPo+";"lmkO(^","lH\"ED2Vp","lW9_=FVdmeof)V2$hJNS4","lrWnEU5Sbq(8_@","lCH`(oQ>W`4","l>:\\:";"l>KZj>T;(:-RDr@";"lQS)m6`)gsF*(Vfi";"lC`YRU[+pV7#]Gq6lX";"lY!C","lV\']Uf";"l9$kVPf(TaQ=A";"l5V;Umn_p:\'1crt","l4Dk\"-YoEsH?rVh9uVW$i";"lD-p>Z>&>p";"liLVF[^@7t","l&nBg\">ZB]";"l>C^?c^:;";"lm)NFL\\.!OII/2N1%$4V","l#H`";"lPnScDLG\"+?fK\'@cT3F";"lC[9l7_lePj8I";"la`h&)dLX5&k%\'";"lK:qbd","lF=Q0?";"llBThf/Nl%nn=","lE)<%[&9c7^e4?gGO8Fnh","l@@E\"9";"lTViD\\]lSC&FhG","lVYKS<d8lC.>O\\;rdP9Z=";"lYtX","lMK:=mti\\;";"l@\'jF;rtn7j","l!-,sP7\\@<Q","l=s;,)","lIP^l*","l!EnqSA\'6SWfm>nKu/LA*7lu,pQAOt$,Z(M?5O:h3r0n+>l.hoT(jies71Hu[E4o:maFUIt[tBa1H\"#o67sVtc\'Rj.0lZDN)-1/Y&E!V5*`5BZUhn(2hS^WL<%r/C_\"J0!m<<2<UBL;g\\7cO\\NDsanS=\\m%NT$$7E46K/Y!..7#,8!^LFEf,_OL:okXe.atPH+]JnEteYcHsIfG<+YgE?$g?j?k%Ag>E6;#D>FG,*PV_07]aUE@`UntdLrZWkS%p\\%TaW7c:P*\'-c^JRu8rbSB.J8=!^ZVUH+@7k+Vd^_<J:HKpDo6)8!Rl8m\\\"=5XD01Gghr[0UueNBVj^@;`PefrS,aDBq,aV]ua,BR%c>j=[M_(hWpc8KBjI^.q3._Cn+r:PC:uq#!O+8[C5W)Mk&E<qc:<uACO;U\"=m40?MuQ.p)WgHmZ\'(TBtqGBC7SeT@<$-j^jkTkY$%FJ\\DR,^3!U2\"g]Iqu?W7REEdoSb:=(oMVi^Ao&@r$1+I;o-Wahk&\\S)\"U^Yu1X1A0>N#B9","lD=\"9Q&:ntn","l5Wr0(/]\"";"l$OnJ]KfDD)V+_@\'^Uh29","l8/o/\\?.,lHYr]oA","lL(11\\\"ESj?GuF/&Iug+N<(";"lF9Z\\jh3$?Z\\ajt","lbI[RS:-A$g\'D*-tnUi";"l9ek","lU\'R9q1-UA.fuI7=BU3tCLK3&GV8C=/[op`\"C%L","lHS1FcfM*F";"ld9e[+";"lpBS$$LkA\'UPi7FIXUPe25+>t71!FhX!b","l4(5Foi0f";"l9lj6+>1&nu;Ke","l0BBe=","lE_IB?;5_r!GhE";"lXnRf%","lJ0JeE","l25/jZp;kfWRC1_&0+LH9B=","l8[iT>ct/iSW3`j^1g]";"leD6?[","l0Ko^kdo$Ni","lHch5^VU*I6;aV]uP[LE","l2(\'","lu32","l3C!u,MG)1!";"llHK*MkJP=u^@e","lrRh)D","lFC","lhe,T0Ocj]U3?[";"l]iJ<FtQ_n2@Nco<)clRU2;g-e%A8eMHeRU#1>iM[pV$<X\'d0?XnNCk:T%6\"eb`q";"lk]#XbkW@q;ZR=&";"l:rJCA";"lXbJYI11@l1V]o*AoXS";"lG=8W-","lbutG","l2PY\'[lHd>97+\\dZoB?2H","lqOusIMUs";"lr5B\"bRO0%h-*@sgfO0b4`+mCp/*k.Fo)%6b_\"o(Se+\\moGG\'","lU2`\',L8@=";"lTfB","lYJq-sYBF","lBlK4K","l!mUF/Cuo<5`=rW.jkDE)g?@#4M5";"l)=?/sM\\P";"lL[Q[1\\Kf+Q\\=","lAY8>Sf&4QO`[;)","lSQha5@F","lIY1R","lI(:","lAW<%BDLH;]","le(#_f[R=1\\H?eE[/BBW*&T>+%D[Hb2\\jJ_T?bCH";"lS]_J2jCi";"lXaDS","l^-B`5i:$1O";"l=O=gI$RN9=dVfVUqg?s";"l`7TeT\"n)PiWq2j?)Oc7qg*;SVK0GVZ\"H\'_5=LLKK=D/p","lEF>$si*r","lEMfjEj;gf","lLYi:C$mS@";"l7\"$Z)TfHhhuWVT6f,M\\9odk`";"lM0&^D-H";"l<bS:","lU#8C*DVUC^=upRUk)c,","l8uK@s7_+$(0k/A!A=Jlc5*-\'p\\eur-bRoa+#3OeHhJgW>","l:BgA<SG$P\"Q`WYl7.A";"lj8>";"lt%.K&WkELIRlPA%9W`SaV3";"l?\\=kQqG#$l";"lb]>]<","l5?+D";"lS3\\,VegKJF#2K";"lR-T[2iXMu1$,$X;/G0sl","lcpNT\\R0\\";"lii!]0VfZ:EJC92CNV^","ln_Z_6d4s?\'e*ri6$(bV1KQ/+QD0GQVH#rMm5p4otE!DkkNoc#5%]u";"l*/Hoo";"l]PmcdYmoGkrXo\'Lf7#Fh@F";"l)AiE","lH\\[","lq[DL?oS6@","l\'3=j!jjbk><(t\'fOg";"lrU%-n\"KH<:lph@#","l?A";"l@@Qo,H]ab<hSo%J`cPY(/4AM4Jl*Of9q\'0","l^]!LqO#T%ATs%N2A&rH9hF-BTbsohXH)fPj>1qb((8";"l]e^b-CdUs","l\"n/e!GCArmG*s.phr3*S","l#5X=","l+d5@>!6fd_C\\","lhV9km","lAO-F*H*?#[ts";"l1V\'p/lBO";"lh1<o","lu?g$tPRs";"l$BHj";"lmd02Y:F:B\"rlAjtSO[";"lOA82W";"lWDLYq";"lC?%7u#)12";"lKDq<cjbI","lB/>=)4d_e";"l.:OO0,3Fillg1FuB)a2:*d]9?-CTe8_K7)NbRL(O/NPpcPE\\`L","l(1f)";"l;^M.%";"l)k99Um%lBW&FSXrltUDU.i";"lMB:","lSIc\"@r,C","l()53-%)C<o/%";"l\'-M\')Np9";"lV*&0";"lWnh";"lissf1+_\\_;B^u7e";"lgsrqUtsB\"0&\'Ii1rGN";"l87t(8L\\>6Q","ldPP@P<omFW\'3","lda*2op*DUKrjX<Z2Fs";"lQ:8o\"";"lRs\'LZrO)Q";"ld2Dc4b/O+4)XYHISIRfr","lPtnK8!C";"lH(>";"lj7\"kl";"lV9!9b0qZdXnu)on:scS0","lo$,11DRnk]HahEX@Fu%@>#(=";"lOBA6akaTb*i+-","lO#W!7SYTTUk#UkYSfAgtUo";"l^Y9","l=8V+.SWjO.Q\"9:";"l+i6=V.-]&Ek_h4n:h$jIZ%:W<#lb";"l$7","ljoV6";"lR\"!Y;";"l^BN5<)\"AX=nBH4jbGF8!","lNdDG^GPZBKgAK[?Ea%!5[I";"l0cX9bXJQ=mLC;<3-6dQV";"lMMVC1ch\\P2?!d@";"lpuOJPWs;2\'M[";"l\\Am19bgFa$","lB6pMO=>EU";"l/C^*2Mg05\"";"l=o(F(:bEC9[iDB4p<!","l2^Ml^t\\Nd^j&SRm_g";"lB,9:","lfnVWYNa);t,l-=-GF;!D8O?\'J$&?","loIDg@F4ic","l_rO0fF4";"lY`(YDWho]^","lQ0jZI\"=e";"l^dbn[NI","lka[=\\)B&U`7>fM.00MF^T($","le#_&&5ae$k:tfE","lE9k<";"l3bOq+nR5WS_`+lq","l_E#2B,%hV`";"lCD^<2&sR_r46hJ1tW\"oNm%70W","lu<TR\'U#","lK%^q";"lE&**%?b!#","lED\'Hm(5","lFDCjh%-_`%FT^","l/ZYOeZAtsI&=`","l!H&N\'/V2","lbo;dK=q;-5.^fV.5Y^Ji/C^m+\'p";"l%[pB[9j>\\WmCAT&=/N%@H5:qnI>6E%@bQkc.k>Su\\`LGAo!I$j5M5t`7es_`c:S_@dOL0-!$\"G2erTr\'44SZukc]2$74.$77Z;<L/k+2rlD(_o0VlNWHuU-bZn*?&lXti:D(r?K7&3YCKTaNCTe.a1`PH(q]+?,%9dnP&LH?R+r6fd&=G\'e<t\\HTbuTaoQ(JA0\'r71lNqaUX*=\"8J8(k\'`Q4HSFT1Ij.tk1$#tlBSHNG0gfYo*pX3GIC59XO%lHY-<5SbS<5j-8ADLi2(JX+rqoL^[Oo(nFTpB,)lT?pK?q:,c3i?3`]$\'Sj\\T`d@jK+W]+`uJ//)_,2]P<f]or19nDB3AfepSeU1ue^)9eh5R:/`0[?GOnrtP6ggq$L>T[\\Fjm1g!`Om:&7,CaBl9M@6OSZ]edPRK[[FAf`^!%(Yd\\p8DFFMT`:/\\\"5/W]7e)J\'D*2GBg=NG_q1QB:a#?.Ab\\t[?bi)ObUdI//NJ;VpEE$\\Jp^_1NQc(bJSS>E*E@31dH&(&G41(Q_8o=d,W;FeqN!9`\\CM9erPXB[\"H)^$IoLh)n<bGdFM!->RP^@ouLjUbM.-\"&h7[f.OSXisJH%Mo<^MZ1JNq$r.J6/dnO*C\\","l2Og)E9^VVi_-Z/=BI","lYa_X<psq";"l#^CmN?%J#?5C";"lk;>O";"lidL@";"leAgbd","l;WZ";"l\';^)no$FA)","l\\Pf_/Sa%","l2,Xq\"9+=dqTn8P#mJ9","l/3mUKEIUFoOm","l,-c1&W+H@`]L6r8-W+s7o67O\\$RDn";"lN-&PQ8>","ltrL`2dd!\"c","lOp!4P_2Dts";"liUHAWAdASbW9^/";"l-A4b;=Co7Rg[";"lp#M8RG!n\'d(8Mi7Gc";"l\"j:Z84f,","lqH7`tL%H","ll7$4h";"lg5kB=\"8#i","l>B?rLkg","l`N:0";"lYW=","l:RnRa<Nu+#";"lglal","lUJ,[Q%rm/_d>k)f";"l/9p7W-n_Z\"[s+Ij","lB!Q53J=9:!)7,GD[e/s","lEPAuqh)";"lGJK!7jIs@","l/5/Da.JNd08\"U";"l2CG1?HDO-p!#C6jCn","l8t.-j7@bn!E4";"lH@[_K","lGqu.f","lT&.E","lT*rd_r\\@M^";"lW?pqXQi.[bi[0(N#g\"6/S_/%";"lW]XK#kVl8i0+";"ln-MoLmM=","ljiM?3#t+:S_!%K<","lWA4K*gp*%L";"li$Q:L!aWe","l43*R]N/O&DmP]","lN\"Rau";"l;$;r3Kd(7IIcQa8MGA\\>>.8&2IB$ds$Y#,GP()\"R4.O4cSilZ","l7`A.`7(G^(+Zk;5^/Elrk?Se\\gZNXF*FXf;FVEt_Z\'73LWtRnZ3rDBV$TeH;$<)da*Es<RC6&[2c2H;*Qp3k=7C#4Rf>b%fZUgcULG45_Q_gU7EWQfnqrtXT.-AOnlp0JTu^$GiAjm\\_k7s\\+::8?49@1fU\';sCHJ\\]1VI\">K3Y4mLk[\'o@=Srq.]GVu#,T8?4/o$rPD#V,RC7N\'a7)9fV7%`S=8X3(K;TgQl\"N<VWI8f_rZG&7Z5O#W6mC7+;lV1?OTGNF_ou?\"fqO5uu69G<D;HeRMmX`jGBp\\E$A.RGo44F_t83fhJ3=p?TD?#hm[$DD[_%=)k7M7%_YiR4O6#\';D;(V$8W+WBu\\Wf,?FhDb.r)nhtC#b:mDRLRic;l&C/9ItGTD4/XUrbYN_%m=i`&a`WB[$d,e+XSWe,cBl]?;#1,h<^A\\hG;cmh-(XcnK;he]n*5dobJ%GH>BlG.ENmYB`uj\'dDmMCud_G!M\"lk_W#E\"-A@)\"PAiPC#:HGi+*9cn[=(g)$oY6Td3Tf94qGjCi\'H9K6isDl1fO$fcMJ@le_49\\q!D>I&*\\X`^BK8FgY:]sGB1,8DH:N-\\%D%78W2X`N;P6`0L%7%Z#Hq-&5QVmmZ*L\"^.<l)O4jla@V29`cIZ;<7","l\"rWC.-=\\","lW<:&)]Nfh9l1OYLcGue]";"lPgbXnHu7\"","luJq5\\V69BKjqPFNdmTK0a\'!8t=V","lca*V3KpT","l1EhT";"luY4Gc)n1F";"l[M2;4;L\\ob`fB";"l-(CE-RG2","lYu-sZ*LGtRkF#tE";"ln@\'U";"lik&>i5VfZn;_O0.<_=&(\\u>tpM>L\\","lD-$(30:fgF-!FT--5J\'<Zh$;s)9<","lG$k)pCac","l@>01N7e","lCmSJCQTn#";"lS\"S";"lVDP(i9G:O\'RK\'\'D$J+!odaN7tCU`QbCE>O6A=/on*A=?;>O2Q8SMn:?J$g=_9KV?)hjljkVrRWOm(()O!uS_2\'&breLn+1&XZJ:#9OAigSjD&=";"lNr[+\"M]om=WWQ*L^iT";"lof/&","l3d:#[q2(ls![@G15VFf^","lWkm.+Ssb<r#N","lWGk8tf(V@qH.","lII-@i\"8$Mn";"l*%F";"l7kCs+PV@A:-7`dhFaW#3l!WndN=";"l^MLO3c19\"";"lj+lWnfVO/?>STab\\O:57","l#i@Y70L=]Pm]]XA","llU]YV>5^#Ffij\"j/^5*hi)2kQ^aIQN`Me\\","l-FZ\"K3Ql";"laFl$*YF0#p=Ne?NW&L","l\'sRCkBU/dti4X@dI<[7\\SZ","l1sbF<";"l,qTa)=#_";"l.->d/CaV;2d_$rq5,;P5JR";"lg:-Fl!ESS1t3G788#M*.KtNhW";"lmHMuXIB5f]pu8dKY&0-Ck\\TL:oO0W1TLZ\':Q4B2";"lP`:;OV?E^p","l@dS(`&djqU","loX^Su]jlp/V=5Vk7_o2e4n","li\\^?;X7+6s,IRV!SrH","lcJtWi)!,Vl(B0hZm)cr87BQCKm!JCW","l0&A;";"lLEZMYbC","l1;\\Ua0TroTPHD-,\\cs,a:`*";"lOg1Fd=QSoBhEgICNHA`";"l(5Vk";"lFBb\'CrUsg[e/2","l+i<HT>8BW@#+#JQM9=I.-,!q>dE_u>c6)ir/%";"l04hAf3/p!T$c","l1+%","l_#a","leDm9","l>mG?65*#F";"lg@Ri[g46";"lg0JF-";"lK\\/*K0/Mak!1)+";"li*r";"l,!0^DhSLY","l2&`_g","l\\\'(96Z.iK224D-R";"ldNSu3_VlZd3ll=&Q=(F-\\eWjA\"*-0jN%A2Pf,\\","lFm9(eT(";"l=lT=!\\Udra#g)";"lMdu*N/>(NE1\'A","ltTupuDh5hUJ-(u@[HbPU^tYh<UTUO\"W8-o-A6P&0,#YaRd-DE+";"l7?U1WnMMkEJR","lpF.1k^^*A";"lP\\]k5";"l]VRH<=M,$\'bY\\H3*g","lYbsd:*-)9","l<nM;#pb","lVU<aOd2*ce";"l?k$DZmgj%cU#";"lhH;`";"lP_,X22dLF.2TLU";"l@\\.","lKB.C.1!B^?\")jf?";"l>VS>nr,gk:o5<4K)V";"lqES3=\"f:l*XthLonO*h";"lQnEf>","lR\"#\\Xfa/g","l:i";"log\')9;r";"l/qB!C->l,O*uZ";"l@dS)I2;gB#\'Cp9!^hphbm@]E";"l\"QQ","ltL^";"l@BG=[kj-*N([_\'";"lI``=S>si";"l%CE@2:T,WNF]019:j!8=ui=Q>.4G?\\5d$>_%2Ej<2AV).e.mF2)_X*;=f6[6Z_lJO?\"Q:";"l#/!";"lnEUtd9ttc`@&2%q*>mbO";"lu/m6\"(e^dM)k9";"lXY!\\";"l3.l?+";"lJ%";"l^/N";"lG2F\"=#OX";"l_6UR";"l9R\\O5bQ\\s*[`3G";"lj7O2_,\\b3","lN=.#VM:KA+hlX\'BDL[","l522M)";"l^B=";"l.O5:";"le41ffI2","lM6B8s\\s","lh-.p$MBu]1W7#a\'o$]3IW\'$Nj&Qh","lb>\'BGdhP","l$X5l$:OK.","l4SfkGf.j)O9<I";"l3c/";"l(at;4";"l#Gi","l]KSWc";"lof9","lF+*","l)-dI6(KV3";"ldc:B#Z,u","l<F4p?&E7M7COC<EG[(k^";"loH`pV\\+X(QlYj,Fo3Qp%-1a7KiP5e.mV2KW%nA`#pE2WoV*`R5Xi)O%eibj1=V";"l8i/\\lY35VZes8_?","l_A4--uU2g^H&Su,^QZ37u)";"li\\3e\"","l?c*4","ljW0MeLVhU,q;2$OaNGt0.aGj0#<dX+\':@","lm-qB:JG(d%(5","lM#pPm","l\"t6<YF*#T#Aqt3=bcslD!OQo_HGCu/ZlKQ","lPtQLsT$]","l\\RVl<G/q]D#Tgcd:*1C4!;O#]IV1^R:]RUT";"lE>H?l3WI420J_3!>]^T22@^","lrkG;]#9`7r2</","l;V%uQ2bq7","l*Y^=b8>/I;pPOXo";"lg#\'`\".b?+j\"+";"l0SJ";"lb3X>oHV9L@";"lX?\'uS(5";"lADQW","lDj_";"l]TK3&#3`I";"l<prgnFrG","lIH\"2!,&k_1_YKjt$+cn*QQu!=Sq4r6.[\'Gd:Emr59]Eui3(/<2fPs,gBC\"Ep4Vtk!qmgQW9:AY/Qo";"lL2G","l_%:c\"";"l=hjJ","l\\g8dWY-V;&1o$","l$$N,bb9Esaks,";"lc:]*H[N,e]m(b";"l]Ao3i";"lXkY","l*kJ","l&e%NNTY/FgfaW_J\"r","lKc7+q+ttZ=JMGY3e2";"l;oMXtdD#1c===","lI5\'k7hW\"UhAnk";"l^RgfT+JfX";"loq^\"cPAY=H7c7tCL>eFHil;*r!\')","lG3,!","loC]i";"lSh,PoX?uW;U&D,$","l]L/@m","lMKKmimgX8\\,_FPMepG=:+:(Q7";"lM*&lM";"lE\'Y5.ShdG","l!\'Y";"l$11aogg>45Afi","lhfB`a;YQ\\/m3-mor9n";"lZ/-0:Z#gX";"l&1dV,","l[X!eN\'8^d/(O1%qm&YnU";"l2q55EI!?X","lp79","lXC2,S:>O_1O*BhY\\hiA","lMXTX";"l<Zb$i=TBB6M8U";"l@P\'L_;c,`A?jXO","lJSf4<Hp/CW","l^.#8+4-A?-^c","lB-PC#7J[sPK)\"biON\"U91;ppUGQsF+*-1UCDW_DW80Zf)j\"rIn34","lk7KF0lA0Qb8I","l<UaGA<6A^CS@le8:#<1R#^8Gb!3g";"lDS,Z","lu*ts";"l`]:9-;$lR<h+a5c";"l72!","lQ0l7(:RXsZ:T5/^S<jIY)A";"lNa[f<";"lt!rt]*>7Kc","lk*0\"S?MOfmQ/s>)Nj:.;BsCkAb7CVd,[/E/=A","lF&59W9:?N";"lSkA@";"l#`_)#iemX";"luB9L)[SJA";"lOa4BTIg$I$4Vi,";"lRrC%sLFUbr=\"RQ63SF<9_l`k:Z5";"lA\'@\"BYYg:%WtcKH";"l\\EU";"luS5UuVR]=%\"(","lQsSH;Qo";"lYYk%sNsX3J5nY/\'3gFQqf5AF[VoJI>$c";"l*liO\'H5Kp3-\\p","lH\\oV1>a/]U,o;LPi,+!cDr","l:f[NK","liB*\\-q)p";"lJCXZ<`$EUpYU-C%4G<`NE8b";"lp&7s-k1m)E&Wka@tHCmM","lg?__U";"l[\\K<:%8";"l\\ZO)Q_\"=";"lb\"d^-OI>cI-i";"l-1hR-K0Ri","l:CE\"F+eC","l^df8!c]W:";"lSBe_gP%o";"l]Cp\"]","l!aUIX&@8";"li8_!S=^2(";"l3D-OIIr]5","lf8!2(V@ejVN&#T,h_FB";"lf=?\\%:rq4DoX%QS3B$Y0M6*^5<o:";"lb&F\'-`\"p0","le+n";"l`k4","lrTPIejS;Peus5SP4gBZLtR%","l;lhJYEjlV*/l#.QVaKuCg[";"lBT=","l8C9f[\'ce]\"Ooe\'ee>K`2";"l$.WA(Ueo\"";"lY0QHm#u@j(O9D+.UH/-99S;o>e&-J+(j<kEZa_","lCuckg]UM@F";"lm>B[r","l+4PR^e-Ef4N>";"lO4uh08AF","l*4CL";"l_>KT)N=hY:(FOG5[JF2C;8S`g\'GuWSuHsVldC>>G:H9%HC1%G\\\\_#T","l4\\s","lL(lk*uOr","lM5","lBU\",Y<8fiA","lWS/:2giC-`gdo";"l5:M-X0%l)l+kAIQd(";"lr\'.";"lhIlYnFGB_";"l\\taWnV#Q9h";"l4JJE","lh6S*cu/)LhtQC","l5-2f9:2[&QBl`N_/[eneG(=k&ct_p;#`)e\\).-F+]8>F","lq.9)t-6^17`]2pu#o)X?@*YMuXK(B";"liM*%KEG[L";"lgKAXu;BcUi$WCQ@inG";"lI2n:M;#X\\53Harq","lX#U]\"XF\\Y(^#U&qOSe","l1TuVVdEZ";"l79A2nC3I@H";"lk%Nk8","l>dK`9oPWT\\","l@)HV\\broqGP=L?mrlstB","lO,*.s","l%OnV_SRt_I]`C?1";"l\\7k-V)L%dPj_^ea`SquYnb%8","l5AhQ","l\'41J(.*(6D","l!.,\"?","lL;p%&>qV-?-H","lcZqJMXufJb","la7dkqhM``fiqc9";"l#\'k9q\\uF\"";"lDG$lGGGtW";"l/j;>m1\\M3";"lr3D","l930c2","l<qd:\'[uJeF`Z6Nl";"lh`n`%)^.k","l,ROC0:4VB(N,#U";"lm>R.N/RU(","lWK\'i\"dnCDQ0+6i<P#]`","lOXa8eLLh+k3f]";"lAn&j","lRqh+A\\.0)aG*55I3n","lg6/kDT][JO4\'[q5";"lSa0-St!NR9<,0Q";"l=G^","liIhFJ","lofI/jS*+","lZdGKs[\'0!","l.QIV2S]b","l;cY2W";"lA==mB=2cBE.OpLAr@Tt[pb";"l#&EUMN(C";"lMJUd";"l3Vtp^";"l+2R";"lmh`el","les`biQGU","lB%\"/n";"l3=1bISZ";"l%me9im$N]","l$f\\mDHS1M$R$[HcG\'LZHp+10*0/m","lURs79S]aTlDag-uP/e^8poN@^3n";"l__bXMTS\']QoWEgRG;4","lA1^nr3\"G","l%l&Z0";"l(p*a)bp\'";"l/Z.1(9D=E`0iLINKH!N;\\+9/6Z[","lCe-joK0*kq<e2X<1.oMsB=";"lRW!GQ4Qa%&rj^0cDG\\49J3$*","lZRtZA@>Y(\'bn-+0JR","lT[!+h9XA","l4$ls\"D4]_>";"lg\\gD","lH)Gf>[>","luT9c!:Hu";"lBha8b:hnJ+%eQd2","lHa5ZGtEXdHi3Z9RDtW\'LWGH\\]$[/F:l%","lO)j[U0tE+6";"lDkfBFoC4l*:9-IlA2","lC7.Xe","l!:o#%";"l,f/Kn&%","l..0>";"lb3N.","l\\%uV","lg7C";"lN#N?c","l]sp]M","l;CeMn8GRTX]*i/r3pHGr[t*qk,&eV\\ejM78?ClP0,=?n1#\'?$@2h9aWVAMJeW6+(I5Za","lS(#1efN1*";"lqHe;9hYaV5>OL/GGP+","lR0\"\">$s+q2`6A`","l)NIuf\\#j&N;n7(C,IO;","lN2Z)3.5=","lrMY;Pd\"&*UeGQ<h.Bs","l\",%!1^;>)_?=u8_";"l9j,ZS(9$";"lZcs","l&$^tMb\\=hI:$V_uOc","lLINV","loh!X8";"l*h@fqibNcbejg<`";"lfc","l8O)_<0UPE";"lhFH(6$OJ","lOMRr/4!Mp","l@1^O[K\'?o";"l=&]m";"lEWi_9_,g7";"lkDDbg8DjU45Tn*[";"lQFYK$4TU<*","l^8LVGmBf&XS+t8AI?TPr","lPNLQ67_mFUKG!";"l1uPt6CtU;]KG&4;G::sB=c/DO_sp&01AG%\'ofSH\"J\'I*","lXNpnI)3+";"lkjMVY?O+RbI+b+$02,3";"l(p>hoHNoR%Yk0>4;Fi";"lMChqfPkg)Na&Q1";"lPXI_b[=";"l4P+r#`rOYHJ%t,0Z\"XkH?Str.<s.","l2mD]78[*ZJ;&Mc","l3)p\\p>m7\'lnD:*19>H:2H.","l\\7l=p/H//i54","l\"%t(","l<k4?T";"l!I7j)KVm","lFW;uD";"l!?%4p`6Q)";"l_<\\E>2G8J","lUGE1@=K!#jR5","l[8(b6$GU`_SDcF\"j6#K$P^kIRW5Qq71XJSd7=U6pOJgoDibl";"l`.\'S\"","l82nLj\\l<";"luL\"]gnI","lq*]bg","l/2d@`4\"-#","l`Yu0=r/]:\"T+ndhZ/MSHUI<1\"S`.bs(pGqU++C$l?(mH0]k=\\*MFp=0cTn,dm!CULmR!B*fg:^_N*q[B9hls]-$2^ZOGfTcn/@sL3n","l$rmH/\'2";"lZ9l??&4&";"l\"d\\mElF!-pL-;fgMTei2","l5C","l]`gabM*eXfpA%\"A,%","lk9Dt]^Pi";"l9=FIg","lhk0k(b4","lIY6EcbC(c";"lu`F,V";"lGn:&0![,k";"l7U05R_gnXLo.","li3NBO\'`b";"lqu.,8D<H=qAF\"q","lST@@\'ta86pkTG6W.9#Mg\")J\"h7!s0rKX","l*R7j?lS`)<hslWOqGX","ldZ\\o;j.3";"l0$UX";"l\\`1!\\P^4(,Uk5Mq7pn&4","l`iN^Q","ljrC(ESVg5$p7o#/9:QJD)Y%3^";"l.INeq)6O","l*E*uSoi\\=<rl;m2<WNR/2gjPtV/d[Y]&.%lB]U^VO2EkjrDFEXO;qdPT=@8I","lc4c!#l6@ks/X","lHX\"Bp";"l7:>/m(NLj4H2N5;<nV#aP?kmKGl&q%ar:BX`/l","lK_&!20\"<!";"lpU]Ld*rTf";"lc9hd";"l^JsI]NXm";"l4>uVOZg#","lT?O4X(8";"lX@Wl-g2h","lP#K%G";"lb^#\\4/.(*";"l:\\,#?nnB","lSr-9\"c/f5","lt)\\OL7B79","l9M*4","l`hB#b";"lB_0ffG@)HOq)";"lgh!3^qmttj$Co","lfZ:O";"lct8mM:<Z&\\ge(&tMc>c","lDbTC\\&>5","lMp!.nBb:c","l?1r5OQo";"l23XZ","l?j$X!3q$P<H#3rr.q++R>@Ig","lUT=po=bY,\'cT4D";"ln8\\]Y^$fUp7#";"l@@ph\\e*p1";"lo-?K9","l0NeX\"1D*T]h`K3\'";"lX0OZ\\R4\'V?2-rKZ";"l;BBpuZDmT5J\'rP\"","lEO`8B-,)R<D>TF%^0;1","l0rGa","l8gno\\8:NtKMJLOP&C&\'6","lVaM","l>0esRt9/?/";"l/^?R=t%h";"lg5";"l&Dlu*FbY*";"lBm^0si=\\$","ll#gBtF@)nXqW,<","l]FsN,81QtXZB\"R^Rq^)J";"l?JMO55$u/";"lOftG_9edFn&[N=(+kDW#q.Ng\\;_&dlX\\CU?D-SaJptL>lqqLa@\'eq;*7cQG","l8nH";"lJN7J4!PE";"l3\"/he04jamQ6mF6]e7eF\"r","lbKYPP8g.";"l-_8l:Y[s","lh^k\'?";"los*.XJ_M";"l\'<^QHK7:0F*%T`24rI5!","lMB\\t:*c","lp/2B%l%";"lgjI3i";"l?ECag\'AqO0b`h";"lN&/cT:\"G!U","lAaBA^t6qu&[G#!hGI`@(HW<AIEjF[_WUGGYF,npM%@oQR";"lTB6;1?2O5nJt5_Y8>]I;$lh[]kRTdSAN";"l3#1[_tSH";"lPj,[kDko;^3#ea","l&6VJ5H_sO";"lj?RNAL/!DQ";"l`pNbe@=1";"l9=/g","l=lFG@174<&7]Em<19JTlo]cA^0O=","l4lb0=4Kp*\'";"l:;tj]&#X-tA2";"l1efSQ-tI$l";"lelo13[9s1a";"l4GWQ58=";"l]F\"+0%MrHKM^9SUi9pso:.l@O\\7pHN*hi1KZuDk(*U\\-W*K\"\'$%r,LP)VT2X=FEb7p8[H>bpbRO";"luZGQj*SUM-e1fBT$`B>P8/pkjEHUK\"=5]rlMn/_2\')PI8`FHZA?iaT.]Q,bYmM#2^>9ad9+6aEO-juAQUn.6;^(uK_Oku3aV,ApfTb6MJqK_AroK%ga+kMc)M^%F.1NB^4os*6[#q\'mie\"q]]!39]NN\"`#OQU1LpES/#9-#/^7n]c>PoN_gr:h;GJ$6GH!b5G;c9Jj1SJ,6C\\`rV%&U8VS)et/p%r(n**lZ_8r,[_B<lPo7Ro(7,.h%\"sn)?X9sj0r1/?0SXDt,4t->0n)7+Y?ar(hckUTpgPC`Gb0^HWV(,XZs4`gT,L`8tk5+;icUU/.!Hmkik7/K!NAb7Q1-DE?k?F\"T!=]TO:]6S-6SD.V%5mnqoM6=`/T4@7cCR\"-RgFKnt@gr.i[A9:WQ7X%3C;#^&`/E_\':^4Tnb23p_VCIR!OoP)==j/gmUZ<<_W-/+T8Y?N@e]LurF`%b[m1oR27D/5U`k%FAXf;#IP<dJC>tR^FC6A&\"33JN](;D8D.@#jQ3g";"lJOKVR","lRiT^";"l)&sO20($7l:VQql","l(hIf\"`f79u,QFT6<9ML`3PDrKk?@)","l\"/is5","lp!!7sV*(","l/m<#I2UNKYD$H","l<*TT1CR_T!0C#";"l#.)p@>aE?&","l8;G07$P21\'GZr[X","l3<fLo4Gf","lF=ErSQs8C";"l8HC(Z%l\\i","l9T%)i<F4.4;r";"lN3^?";"lnK/d.)a9sY?#E4`@Vc/:","lO@$@";"l-<Mb@o&5*X2H&e","lYAk";"lgGku&";"l07$D]";"lP\"L5C#_nXiQ#[?LOWo`SBbQ&ZX#","l5O8IV","ltUo%7";"l2W-..[=";"l/*\\#TD)=rsXAp7X","l82_nZ?4t#lH<*aOeuFXCl;Nr1Y03uDr5R\\@MZGe^i^48Km?,uej9A,l?BW.7N-EI\"U@$hZcBm!Ckg*CftR8oT%AD(Q=0AR@K\\d2Wg!khUOtsZXW#9#<FCcBji@OQdf^D$3;BDZ008sfrn$Yq7tSk#nNBAK3:4P+j?lcR6$X+c&E-;\\8LUO*\'bJ\\M#,iCB;rDNiCB2%hHmR-Oe%#V*M<[C*@`B.W<8/T@?c1T6Li(d9S(W:nCCh3+,0bSWFk6I##>Y]bYW?t#I/9P(MPUol-cI816#TN7]%bl+@\\1(UUZ80oZTV<<f%paSVRQ\"a","lOr<TnV\"kNhRC&]`HJRui";"lAJ,h9k;>","l!O%l[l*YngJ)k]Yg0TL,>2","lN,<7`g[","l9<Jm@UV.tnmr^a8J3CU@8;4uKpX_J1,[f";"lWkC\\I7f?k`ZrQTfGZX[M`q$+Ep\'h","l!Pmq\"iUHpoo.","l7Q3tkrsh=ag6%L6";"l)eH5\'@?DtSESqZE7HA","ltu=]aur\\","lpBXjeUQ^\"5";"l-LWo%";"l&));j";"ldm/";"lP,\\F)Eb[";"l?FZd7#JE";"lM2!8n8OQG";"lE93\"","l_geJbNGVjQPm(","l[6T4";"l>@PA0eS<]HgFP","lgKOX%(`SP";"l$#2K4U`h$q!D?^";"lQo.#q*VTK","l4%W\'lR0\'-:S<\'ZcX5V]%`NP^.","lHiqi","ljl7";"lM0%WVZ@c","lL^^==)K9V<@-;B+F1I*^","lF&l@CTubK%9:=-;g%\"U631oUs$DKq1(0Qb8kFtdn-m@8LYSE","l1At7&";"l)fVLK7=b","lu#5&!fa]","lc0X\\&W@B";"l%ks^*.n.+OD3S(s_\"I";"lUp]-tH=D8\'%3]";"lR3[g";"l<t@";"lMT-Yn","l.q\\!_qn=Z=maf,9Zl4]q4=RYl[crqW$GK]QXVajg/dS";"lUC1hm`;:+dP/Y^P[\\#e=","l.dm","l@bt","l!YmFJo9j";"l`1_m<";"l+fJefN@lr$r&k]#GhaXB";"lA_;odMJ-$#&]8\\9XD*AI[Vj`R0r";"lQDeZ2W-jaA","lDs?\"L4^\"","l?]qPbD2#a9";"le6:;F[48=","l^0>?EoTV","lu_DMP-F6aPH_70&!b=\\\\!b","lR0/+E&An[,L6>;bbZd%(lK00l,r:!EjSBD?Q;3X";"lYs>Op3n","lG]8b>.m1<5;HNOA","l*;AiBE9Tc/2,5U>J),iDfrS^Q*JJN8^Z<*\\jn$35&H+larnqo3","l_\'R=8XBu\'","l4\\+l";"l.MFr\"jg^0MmCe2S\\_0k","lO%5FK^&ZiaEj/n@-.K0&pgp]a$P_mg1:edrhI!eM;B]dsX=L<^2GdU>*R9h2AlNU)Z?W+SqCa";"leE$o;","l_>^7)Hs_","lh_hdR","l5Zi$)IBpq","lg<+[Sd(","l3F;o2@ms";"lUbm";"lBRC$^c>_@Q.i1O)hF1:","lOm";"l0$*1B#N","lfNGn";"l/!^","lt\\qi>,dF+gQ:s8#JM<ei","ltnum>";"l4P$hU=KAhI";"lE8q9";"l=Vd,","l8:mIlF?d9iTbhC18+1<L_o*";"lohE]T","lS3%Du<uVeS&UDdV4[NQK","l\\0g^";"lBQ^hepl8";"lX9qNL","lA?F70B!OG";"l&<ZH8N=";"lF4^<3BE:","lbCF-5ub%T","l?.:?*AWL";"ld?\'1l";"lAf5#0lH\"qIIZ^+-=lMa2";"lg9u!&F0Mdt,[QadkNtjqYVfCW49c<IC4/0BIr_\\Z_u\"WHQX$VSOP;_=\\5T0DHf(Z!=@!581kU*d]Nd=o=>,1","l0#h/s^u","l[8gMIUT5_a%[u>M#ur","lARf\\$)k/[Q,h`m";"lpORb(","l5sie[?IDE:1b\"81<SL","l(\'=AeCL*VOcHOrAC,ar3YXTsUFg+_go,QunJ]R5l(N(6aZIWOd>,\'Vm","lDc[E6";"l7HV/B";"l)nKmbBS0c(eR[";"l]5M%?/qukuZIm,9","lT?DK1<-a%)aEm&UAu8Nk","lT+3aW<%D,","la<#u816`,\'$hY6AGJ-3M]m.po<(","l7XiBL(eT`\"$DZ2";"lce:\'\\I+h","lEr%Amtt&0fb@_W)P?","l5BFhY";"lnb,/[","l[p[o_qXhqcL7,n9n#+`5!:))(58@7B`qWdP7AQIR\\?","lHQCV\\<dp_N[Nh","l\'jt&-X>b8HDL2","ldWaXEC`#IR\"+";"ll4Xh";"lghadhWP8U8\\O[\'";"lN=Ol\"g%9U";"l7:2^&k93tfI(nus#\\=rBM/cUCVgLQa\'?a[If3h&","lFlcnZl3^Mt9\"r";"l)Bn!C?]B?","lDQnmu","l%EDLSYjX*";"l->^\'e=/,Ti7ilWUIYfpdJo\"\"H-]g","lg*6(YO&s*","lW8b^GC:=pU<Rh4X@YKia","lCfUfI799<`Z*l(","lfB&$Z";"l`clEd:J?","lnbU";"liNi7#IAC1W";"lEtdR>","l-1XiN";"lRP?G4SMcA";"l!)6FVB00AW";"lnCW.\'<(e3dT1rn:C3X+O\\?","lfi12)","lhkmANNqZS&`fFp-n3cW`\"]a)c).B";"l21Kn7","leL-)";"l(M5mPL2*","ltl&?fCIk)^i:e>pE-T=U>eZatJ)_!jF4e","lugHaI4D5D","l&dGulrH\">\']:l";"l8Bu","lZ1Qlh&=XN","l$l[f\"l9:3<fSC","lW>C";"l`.,>";"l=#:FV$qFrepH[m","l^_*";"l,(.;S","lRj!;6*6r`XIZR6R.\"s";"lT@ssHhl&:@SVQIDE$/","ltd2fc(GV","l\'o\'","l5tB0$*76\'ej(!bAZ[N";"l1#6?B2`(VT2u/)G";"l)2-9^rD&";"li8^U","l1$oid","lXhHO?U,1K9","lo+k","l$5-L?","l0oUL";"lN3moIc2L?MgH-#";"l*MO5>NbY";"lHT[RYfiZ4#";"ltp*K9#emRa";"lMnu7Kq:[*%)AM0+g5";"l53RC,eBl3TeG9?QbDf=S-j1T!LOTDei0dOV0b18.e<8%o<Kb$G0^ph*BNRnbRX=4-jYaWJ(#:%N&Qb)7Db2","lVieKgRt\'fCFpth=m1Y#S[?\\6gK\"Phc&L(0@";"lgMgd%(Cdr1o(EhY","l\'iW`]Gg\'","l^5Ct&Ypg","lR,=bP7r*QN51+kJ","lr27:!";"lQPZ1A\'?JbPMC$T\'1hKo@up@dce(Pf$?m7;7i]B&lE*eSc]Z2i`*pdDb34a*UI\']SS**JW^(u]fC9*cf@QkOuJfT9s_3X.$qdB[C++9\"le3ibb)C>;(7?T&.SJ=PV;VScK)=ODJ`3*lHS;>Y;kA\'ku0@ISu*+j?3$&/rM@TAts","lGpbGXC)T.qk?$?GA_G:)%g9@))U\'Sh$Dn!-j,,f";"l4n4t*$od$O0+";"lT,87iEg;KW$d9mA\"d2ap`mWT<";"l%;UZ";"lf@6S/Jc.d\'","lYul";"l_BE\\jGUQN","lD]\'h#PP\"<","l[*#","l\\PpJ","lld:\\/1mhte#0Lad,nG$]gcA]\"]j%s=aOfJWJ$X\'M\"_m1Q/>JPjArK!cKA8SYN32H3h\\8s3GfPM[3/\"U+Q.=;+9kAhZ:L[[tXT+9;+H%..R<Sn@\'!l&`pECHK4i<Hn@`3P>BoQn<>bs#+@@Z\\A\"]T,,A_78W?Bj%I\\mm?$g7r;O#9gF\'?R19\'D\'dYs91:SXMUR0bfsq%u;uf8_8bc&n0=bGp7%o8IE*8;=9*![*0?I]]1TYbOJIV0E9tX]4J6s%folMrM8^a\"#Y.?qa0YiRj%P37O[&9#0kY#7\'XT2k[";"lSC&)VQgmenhF_cLGqFK?B>","l/uAr8g@3";"l$*9\">>XhH","l5*lXG*ps^H%8";"l\\J^atnY@Yg0OD30kN:a(";"lg[Dg]RFER";"lE4G4\'YfY2^dZk3";"lC&t<W,]^:%R0pE+";"lp2j!K3PZL>4hJo";"lpcJqkI\\Lni-Pe","lgL]A0Y&c^XBl*","l.&0QCu:!";"l+2elYFZ6Zc<@!H+G]no","lF8^^5mb7)(8UCr+3:3o8<8XTT&)mBf\\6nl616sH^e\\Ng+3q#i__H-e-<0jpAumHFKD:BgqV_Bc/n^:j:*#m4_1iW\\)Vb!EV,?]GQ","lMUk[\\5Tf2\'bu\\d\\V&LiJh6k0rWX";"l]R`,#","lTO\"`R","lr$h0R","l`[DM,\\P40>","le5Zet#N","le-CaYgB\\";"lS5j>,C\'m(StN57\"jWL5<tq8rh";"l/\"p@Kln]X","l`!CkY&tP\'#Q;/","lNm7oj*=_tR\'\'KiT^W:=$@^2p@f[e","lkVejFIoUm";"l=?-ugcFG\"@7BJ/>5M^";"lG241<(`%LDQ=I","l`JrJ!<3,WWk8(@UFF,XAN=";"l^_4Z+";"lIBF8","l/s$J&B_?\'[oGBF,(j+iZO[]u3V&GZ?\"*9;Y7:Bl8$G2D!CGQ";"l&X5l__0b","lFEI2Z0Hd6Q_XR]RlhO4e","lA-Xs^RWgmB^)0]V\'?-7[p<L)+dUU","l?BYd-**fT5nsu;SkM\\s&Tg\'+!8))=SVSS";"lt=","l/GCS.2?n","lFp(Vk%>G";"l_HW&$EI\\";"luQgubK#\\!";"l5gS#ND+","lAiI";"ld?>H&4[[uofDN","lohE7pt,K";"lgdS(BC5&R2\\OuQFj[3XQp_<D?8g.";"leFu85SUSR;j(;]!<k*!";"l4GG,^E\'T!FFSF3.";"l#O4<,;n(oTTYWQB/Er]qK3P2[VRObQ","l`p";"lY+cU&/X","l3Eo-^Md^/1($4@g.2)TG","lQSR#[2\"(D";"l)J/&)C?\"F-";"lR>!=6G7","l\"V.tsn%GLEhE6:18*s","l&#<<`","lCT9/;\"$PW6Y[5+";"l@1Gs$h_3eNPoMZ.,%","l;8<Uh","l1TPD[","l<I,3";"lG,^>n2?\\";"l<L?oJS&gWSD@jF3$/\'p?H^f";"lT\"p&p(T?OQ_)GkI","lUei#I@QU4?ADqJ\">07p(eAcI";"l!-\\";"l\\Oi+k?ps","l_4tZ1VKM","lp5$JJ";"lAWNer9_c!&Og";"l/K\'","lBF92[BQl;Yp\"[*_3\"^NoO-k*";"lS9pQE5-<Rl2`cDN41$2<>u[(cU0V=?\"`A(r#&+)JMp2bk8cb`0u(M_YgYYFeONad/dC.o`l\\GR0(jXGFFN.eIjLs%Nr82`r_/^DNIWj`[7h]b\\9_1UhRhhth+M^]R!R[CXcf.oCeDeLQ%%)bS/8DZW$9dm\\KZ9MA^cOaAWKQ0`Y>E?(P\":ZCR%BG\"Wj2\"/oY#bOX47;0</*F,iP\\l2(!6!0P!i3>`:L[^t/2SW(g<.*_,4QfYeO:pM\"mU/rkCTK5*a0/bdB-=)J/FS:2+pJ/JcN&_[U5om]=-:*H/3W_]>,X:3]$EY>Z?u2-!3ak+220bJ0\"UD)$U?_V=Uk*T=GQZ;.78!3t\"m>uPDGHnga<fPRBTfU1`h0=si?hB`!=C0:m4de^IoOq_<;GHF<,H2mma3+doj4LT#@/GDg\\DUch[7agK*&JtkC<[t5d43:oJ3FQ_LL)\'*`u=(Ii9Jj[OAimEnZL*eaA-ZAN4(]O;D*kcKl[rZ]D?<5PMNW_pfftn\'$K2(ufaE_r`&\"kA&YN#(t0B\\AVR8r40V7?jbX5bZ+Kg1e\"Im!;ZZC\"\"A7#H&(Ir)Qoc;pq?*\'V+)W+!fK5julCf_aY\'lQ5pD#1Ai-o!]MZSH+aUkg=LOji!X`-sRlMM73e\\ZeaucC^d%(dYF$S6\'tnl(@r24Ot=oVEt>FWo%OJqh%$I5P\"Ao#_8RT_Pf3%b@[!2^?*#<3ZJpKndhJH;3nZR]3G=<N%\'B[\"+`*[o/hUF*&<*)VE,_*%MP&`*]t8_t(p\'uq)5Hf\'#rLfbptDQ)DqeBHfHd]=>gjkiXJ-C-jKm\"IN";"lD$\\aM7(5H";"l:\'[iK>=%g1","lq-jGs";"lK&6rA!Kb//2*ge`U)","l_>-r";"lEH:Jmm,B","lg6J?";"lIX@E<:]L9";"ldAo%,eDYJ";"lV\'1sLE=`-@C\\igm\'b83!H<j[hZ[","l>GKLi.8iZ";"lI#@#+\"!57.HH\"0L","l,]a:(T1Q(";"lic\"D#b4$X;%-?`O","l)sJB:MkZ";"l1hn^)HDHOA","l\\\\ph-9QfV","l`7+g>GQ8PI5>s:!rbBg.-.","l!d!W\\/jYh\'0pa#CjF8$`jpNINI8)RHIr0Zme.Q,s*EJBe>s%sU\'da7/bC";"l:6NArD?A";"l4\"S+MBe*`9CqBA+M5";"l[,1(;iligT$IP+S[pEcoj(","l]WCP+","lUST!8fFrC","l;OXD$oH.1Y";"lMUa\'_K[n[bkeN86Fek$Th7WK?TOgh&)/fdXcUbhhikn;>W5QdVOuFEB&VI1/t6@=CD!Ek>cG)e$[P[7l9q`6Fr+t&fiZU[1\\l.s\"*OD","l\'e8o4kVi>FYYQ:G4&l3!u>@ufl\'Ej\"c!Ue*Q]fm$E/p:*NYlU,@6`DWfVP^WR=.HCo\\tAhX<3FUq!Y&^Xj3/>-F*;C@%;7MuFfQ%43/698l^s,l3OdE^+)o;H)gq-3bQIOcRtl<5`22XJ6OP+?fn6Ot._7+1@1(W&e9rSbRp[=VL`o@X@l*AB_!4K\"mY\\F&AuttI1KPAeaaMtc]Tto^HCN_kjuO#]R9Y^Q%mG(Mu49t;DE^=!@\\*,L$sBq46kWHA^40&d<Yn:tM,\'[mbb$F?a\\CKtOg=>d:qS\'?OlN5mW..ckL^c&cm!ZnlR:FKI-UZ\'e9QG%g?Zq;f[+_7G+EGi03CNRlbUT!\"/:I-P9s3KC`F]dK^&nC0XRfYAI1?/IYIlb/BZE=7(QQ)9_i0HSG`sOE0pm:Q^]WXEfhRY+5?WrIu[dq[I","l\\\"63t","l0$`&9=V1&qpNar?J2apVI?2B","lkZp+[p4","lN\'TU","lM!h@!+!2","l1Kh2!P!2XPC\\MU`F0K#8XaBZ$\'m)j/jVV/`Ja6REPM#","l;=b\"u!<d";"lub^d0";"l@h32+q6Mmenh[>8q^U$KXfu_==hL-sue","l8Xfi;*kJF!N*g","l_@I","l%rEf`K.BY","l^U+L!AU8";"l,Fa?";"lmPTHMZ\\[Q<40RW#rmq_";"lrL.9D3uJ3X5c&>XihO2Y2YE<3UbGH^hi@uq2REQsA5Kaf\"V.","lmF]l77F`JUF=N?t$+Tp1S6%T\\N&mmH^T8pcLF^%iET!","lX-6Xu:u5Q8";"lT3D(i.-:";"lZiJc;,Q;Y6YPR[H//O80","l4&!<k^n?<nB5lcd;qJ";"l1%\\g4Zg:H1n+b1WK9&rDpo>3h`Q*4=A/B;sQPn1&IONb\"u6`d>>9IMhS,q1s%$b5I\\%N^G\"BU\\(";"l#n9!W\"j*","ldbC\'*DVLM;g_Qt0@mdJ","lRH,r4TL@6RO!3f","lo8>6Fqb0r","l\"Wc>D9`43cn!%kS","l3,B/jJ<I-,","lp\\H55)De1n@X!r9m.&lo=<u5D\'\"CAg^okf\"WqnP\\Tn446[8F14","l0/[[u;n/qsSOB";"lGV5dLi>V?","l4)ceaHa:","l;\'cK$TYfZUDb3";"l3>ba]q#te\"XDN0A=.frX","l,\"X1hE@)b";"l:O*Ptqr43T:\'_&`eWg";"l3DcZKKG[";"lAp/N5JaS6";"l5^6FLB[r2jQ0m1@jr5Sp!Gu`";"lpm3o>M#]N","l(hs\'";"lp7^L::Gc](4q1\'Eetna)\\cn(4%06(XeG.M1P3u\'!Gq)TuqbL","l(\\6";"lL\"1%","lcH\"","l/ed8";"l&.jo9K=OGj`doqt","lBfLO4P1sJ[Z&;XuS11+l?&Pb`=NYgc<pHs/G-lf#W1,2,T%O$K:e7(Dj,t_6tQpYL^fjBHWAYMp3H_Q,","ldhpodSDD","lGpQds-\'k#_8nI0\"]W72R7^4q`+TTGom,f!LQrBV=FaQ!\"1\\39dLo\'W9,::BIRTk3b-,0/mQHuWL*>(n,cQHJ5uUl,","lJ\"Vol08m\'Vo*oHJeuF0;jXlpcd$tOK","lE[*#3g+pJ";"l3f)=","l3.Y","lAqr";"lN6#nR","ltceA;","l_p5k.NFj";"l\"egrr=\\=t@5:Y\"^U`+q`","lj7gQN","l@K`Ol","lJYZ";"lVr%SsY9S/Q+kI-KiLljVci<TBt/$oDp\\FRGLqc";"lnA;O.u2Wg-Lr-9U!d^","lXa8!]B=";"lPQF\\JP(\\75";"lNe;4%Q)EVt<Z";"lQZ#O*!1d//lcbfo<)?","l8,6?WM5-";"ltb.4u1i$@PuRWWs","l[\'+lC*qXR","lY/P#";"lWi3n";"l0DNjCkI/Es\'eYIUNidZ";"lR_>","l?$:)*t;%N.XP6f<A?d\"","l.Ato:lK3WhZ!","lorE\\u";"lq.fY&<<<";"lZNl1t","lGt9$(_49_q";"lHS*H19:/","l=X:[I","lUuP35m%,T5.O+qRuX\'m^lX","liEg,;3hNL\"I&dQ-j?_W_J64A","l%atN^.+or,8n89\\Vt[ce%0B";"l\",>84?\'UA","lXMYd","l%`b7aT%&VKg?Gc=^-:5?2!XEciU/-a,6:2";"l&:nK@","l%FM\\#GAXc+","l1D:M\\";"ld-kg","l$TbIe[>UYf\"MsUE2=<f`0)E.sc=U-N*RXE0o-,[89I`M%NQA6L&!T8OSlg2a@L$J9)+s1^Q/;8G%_*oR[BGTCe>q3t\"&ZAW%J+(1LR.<4DCE.-l%m&)o1bT8L-C_R`3MF8(hn4/lKVfX]<@(n)g0mbCao+._.m9Br0Kf_jh5i?RgkS-S+`NmQu=RH?6Eog7Z?l\"m5d.Rk4*Ub*`%TXGA=9V)^@.Xg\"bd1?N1c@?Vp^<UGgN4F@>&EYAJg2(a-R\"UbO-*CVr]81tN^PL1\\Oi<.WW)1R9-L!6)l>)EWdgoiQ--Ts@ZDR%-^ZX`IN)2K&Rd^/Sli1h8,Pn[V0jYsK`HXn.)tC;;T=/rAS<b9SXIXNBsX2Qe*eiu%A*7pE0EZb(>%UDn\'P9QgHSfq#-I@S\\Re)Hap^nV2XHIE?5)Atc=LJ2^[LE`5IW0s9&*q\\H6oK.,_0q^9AI!\'f3f(`Zc%O_,Ygc(%TNG#qccFTG&Xk>\\Tu:J\'`me6R&]dmcr_T#\'1J&e,G","lfj_4B.mDBIZ7:4d]c;lK(:mR$.1XLK>><9Ln9t9";"li&]+BOl!W";"l\'!;RhLmsFQZXi","lkTQ3.NO]o`";"lCY%/tc?elSQ)";"l>P(R+r0D","lU=>QTCSK0(^Ch";"lP?j!Bo`]";"lJW6:(Xai0+;J\\$i5V\'nXqi91g0``<AmK6a=$b1Vp\"2i=5U.ZkYNCYh2fIFfLXU@Eq.l<#!XM2aP5_.iK2P+X7\'e!kSfhTTRLN[](c]alLGn9T6<.L$,p9[j,3k?B:\\TFb>L4J4`n+Qrc7\'$*9m3h7agqo1kd>\\9?Q<\',XnGNQ(#lU\"G&g_5/`)7l%n%bnONufE\'mApdZMFU+Hp)A;%-b(WidEq?^,\"t\\ke]HXZe+Jp:.1.-0l*<,SG(YgtMQ1,nQ+WA(*TH1DVN>9=5:[H,H:8","l\\BLtkA`g";"l*!26=@\"N[HZ4;";"l./[\'4Weg","l1D=I";"lCG3YT.A","l/kdVmXoI_O:arg";"l^>i`g";"l:ol++","lg_TgM","lhn2aJNtV/Gu@lpjoXYbnh^0a","ld8d","liVP\'^Z0/Q9*\'^+(`\'C?\"q^0]MIn;";"ltNK=\"";"l+U_>\"ZjesVt@*Gg.W=:8=/qE","l1mF@.qg>g6]ZTIfZA&";"lTdh[t","lQfhtmkm;/";"lQT#V9#[.#s\"+";"lLMmrTCI0toAN","l&*J%X5C";"l1qaA`9m";"lf(VfdO(EV";"l5YGiZtunC";"l&KDJ";"lTP$a)@JYqtts`n-";"l89\\eG%uO\\&,A<i-","lDj$";"l1KHFd";"lp;A;V1<P";"lN*Nk1/EUR";"lEd5=uu<pco";"lAi!,1>a`1UL5l424E@5B*Jjs]VAZ-b(Vt2D8#_o`qp,=:cs`nNC\'nF.51?S.";"lkZa9B";"lW.QJN(Wj","lB+g6H/u*[1`&)hf","l#]Nb";"lm3r=i","ltSZt=G7";"l=\"QdR%_XLkIbPk4+@[,";"l1id!7G[],-eN";"l;R8>g#gH%EE`7","lB\'dt&?P`=$";"lUMKEU\\J]TLH?;\\uPl-+c#LUM:.`A;\\RMHZEb4","lP_\\?","l,\'Ibc]ZM","l;LjkKbkY";"lE]b","l`2/","l0m2K3","lV\"-\"T`bCV)`-f*9M!","lqM3R";"l$\'q)","lGbt`C&=U+L>T9f","lh&GCN0GV^","lZFZlUmd(G","lH>.(Kd\'_/(&\'!9L%5","lGfIP#L:=K5_;u\'35:+]%,a0jPX=cn5b,W\"kB]2X3!(u=iISP](BtNsCN/N;f%HF_QBY0:t7=ZilRquK@D(oRB9E[BMg_ZEj$gjlL,^5btl&tQ`u\'9uF,?`s;)d2t=pcD,IOVYW8]f3G,%]\'mdf5ukhr;RLJ8eH\"G>dLd]qVO/p#1#Zh:BtaBdd*,)PE`^UhEZhV_ho[U2Ee_R";"l<Ndb[),n","l#7]3$V/r&O-qc0LE5rfi]_G.]Q)";"lL(=b3<YjqIu!sNOte`WoR.<T6m-Nl6cL?8`1XR6JRU0Sfa<d.FkgP\"qgH#kAIPolcW^anT2^7fB)$bS";"lrd^eC","l%sFREd.I","lfcg","lP@fK7N\"nN$-\\WJ%omeV";"l\\UhEF)0gh+EfN0*+.Gg&OXk7a/T4O.)c#<O&MU/G$+PYptG^0WWHK7pU?_m97c\"`rq&SO1Dr";"l2:k$9","lrSFZAIu315c>I!moYIG$,\'*DYj5C";"l@uh2S-J\'3";"l&o.pK","lASc7Y","l\'ru","l0U,";"l=*Ku4M05";"lW9A1O<98";"lUaG^r;$hU";"l\'E.oMBF&q.[;]","l\'PQW9N=","lM<H+.-]U^","li;lF","l%$^`+k!H;KPPR%I0+","lJZgpc><]Lfo.";"l,k(";"lWf3\'";"lkkY0","lksW-Z(uT4_","lCWN9SY9fItN$r5;kr:UU^juX)/Hma!.&S7,=8/#?qF.)jns";"lcP/D\":FR51";"loGV@Ere3";"l\'MWkh8t)j","lu3Q%1pd@";"lmaPOaZuHc^ih]3CH!\'lA>\'+FuFM&><;ii8","l=#NI=F27&E?/pE5jr";"lq)qF2iSZdVO&#X3k>*9","lE6YBreo(";"lA,OeeNFV%SALN^Zd+","l\"<&0!>?@%","l.6KNV*+L";"lLJb)#&oQAfS(&o^";"ldBt5-:(*Q.c*tVtB%[eJbXpkblJsn\'3MJGI>XAEop05FK";"ldAs\"IN(a]i";"lCY+hA";"lIFNRkRiJCdr\"Y3","l;emM1.^9","ld;&ilJc.","l_S6U&1t#h\\","lrsldU<[pJa;G`LNR5","l(<9qrVRU,0CaDf,BkI8G";"l\\*4Y)Tu[,<","lgFA%<oRfksOc","l`3t`","lJ*=O=fc";"l:h8_coOulE7UBe\\S[!";"lFKns\\+7)P8LTlSi";"l$LEZ","lRg).=:S=^*(p,UWa`A+\'>@h-l","l`^rm","lA<kO";"lW$Eu`31Zi","l!ZRO^r0Sj";"l[4@hF>g]c@5h/^e:>98Ym!","l;(_","lXDa\\Y=M,9\"3h&A9WX";"lt_I","l\\-82GqCsC9!,s+>EGWs=1\")fM@s@";"l4j\'H,0(";"lFb-3-^5kjTbqG";"lWGI;:","lE,V\'O^Gklc";"liS/Q%]M+i3OHc:),\'P+","l)i^";"lR[Y;pn`[g_ji]D!7G[,.RoG","lS5E\"`";"lcjp^ELCWHC?-gKG)B4dDj[V.@;!I","l^t9>`PI","lokp\'?q)","l\'(bI[t!lI!bsp<","l8flRT37\"YL","lF3XbH","lK:^K9j>Voq","lqKQ!K1%";"l8Th;uBQc(iT(op";"l46?";"lCc1V!pi&F>";"ll*Xg^u/;^ijE2DHc.PFY";"l\\djJs_b7","l2D>";"l$r-n]eH(A";"lckhs","l)rO","l]5CpID%a";"l\">%[D";"l3>C0H";"l^\'<pRt_$C[[-0![Gg","lCJ:O+b6Ua-CehtkX%dU\"V#s6(";"l!C=","lR^km","lh0a*&I+/=N)&AS]@tCn7BU.c","l#7B#.9BOtS:dGQ&R]\'e-Z%OUt^%p\'AP^99o7Ed#S@<\\)0-(YoH>N";"l)73[nlci98+tEPRO-l","l\'_D)","l.TRqh%Z.VMEpq3.+/FFf9>7k&>\"g_\\:dH`$([";"lko`<4Ml0";"l#ASKeoW=","l<@1O","lW8t(","lbb)XYL)LT2,f-8","l%FUqeUOIK%&ufcP^0j.gU8jb-@F";"l^KWA]e3";"l\'%9?";"lY<M";"lt$1GUbLmG+T5\'";"lJ[tu\'^uV","l()[DC:W\"okWQU";"l56<I.";"l&9G-hcm3_";"lm0(gD/eG)\'";"lHJ(S%A<)%P","l]r\'9E?O0";"lmtG+p!:D(7Ag_]\\\\I)Xa,.F";"la&jnh\'pto6Pj?O]","lmZ$buL-#sduW(.Npthkg]\\o9","lq>38!5hiK?H?d;)n>";"loIZ?4.<l.`)qp=sb_SpaQGgH\\W0[=","lo]s","l[KR\\\\RW9";"lCK.;0Soe8P";"l;o]`OYU/","l=mD#S\\kXVX";"l^J.;FpiS";"l-3>?\"0L-T]>ZEpVg&Wt/cOSPdMIG";"la\';0C","lp@eG";"leC#N3nccM.#,K5sH5V^","lkoKJI)[kMPRrD\\CQt`A(S]jc=k$rZGbiK\"s/k8n^";"lb_Y]c";"laO0*";"l-*a";"lZ)1tYAu;SLi24^C/5O";"lWbZd\\;pPB9R>7iF,VulcL8;CQG7";"lV.CDeqN8l@iku]-";"ldGMnDQk8QJ+8=3","l\"dir?rKpM7jV+\"8$J2g7R/mLAffkR.p<1D4cU1*te`g2[Z:U\"C3F>B,\",<)B_oe9ZE,(ch\\rfrDJ2O\\<G^IkDW\\ZL@H%md>#Q)";"l0+d<\"NlO","lXba";"l:\\k.]),4ri@9Ke$i@M_^";"l9Y^p";"l&k6.T","lIPB5<Fa<eC:QT\"X","lGd<Giq<RdCr\"+i>)YIW","l@2r?RW*2MnS5=Af&%";"l?^a%3Vcn-U\"T+\\1o6`okO$$[","lp;nREW75";"l0-\\";"l\'C[G*8qlqbpf<","l(*H.68Nu","l(1;D.";"l&Wq5bqNa`7Z5<`";"l*/e#O!X8a0Y5\\";"l9tS^AJPcFm`5O(V8/K","lTbQ9)9NZIMrJst.*]jB5u0#C0dCoXJ]HG\'2$Y>.","l`t1*s9r/YC;r","l=hZ9EeU:G,;Ej%PXdUX,";"l*q-?f,9t+","lu(6!.bo7c";"l]9JF!>q8","lT67pL_!U6-7L:+5";"l^6uOJM$KE&b>bL^X#","l2n.RJ","ltbicZjr","lr)p(n";"l+[XK[","lO;-\"GWM9%\\GO3FdEaG)(f]7t&XTK";"l8N5T>5U_G.","lu,,X!tV-g0\\VNBU\\i$RlBr+7%ol+";"l2#J","l?7La^f4tLs","lX*%>","lFRB5:Le\"H22r\\2plT`\"","lr^oNCEC01G\"XB6;\"$-bh`d8Ku","lJ:*/Q>AUU","l>4ZE7=9^#","lOeas#NdQK","l!\\5E(QnsQ_?=;%SnlXP3o,<\'";"lJ#\\)C$D!";"lk5BK[;Z&jH;r","lEI%XL%K-3$[6OQ","lJI=kGb$-32#LmLc<%%<";"lH:+U)1kM","lL%","l2n-;h";"ln_^sRZA27CG1NE!","lH.";"l:2lG<A4;h.Fa1*/+_\\OVWa`.=<iq]\\TUYQS-\'Y7P","l<5+\\YU#","lg?15!ZUD)?UG8J";"l-rs)\'ZO5KIL&&B","lXTY3N55Uc/m1nPU\'WV3P*,tVcWt1Kmu/C";"l<@","lj@-i*";"l!MquRc)!_R_g","l(mc0R!,J([b4","l\\2jc6.]8!KEN&dd]9^";"lVp\'C";"l=c]+/","lUhDRApIq^tos,","l#&2\\R!H;b/","lgrUEumGACt";"leE\"","luDp2PDs\\!3]=","lV\'F;W$+SS@hZ-s9q14sT*L^Mk.GT,91`P`k3$*N2bs;","lh#";"lK58ASP^\'c-G>R45VY^ok";"lY,:\\D=D)Ep2n";"lf6_","l]7_oBJs/=)uJV[+b/!>VcP[","l\\f$(XoJr","li$,ALU0pMP","lFP2eK7Zca&","lk0Z5#,S[)0ccR";"l>2bk","l2]GpjZ5sQ0AXu","l8SSSl\\2;";"l>Kf:(/jZR,*\\cM","lo.#Vs\"(%\'$","l3nYA8`/7tfeVF5%Q6e";"llVbbU_QuZOJTY$\"P=";"l!s\"8Y$(B<","lr#\"]sHZBb;?I\'<";"l^,XD,>k,7`<o;Y12$=F@NA>LOP`6,[\\?";"lFLLfj#P22>fQT[9p@G";"l$\\Q0!MRAab95q#u_<C","l_]Q.c","lKupXe3d<I#";"lPq3dADr";"lS?.^Ft1I@";"lTNk^p?d-?","l)b3cZq-AAOg2Q";"lhU`\"T";"lpG,\\)Sr","lH9t\'fHiYbr;(","l:S4m","le/-<D#*\\_hhW3)h","laEH+2PN83(";"l%ZNln&k#","lc\'J","l-g8;(</&Q8d!4qVYQS","l`%V8","lFjHjo","l4fiqS%ljFG","l\"?s1!R!";"lo$9DOj,H@";"lbnDf%F8I";"lgUq^0PMoZ7_g";"lOllBT\"F?c-";"l_A7ES/i`\"","l^5UQO?o<37hVE8X";"ltg`M/:(F/!\'@]u0nc)u_";"lTl@Ng$k[`D4Nse>_#c?";"l`2E","l_O.r[KtXnI2$a>T0X]","l`U7R[UO,d.Q+DN5ATW","lI@UAB7e:";"lXMK","lVO*a.5gB=","lo&.2LGV[?2#u^Rh-i";"luhQH","lFet\"]otSr@j.k,c!9\\_1drIA1Y5Z\\[Le_l","llq7W";"l>Ue<4","lQ4e#+but^!LjaUK?i";"l>;h","l*[W2(";"l4>uK\'Z:&";"lQZ;";"l$@#Q99,B;\'X\"N8Td1=a:<(";"l+_ZP<","lVi?%40V:%o\\s","lfNe-sdiQO4","lBKQW>IUQd\"";"lR6Kt)p#1";"lr`";"le9\'jgFN=[cN=";"lEBQN>\\G&$=4?!+","lWfP0","l]Jl,9/H5i2lc;K<BgX","l4Xh662uUElg#jG/5H\\N`d.Y?A","l+o\'CjM8nG]Xt1HJh&A9+5d.iPrJU+n&_hQJUs/CY8(`/LJS)$,I3m";"lKA_g@0k\';IQjd-;516;b]?";"lSsCqh^/\\*";"l2_?Ds)[MNch7`h-@9\'";"l@gcUg";"lbo5Cg1`\"r";"l<lCi;4![d";"lYgSk4hcj","l`MP";"l_H&O)pfo%KTf]","lu=3","ll-r$:3AB","l2KCH%";"l9Et","l@OjE&b+sIJZ1!A";"l##,I@>N1","lfj`,=+`,l53it","lXd1Z6OrI2&L0FZE";"l+nACV\\NrI%msgW";"l.\\H[<";"ldXr)17/ei6;207]Bq0G=";"l&cD4W@>UBED]l";"l;$3)GdMJYC3fM`<4<:aU";"l76\"Pb#\\bT";"l47tIjR`_H0TmM2iP_AA*X,[:>)r1m]cq<q/`?`e";"l:`$&Q%`P:d.FMZ[","lZtId\"%0&R7WnR7Wj_C[!c>DBi";"lCKIEMcpUBf>[LCPJ.(]>EE","ln$!_a92(ZU@%k:s7j$&`<.Qc]h$U";"lIZ.DXHa/h=";"l#EL+bH<b`^M=b04eE%fsIN";"lV5iQRjG/#rM[","l*1g,W\\i\\Cn542r<\":u^6;h\'];8H%Q@umB#","l9O0:#=Mp";"lKa506isSg3CM*co]Gf1495h^ZP_.s4tr*<oRhlRbA\\(40Sn,a)u>i5g)`C#U@#sg","l-/oM2-8\'b1)=/ZN44";"lVUOS","l+nAHs","lm\\7jb#I7Ag4T(7f_/F?6V4_T","l$l$SN","lgg#N2%[","lC(%]>#A>1S";"ll_U\'Xo,P","lFYg_\'S8Pqj0*X30:U.[H;[0?\'+LD4gj=A_PC89-Aq\"C)(dAO;F[U2.Mqlu\'";"lW?@EZ","lo\\bCVM!","l7/QlHd>Q";"l90>[I";"lL3a#a3%tb7%jXHVr&&bP[)k^1#JT>l@V/[SJ4Wu*2jH&)3ClAqV8j@]X@UPT%Y\'\"RkpZ#XK5YoGJG#L3I&4_Q+[Ta0rO$:a_s5Y$qTLd0`Z)]6eG0CL\\#TaKu>.G?/$:nE)8j-`b%gGdmj\")2u\\jpb70Ze<./0t*+YnjY>2p\"8[Vp`Z(dIokG6qcIEU\\E4!+!eaMuX=\"@p#>cotL5i\"hj31=h!8H\"Bn#Zfs;hgU#";"l3N?M";"l)pA+f%2Z2","lg+6Y/Y\"2";"lM9F?D_g";"ld4b)drQ4P?[=","lQJ0uA_2:VkoUT%t_`$aXNs";"lkuEhK7$4K8.N1Gh[[i>2SthI@5<;)p`Cd0*$]%r1<H,3@&c$)T@M5$(";"l:^gaGmtNB`Wgd)ais:,8@+^tZJh;@\'&%Nq<WfmPB/cpj","lT?7Pf?6^-!U)","l:^u6f","ldm*U","lT\'>fB","lDdCD\\SH%`BiB";"l_:uF","lK@KnheGAr\\9;[*qK%","lL(I]?K&8P";"lN3X2Q!XT4>NsN7";"larLb,mNVqbo+qbVB)AUSLoU4";"l[/,";"l*SsN";"l2p4gr:<i";"lN]ZL";"l.qhq4m1T";"lQo";"lRD-";"lOlLU`I>tUKtnBN6D@MXbV2";"l_Q)#?3#:3:J]#?q(u)moT\'<l)`9iDE","l5n";"lpNiKlDOT5R7g5\'$EB/es";"lUm$bcO6=o2T8J\\eWX_h0`_f[ueaD3]Or59`7`","lX%bi#5e^A3OU>";"l(+2[*i`@X";"l4dj7@","l^qZ,X[&V<o8=";"lZ\'iGK87-khd=8p6QLH(4,^RHq)EZf\"TF^(n";"l#^4rs!03S,jjg+!c&D5,jZ";"l^;)#!g(#<\'f?bE?ZOq+","lBt)?Dlt-","lN;)I","lBj0oVhm,kh?AfA(Toj@Ym5+4@E).d?SjmB&/(1a<m<+%b0*17T";"l5dg\'-","l9:pMT^c3_","lW:&WE","lEt?\"","l$uf&0`C=>3Z[";"l76[Bc**l$HEXG+6o\'Z6c8mlaHK>I";"lDr48s";"lcB=!";"lPcGP-(uUf";"lN:OO";"lO//q@NqR";"l(%1?s`1>","l\"W:>*9%MSF","l#Ed","l3r?]b&R4=1!+f";"l7F^>";"leJ@B!hq[iInS`$FNV$";"l4UT","lu;I,+\\T6Z","lOGEs5dHJU","lV5j=Z]3lp";"l=@1&4\"TO<";"l%qO>flX";"l*6ml";"l\"s[#$JnK%M03g4(","lV$+t7RNE@8";"lUY$^/>3rfO";"luk15`jE?@j","lW3H=]";"lK%[?(XV?";"lBN^&`PPM\\a";"l[ooTe";"lFOEC,";"l,ZakS,%]j";"l.G(rfg[";"l=SOjdRD=","l:N;K;]Aa";"l1R","l#kDk#0\\*ru/H`BEtIkFtJbC(f[c\\kB[OGZB;?ZTb\'`:\"W??hiF9XGUma<9+`9ZUse8BeZ%BJ)u%tB][9Y0Z;<?>/H7A,HInnD5%h?TBZdZtN5[,fYI5@DVlR-,$!4c58-odnb-5JOoZ\"f!jVBtI8Y13W2MX`4WSiCm?q/-$6Psj=grQ-0e<d1:M><BMY\\6PAPb\"<U<PMHA./t.%/Jl","lhI0S6\'3T","lQG2m","l\\*D3?-P@U";"l*hJ$PS+81","l.7q94Tq6","lNJO","l,kXI\'S@Z;?/u9VfLnXUNT.)EUTIB_YSB-&7t\';7sR5","l;DAW_Q\"KgVNCjd,Un\"8p!70/";"l`2";"lpkSN","l\"ESN\\<k?U";"lVP05";"l%Flm`pb!I<i(,sc","l>2:\'9","lq4?h].5.k_W!6(5`(%XO8C9LXOB@[PBB_LJr2-`7JD+pI=<\'","lZMq,#)!HHm&?^JH&M9jc";"l)e]uVOn2c^Dj9","l7%e3G","lD&E","ldU3uB/V1bAF!!","lU8opk%`l?&t>`Fb(]b%a","lu,EPH,td";"l&7NUiC_d^#Dl2m\\`/CB!$Z+l4S-oKl3nr1FK+IC,A!=32`2";"lb&N5Uc&ra\\Ir9<LH%Ib[L>l*;WXeFU2%db","l/S[9oHt[","lQ#:=PHi";"lY^?DdrH*$[#Spu1$4V\'GM\'\'6Dp7Q,u/X","l$qqOi-r3#^";"ler_pgL`?7mjTO";"l)\\F8$\\;T)";"l:.ZY(*$E9","lQ:<(3NP6F&cLDuQ";"lQJm#";"l@KCDQKS$,e.D3V";"lGBOEd_)#ZhgVq:JbBo^S","l9TDC@";"l3q7#D","l:_h\\";"lj\';U5BdV)Dd(","lPa3-IU`\\o)o`sYt";"lp1*;C";"l.E\"5,;[h,=qEp";"lY6<l,rocGT+e","lrZa=tMDG>EdBA";"lY5[5k";"lun;ZPo#6[G[;]";"lgq3Pu1`X/3Is_\'2jr";"lW,mEh<Xr3/Q2r[W-.VqQM6$\"_QVR0e";"lJRfBdYVN+$)31%V","lMT7iIpAA8tZ[k0c@l4G1p@DT`Dq_";"lSn`","l?j*t\\";"l2)&G";"li^Gdu_Uir4;n2","lIb:Qdiq%`;#t\'F9\'oIn53JX*P)]i";"l,fHp&glVRj","lUC2o1_NXO_78`e","lcQmtMCl)fP";"lQD+XHl%";"l@:;J";"leVqo)[<.","lDYe4RZMdA:ObSN/-L2Vq";"lgWc#","lEFF0V.HmS4Af*5Uu?&\'$","l;qT>;Y\',","l*(;TFgo5>aTgX.L+[6$C\'K>B=";"l7\"p+f","l)M&`E;f\'a","lu#[GM:%;e+","l)(q-lKcCNh@p3udQ^An\"`<[TTTUeX\".=a\"kN\"8m`G@*Ed.iqiCc,5J/h\\Z6C8h0MtpaGm.#$V5bKu&\\<BBX48H$C>ImmgPf-dXW]5ggfTNhuAQAKW\\)Ke<H.qn>dNOm;sMlF_(OBa>sL/Ys\"\"m/HWo#Bo9l[[_RP`l+0K0F(6DZZ6/V^,tsp^I9J?5n^(mgNC:hiV]c#3t+Hb\\MKtl<ddEo..<po]_<i0Q4*B6qousMiZcV","l]u88%","lM?D";"l!Hp39]/ee?IdU";"leA3";"lOf`<Q";"l@Q6I@\'Xn";"lUZ<DkZM.fEW-@","ld9lTA\\s";"ldLPnC\'p";"lZ**/m2Mm)/NpC?Wd<,-8AF-0fN(86Fn[RHePu5sV3Ri%uND<bb%/\\9@:ojE7Mr`MQPqM>t.c@f\'M9X\".R:hb\'PHDlEEa\\.?lM","lGVFH*u5$.nhgh!";"lrAk\"qSV0j%0O$;","lQ\'4","ld]JEdH\\\\NHOTLB)!9RSrEBIn5","l\"_tNs";"l)H=/F";"l99[[";"lp37oJ:<&f","lMK;6e<Z";"lH3L^kX87P","lHp7?r","l>Aa0ihWI","l!rb^PZQ9Tp/.YF9re^W";"lRlLh$,<j$","l_+\"";"lAS9_17L)$";"lN,cPq<>jH";"lW5@%?kPQ<.";"lI,)0f0%%>=[s";"ln@(>80@6";"lE4]@WGV3$";"le9@(";"l4W4&NM#G2Y_c","l&0Pa<i//Ln";"l-%)s&C\'-B","l$\"=%[/c6W2XO`pR0(";"lN%>o1";"lq7,mY","l%hhP/29>3tIuC48+eX9jTL2ul-j]_/H:W?\"","l+fJ>!8?J+";"l;s+","lP=f";"lN`g[","l)\'-";"l%<e$:NZi!cRB$rT";"lpa.","lR9i$D9\\[)1R&U","l_RuCYpP7hC\'#96<eV]e&","l%(0dtECT/#ubgl";"l;\'fA2`?+j2SY4#d%!mu@(E@%f!b";"l>Z*;cAt^","l^.!F-O]ZI","l#\"\"]+cRe","lY%Oe","l_1!n(12GcdYM[&>Q8??a]Kp&!k&;+";"l\\@V5q!0JM?8n:g";"lh\'RNKiQh","l>^%c>g\\u","l\\)usIm[hi\'\"2V.Q,6M";"lU1/i=lL57RRmGA>";"lu3<)9&<7","l^u";"lReE:>";"l]WJF+","lW<10";"l^`UE","lDfdX%\'q\\$<TCosu";"l(Ia7bcL;>X";"lI,6)>";"l\'qR^V=9m;fGDHq9";"lgT_\"DT-7Jm0(_;","lH)\"jHXe1nL","lhX;Z&bWc*";"l3)nZb]rL&>D^FLr[3XL\\","lh12Z@FF*pl","l;]$lJNT*&&n[+","lhQ\"h@>uM\"Mn8K[,5>/>N2goItEj;91Fip4L*IX1oF$j9G1%etOLYG<","l(@`c_e0N:","l?JI&/","l&KMt=o_<$ndK&#l";"lFI-5BDM,";"lYdM8*","lDm<_UGMOBuWsZDS5D5E","l\'hFb>3NO0pTjIXm";"lJ68,#`K%aPue","lq(ugXIbS?B","l&eS=Pm_U+l;(ZlTL<P*f_2HkI2,i","lkAn>kQ5qUj2poQ*iiV";"lq@3U)?Mmsro&WLA8UVqO\"S4E+0lEYX>VQ@s";"lg0F(-LLh6AuWt:O-F#P";"lTr^,iF2/=";"lmYl","l$G,(r\"Bm";"laEC!","l,\"BSm1B\'$NCLhJ^,]$Z9kdg%5]k$+oSO\"K>Jt@S^/U_>r<YY";"lPW_bGcp\"3";"l,6H2";"ld^>Q8jbpH(t_T7","l7I@H-q3ZP/:gOMXhUD.\'9iGOcPQ,JHj1fr]O/3%hfm9*\\>2","lpFn%&";"li)_fi<BI/d^7","lBTcDU","l&r_Kf","l/Cj","lYP.K?]r]I/!8aj\\QVA","lPP>>i:PXBe+e";"lLC_BRD#V5>[=","lW->(Jds*no";"l1J\":*\\T8]";"lDt:5f1r2[^7_U";"le<tr\"j>mn8K%","lhN?^bJM","le\'%","l;gE=o","l>>OHV";"lfDZp9_;hWsIaa","lMlELAH\"E(&jJ?]:S%C(\'kc";"lKWuQFq%SbZ_&QLrOqt2,5n","lNO4eu*19JND+\\.Ki6ab";"lMhXW_bm=M";"lEIo4#","lb=MMKi2a@CtR_\"-q<r\\6JL,Fnl21","lptQ5o7Yg^JH?8%s>$3=7","lmo3S_I2","lM:psaEeWD\'","lb6\'q";"ll]/.7";"lUJjb>W!F]R8)6ZN$.SV>&)PZ@ZG^XYb3l$F:u3(hDu)-[<^0;hl<1u[88V@#cNHQ=SJb0.g\\9kLXdTVs?;!*bA\\)d/YL<S+Z#WXR_CPf","lmsap=8fE","lR)hElBBN@","lO0hJeS(s.\':.","l#YdY","lU,Eo>#&Wa7bG_s6JO=DCW%7=Xq[U<On`\'^J!a?-InRr","lk*I=9o&f-Q";"lF6F0W?\"QE()#HMX&0Jl;";"l%a^h[?+pd=e5cd";"lp#MqU;f.O","lE=;W3D;1","l\\TVH]Rg2","lrthsB";"lmXKl1RWV0s,.^ZRfNC","l\'97&=@f-rB85Po";"l*\'YjPQ#qi[j(","lqcgdk8Lf+/b&d(.","l_<0BW&7^pZP;Cd;Fak@i%k\'g?(Tn","l<lg";"lu5]M$=7;";"leno]=)`<","l!\"4","lA]jsWf4*Gu";"l_Fa.Ji`Ee","lD/T2Zu)VqXqb\'p4o[+h?@WQ&BHD:)[HUopd,a*i8fg";"lW:4loUXY\'","lp8\\X^WN=KAE=MWC`_1)V=V";"l7l5s@%+Ugn^Ks#/","l<QOI;(\\Mu\\n\\10W;Mj","lHejeZSd:^","lK0R+GXI+54(uk3V./g\',FC";"lEi7NU";"lJg;?EY1n)5@:*/gLqOM*jACHmZ5@po&J11L7]\"0","lRR.n","l`s%";"leb*XX3>q","lO*K";"l16.r]B]DiJMuUc:hJ&ucG+Pbf&s4","l?5;.q\'93";"l-IilqotpkmoG4bJn8I=14+,";"lFh.821A6=Tt03qhjZ","l`\'16\"d9jfni@LmE-8r\'";"l3Pd5`E*^j","l?g:7,?$=BWIUm0CWrl@h?1NiTgu(njK3%;^r(tfVkO??nQ]a(]8EKUF&hOASX26]`8i-o`.^mtSc</lA*B^B<HG7,pttD9qE#:]G&EZ\':!WXr7B$ufcSbbRDnf9b8NK\'M@I7RYs?I?-uOSNqd9t^+/:J(:5,I9j6>RV(3*G5W*Af@iT$o6sQo-\";!9r+&?>YJQ+>>``4PJR9le;7:LA=5@d&k79-NgOQkUc;>:b=ial_i<o$t\\+/o;Yn:Ur+p\\]N^pY7BNeSh[W;da.)Z\"k$-\"\"X8$S5O8ZEajd@1?N@.g>15\'gYWJ&o>K7>M;gd`Tc.etL<97tJ,^Gl+K4uCis/7k?1P0cP;T\\+:.aQ54aC+&8[8MG\\_J<mJZG5]YIS$Y:pb$P5-\\LHNYfU6[8CtLrd0tPe[tKUeM1CB+\'9#4(K%foVScALbO\'`ok-?qM)a5jk_uSJmK2mbGbIN@dq0GoqjeFJC2GT8*?@Dn8mfittj&\'F^`C#Jt#i(eisQkV)L*%C-l9mt;7#ooSE\\]1RFFW228qj:g_$@5kkYVHan_V.UfAYV]g=hN(3KBQ6h\'OLsB1GT7?+4+4DK8P>MEC.eZReNMQV4\'-jVb0\"`Q0umU;kO20Bu7QY!*G\'LC*+rt5,_(El[0\"YCk&3O","l39q/";"lK-\"m%\\c*;";"lKNFJ$8M6/Z@Kt.8EJi";"lTV*;E+h8VjJ4Vj;,M","lmDJ8a-U$","l;6RU.uE0";"lGta:oU-IK#g?f";"llK?_Vic_h/";"lSY4^";"lon[[6I]Cn*d0K";"lbGF(-kX/tRM#I9a^c","l!-[`$BBsXKO7WOSPcaX";"l/%!Z+QNRAZ^5^.Y1[q3","lc\\3R3";"l4$:B#i[<q6mZmh>m])","lNm>1MCnV";"l]LKLVM,1";"lZDSn7#`s","lJR","lFu-`5IhU","l<lQ5@#2";"l1p2\'D","lGf<6G";"l9>s@fHo\'o","l5R&68T7kK","lV4p";"llrn";"lpZsa","l,2gjLSpI";"l&gB<?g2\"?W1h,W+\\[3B","ln%r@c,;bk1_.%\'`K<ttSfIW","l\'0=X_ALp";"lM`=g4g(YE@KfI9Q`lCR14IN";"lhTMd2f:0E8\".!Q7AUWFh\":cekX#";"l9!)<9(\"c","lE@Yi";"l.*DP1@1t+_iW[5d27g5a)6B&pD,<)P/-a><91Z)m8#/D+S^$R*,UPSp\\=";"lTigSJ","lu9$lkN=]Mf,SNhbC`IPL%n7aGV-(";"l3<`#5ShK";"lc<S5I)Ak";"lJ,E%99ZS]JD?3lM%&WZ6-AJF-R5/AFp-f\\45j$dq<moo#=*YSYS\'d`XmE\\QAmg\\RqhJ,N8-\'r2lT\\r0H\"<_l7kb30Z?U1=1BGj)f!+>+9^1;7Y*0(\"UTrh`\\]2>`R31!ls?T[3UBii`(tU=?@p=.(Gd/,F+fdB<c$HnqHN!(Krb/3@W(%Fn!\"A-J@mI7!.U51$u>\"Sm*O57)SLkF#6:oCXL_88Qo5(.FP9]``3/03CP,*p&-q(dL`dB<@^1qK?`ti*!en\'++]dh49\'HP=thgc<:5>T2=;C`Mls*uZBV,4__,XKq6NC.f6I$@em/H>GG=R+rZLN_#`4RFUl_UehVu\">kPlE?osi]1,)!q\"G\\*qn:?S![@2g42BsR\'l78@,XaGOT;/c)/./?Qu6:TWpJ#-_&bGf*fb)=bc\'.EJ;3rK8TK%iJ5$(mmqnQl4RTJj<fCk&CkQH8.)B[OK_I=7s&E<(HPq2+Q@U#kR>(@h\'*^9FUL:Ur\"n\'X?nilP$sm*+-G_E1@LkL1khAN+8fd96%Kr&SgB!)=9p8>ch7YT[,";"l_aBG";"lf5>-#POUF6+B(NI$7","l0hg>PRZ31W","l\\qY(E\"uD>1\\0V?=@(3GI","li^)_`LX";"l&!<0^";"l_g";"lVj*i";"lmP\'l#:A";"lu_E6Q\'.0++O#QiT","lUiK+jtMGO:7&m4!*;55u\\=","l.`$e#\'U06[\'q2IsN:G/,9K,`4\'q=E`K9=p5amG64&h[\\q";"l\\%r";"l?AiN9;)Qf","l]d6urk?;YR+G/cuJW^Y$","lgTtu?)/EBe@FXFG","l8dq,jM-&";"l&YkuKM\"3?:N7,J]","lt.k(N@^0NtItl)<ZsL\'A(l4UN54","le!jP9-m&t#%8<\\p[:Ksm@R*]";"lg,5:Jp\'RE4-h$I8FQAPdS$\'BO=;[o*klo\\&W3G7nd%B^*=JJ$u:R9M3*%b@<);,EjiTMB[:m>pIu=3r","lg=&:","l=fb\"(_p1Xr#i+jldo;_%?)=:tJU_Mh)ZTrN0<&?U=fW";"ljhfS;Zn-","l9;Ce\'#uU","lJQ?/[jbi0h?4PiQp;+hHf]j!>D@>.i,\")>Q-].Zn3VguQSX=@eZPF]r(6JWAM7qDE:nD9";"l?j4k";"l.5)";"l`JL0I33!";"lW_dicU8P,T:Edd,.05";"l85pfq!!5fc";"lr_/fe8HEMD*.jG]fOl","l1493hu)","lMYAt_kMOFO","lu([4UdOY7";"l[ZuiFn:1bFtT)Pi])64qH\'NO^","lpSI8","lRY],)JFEOc:sBqN\\N)bI","lLW+;,d$=2","l/V1fE;o+","lOR@rc<Z";"lo_+>I-.";"lamIF`:I^;","lmC=Z_4;5^??\'-R5&AOPGZqssA";"l:\'@NpE5pIkXP\"","lY-6HV09Y-eS@\"","l>U<kDQLiDr;*\\`\\!6c7M";"lQ;Dma.:Jig<$e*","l[b>T/","l*o`_P2@&Q*\\)hc$","lA@<Sk^d9$p","l#Zt,*D<\\Yr";"l-\"\'";"lUtG-_";"lfdCGM";"lUOOjp@O]^`j\'0r]C\\1(_Ud-U";"l*n@6IkI/","lbSd","l14\\5C+)ndXL\\XUlREq*BiLPb%[4!iel-_Me[grAp2G,P*8>";"lWX.d]KpWt\\CsRs^<g1*l3f>*G-Oi.W<7\\>J;5WYXpm093";"lu2de[kiWo5Ghb";"l/=&:]$>;0\'";"l;Z";"l_@HgU:9EuB";"l\'G[9";"ltT2m>MZ6U","l\\[>J$;kO>";"lp+]l,Yk34q","lI6jqI";"l*Kp@)","lF2IZi^qldY$Zh[JF(\"kmh3AQ";"l5*W_\\dc2FF/ZQ";"lE0j\"77/k5","l\'meYjNb-";"l;I*U>cO6b9:6FsAV9di0P?";"l`d;]+i%%/","l\'NZ&0q?5&";"l$ZBb7&@0L9g%F9sD<It08uR","lI9a\'d";"l57W^fgUBSC(a!N-[\"t]g8p/\\XiF0","lgHQM)_f\"";"lg\'Z61\\#eo];F6Y[H\\p","l%D:n&)#HAo^%,KTBto-a;UQ3,)b?";"lchDu-GJ=","l-%[SbGr($/X&_>gU0/","l\"/#3sH7qi8F$Mrb7paK@[-0>OIh+";"lDLTu0DJn\"b","l+68^W/lY=Ec8";"l/!IOYqLb","l5/[BGJB0abci#@)","l2`p/7";"lP$+dDc8";"l.V","l^.O\"I*?/";"l=-sVW7=Z#CurN";"lI2<i=5`q4","l=I9S#OUk]]YA";"ll_`$pWo`Z0R!";"l:Zb\'Q2f+?HV`UE","l\\Am:u","lL?_";"lc8`%";"lJ4RQ5";"l(LoF,tZ-HbD&8n;Bs*Pp+Ri%o>rZIi[GU[[H3u)bfgBAJ,I>N12@YY<#=GHVY>ke(\"5-_NG2kQX_2&?2^\'nY","l5c@$0[GI","l+A=OtMp0`f/R)ThQu/K";"lpuZ1NK=nJ17=9@@\\9N]pCE?*qktig/+>g.";"lpNgY9LY%]\\]7#r&fg";"lVGqN";"l%g)e2T0,`dm6Y_[%a,";"l</U.\"T8[T^M[";"lo5$tRI&_","l-j$r[E?HEPTsMsS","l5VTd","l:b:@$FeIV0p=h:)S\'a;H/.U:","lh\'\'CV","lX\"0";"lQ[mlg32H3!AG7";"lj;+Cqh(_J0X1=8C";"l?],0","lXQ40\\9QN2";"lPc>%A)!?)MjcVUt","l;fD,f@$?;P;5NfuAK.5kLtk6","lUp9TBfb?/6%=aBAh--<4mcdhunZ.";"l3ugiHS1=8qS0.Zg7I7","lH$N%kh7(:G(;;1I";"l@0B#_[_RWi4@a=#hn(6m\'I+IU&dp$5.pFqVW@IN(2MT!b-.","lYS_\'O8l-:ejCu+#_V\\ELWYG@MH38";"l@[RDh","lE2@5S1*Z.Y","lV+;2i$N5","lX?A$","l\'5q?^&ic8^Ej`","l;;Rn";"l@Q#@b::7a]q_UiT)K^W+E;)sJCje","lk*d]b:(TaL`\'R","l=F,@Y;-ec_-\":dnA2","lgUN)&,@)";"ln8%N$";"lX>)8^PL@j`$PTKi,QMKp*]8NO+9%u";"l>p\\\\<UL\'WOBC*eR-aLb=7io_r.*,","l!ofZlG*.;LhT*";"lSr)sg","lpXXQ+JTZdr\\s","l81TAHhd;U";"l]?3EAj0D";"lmt_dG<Z";"lPi<\'9ORfA4T(","l+IGBQ","lKI(]C;>U%","l=,[/.MX6!";"lIA51d";"l!o[uULE4($TMB2R-4&`%?U92Jmg4O6_!LDnm&L=P\\+[%OoEb:G)3Map16G$uYc@","l:5\\W(:FAk>";"l_fkr3O.oB","l-HMX?X\"\"","lV3f&[m5","l,<@l]@ceW&&%F?FF+$","lKT\\pgtkg";"l1Q>Khoi$aIm0ZKf^7";"lLE\'I+1o=A","lM-LTGOaJ";"lq:!7L0:n>d","lX_N","lDJRBU?&+nHS78s","le9gs";"leSm:h","l@LPhkA/A";"l%llm4A2";"l\"K@>\\DX8atO!#qR/oW`e";"lXNIF,Et:ajp-%]kEW@g";"lW\"0RlBa^X)+nCU","ltt$\'?q?/:7\\(-$gQqkS","lfD_\\M4dXs:(n&X\']@T92WVdA0Fn\\3pFnUUuJ7o-WMCe31K#IRXiN","lM\\W@l%hg","l.auBFo>-";"lql)`Z+5(\'","liN","lmP33H8R,S","lq-cS#9PUdkC_\\";"l)dD_W4\'2o";"lIXn88";"l2>aQ","lgSZ9";"ltsb$?RFakle`V","l4\\)QX)2EK))#uVoUJk?";"l/;OeO_%Ie","l,]AULHg@3]3C","lQ7:l&Ocb","lDO%XU+rek";"ljI\"n1bscdl$PEe(uJ+JEu7Crdc5","l*\"DB";"lYM.aR-qK0G";"lm/Fd[D#P2.gOK";"l(*$(6VZGV","lq)<s5.i","lMp@cGEj$","l$\\pV^","lm\\7@2i5r#f","lofc,>h,m]<tbm>?!V1+;Hi)*_L,S+mEi0IRX+.K.T%d`d7X%<D<\"G24Ub=]=W1oHb#.;4uY)NT0PYg>phh!Bf^_+tWOe]&/_dAm0\"`+Ij$[#[OIBXDi@h<TY\':V#.up05fnqp&8rgq\\X:X\"!UMu5_)OAt/s0%SfInj\\8$f*]r\'-SK?e&7=P\">)pEA12:MR=f$u.hR16<3uk78`5jkrf:CG1>H]NJ,B<5P@9>*/OA$BdX;c.T`\\.`U*4Lk@4pM@cQ*>O*XO[","l#0K","l:h8/I","l7ou$4l*]A","lQ4a@\"BkA";"lJ>R>/NFBYs3JMn<\'W9&q-T6k";"l<!Nh-QrW%r9IU&","llDAPU>\\!)lLQVoEWd\\\'JY.";"l1@gFqH`9J&#24A=#-D7-Gc";"l88pHs=h-#:SZ";"l8[*PET+6OVNJu24iXPa9-$t\'K4S;Y^e%>b=bD\\<";"lU])YW\"fE?]0SO34;Z";"l`eK`h%Mmm1g0,E","l(S+";"l*t(S-","l-`\"@R!:XZ8%AE(\"M-fj";"l5rUVdY`EFq,1Os6lUHEGV2\"+2u5Yt]%eP/[98I2kuMP\"M)DkGc8=","lu%$h<!]^RaM>G";"lL!;","lqO6At","li$hC","lFJ`[","l>_dSF","lLdfUJh!p","lY=n;C9P9f(3T[G[j<XfeUE)3Uil6HNINusZHDSEjO=OFO>().TEbe+c.(LUU@HbbL","l=X1Td#ZHj","ld],@?Y50(";"l46U577JU)RDWCN`b_6H9Kbii,[I";"l0;\">Er);YU\'\"poJ","l<=i,EPs2A";"luA6\'^[_fHP";"lL%S\\&oDDF","lAm=!POXjhZd.]cI+^EfP","lWZ&S";"lr9\\Lb^lnnqM^\'";"l3jU4I-Z3@iV3NQ>V\"NW";"l4F_T^JL`N";"l7[R$_\'d%@J@$f,\'[2Bm","lW!)OpV5-U@GY,DCS<k","l4-V7Ou#","lipCfE";"lRp-rKh#NKsJY4mmV9`KM&%";"lGSm","lVKVmJXYa$3";"l/4Qm6BnQ","lrC>]=@EtY$9T$Qs$9J@);p$(4+cc]\'Hj+e\\+(l";"l>c&cN!d3lf,#$3/","lWdY";"l0+*","l;i;-5g$JUtkoPH*X[hEYT(","l1cI`/:Lf\'a..d%M8U9I9<@","lO;8%p,/s/pg;SrU.A","l,+H1eSRR*-U$kqRY53,XLKq6gpB#a!$6AI@?V","l!M2f[","lV0F\'EePR4.LEY:o","lh&u4*f5Mhb*TK$";"l4!g@=#H>8j[iGkK&YO1o#RIt)","lVpU13","lI3utjEg5#2","lPJ(+dfKblXf`s45","l$AD%s","l@:hZuE;Of84BX!o";"l_uIk&Lb-5<`-t=lM>9hs-i";"l-d&`DBDtIHkAQfSh0TWVdG*,_mRLO%T:cJCMES!.WgVT5=RnJ):&IdE7uh6IBjT`V!ef_\"![_LK0!:dR\":?","ltq5","l)g#E]","lS4WC1/qs1\'","l<om=2";"lkkO(&APWtH*8B";"lm!fW:M[+","l</RRVj1T5u?JR?:1M";"lERMd_;p23IdeZ:NXbUpHEUZI]!E)7m$!q9,WdDmbrgOn\"=2o)L,\"VM8TS]5,","l&3ETl";"lIZ?]6K%r","l%FQY=8P7!";"l[K1m_Xu\'\'Qi8N)p9:&";"lt0&#A]TZ\\tG!6]<]]R7E_7","lbFLULd(";"l)t/:=<%Z$T#5Wh=qqVn03C","lFTi!a","l5nf*J+u^A";"l\"9-h?ZLuTD;(";"ld<ValW(bmsLIiSHpk#Sg2@s&","l%06%b-s\'<";"lTK!tm","lVsN#P]^C4)[X:g>";"lK*DgLi5Qeq","lFgYU;;e`J3Rm+MbYTl*>YsboA<N!";"l8sA43DK-;2\"Uj","lCgE^Vf3[\\","lY3nc&I@jT>BIqjf`h8\\n]?","lbdK\"D?^`O!B!]#O","l>5hio=$K","l*$L!WQ9GC";"lj-f)5`sRHmkm","l03eW,<(rno0\'tHh\"Zt]";"l\\D$6b^l%(n";"lS8E","l_sdNS`A&e[OT7";"l\\9!";"lR-E#T]Z>P";"l+Y\'HBHColW.=])Z","lYSG0bAcDf";"lF\\>6$]1*","lI+ts?";"l*Q2BSZambP\\jDkcZ+j=/t_@*l$A0pQ.2(e6<DaU)l#coDDhK.:k&Y";"lVsHHT*\';Tf_?+>";"l:gRJ!blB%X\'p","lhPCN$\':cf\'8Dn`jb:*=/";"l\']$";"l0=t=/1b!Ac2C";"lE&co]";"lo?N-r&LUV9nf$p#[2[R";"lQ:smLrB):6,<ZhH.kLJJhA>ciS<%=,U)";"l5@b\"q]]P";"lI3";"lkQR!R","l[QIuMiLspMG\\bJ0;\'h","l_Da[#29-";"l,:L)GfgcCaW:R<Y)NJ7),BnW-i&l","lU6TkF?Fe+";"l+Ud2DRAV-C5\'#(";"lHG2o91C^";"li=:aprI9TLF(Q9^b4","lA6/_rJR";"lid*4c/qs","lGO8RL","lEBKs]5:Wgl;BA","l]r4fsqIC";"l-7:f=lS//","l9pjFRO>)GIVPS";"l$U]B";"l8/g\"qSaU5-bHb8cMSsC$AN";"li3^","l`?pdV/QY:e(5","l+-2-dhbccU!Y7t>","l<eWdF\'InXN8tO@o\\s","l$P/);nN2l";"l`t6.S]c`u\'V0lK2T`H","l:!\"P,:Sn:W\\TSH\"U=@\\","l\"]bH<H5Pji\'s)","lWM","l><luu@Vb3;d[\"(G";"lp-`\'_","lht@","lFo\"0iapSJ.9ifs";"lJk$i","l;#?";"l59RfUF.7I8oLoZ\'KD=J","l-fM#Lbg;If&C&";"l/M","lbN%","lGFU8GRXgsEYHhj=PI";"lcoUm9-hDLb)k%[/$fB8D","l,$FS,H)N/";"lTr_QR!-sY>\';N?VEb","l0;rN%>tQ[o#el(^!2rS";"lqKPiuAN";"lp25";"l50bM+8h8lQYT-PtGH5n_";"l_UL\\(\'TLrZ2SPd$;eho","l\'T=M>3R3<g0*agoWK[%Ge3";"lDN6@";"l?ON7Dj%nh:*RF/-";"le3";"lSgLX0fK5Spn&j65oDlG","l((\'qQ]`&^;b4","l7_a!H$BcHJ","l=K_<\'4\\2I*bP8)";"l@,qkP","l#+MTB<5b","l(>2gT0KD.E`%YM","lXd+_bEm[S";"lO8gR^i\\8(906Y#C\"0$:]3N)u&u!u[=ihR10nQDaX+HTJ\\&W\'u(X*NrJfR[TaY)JD@)i";"lLTCA@3OOu:j;9";"l!]>>-_@rhL3E/SZprT","lntJC\\","lgGPFH%l(/\\m5";"l/k$9";"l^/$8jA;hH","ld[T","lTFE//LV@S3[=","l[H&CA1Uf&t)Tnq\"dMLC,f;L?WMPRUn$Y@LPF:l48XhZ`/_aXIb[nGJLK2fB0\'*[/T.hC\">g3Od=";"lZ@dN6%8","l+QEZ4ZBu","l[k+GN_c","lN@]X";"l/-A","lm)V\'L(8";"l*LS","l7^n7>I0\"";"ll9#";"l()&m";"lZ<]Lko,Z#3`Cl1lPR6Rf2#XuY^PJZa\'9<YI&CW%)\'q,uefc";"lG4a\"et1\'T3^YA([%>u8`_\\8)Z5:u","l/\"0.,";"lUOtH0","lHn@ClnGJrs";"l3Ne";"l-39M5mHk`=^)U";"lk*;N8,2Ai3F$G","l&Kt6@qF2Z\'=$`VP=ig.*","lIILpA:bM?=(&$I";"lHYo@EX`%";"lHn\\=RYeO8k:m0F#B6=YMPs","l)#?C-[9.:@8,$","lR23\".K@KPlC;F","lPu\"d1g*45","l3T5*";"l(RpF<";"l]uG\'@F&<6","lq`.]K#rhG!";"l$)(jW@bNLPoi","l5K/2:n9`SN.u6)@*Q\\FB(9*$57b/f[hLjY0FUCt;Opo702WD9*obs";"li,?BV;Q&";"l4(;8_#HA";"l$JsY)B))eK:^[aBQ#","lD\"*_3EGi/T]]@j";"l[7Ism1f=c";"lB6H4M*l-";"lI/j8PG7","l\'_42M*W?*V=SXt\\0oZRS48f*\'I,)HGH)FPN\'_\':l5.:+cAKAKZ)3)Y@Ma#D]@<B,";"l1s[h@RDp7(OfHY$qoighi,$GW:.";"lYI6\"p1qC]EM^=83Z5";"lE/O8[Q5@PYW%";"ln=\\p]Woij/kXKS>q)","l8Db5#f7","l(s;p@nB6";"lmHmjG_7";"lefac#\'n0j4UnI)&]=I,";"lh\'7,SF77KW1PK";"l5%f","l)SF/l?ccmF(i7\"Kb>20GbRK!6Eg)UqALb#$Gc";"lkMeY>ZlGENc8j#]7)Qp38sQA!EW6>2t>K`mn*=$.","l`duglf,Ks","l,5P2]YMA","l,K*u)_uuF";"le^i_\\C\"2B#42YO","l$Zu?ob(S","lU9QWUmC\"#";"l+qWkoAa<ZGaJ><","lbuTnLlrH$gSZEE#hq8","lF[LHF-(TKGdr";"lSTM3Pp_O","l&Ops9","lOrm","l$]<!.)Up";"l9!3V##?$f";"l57$kS7e","l^B6H;SDT";"ldZT^7.`sH)o(bAeTgF\"","lu=/g!";"lkRsZ3#Wg*";"llBh";"lqJ>\'$Xj*";"lP<T\'i7e";"l;_(9!2FDi2d]g","lFe\"U34:H";"ldps\"I4Y/Mr\'j4C;W1el/fbA2p4,`nK[67LE,Ka","lnt2D7SSt.","l5ou>Q*En","lj22U=@8IE+uSur%";"l@T>5r";"lAN";"l==JT";"l^<T8MfR>","l^g_8\\DL[";"l\"/=ol#t/","lPlD_Y,?C&#$;6HP_a-$_NUiU2jAEN4:_kGKbsSF4JCcI9Dmr@.8PBm#<DWi!ktg^\\Vr&ZK;#@&=->uDU>)W0ffr*5*F6\\Pc<\'[Rf*s&:_FF>q;DgpU\"q&`=:QQ!I0)E>l#L4Ynd]qQ!nDt\\,;Ur;S!G_>?&4GXLue@)]>^sHY9X^%(=gb5`MZ(R-e^I(p6$d2X4j+Ud$PHWLqRQS#@oNuSMc3WK#iu9V8GB,fq\'YS*2c@]4OdTT(kj.&%Z3$eA\"^]h2#_ZPBoCA3sr_QM(4<Q`m@QjU*]GsL<%%*19s";"l]TLU^c)r`";"l?6<Y`[)D>7!O-","l_(:TcFB2i_+s*=i4H-F\"Xs\\";"lSD\\/tj-hP";"lZ*$:t0#*>KJ7P_","lus=W";"lPg82JJe*dp\'ZAo4","lmfHI";"leR1N_l[ZsF7iKOllK[(d";"l)t@9:XkZc1<C,j8@\\.:ekCbMN8UZ#ASf7*n%Uf.[MZAM-Zos-=q`O[>eo@oqRd)G@";"l9UKQpE5r","lC@b>rKsC\\Ak&insVH3<ln)MUNQcc6r[I";"l7%O=W1:=,S!oiE","lbFmof_KhUs=cZa";"l;;BBZ.[a-ZV&p","lX$@fL3P<35fo[=.1%","lN!;N\\:oFb6Que#P";"lm_/un","l^p[";"liCb@","l@4>Q/","l`\"4\'sMt/N*","l,fZR/WPR\'Kk/JMtXe","loNZW(";"luU=);>WA(o<4S7bPRVjP\\s";"l)U25aRC8Z\'ZkN/,F!b";"lOo9KiVl\\^\"@dh:(n>#_","lj)t+nrG;7-N=QRfVXU","lR(+0+";"lcYVa#WMbc","lq1C,$LpHX&@H4<b","l@Yc_6@\"7","l32oA","lfPkoZY27","l%fI)s","lS$&Pgd^`uB^bQ","l(+A[rXO3.>8[Y4.F4";"la`q`-lRN";"l`9V)ibWhki%@=(";"lK^NK_gaMe%+/Zb";"lZ\"sWZ4l#=";"l@2Y=","l4K+o\'G4-fcMN_tc-J7*Otd&@GD+g,Di.q,";"lL02CH";"lW&Rmcp^8EqCDj^lZI+U1n8jI:e:C4";"l90=9]0A&$g>VWp&Uo","l[iBDF","l\\khl,D!X14","lN(\\=#\\(;m";"ld!:nUe,#hkN>";"l@,2n/b4N","l*ZsS";"l8\'W?fg[";"lVr.","lNO2","l`@1YA,+/H<%+m>Vp3!","lm\"@#9GtWf";"lC8ct2%kEK#\\.J","lNl%\'qT\'8Y--La.7,]Vd(e3","l=\\S$i\'j>Y","lqJ>Ou-*Z7t`V^NkLEY!,2p&I","l=u)ADkD\'\'","lL:$";"lfj!fU";"l!4","lM:0^W+JfuQ9q\\a7VEE3.`jc5WS44","lt7<`","lNpK@=DjsrP@Y<","l\\>^","l%5","lb*1*eS70.q8cTK#FnjKl";"lB/O";"lg(H*iZBc*+tGOc2\\3j\"cC5Bc6h)e","l/sA#/;#[\\#4`6Oad^#Wi<T/B^h0>_[^J9OKFXaP3#NE+@FUN]K*(JOF;]l6\\A9\\dsQY)bI@Z>JhU(GE[m<+buYg1N\"5h(^82@(@o,O@SuJ8;\\$)+e-O3\\+4\\3(L4ptLo6m44@8+Qp7JYq,@%0o.$-M@QOfG90/iN8OmL&@4n%*:Hh\':d%nc;!+\"\\8\\sd,UfQaV!#dfd_AT=\"SVP33r$;&`K@r=&[_h9#.#\"=#>L`UgHlK]QS4(\'-u].s.B75?92$#HMp.2B[)EL^g?qj9BL\'KdT2f$s]b01O07t]TV7P5*2%X\'nh8hQO3F)YhRP#$AZG0I`?c/sDDf)LX^40;%(<0q9GQd=>)#r<Qek`#I:Y;N7\\$%CUuR$a=ufI^3m2$<r0Fb3sV:\"N#(kI4^Gs.]q/`@F=R-R7C![\'b9\\_t!Jo](h.+9P5*k@$C=JF2cVW!*\"1eO!SMZ2DG(-G9i-$@Rj3jH.g5iSWCB7!On0U\"qn;N%4e\"R;dtNILMg^_6It@qo4CP\\P9HJ4<?M!`!Hg1a*5]f+#p+]ECAL#%UICFiXnY6,uF4W\\)Iu@!G#52OcCR)MgH)^rA4B+1F++_o;0E4Hg4?foU$\"i`V[IW9:@$Jtu)dWS8RFX#Gm@>?0V?0MdL!4[hdB9lj\'CIqI_&hD2>?d7DWG]Cf-I^#<273k)k/B,P8\\.X&Ng3@eJ`(Xn/usEredLJlX6SaHYFCj:Domtf_XOg17M`&mVW1XV:Ma`.^76)/fG>pDfV_$.=gBP;Y2IHE73UUe-p$_5<\\kqB#\"U<c)!Zo6e34em4^c\"j$*ke","lPcT$9\\@;m";"lun?7oE*_qVgm1,B\"OD<5M5","l@&(G-","lkPP","lDpW8`%kRJrnL!t[cVJ_?oK?FL\"QQj\"oSkl%u\">ssi@p6(Og","l\"Y301&MJ^^T%Ob";"lk\'(o/m+bA<V5W%?fqP/q;(";"lh;`49K?#f";"ld$,Klg.BN6]Ej\'?OAiNH#E:+@Qa_?<oFlYehh%/]1iu5%VgjBk&M","lRBhn(Eo,9C*<StORZ1?1LM";"l[W6OZHNnRt%0i<J7@X$]`fZjV=/S=Mr<Li:0(";"lF>,","l:4d-","ll7B5?g&af^CW1\'+8hXTWci@9[Uu9","lp?V>9Pd!fp-I\\C:u>X";"lRSAG";"lEkmZsM4:.!n./D";"l(fsaX","l)lEb;lMI%QLX";"lBnU";"lB>.W";"lI+\'Mo","lde=","lfSh35WIEXQW=UXS";"l[63fXEi<@CC-+";"lR!","l=/RuTKn>91[<.!.^6Hc";"l4sKP<5JB_:rJj]_M[","l7$fpHL_G!4";"lDn)EQ;Vtn";"lg!frt>Es<Um[\'GFf)n\\Bm!","lqC!2UT(","l&Af@+";"l]^C#f8`Hi=SibqhhQ,$er8M:+cA$","lBd!S=Q.&sK\"Pm","ld[FnW.i";"l%ojO2(:cm","lIuJS","l%Yadf@NO5h^NJYYtQb5Gqoo?t\'=t8S0G\"BuV07;H24UM+VkdmC_g";"l)3hP";"l?d1mt>q;du>2";"lA^RR!dAt0XOcbY]","lC9\\],rjCZddoA6\\N/CZ";"lG3br_\\><g?u,[6c1X\\92J3R,ra`,Bin$PTp-2Qii#<L(NP&r/l?PG<+lU3Q^UDKc^<?Mk,(AP<IgCkMc+j!d";"lSK=)EeA-.;","lQ6@0EXCCJRI\\5HtYjal","leHJWMrOG?YiB*MYIS#s\'1AV5FhuX:RD?/H:B2_I+\'$>MZ</;_?","lc4&\'$","li%q&&C67s";"lqU7lr[Yg\'h;]J1T";"lMb\"g","ldqrWfV7\\","lU\\W","l)<$Fle@a)D(h(peRLiir","l`L@Uq","l/[+*GW@b1VbEkiV(O>XcF\'ug1ZuQpc)n@HYJQ]!\"!iLs1";"lC?g6YY8`";"lM^aIg0:Oi";"lcr?>+tZs:L","l23Mpk+JdtGg\'B=5","l27q#G5=?,o)lK^FWhG)","lL`Gl","lJi5eX<]A","lXeK($_b7=1e0FQU?a(H";"lh)/D=";"lK;`LU[#AH";"l;gWl<]C=qM!kt@";"lEQ=kPM2cS??`6g4O)jZ[cL&";"lD?F;>/Ck5!YbVNOXbQ^fE*B5JU\"f","l?SRt0cfe","lkp3BI\\4pm_A(M*/";"lT\"1c]C_\'mL;oc";"lc,/-I5EB.k@KINBgS61B&qpq;ApbMco:nO=4ML";"lh`-+b";"lY4q_=]T9*UYh/ung+A","lu(KWF.<!X;Eh`U","l3uK6.MF\'o%";"l0-[";"lI4cQJ\\PSe=/]i^","leW2$l1[,Z";"lZF-O","l_3g\'","lc2ju0WLHcG";"lI>l/";"l<<)@g","l*;6Uh";"lo5&r\"+hkouN&/","lJlQ7fTe?HWgbcZ(>iF4`RIQ5l#R9U/","lEPA[W\'/m","l\".7","l!B`s#i,l&_QT+dKP%[i2Eb";"l[-`";"lZZ-]lOp&g*PcW%7!AY!Y"}for m,z in ipairs({{623482029%10567492,1117795926%7402589},{-800824-(-800825),552647414%10627759};{461014771%12459752,666001405%3217374}})do while z[481392-481391]<z[-321256-(-321258)]do ZG[z[-224551+224552]],ZG[z[-1039934-(-1039936)]],z[1126114501%15014860],z[-999359+999361]=ZG[z[2038740332%9183515]],ZG[z[1072275601%6092475]],z[100067+-100066]+(-268519-(-268520)),z[3228653766%14478268]-(-310314+310315)end end local function KG(m)return ZG[m+(-892842-(-897404))]end do local m=ZG local z=table.concat local q=math.floor local B=string.sub local Z=string.char local K=type local f=table.insert local H={E=2446235695%15680998;r=312151-312106;u=125903513%1114190;l=497296433%2240074,c=687861+-687821;i=485052-485039;o=310890+-310841,["+"]=1538147057%16191021;D=-54562+54599,G=-73506+73520,j=-974151-(-974206);C=-998944-(-998975),a=-339427-(-339435),g=22627111%145981,n=393951476%2477682,s=105496-105443,z=-723510+723533,U=2374867908%10794854,M=101539+-101533,k=-602739+602800,O=181130-181094,["0"]=38730450%634925;["/"]=436014+-435998,p=161189+-161154,x=546615903%2152031,Y=812389-812345;S=-764982-(-764984),K=3017713833%15164391;["9"]=-402618-(-402668),T=-917244+917283,m=224902283%4325043,["8"]=-658996+658997,Q=523948-523888,v=63650+-63647;R=-866253-(-866299);t=190777-190758;X=-750451-(-750455),e=2978526765%11914107;w=677365+-677355;f=695508-695478,d=526826645%9083217;J=284253-284201,B=-545393+545410,["7"]=146597+-146570,I=-956862+956884,h=736335457%7363354;["6"]=72103687%6554876,N=684416-684405,b=-734199+734231,W=418882-418861,Z=-444526+444589,V=747767+-747709;["2"]=-827450+827468,L=1178455212%12536757;["5"]=-836176-(-836218),["1"]=206054-206054,A=-895884-(-895932);q=68066+-68025;y=1940987924%10723690,P=1004306324%10461524;F=515772-515760;["4"]=-828593-(-828602),["3"]=616051+-616025,H=-1007646-(-1007679)}local G=string.len local Y={["."]=-269780-(-269800);K=-73643-(-73698),b=443822+-443795;o=423231582%3586708,f=-859835+859875;q=2859565082%13238727,["2"]=575410+-575365,X=-319978+320001;c=2562400341%14897676;H=647138903%7034118,i=284396067%2091147,["1"]=-290189-(-290217);["-"]=-435427-(-435501),G=1019642-1019584,d=-844794+844864,["("]=1300068180%6667016,["3"]=869179+-869107;["#"]=804243944%3511982,e=2996809429%15772681,V=1026837-1026816,r=92863355%5159075;["["]=-760880-(-760888);p=207213771%3635329,["4"]=96281-96227;j=1600527094%11855756;["/"]=236391+-236354,["`"]=689389734%14069178;n=-705436-(-705462),Z=515601-515568,M=1842714336%7908645,["9"]=1009663+-1009659;["\\"]=479999845%7164176,a=999306412%5259507,["%"]=1863156018%8100678,[","]=-442797-(-442798),["@"]=1338831386%14552515;t=-76194+76274;Q=555249210%4238543;m=918460+-918445;I=-253480+253537,L=1591906523%15761450,["5"]=405028743%6750478;["!"]=226007336%2260073,s=1162401394%7403830,[">"]=538575-538545;U=27617+-27549;["^"]=-24725-(-24801),E=872637480%13221780,J=2404223944%10638159;["7"]=-242202-(-242216),["+"]=987263+-987231;[":"]=-297065+297121,R=465990-465966;h=-602035+602094,C=212792-212711;T=91535919%810052;D=-505776+505855;Y=27554-27489;_=91380541%621636,k=870331+-870318,[")"]=3011321999%14204349;["]"]=256461180%1698418,["\'"]=-694003-(-694006);["8"]=820124-820089,["*"]=-17922-(-17953);["<"]=992070-992063;["0"]=-393583-(-393644);["="]=-437294+437296;u=1322841600%7646483;["&"]=929168179%5807301,F=-151452-(-151461);N=196966+-196949,["$"]=398316+-398249,P=1340706070%5754103;[";"]=3232+-3216,["6"]=-1011756-(-1011839),["\""]=352607-352555,B=-1024000+1024044,O=-288531-(-288553);S=681102-681077,["?"]=952510+-952481,l=-960446+960510;g=76859106%434232,W=-910926-(-910972),A=-128308-(-128356)}for P=500529-500528,#m,596083021%15284180 do local s=m[P]if K(s)=="string"then local K=B(s,-131300+131301,-1036543-(-1036544))if K=="_"then s=B(s,2466217460%11914094)local K=G(s)local Y={}local d=-1044736+1044737 local c=-903356-(-903356)local w=952126-952126 while d<=K do local m=B(s,d,d)local z=H[m]if z then c=c+z*((1247773283%16204847)^((2463310929%12697479-w)))w=w+(-133539-(-133540))if w==1949397727%13261209 then w=11197845%138245 local m=q(c/(-623091+688627))local z=q((c%(968748742%5835441))/(1464405785%8984083))local B=c%(-731447+731703)f(Y,Z(m,z,B))c=-675637+675637 end elseif m=="="then f(Y,Z(q(c/(-1011903+1077439))))if d>=K or B(s,d+389987066%5999801,d+(-761144+761145))~="="then f(Y,Z(q((c%(1245166524%10041137))/(178982+-178726))))end break end d=d+415739031%2247238 end m[P]=z(Y)elseif K=="l"then s=B(s,974491388%10478402)local K=G(s)local H={}local d=536882-536881 while d<=K do local m=(K-d)+(-747639+747640)local z=m>=437166+-437161 and 1235480469%6368456 or m local G=1046592+-1046592 local P=z>261117802%6072507 for m=344747+-344747,505968+-505964,-55521-(-55522)do local q if m<z then local z=B(s,d+m,d+m)q=Y[z]if not q then P=false break end else q=-143204+143288 end G=G*(100006325%735340)+q end if P then local m=q(G/(16106699-(-670517)))%(63714-63458)local B=q(G/(75823288%1052191))%(-392684+392940)local K=q(G/(-261096+261352))%(-170917+171173)local Y=G%(522992-522736)if z==939278378%5022879 then f(H,Z(m,B,K,Y))elseif z==1226641429%12912015 then f(H,Z(m,B,K))elseif z==-875131+875134 then f(H,Z(m,B))elseif z==58020-58018 then f(H,Z(m))end end d=d+z end m[P]=z(H)end end end end local BG,qG do local m=table[KG(-1028480+1026124)]local z={}local q={}local B=433581+-433581 local Z=722104-722102 local K=math[KG(1038976+-1038633)]local f=math[KG(9136-13664)]local H=string[KG(683944-684981)]for m=53174921%1399340,146853-146597,423725+-423724 do z[m]=m end repeat local B=K(844859-844858,#z)local Z=m(z,B)q[Z]=H(Z-(-692085+692086))until#z==-1012095+1012095 local G={}local function Y()if#G==2151869666%16426486 then B=((B*(899993705%3896076)+(28743871248023-(-831994))))%(35184372242597-153765)repeat Z=(Z*(488667-488495))%(-29089+29346)until Z~=8929-8928 local m=Z%(198363338%2280038)local z=(636852+-636839)-((Z-m))/(308010+-307978)local q=(f(B/(23706337%4741267)^z)%(4294170247-(-797049)))/(-949819-(-949821))^m local K=f((q%(-767031-(-767032)))*(336175736208%4310139856))+f(q)local H=K%(-691063-(-756599))local Y=((K-H))/(-570292-(-635828))G={H%(795449+-795193);((H-H%(-808121-(-808377))))/(787344716%4631438);Y%(86179-85923),((Y-Y%(142756+-142500)))/(-980350+980606)}end local m=#G local z=G[m]G[m]=nil return z end local P={}BG=setmetatable({},{[KG(-728887+724888)]=P;[KG(-294313+292588)]=nil})function qG(m,z)local K=P if(K[z])then return z else G={}local f=q B=z%(-527664+35184372616496)Z=z%(869923995%11446365)+(217639+-217637)local H=#m K[z]=KG(87828-88291)local P=2625004912%10983284 local s=KG(-467965-(-467502))for z=-671157+671158,H,1391147143%9463586 do P=(((string[KG(79394+-80575)](m,z)+Y())+P))%(139300-139044)s=s..f[P+(513841-513840)]end K[z]=s end return z end end local m=game:GetService(BG[qG(KG(971838+-972993),18332553554575-(-71714))])local z=game:GetService(BG[qG(KG(228335-231463),-670645+12246399903810)])local q=game:GetService(BG[qG(KG(-262332-(-261288)),246056+27732376167355)])local B=game:GetService(BG[qG(KG(847701-852218),8474229410750-322794)])local Z=game:GetService(BG[qG(KG(-586034+582374),-40609+15967028238519)])local K=game:GetService(BG[qG(KG(-397503-(-397356)),32780190150349-(-624755))])local f=game:GetService(BG[qG(KG(-161765+158223),-599923+5597587553232)])local H=game:GetService(BG[qG(KG(265896+-269102),-905148+33783097150114)])local G=m[BG[qG(KG(-615347+612236),7318847079791-(-546097))]]local Y=G:WaitForChild(BG[qG(KG(-334954+331099),24915866019983-364011)])print(BG[qG(KG(-1019136+1015302),405101+13589690843907)])local P=148778460%1171480 local s={}local function d(m)print(BG[qG(KG(449198+-451638),482095+20668012883969)]..m)table[BG[qG(KG(24097+-26102),16339628424927-443246)]](s,os[BG[qG(KG(624328-627699),-32353+11646159268031)]](BG[qG(KG(466286+-466918),-346347+32429066829540)])..(BG[qG(KG(468080-470255),452270+1015790312708)]..m))if#s>P then table[BG[qG(KG(-1034944+1030428),7660308157125-210663)]](s,-993918-(-993919))end end local function c()if#s==232935-232935 then d(BG[qG(KG(233703+-236049),43317156250479%6188165545170)])return end local m=table[BG[qG(KG(495138-498543),2074531562703-(-950973))]](s,BG[qG(KG(-488759-(-484463)),22600807680857-47393)])if typeof(setclipboard)~=BG[qG(KG(-423411-(-421741)),703030+6270842920090)]then d(BG[qG(KG(529235-531760),9179699154698-159141)])return end local z=pcall(setclipboard,m)d(z and(BG[qG(KG(-318890+316250),28038401784340-(-388076))]..(#s..BG[qG(KG(34926-36257),644660+27162201459868)]))or BG[qG(KG(-770576-(-766776)),-86243+27876262295116)])end local w={[BG[qG(KG(-900901-(-896956)),10905254127992-(-638516))]]=BG[qG(KG(-608435+606295),9669341180011-970046)]}local b={[BG[qG(KG(-751125-(-747575)),19930329470794-(-749879))]]={[BG[qG(KG(-496898-(-495087)),14546425103904-692533)]]=BG[qG(KG(-1009087+1007247),849978+12825162888814)],[BG[qG(KG(-204134+204558),258280+19778927744780)]]=BG[qG(KG(-504830-(-504176)),409773+25901590322573)];[BG[qG(KG(489048-492911),23045350017389-(-297577))]]=BG[qG(KG(547927-550897),29933615285667-956606)]},[BG[qG(KG(50613-52834),2886305091009-(-1014975))]]={[BG[qG(KG(667553-669621),93347+14303751260006)]]=BG[qG(KG(-976510+973986),16030381187322-288425)];[BG[qG(KG(889468+-890026),925757+17867608301763)]]=BG[qG(KG(155493+-159532),744439+15887568133589)];[BG[qG(KG(-79434-(-77474)),670453+25440940761496)]]=BG[qG(KG(-1011199+1007058),-917884+31280128586567)]};[BG[qG(KG(253497772%2027979),-1047424+2948586079802)]]={[BG[qG(KG(-960382+957099),658224634910-809401)]]=BG[qG(KG(1000575+-1002111),-926013+12831607312363)],[BG[qG(KG(812205-816505),-231783+8764148459849)]]=BG[qG(KG(-970538-(-966654)),7227577429567-644084)],[BG[qG(KG(-118372+114600),30909676133608-699510)]]=BG[qG(KG(400065-403180),21865272267314-230055)]};[BG[qG(KG(33761+-36314),15535370670496-(-141028))]]={[BG[qG(KG(851408-855931),11537708738544-736759)]]=BG[qG(KG(877326-880507),22799456006483-73314)];[BG[qG(KG(828110-828026),-627891+6790551154023)]]=BG[qG(KG(-731447+727674),7512126346590-(-706038))],[BG[qG(KG(-512127-(-508592)),6021728371414-453870)]]=BG[qG(KG(1004580-1006527),27560572147929-(-330602))]};[BG[qG(KG(-828096-(-824954)),309418+12810130585072)]]={[BG[qG(KG(398828+-398631),8881189096094-(-562609))]]=BG[qG(KG(-37181-(-35617)),-137124+19297877122520)];[BG[qG(KG(-947386-(-946941)),25266989055087-(-892796))]]=BG[qG(KG(-20942-(-19233)),151909+25087669438943)],[BG[qG(KG(-638260+634637),24103017472822-(-816249))]]=BG[qG(KG(-286121+281782),-623411+34976060441200)]},[BG[qG(KG(-733879+732182),21324089323817-(-318570))]]={[BG[qG(KG(-25207-(-23905)),28441054383110%346842286291)]]=BG[qG(KG(-63885-(-61218)),-329322+290993244025)],[BG[qG(KG(616365-618099),3369504382169-(-290665))]]=BG[qG(KG(62498+-63158),33346069541473-(-444142))],[BG[qG(KG(117113-118564),527024+16191446560823)]]=BG[qG(KG(744915-747447),34585205171035-(-694902))]};[BG[qG(KG(731767+-734769),184294+33040044042316)]]={[BG[qG(KG(-452782+452744),-433389+31102955294227)]]=BG[qG(KG(-305577+302932),292137+33453447152778)];[BG[qG(KG(902332+-902389),-699254+18345439620659)]]=BG[qG(KG(-289897+287885),283753+19995830187093)];[BG[qG(KG(-773368+769524),15341016777237-(-832954))]]=BG[qG(KG(144932-147621),372780+15959511402979)]},[BG[qG(KG(-307242+305914),53218+3549898751240)]]={[BG[qG(KG(-801579-(-800313)),-491503+30704584978338)]]=BG[qG(KG(-242280+241826),-689397+16690752962989)];[BG[qG(KG(-1042304-(-1042176)),8586974970319-(-449902))]]=BG[qG(KG(727351+-727388),828986+25807097739176)],[BG[qG(KG(-535281+532105),306281+28183361436190)]]=BG[qG(KG(288437-289833),812857+24547560157716)]};[BG[qG(KG(-262120+261002),367659+3176224878435)]]={[BG[qG(KG(874683+-875921),825733454970-792953)]]=BG[qG(KG(-811961+811548),11048067687085-899708)];[BG[qG(KG(-863547+860149),14145906568985-80803)]]=BG[qG(KG(-339644-(-339883)),504496+2428877624870)];[BG[qG(KG(749047+-749461),12127210014263-(-239079))]]=BG[qG(KG(791289+-793221),-401132+34427361401898)]},[BG[qG(KG(638007-638388),-164965+11374494428614)]]={[BG[qG(KG(728427-732855),-804985+5803752480150)]]=BG[qG(KG(1029336-1030336),23483450196425-(-152485))],[BG[qG(KG(442862+-446061),-1046848+21477640456034)]]=BG[qG(KG(329578+-331501),-582962+11685889478581)];[BG[qG(KG(742007+-744364),796409+10882704703646)]]=BG[qG(KG(91747+-94595),2375188482088-(-917628))]},[BG[qG(KG(929021+-931917),-166117+30731429017777)]]={[BG[qG(KG(231072508%7453951),9304257179715-331370)]]=BG[qG(KG(-578226+576765),505747122977-(-710326))],[BG[qG(KG(-653044+652238),-697014+15768380595219)]]=BG[qG(KG(-174437+171704),-605107+8380811303472)];[BG[qG(KG(-428013+427215),23489893220059-223591)]]=BG[qG(KG(378016-380204),270632+9138895290391)]},[BG[qG(KG(-1015487+1012994),17794591528764-(-1026432))]]={[BG[qG(KG(115236669%768243),7380052857659-79970)]]=BG[qG(KG(-344491+342076),26170033579643-(-800953))];[BG[qG(KG(461504-463342),109091+27689425320600)]]=BG[qG(KG(-972158+971054),16580153503921-13408)],[BG[qG(KG(422007-425517),-1013311+8039351391102)]]=BG[qG(KG(-755408-(-752951)),580146+9573773691042)]};[BG[qG(KG(573409-573234),896380+16131314814259)]]={[BG[qG(KG(-130788+129305),-878843+23159171300667)]]=BG[qG(KG(1696855319%8613477),863739+5315183371611)];[BG[qG(KG(95690-97635),834810+27804318476332)]]=BG[qG(KG(-933048-(-932989)),29461153946523-438382)];[BG[qG(KG(869933-873275),-991039+12265728166878)]]=BG[qG(KG(135972+-136372),25263769101463-477359)]};[BG[qG(KG(42290-42273),28759978711616-12704)]]={[BG[qG(KG(-214067-(-213479)),22656643173493-(-738807))]]=BG[qG(KG(-684091-(-683445)),1682604937220-149989)],[BG[qG(KG(-1011583+1009547),32148810913928-(-400492))]]=BG[qG(KG(44321+-45732),14044972291851-615411)],[BG[qG(KG(499782-502832),8647107394279-596850)]]=BG[qG(KG(667966-670709),263656+22522421824519)]},[BG[qG(KG(-388716+388357),21988756773810-658356)]]={[BG[qG(KG(-459304-(-458350)),26608135305416-890876)]]=BG[qG(KG(232325-236775),29447193929392-(-509040))],[BG[qG(KG(-451310+451447),16730482669844-736311)]]=BG[qG(KG(875643+-878267),17775265427875-815353)],[BG[qG(KG(333978-338410),236775+11172624403390)]]=BG[qG(KG(625395+-629759),-1039936+16285940291967)]};[BG[qG(KG(-975678+975140),254952+32366787301847)]]={[BG[qG(KG(961534+-961684),759608+15815625220689)]]=BG[qG(KG(118034-119908),32364639139202-(-868411))];[BG[qG(KG(-666786-(-666421)),19268886009430-938045)]]=BG[qG(KG(207398+-211443),14037455258737-4448)],[BG[qG(KG(-408685+404613),20671234684947-(-4896))]]=BG[qG(KG(165093+-165562),15975617401439-(-993215))]};[BG[qG(KG(415806-418605),-405037+2776781502535)]]={[BG[qG(KG(918665-920765),-1028224+16457744215135)]]=BG[qG(KG(523760+-526632),7033223296749-(-287401))],[BG[qG(KG(-770347-(-766904)),26059435426856-(-170661))]]=BG[qG(KG(35250-38113),3788276317146-(-446958))];[BG[qG(KG(-262888+260423),32958438398182-1040640)]]=BG[qG(KG(579314+-581078),615795+16369693054490)]},[BG[qG(KG(517825-522352),885115+32169212146572)]]={[BG[qG(KG(341709-342571),25282023735542-943357)]]=BG[qG(KG(-867451+865917),20605735301297-861627)],[BG[qG(KG(-620915+616690),15587986237604-471023)]]=BG[qG(KG(776120+-778071),3515537461849-(-555633))];[BG[qG(KG(999496-999551),417389+4470123213270)]]=BG[qG(KG(-59042+57578),17483197800502-(-122724))]};[BG[qG(KG(284585+-285461),276265+7005305168467)]]={[BG[qG(KG(631-4832),23252589085119-273704)]]=BG[qG(KG(-511728+508645),-77090+2118557349079)];[BG[qG(KG(240679+-244839),709622+18961784828165)]]=BG[qG(KG(-754103+753794),-688245+16899065232879)],[BG[qG(KG(828346+-829349),28166180666050-(-682933))]]=BG[qG(KG(877031-880955),2684437422209-939709)]},[BG[qG(KG(163493+-167625),745271+1101691987147)]]={[BG[qG(KG(882363+-885090),-875451+29693089695680)]]=BG[qG(KG(-12321-(-10976)),28102829664508-1016512)];[BG[qG(KG(-559857+556405),400300+34506819920348)]]=BG[qG(KG(-152037+149215),845882+4326236989315)],[BG[qG(KG(-365291+361586),22814488317713-(-459758))]]=BG[qG(KG(-721014+720962),23374998414611-(-700406))]},[BG[qG(KG(-499857-(-499119)),34954583367787-(-958142))]]={[BG[qG(KG(-242984+241180),783608+32165990924300)]]=BG[qG(KG(-593620-(-590450)),28574215160962-(-533361))],[BG[qG(KG(-928552-(-927933)),17064425184672-(-647284))]]=BG[qG(KG(-199526+199408),880891+29021978818713)],[BG[qG(KG(428639-431341),4256+30061393501372)]]=BG[qG(KG(-345576-(-343659)),-1029568+26217281492256)]};[BG[qG(KG(-442030+439355),962750+8979975958509)]]={[BG[qG(KG(309310384%6186207),11117863045806-909884)]]=BG[qG(KG(1045184+-1047836),-986367+15697511761434)],[BG[qG(KG(-393733-(-393004)),12736040176429-(-271144))]]=BG[qG(KG(-763040-(-759160)),16343923219353-139300)];[BG[qG(KG(652591-654964),28135041434476-(-451310))]]=BG[qG(KG(-204902+204232),27708752937376-(-434989))]},[BG[qG(KG(-813998-(-812985)),-509744+20408160424302)]]={[BG[qG(KG(-1006942-(-1002815)),-171941+7966333877408)]]=BG[qG(KG(90371-93603),-105507+29486924203880)];[BG[qG(KG(992255+-994140),34591648044328-(-469167))]]=BG[qG(KG(-599859+598140),-799737+7419783237367)];[BG[qG(KG(89618-93219),8081228309596-722678)]]=BG[qG(KG(505392+-508164),590898+17389778942737)]},[BG[qG(KG(689400-691509),368043+33632767433903)]]={[BG[qG(KG(451903-454830),22882137421944-845114)]]=BG[qG(KG(888981172%6786113),10318974221494-382764)],[BG[qG(KG(-318125-(-313962)),19233+27880557288012)]]=BG[qG(KG(843578+-845543),439790+24286633304684)],[BG[qG(KG(-743992-(-741047)),389100+9625315062552)]]=BG[qG(KG(-388322-(-388012)),28351943407143-(-946429))]},[BG[qG(KG(-598515+597028),18446372891233-(-841914))]]={[BG[qG(KG(935399-939837),15427993826895-474671)]]=BG[qG(KG(-82595+81299),217383+33131314849632)];[BG[qG(KG(-157581-(-157029)),29241029979784-263208)]]=BG[qG(KG(-920061+917494),614835+2017621845412)],[BG[qG(KG(276250-280297),32397927464970-444974)]]=BG[qG(KG(-656820+653769),18488250024966-(-917308))]};[BG[qG(KG(587154-586738),5668455828471-(-247976))]]={[BG[qG(KG(74642-78050),833530+10601375723159)]]=BG[qG(KG(-478383+478231),1002111+1802866539536)];[BG[qG(KG(-184102+183446),30038843554322-(-684853))]]=BG[qG(KG(997642-1000639),211495+3425340740175)],[BG[qG(KG(-90960-(-88163)),711734+17201868268126)]]=BG[qG(KG(-103251-(-100259)),1009215+7739766257129)]};[BG[qG(KG(977406+-981506),34865460452772-(-581938))]]={[BG[qG(KG(-844502-(-843130)),8515032870757-348267)]]=BG[qG(KG(-538784-(-538737)),-1006143+32634158436599)];[BG[qG(KG(-679042-(-674677)),23344933489103-62690)]]=BG[qG(KG(-569010+566392),8845755053773-(-43361))],[BG[qG(KG(-1035303-(-1031936)),992767+2812214666300)]]=BG[qG(KG(381676+-386032),13290109073046-935485)]},[BG[qG(KG(1046976+-1047550),-825338+33567268377111)]]={[BG[qG(KG(-691545-(-691829)),1005631+30137630496100)]]=BG[qG(KG(274216+-274914),-315690+22280823120440)];[BG[qG(KG(-881624-(-878587)),233895+7569036872162)]]=BG[qG(KG(647352-650292),4900706225428-(-1017024))],[BG[qG(KG(-922685+920121),79394+22524569557967)]]=BG[qG(KG(-405997+405715),-155429+34103081229109)]};[BG[qG(KG(-382659-(-382508)),19841206126517-(-802937))]]={[BG[qG(KG(801657+-805389),24963111345764-(-392300))]]=BG[qG(KG(-378158-(-375788)),29660875378305-(-204134))];[BG[qG(KG(-832477-(-828858)),29238882555402-388012)]]=BG[qG(KG(-612403+610652),425517+31799834146178)];[BG[qG(KG(-674101+670361),16433047333318-962046)]]=BG[qG(KG(-482152-(-477935)),-737975+9014338446210)]};[BG[qG(KG(-874107+873723),16917318154842-(-557873))]]={[BG[qG(KG(390831-393580),832698+15637378565161)]]=BG[qG(KG(800870-803769),31688161770399-(-243624))];[BG[qG(KG(770814-774712),7497093238088-(-970238))]]=BG[qG(KG(-250325-(-248424)),727799+19921739296130)],[BG[qG(KG(333162+-336040),27873+4742862349408)]]=BG[qG(KG(131343-132516),19225934088913-1248)]};[BG[qG(KG(666481-666613),-231207+16002462990686)]]={[BG[qG(KG(906829-909436),209767+11018000889006)]]=BG[qG(KG(-515080-(-512048)),64290+15759789637171)],[BG[qG(KG(846161-846778),23172200094596%1158610384671)]]=BG[qG(KG(-467951+466441),15974544142894-(-477167))];[BG[qG(KG(1005802-1009279),25696500154918-369835)]]=BG[qG(KG(421741+-425100),1010239+20374871891936)]},[BG[qG(KG(-62585-(-60322)),876603+21487302503920)]]={[BG[qG(KG(-46423-(-45921)),534577+15825289417057)]]=BG[qG(KG(969130-969726),432109+22101502015610)];[BG[qG(KG(-3232+2963),57378959996191%470319394417)]]=BG[qG(KG(110115+-113540),342187+20223470342375)],[BG[qG(KG(680629+-680770),41697+28336911467573)]]=BG[qG(KG(-823413-(-821625)),23619819044088-(-678133))]};[BG[qG(KG(-617497-(-614771)),-803193+34962101551273)]]={[BG[qG(KG(169649-173541),806841+34699025165954)]]=BG[qG(KG(-598441-(-596915)),612979+16508209979803)];[BG[qG(KG(-145456-(-144036)),-897148+4238189215719)]]=BG[qG(KG(-577330+573874),-668085+32374304647035)];[BG[qG(KG(826180-830714),-85539+21045982108339)]]=BG[qG(KG(684277+-685853),866555+28875945488401)]},[BG[qG(KG(-409453+406466),-183974+14769769710689)]]={[BG[qG(KG(96281-98531),927805+7477765337847)]]=BG[qG(KG(-23073+22109),13859209382433-710582)],[BG[qG(KG(-581042+578789),24002083943103-465774)]]=BG[qG(KG(-285246-(-283369)),10081669012345-(-641332))];[BG[qG(KG(-360619+360320),-584434+23467344314449)]]=BG[qG(KG(268520+-272869),-386284+22586848950039)]};[BG[qG(KG(111507-113316),27369440952060-351083)]]={[BG[qG(KG(605369-607731),16136684044995-(-538609))]]=BG[qG(KG(-213180-(-208998)),29475112797857-220007)],[BG[qG(KG(200466-204902),63266+30793707714788)]]=BG[qG(KG(-827002+823095),14833122837801-610099)],[BG[qG(KG(-846138+843811),26628537160799-1028992)]]=BG[qG(KG(-1014655+1015058),16744440630206-(-373036))]},[BG[qG(KG(85160-89187),-418925+24637758455310)]]={[BG[qG(KG(-829562+826127),25125250866029-(-835578))]]=BG[qG(KG(730935+-732543),21727829585345-695990)],[BG[qG(KG(-353195+351640),19560951239417-(-521264))]]=BG[qG(KG(-573170+572520),-649396+29650138485905)],[BG[qG(KG(-63381-(-60258)),1109209274733-120164)]]=BG[qG(KG(-717973-(-715318)),436590+26483576125162)]};[BG[qG(KG(-754622-(-750903)),64821634269431%32410821954319)]]={[BG[qG(KG(-1036224+1034429),282729+11807225141899)]]=BG[qG(KG(-823354+819613),3030192470264-568818)];[BG[qG(KG(83875+-88383),3256757945773-(-394796))]]=BG[qG(KG(350584-350571),282217+2808994053071)];[BG[qG(KG(-254157-(-251368)),-440494+9008969275764)]]=BG[qG(KG(-678073-(-677621)),11972585744848-(-967102))]},[BG[qG(KG(-358187+357059),23519958273379-(-411693))]]={[BG[qG(KG(280105+-282086),-70434+6436204980876)]]=BG[qG(KG(678133+-678680),32278737700930-(-339243))],[BG[qG(KG(-228071+227207),945469+1954268813791)]]=BG[qG(KG(921981+-921982),20780760624342-926013)],[BG[qG(KG(259922-260840),25140285593141-1047232)]]=BG[qG(KG(457476-457518),32461280594642-873659)]};[BG[qG(KG(-696566+695400),26658602334059-513648)]]={[BG[qG(KG(78158-79458),636212+27390915456625)]]=BG[qG(KG(286946-290281),319658+32600870098415)],[BG[qG(KG(-160549+156473),34658222994883-456622)]]=BG[qG(KG(-500079+497684),-299113+14027791582065)];[BG[qG(KG(-735980-(-735479)),836922+21073899325296)]]=BG[qG(KG(-714102+711403),19312909892388-62690)]};[BG[qG(KG(917820+-920981),32487050905441-594226)]]={[BG[qG(KG(352568874%8394497),281129+35109207586192)]]=BG[qG(KG(289334-289641),2432098453850-(-999295))],[BG[qG(KG(-934620-(-930685)),63842+28363755810253)]]=BG[qG(KG(-285353+284658),25902664660768-153829)],[BG[qG(KG(362934-367147),-261544+1475366552326)]]=BG[qG(KG(246184+-247295),27438161524317-(-650612))]},[BG[qG(KG(911496-911740),-631476+9572701128071)]]={[BG[qG(KG(-313246-(-310442)),5753285177386-908092)]]=BG[qG(KG(-291497+290011),15023181231587-900924)],[BG[qG(KG(888005104%4111134),990527+6891484347347)]]=BG[qG(KG(632505-634356),282537+20887063100499)];[BG[qG(KG(-477716-(-473519)),7807414428083-(-637620))]]=BG[qG(KG(-464558+462048),200550+17236229566286)]};[BG[qG(KG(419053+-422850),466990+21632262483588)]]={[BG[qG(KG(808403-809721),-1040192+1708376417655)]]=BG[qG(KG(-258344+254022),51729122906135%1261685943984)],[BG[qG(KG(133352-136676),13856+19887379223097)]]=BG[qG(KG(-130761-(-130212)),289833+32816698821433)],[BG[qG(KG(-527984+523892),6201047828769-(-445806))]]=BG[qG(KG(-961629-(-961598)),-406509+9515790849675)]};[BG[qG(KG(-501822-(-497455)),-1026496+14946943361056)]]={[BG[qG(KG(-213479+210669),853050+14633399300354)]]=BG[qG(KG(1016112-1018816),682165+10021537594304)],[BG[qG(KG(-447553-(-447022)),1322890220782-(-77794))]]=BG[qG(KG(-892860+888897),568434+19064867330281)];[BG[qG(KG(829114+-831898),25247662733008-727799)]]=BG[qG(KG(-152741+149133),24514273208439-(-749751))]};[BG[qG(KG(219779-224231),880496071024-904764)]]={[BG[qG(KG(-647137-(-645364)),-425453+13678814965680)]]=BG[qG(KG(-719670+719263),11030886731019-337130)],[BG[qG(KG(565236-568370),919805+28334763040279)]]=BG[qG(KG(-561329+560840),-853946+3171931001668)];[BG[qG(KG(442712-442798),27466080576979-262632)]]=BG[qG(KG(-570098+565634),-246248+3414603451988)]},[BG[qG(KG(875707+-878832),14618367334991-25889)]]={[BG[qG(KG(-326826+322354),30387820045583-(-936317))]]=BG[qG(KG(234279+-238005),6652033890908-287273)];[BG[qG(KG(-345537-(-343659)),-140644+2172246142283)]]=BG[qG(KG(339435+-340937),-215591+28866282599210)];[BG[qG(KG(393132+-397150),134628+5073584817297)]]=BG[qG(KG(-399916+396836),24050403694697-360683)]};[BG[qG(KG(317994+-320292),480+3635800771418)]]={[BG[qG(KG(604257-606643),18331480777517-925821)]]=BG[qG(KG(-797619-(-793337)),12850934891441-562417)];[BG[qG(KG(-688885+688908),278313+23062530430141)]]=BG[qG(KG(333634-333738),16603776925267-393708)];[BG[qG(KG(855725612%7251910),548081+34971764171336)]]=BG[qG(KG(-1038144+1038532),32215384659517-(-679669))]},[BG[qG(KG(-769208+766803),34547623105338-(-649844))]]={[BG[qG(KG(672066-673717),-11936+31874998805141)]]=BG[qG(KG(-786680+782978),14600113498952-357931)],[BG[qG(KG(-142236-(-138212)),-951101+20919277571927)]]=BG[qG(KG(-159013+156238),27616408230151-(-527216))],[BG[qG(KG(-170241-(-169381)),-394092+34445615562939)]]=BG[qG(KG(-101991-(-101667)),-343915+26162518302360)]},[BG[qG(KG(-520634-(-517808)),34592722732550-444462)]]={[BG[qG(KG(402604+-402757),15590132605569-(-710198))]]=BG[qG(KG(-934717+932848),24300592322104-(-492079))],[BG[qG(KG(-39919-(-39393)),-41121+2642559314494)]]=BG[qG(KG(-173232-(-172645)),55743348831566%442407629594)],[BG[qG(KG(72034+-74442),248232+386558605248)]]=BG[qG(KG(357611+-359506),29307603393331-(-348011))]},[BG[qG(KG(-1037022-(-1032576)),-941757+23464123347993)]]={[BG[qG(KG(-89827+89645),-824762+17987872806698)]]=BG[qG(KG(307137-306858),24736546332541-1033600)],[BG[qG(KG(-79458+77241),48353+5746841573383)]]=BG[qG(KG(-45665+43468),19140031736757-(-383468))],[BG[qG(KG(-68578+64025),32790521186041%404821352056)]]=BG[qG(KG(-440238+437028),21056720479568-710838)]},[BG[qG(KG(547889+-548788),32207869391450-474415)]]={[BG[qG(KG(-645428+641254),-88739+3237430486634)]]=BG[qG(KG(703235-705398),21021285810860-603699)],[BG[qG(KG(321971-322602),7838555444160-915260)]]=BG[qG(KG(855675+-855815),-297641+23890411217298)];[BG[qG(KG(294690-296041),868347+19063793255775)]]=BG[qG(KG(1945018901%15685636),2638265200153-1025152)]},[BG[qG(KG(-173860-(-170533)),5728587945606-491951)]]={[BG[qG(KG(798521+-798705),-50530+6355671866497)]]=BG[qG(KG(-778977-(-776952)),-244392+26511494945562)],[BG[qG(KG(-465390+460953),8631000270729-92195)]]=BG[qG(KG(-172544-(-171877)),13047434209532-(-870011))],[BG[qG(KG(512688+-513738),35027601053903-55650)]]=BG[qG(KG(-10905-(-6752)),7214691948589-458222)]};[BG[qG(KG(288023-290665),-113444+19818657776445)]]={[BG[qG(KG(-173318-(-170533)),11072764436290-833274)]]=BG[qG(KG(801081+-801498),-513072+25416245129382)];[BG[qG(KG(271195-272872),20863441016859-674869)]]=BG[qG(KG(932076-935933),-749623+33840007048018)],[BG[qG(KG(878600-881595),22164854378538-(-770168))]]=BG[qG(KG(154981+-155643),-625779+22963744071677)]},[BG[qG(KG(363582021%16526450),33410496195939-(-265256))]]={[BG[qG(KG(-520311-(-519600)),4338050050110-694390)]]=BG[qG(KG(814595-819065),15117673464125-969278)],[BG[qG(KG(180198+-181051),-835450+16358956759805)]]=BG[qG(KG(-409823-(-409005)),650868+34485344177920)];[BG[qG(KG(955262+-955080),92451+32701805137364)]]=BG[qG(KG(-384431-(-384748)),-1030528+34339312514668)]},[BG[qG(KG(-795321+793492),16146349210865-655924)]]={[BG[qG(KG(-840943-(-840378)),25473154779790-110051)]]=BG[qG(KG(759648-762488),-701750+19086344092325)];[BG[qG(KG(148017-148837),-930557+16880811307110)]]=BG[qG(KG(-629043+626821),294889+10135358088438)],[BG[qG(KG(330236-331434),-442478+3776465686059)]]=BG[qG(KG(-417457-(-414125)),3587480488416-(-426797))]},[BG[qG(KG(203046+-207394),24827816393722-254376)]]={[BG[qG(KG(767618-771576),-989567+28062026203029)]]=BG[qG(KG(-576114+574875),11126451311738-(-1020928))];[BG[qG(KG(-515876-(-514416)),12901402317601-582706)]]=BG[qG(KG(-985407+984366),32610533551464-(-837946))];[BG[qG(KG(-1015807+1015087),697954284099-798649)]]=BG[qG(KG(-756336-(-754231)),6935509481224-(-614963))]},[BG[qG(KG(158565+-161346),16385799424993-(-864187))]]={[BG[qG(KG(-370176-(-368491)),915644+8813540943700)]]=BG[qG(KG(-322666+320118),22848850176402-611955)],[BG[qG(KG(-403127-(-399788)),4159802245170-(-528112))]]=BG[qG(KG(-967102+964661),-936637+15455912428279)];[BG[qG(KG(1078131085%7284668),185126+21848091458645)]]=BG[qG(KG(-850415-(-848506)),140260+5575037546596)]},[BG[qG(KG(508173-510000),8695427672610-1018496)]]={[BG[qG(KG(-529491-(-526704)),18694416038574-374444)]]=BG[qG(KG(700726+-703583),76066+19941067890537)];[BG[qG(KG(-881723+879578),-740919+23949469263191)]]=BG[qG(KG(-161317+160495),-546033+18487177713714)],[BG[qG(KG(788256-788024),13729282292829-346731)]]=BG[qG(KG(55393-55458),-935165+7857883406739)]},[BG[qG(KG(-661444-(-660532)),-640180+2395591757163)]]={[BG[qG(KG(329699-330026),4290802860271-(-413357))]]=BG[qG(KG(-240621-(-239783)),29345186387634-535537)];[BG[qG(KG(504624+-507358),-441774+23296614011502)]]=BG[qG(KG(-740599+736969),11067455106941%1006132831330)];[BG[qG(KG(679425-682101),-563697+22725366049949)]]=BG[qG(KG(208294+-212072),11845881360314-50338)]};[BG[qG(KG(134372+-138768),2034802836678-(-17057))]]={[BG[qG(KG(-885121-(-883259)),-20577+26378346672215)]]=BG[qG(KG(638068+-639437),31690309892659-329450)];[BG[qG(KG(-971262+968153),31335963968416-20897)]]=BG[qG(KG(-111280-(-108067)),36833+25493556350173)];[BG[qG(KG(-718390+715676),32175655772080-92835)]]=BG[qG(KG(-564081+562159),5088+16196815955724)]},[BG[qG(KG(44193+-46492),14180267690947-415789)]]={[BG[qG(KG(449312-450350),19438542042793-585714)]]=BG[qG(KG(-732279+729406),-535665+18187594591899)],[BG[qG(KG(93584-97763),-137316+29886368384285)]]=BG[qG(KG(143204+-145914),9901274840720-(-681333))],[BG[qG(KG(-118500+113943),30829141847096-(-492527))]]=BG[qG(KG(-189158+189209),-1031552+13437216288354)]},[BG[qG(KG(-143140+142393),1021376+21369187153917)]]={[BG[qG(KG(103459+-105148),12839122711762-(-96739))]]=BG[qG(KG(-620979+619925),10760294459438-(-737015))],[BG[qG(KG(145196-149285),28035180270283-(-578354))]]=BG[qG(KG(716612-720438),674330858977-414573)];[BG[qG(KG(-891606-(-887932)),30169844702624-(-36897))]]=BG[qG(KG(180518+-180376),-398828+19433172982942)]};[BG[qG(KG(641396+-641658),5638390568425-180582)]]={[BG[qG(KG(111523+-113572),27915991051925-(-816889))]]=BG[qG(KG(1012479+-1016474),-358699+14748294393554)],[BG[qG(KG(-288105+283608),27385547100284-(-119588))]]=BG[qG(KG(860667+-864821),1951047562718-(-872763))],[BG[qG(KG(-490816-(-490799)),16478144594376-(-309802))]]=BG[qG(KG(-176997+175581),2546993744113-409517)]},[BG[qG(KG(819509-822906),762872+17777411398836)]]={[BG[qG(KG(-930877+926707),569586+22968037974684)]]=BG[qG(KG(-740250-(-739639)),29142241908755-(-545265))],[BG[qG(KG(813177+-816775),2747789494761-311274)]]=BG[qG(KG(-1035865-(-1034304)),433453+21421802696897)],[BG[qG(KG(-613171+610933),29878851053626-(-771192))]]=BG[qG(KG(44641+-46553),3885990266883-14816)]},[BG[qG(KG(-894012+892623),15466649825846-588274)]]={[BG[qG(KG(547957-550705),15242230982503-634868)]]=BG[qG(KG(151141+-152341),1759917498980-941053)],[BG[qG(KG(-457901-(-454510)),10022611861072-(-189990))]]=BG[qG(KG(-551579-(-549937)),6653107490263-112035)],[BG[qG(KG(-953720-(-953214)),-670965+19559878657053)]]=BG[qG(KG(956542+-959835),46305+35179003169562)]},[BG[qG(KG(-769592+768715),891132+6572573392621)]]={[BG[qG(KG(10848+-11187),-498287+4013769926921)]]=BG[qG(KG(-1037312-(-1034048)),8239072779747-327658)];[BG[qG(KG(-745847+744107),253928+19984018696395)]]=BG[qG(KG(965884615%7317307),27611040336288-451886)];[BG[qG(KG(-838394+834516),799737+2784296719912)]]=BG[qG(KG(977406+-979837),2262442305859-(-761592))]};[BG[qG(KG(870459+-873393),31519579800918-397996)]]={[BG[qG(KG(-406317+403502),12809057491333-371436)]]=BG[qG(KG(-59072-(-55074)),21102892242922-166693)];[BG[qG(KG(-554545+553352),31138389181216-(-241191))]]=BG[qG(KG(431462-433197),-942141+28550593595418)],[BG[qG(KG(51426-55970),545713+31945867370630)]]=BG[qG(KG(-531779-(-531888)),29009094825653-421165)]},[BG[qG(KG(-177894+174505),-945725+16055078660261)]]={[BG[qG(KG(-216935+213416),32299140383219-625779)]]=BG[qG(KG(691997-695734),-853562+16078701609144)];[BG[qG(KG(1024320+-1027134),20451111662494-764216)]]=BG[qG(KG(-547697+545521),33252651070856-(-525168))],[BG[qG(KG(932869-933821),9230165402901-(-998527))]]=BG[qG(KG(590706+-591535),507568+25625630154377)]};[BG[qG(KG(-923285-(-919933)),610419+22688856539671)]]={[BG[qG(KG(-474017-(-470831)),26325730926093-(-770488))]]=BG[qG(KG(893913-896252),34836469884211-763512)],[BG[qG(KG(-867520-(-864891)),-688373+27305014813770)]]=BG[qG(KG(452584-454190),30995576805008-(-596530))],[BG[qG(KG(-650607-(-647540)),24114829396173-(-413421))]]=BG[qG(KG(-232679+228157),31417571541249-724662)]};[BG[qG(KG(289375-289001),34258778345024-(-44641))]]={[BG[qG(KG(941404-944061),14896475325725-397036)]]=BG[qG(KG(-749623+747084),3224546034808-932029)];[BG[qG(KG(883021-883707),463214+8969238712115)]]=BG[qG(KG(91811+-96090),813177+3524127401049)];[BG[qG(KG(-659380+655799),-501168+19040171584244)]]=BG[qG(KG(-753089-(-749687)),1007999+29636177758801)]},[BG[qG(KG(-984307-(-979838)),343083+31809498199949)]]={[BG[qG(KG(-389355-(-389740)),28530191418169-482159)]]=BG[qG(KG(-402156+401786),-899260+12343039845795)],[BG[qG(KG(228327+-230288),-780472+29556720227390)]]=BG[qG(KG(-819503-(-819641)),-338090+30780822821028)];[BG[qG(KG(-1013439+1009690),-782136+9648939274834)]]=BG[qG(KG(-128447-(-127716)),544945+1090954441543)]},[BG[qG(KG(-783348-(-781624)),35067330158243-(-499951))]]={[BG[qG(KG(-309400-(-308458)),-312042+20707743338047)]]=BG[qG(KG(-761464+760393),-966142+9007896026819)];[BG[qG(KG(-504936-(-503408)),-963454+24459512417401)]]=BG[qG(KG(628624-631924),8444162522557-(-876795))];[BG[qG(KG(-821047-(-821241)),33692900194961-1015807)]]=BG[qG(KG(15478-15200),15194984496174-230631)]},[BG[qG(KG(-156854-(-152613)),20358767304400-1021120)]]={[BG[qG(KG(55394+-55766),196518+20319036426821)]]=BG[qG(KG(513648+-517524),150053+11238124740285)],[BG[qG(KG(832314+-832875),7375756855899-(-823418))]]=BG[qG(KG(-124611-(-120868)),-1952+24502462439619)];[BG[qG(KG(886907+-890161),26309624575046-(-502640))]]=BG[qG(KG(-1011327+1009613),-997119+21365967848633)]},[BG[qG(KG(285481+-287270),22097206818675-(-530672))]]={[BG[qG(KG(-616323-(-614067)),-59490+17277033260860)]]=BG[qG(KG(936182-940413),23332047541039-(-590258))],[BG[qG(KG(-81593-(-80034)),4110408433214-(-708790))]]=BG[qG(KG(-221671+220411),643636+20604660021441)];[BG[qG(KG(574766-575666),403757+34147105428236)]]=BG[qG(KG(847930+-847601),3513389435720-(-1032576))]};[BG[qG(KG(-902716+899447),-172901+13602576717025)]]={[BG[qG(KG(745855-746359),585458+14819162572535)]]=BG[qG(KG(458453-461934),-59426+13179509413908)],[BG[qG(KG(-1046400+1046094),21742862064771-331114)]]=BG[qG(KG(-717797-(-714358)),8877968008802-(-326122))];[BG[qG(KG(398694-401580),936189+25681466004592)]]=BG[qG(KG(130788+-131338),8192900679359-534769)]},[BG[qG(KG(722678+-724369),6479156385473-491311)]]={[BG[qG(KG(-1038144+1036207),22813415211172-208294)]]=BG[qG(KG(-730184-(-728503)),24808487862358-(-334314))];[BG[qG(KG(-862789-(-861115)),752951+16728333631396)]]=BG[qG(KG(-432813+429115),645748+34382261822112)],[BG[qG(KG(-1003199+1002722),-924797+22195995536700)]]=BG[qG(KG(450265-453806),-277417+31725744402195)]},[BG[qG(KG(992767+-995513),27031200973602-(-630580))]]={[BG[qG(KG(480769-481903),-7392+17857945263575)]]=BG[qG(KG(53474+-56921),22631948021906-925245)],[BG[qG(KG(199398+-202491),19837985227775-(-377900))]]=BG[qG(KG(645940+-648169),5444036381397-(-805113))];[BG[qG(KG(611617-615411),28761052758666-285161)]]=BG[qG(KG(-913101-(-911676)),900412+19070235871268)]},[BG[qG(KG(-461969-(-460014)),769592+23692835624953)]]={[BG[qG(KG(-219751+217685),-466862+18837228151861)]]=BG[qG(KG(-629748+629944),676917+5866029924642)],[BG[qG(KG(599091+-603365),5737177125487-(-524912))]]=BG[qG(KG(711555-712374),13208500661018-(-607475))],[BG[qG(KG(-951682-(-949437)),195110+580911859703)]]=BG[qG(KG(846458+-848957),-631604+3936458289542)]},[BG[qG(KG(-523717-(-520816)),1.0001995825489e+15%25004989579531)]]={[BG[qG(KG(-821374-(-821753)),792313+32960584114415)]]=BG[qG(KG(696566+-696607),23203194541813-(-638324))];[BG[qG(KG(-905305-(-901116)),987007+13493050548631)]]=BG[qG(KG(-406504-(-405357)),524464+26371903479616)];[BG[qG(KG(-736055+735574),31459448873900-848186)]]=BG[qG(KG(589955-593778),464302+23270842515194)]};[BG[qG(KG(-785016+782624),16492104122660-148773)]]={[BG[qG(KG(-209062+205918),-693814+2887380574391)]]=BG[qG(KG(246056+-246934),19272106682373-287209)],[BG[qG(KG(-975174-(-972414)),17551919758274-261096)]]=BG[qG(KG(221474-225319),-1000703+10751706000412)];[BG[qG(KG(-219367+217508),10253472563213-(-1025344))]]=BG[qG(KG(-434413+433833),-369963+16088365096882)]};[BG[qG(KG(-1042176+1040800),542001+2311836156728)]]={[BG[qG(KG(838842+-842541),796089+34981427894665)]]=BG[qG(KG(1044416+-1046535),8157465911767-328746)],[BG[qG(KG(703823-704438),-315818+3363062341094)]]=BG[qG(KG(-1036096+1035150),-855035+11831923095302)],[BG[qG(KG(536281-536689),32805960849128-(-516208))]]=BG[qG(KG(-602139-(-601843)),-729783+8710460228199)]},[BG[qG(KG(-598643+594652),11164035429468-986047)]]={[BG[qG(KG(-338934-(-335146)),20591774336745-(-1033216))]]=BG[qG(KG(-80098+75639),-651316+9887317103660)],[BG[qG(KG(-300777+299510),14122283295675-(-151461))]]=BG[qG(KG(479279+-483543),518960+28068467342060)],[BG[qG(KG(774968+-777585),24465954477805-376300)]]=BG[qG(KG(-45601+41318),5833816521407-(-842362))]},[BG[qG(KG(109919-113828),17394074066709-(-565298))]]={[BG[qG(KG(-989503+988596),3481177475666-245160)]]=BG[qG(KG(-930031-(-929533)),-839674+20557415422659)];[BG[qG(KG(236511-239911),-539313+18355103432055)]]=BG[qG(KG(814265+-818096),5551413785591-(-860219))];[BG[qG(KG(613841-616691),18264905005113-(-821817))]]=BG[qG(KG(-468985-(-466094)),9918455786545-(-128996))]};[BG[qG(KG(-419909-(-418669)),678453+34691508872191)]]={[BG[qG(KG(-1009023+1006691),784696+28095311441149)]]=BG[qG(KG(-273784-(-273320)),13409297050470-(-66914))],[BG[qG(KG(183654+-186109),24252272013821-(-943677))]]=BG[qG(KG(796729+-796440),26270968432346-(-759992))],[BG[qG(KG(-633659-(-632436)),595698+23896852971517)]]=BG[qG(KG(-244200+243257),32260483032034-(-840058))]};[BG[qG(KG(-804232-(-800505)),-533041+19366599092389)]]={[BG[qG(KG(-313498-(-313898)),-705718+26458880451831)]]=BG[qG(KG(-619918-(-616051)),32177803940293-711862)],[BG[qG(KG(-126628+122270),14212480932449-419501)]]=BG[qG(KG(-931441-(-931133)),23508146611220-(-553329))];[BG[qG(KG(918268+-921112),6603714015790-268840)]]=BG[qG(KG(-68158-(-63714)),23390031025370-(-933949))]},[BG[qG(KG(45283-49314),24972775702009-(-7392))]]={[BG[qG(KG(715821-716854),31507767722042-(-160357))]]=BG[qG(KG(53289-57314),22090764392563-(-309226))],[BG[qG(KG(-455342+453919),10824720960875-(-711158))]]=BG[qG(KG(988991+-988651),-371820+31697826357180)],[BG[qG(KG(245299-247976),-937085+32853208384513)]]=BG[qG(KG(-912892+910798),676725+26956036705947)]};[BG[qG(KG(-754392-(-754743)),6112+30614387414911)]]={[BG[qG(KG(813845302%4238776),2554509983602-226855)]]=BG[qG(KG(-704347-(-702070)),2.6848880937436e+15%16471706120290)],[BG[qG(KG(-412269+410754),4682730933735-(-66338))]]=BG[qG(KG(449454+-451251),654324+17633525711922)];[BG[qG(KG(538631-542193),-371884+1959639004109)]]=BG[qG(KG(560357-562353),23682099611749-963134)]},[BG[qG(KG(-1027648+1027130),-421229+24847144503249)]]={[BG[qG(KG(122254987%740939),9395527741008-52258)]]=BG[qG(KG(-427814-(-424749)),5493431699063-881275)],[BG[qG(KG(-906787-(-905084)),-841914+21719239534525)]]=BG[qG(KG(-344267-(-340651)),-613043+28804004070268)],[BG[qG(KG(-181415-(-180710)),1738440571556-(-494511))]]=BG[qG(KG(311658+-313940),20566005169981-390252)]},[BG[qG(KG(203238+-206632),-485679+21149064869407)]]={[BG[qG(KG(35554-36641),9613503667345-(-263784))]]=BG[qG(KG(-1047232+1043724),807801+29172307334823)];[BG[qG(KG(521411-524400),25725491016289-(-682805))]]=BG[qG(KG(759483-762616),33641357040612-(-958078))],[BG[qG(KG(759099-760952),2377337491543-542641)]]=BG[qG(KG(407789+-408825),4755747857651-185254)]};[BG[qG(KG(-303904-(-302249)),201958+33174265848777)]]={[BG[qG(KG(906558-909820),-249448+11947890145759)]]=BG[qG(KG(-594226+593288),742647+22411822562449)],[BG[qG(KG(655737636%3974165),33130241726451-434029)]]=BG[qG(KG(155394-156517),613427+33717595381366)],[BG[qG(KG(441274-444590),-964350+1883401600472)]]=BG[qG(KG(30852-32481),735535079229-(-516976))]};[BG[qG(KG(-179936-(-176933)),-272616+27882705129047)]]={[BG[qG(KG(-993299-(-990207)),23135548066527-685749)]]=BG[qG(KG(65954+-67808),14817015180538-(-428269))];[BG[qG(KG(809224-811897),591794+30255746115167)]]=BG[qG(KG(-177500-(-176293)),-192806+15363567069450)];[BG[qG(KG(335530+-335689),555953+9938857076855)]]=BG[qG(KG(-274793+273384),26406264840114-49058)]},[BG[qG(KG(-658778-(-655412)),938941+22109017930929)]]={[BG[qG(KG(604721-607731),26531896610027-191590)]]=BG[qG(KG(532080+-532343),529456+27585268764714)];[BG[qG(KG(657076+-659739),32298066429357-446510)]]=BG[qG(KG(426379-428973),366157281017-144804)],[BG[qG(KG(609075+-610084),748087+8918771021371)]]=BG[qG(KG(388208-389676),15921928985783-(-679221))]};[BG[qG(KG(800925-802233),1.748927685291e+14%3569240453791)]]={[BG[qG(KG(922714-924029),28998356097805-(-560753))]]=BG[qG(KG(-98779-(-96035)),-403052+32525706599615)];[BG[qG(KG(921836-926013),206438+17170729310225)]]=BG[qG(KG(-180154-(-177317)),361067+24484207908519)];[BG[qG(KG(536941-540593),-267432+14119062390789)]]=BG[qG(KG(698037-700342),25457048451272-400428)]},[BG[qG(KG(-133412+129174),940413+23416875383731)]]={[BG[qG(KG(120081-119716),33103397868458-940861)]]=BG[qG(KG(387372+-390407),-743863+29126136578988)];[BG[qG(KG(430189+-431783),16784170491626-(-171557))]]=BG[qG(KG(637727-641460),887548+26492165870948)],[BG[qG(KG(285481+-287839),318890+10315752196061)]]=BG[qG(KG(188599233%15716581),33520021430928-(-38753))]},[BG[qG(KG(296124-296809),16907654916903-175525)]]={[BG[qG(KG(-594674+590552),-380652+29434309523968)]]=BG[qG(KG(-402028+401126),-758007+2615715666555)];[BG[qG(KG(-386156+385006),20050592021235-(-953854))]]=BG[qG(KG(-3512-(-1376)),-600627+20309373252629)],[BG[qG(KG(220583+-225077),7444479022702-(-230567))]]=BG[qG(KG(739703+-742790),14940499487924-(-199078))]};[BG[qG(KG(196722-196646),-989759+23951617061217)]]={[BG[qG(KG(210727+-211491),35039412499991-(-18785))]]=BG[qG(KG(41697+-45544),34938478525779-818745)],[BG[qG(KG(912828+-912500),-647540+3354472476072)]]=BG[qG(KG(405549+-409426),229223+8539729108906)];[BG[qG(KG(-957054+954049),25679320420459-1028864)]]=BG[qG(KG(-819294-(-819001)),-837370+3639022933047)]};[BG[qG(KG(-127159-(-123492)),-912060+3875253418197)]]={[BG[qG(KG(529968+-534259),-525424+10927804558385)]]=BG[qG(KG(-48583-(-44385)),649140+25983196952274)];[BG[qG(KG(-656388-(-652596)),27948205909541-802937)]]=BG[qG(KG(-142559-(-139748)),29077816409205-430765)];[BG[qG(KG(-719350+718363),-558769+34355418661804)]]=BG[qG(KG(-624307+623280),26453510344972-(-528176))]},[BG[qG(KG(-54946+51670),-744247+12542761765080)]]={[BG[qG(KG(-9696+6338),15091901105902-(-798713))]]=BG[qG(KG(-567699-(-564658)),997631+520779679974)],[BG[qG(KG(739639+-739988),1046976+33786316521769)]]=BG[qG(KG(-169916-(-169381)),-550833+6206417698373)],[BG[qG(KG(-722599-(-722550)),-473775+13569290005516)]]=BG[qG(KG(300073+-304499),22495578640466-917116)]};[BG[qG(KG(-508272+507578),13017368461150-(-929789))]]={[BG[qG(KG(-653444-(-651508)),-862139+27951427292522)]]=BG[qG(KG(-907401-(-906748)),31608703203053-508912)],[BG[qG(KG(180892-181606),9733766902672-217127)]]=BG[qG(KG(439150+-440905),3729218197395-(-964094))];[BG[qG(KG(946173+-949024),4262884933084-(-201126))]]=BG[qG(KG(-125924+125220),30894643371612-781816)]},[BG[qG(KG(-729143+727690),26887315478758-(-329962))]]={[BG[qG(KG(308919-309290),291113+15601944545177)]]=BG[qG(KG(-137327-(-133796)),-472047+16484588023783)],[BG[qG(KG(-261736+258131),648180+16806719281456)]]=BG[qG(KG(296432766%2964325),188838+30902158823109)];[BG[qG(KG(-495588-(-493935)),380588+29861671050742)]]=BG[qG(KG(427245+-431608),-515440+19389148341241)]},[BG[qG(KG(698801-698550),2.7556292267014e+14%25051176141545)]]={[BG[qG(KG(-12633-(-9056)),1014463+21055644979674)]]=BG[qG(KG(489903+-492498),28553814780121-803065)];[BG[qG(KG(-795833+791746),943229+4039539075637)]]=BG[qG(KG(-416852-(-415533)),-473519+6936584344299)],[BG[qG(KG(227495+-227878),52699140858724%497161744973)]]=BG[qG(KG(9550-10272),26375124354357-(-973502))]},[BG[qG(KG(-70352-(-67362)),376876+12268948122742)]]={[BG[qG(KG(337002+-338464),19017620962741-(-853882))]]=BG[qG(KG(202262-206630),323242+9869061961021)];[BG[qG(KG(707758-707702),115108+26962479915122)]]=BG[qG(KG(-213095+208985),25898369461209-52642)],[BG[qG(KG(282473+-282833),-432621+14491662339749)]]=BG[qG(KG(-16313-(-12256)),-490991+18617104384425)]};[BG[qG(KG(688939739%6320546),-686965+19122852413702)]]={[BG[qG(KG(360619+-362506),165285+17635673750147)]]=BG[qG(KG(155109+-156083),29131504542613-(-165477))];[BG[qG(KG(-441370-(-441326)),4930773953904-1022848)]]=BG[qG(KG(-301545+301075),5286193013936-692597)],[BG[qG(KG(284656-285353),-214759+10862303997547)]]=BG[qG(KG(-779384+778295),9920603308274-(-156453))]};[BG[qG(KG(-72226+71932),1714818581550-556529)]]={[BG[qG(KG(-431469+430047),270952+1446374105819)]]=BG[qG(KG(335527-336490),446318+4384221216901)];[BG[qG(KG(-837114+837014),-491247+2774634039559)]]=BG[qG(KG(-68130+67203),704566+21640852442756)],[BG[qG(KG(-967467-(-967038)),9498609159698-(-889980))]]=BG[qG(KG(-213940-(-214119)),22288339864649-637748)]};[BG[qG(KG(-251923-(-250984)),24716143142076-(-439598))]]={[BG[qG(KG(-1014215-(-1010239)),63906+2986167079227)]]=BG[qG(KG(424237+-427397),16390095348991-(-38561))];[BG[qG(KG(-477935+474347),-450158+12282908019485)]]=BG[qG(KG(172005+-174888),268008+10150390959621)],[BG[qG(KG(-784120+780461),7045034453037-(-651636))]]=BG[qG(KG(-844026+843773),-732599+9948522336744)]};[BG[qG(KG(314730+-317844),2103524181631-(-246056))]]={[BG[qG(KG(-91203-(-89379)),536945+25358260251343)]]=BG[qG(KG(-855419+855223),209959+2259221533713)],[BG[qG(KG(-116660-(-114084)),22808046699563-569650)]]=BG[qG(KG(511152+-513713),-901884+27190121145830)];[BG[qG(KG(254696+-257452),397292+3824784702974)]]=BG[qG(KG(597708-597491),725174+15977765218666)]};[BG[qG(KG(141229-144548),14514211943365-769784)]]={[BG[qG(KG(-102819+101926),-910396+31340259956287)]]=BG[qG(KG(-791678-(-791865)),31092216417318-(-697590))];[BG[qG(KG(-993054-(-990783)),23182792473239-(-989631))]]=BG[qG(KG(1007615+-1009604),16231175862225-(-885563))];[BG[qG(KG(-228243-(-227239)),35163969605365-(-766200))]]=BG[qG(KG(643872-643572),373164+2119630673418)]}}local function C(m)local z=b[m]if not z then return m end return z[w[BG[qG(KG(731506-733367),28801855240914-(-667125))]]]or z[BG[qG(KG(-75618+74179),-250408+11331543530337)]]end local v=BG[qG(KG(-832786-(-831674)),8.8249442756146e+14%6086168563669)]local k=UDim2[BG[qG(KG(-773496+771122),33275200744489-(-117988))]](670945280%4193408,-449838+449854,-129572+129572,-774136+774152)local L=Y:FindFirstChild(BG[qG(KG(39926306%492913),733431+32444098594064)])if L then L:Destroy()end _G[BG[qG(KG(-122660+120711),28013705257606-(-99171))]]=((_G[BG[qG(KG(338666+-340794),298473+7148117167128)]]or 138023040%11501920))+(310507-310506)local O=_G[BG[qG(KG(983930-984511),2726314122840-431213)]]local function E()return _G[BG[qG(KG(655156+-657509),-275433+4197385159470)]]==O end local function n(m)return nil end local j={[BG[qG(KG(136036+-138469),662901+22781201102187)]]=n(BG[qG(KG(-257256+256235),23167760251741-(-366827))]),[BG[qG(KG(553194-556465),-968638+23597271424406)]]=n(BG[qG(KG(-827135-(-822842)),449774+17729091855249)]);[BG[qG(KG(230695+-235251),286121+30915044020942)]]=n(BG[qG(KG(458286+-458254),6317014998398-(-932221))]),[BG[qG(KG(-888768-(-884539)),-75490+12533097124986)]]=n(BG[qG(KG(67234+-68250),-249704+809626292826)]);[BG[qG(KG(-151525+151265),682677+22060698330508)]]=n(BG[qG(KG(-885755+881415),-711030+32284107624168)]);[BG[qG(KG(-530328-(-526000)),17306026117172-1001791)]]=n(BG[qG(KG(147493+-150002),-911484+23594050043473)]),[BG[qG(KG(-694185-(-693686)),7401528418706-149157)]]=n(BG[qG(KG(419501+-423764),18328259134240-606323)]),[BG[qG(KG(670476-671541),29068151506447-(-500656))]]=n(BG[qG(KG(-351019+349874),21791181439841-(-150501))]),[BG[qG(KG(-678254-(-678453)),12487998043327-(-473263))]]=n(BG[qG(KG(-408209-(-406061)),20316889632794-558641)]);[BG[qG(KG(106339+-108138),415917+28055582149987)]]=n(BG[qG(KG(8236-8992),540785+15811330341140)]),[BG[qG(KG(-826887-(-826682)),85539+4769706656567)]]=n(BG[qG(KG(-1018048+1015502),32283033430938-292393)]);[BG[qG(KG(-203073-(-200934)),8749114896805-(-486959))]]=n(BG[qG(KG(1001014-1005439),67519056913102%4501270987089)]),[BG[qG(KG(294761+-296472),565746+23245071823518)]]=n(BG[qG(KG(-351595+351687),24111607670398-(-815417))]);[BG[qG(KG(-74786+73820),29559939924623-(-846074))]]=n(BG[qG(KG(977918+-980143),31592595334455-(-740791))]);[BG[qG(KG(-293121-(-291049)),-76066+1131758497088)]]=n(BG[qG(KG(-838778+835250),20516612099552-951101)]),[BG[qG(KG(940821-943933),152997+33059372016287)]]=n(BG[qG(KG(-149029+148802),-125924+25701868783972)]);[BG[qG(KG(334250+-336661),447790+21546360535348)]]=n(BG[qG(KG(771384+-773248),5.534673286336e+14%6918341758619)]);[BG[qG(KG(-215532-(-212839)),795385+9609208037372)]]=n(BG[qG(KG(444974+-444852),17546551394125-769912)])}do local m={}for z,q in pairs(j)do if not q then table[BG[qG(KG(625865-628531),-444590+4517370157341)]](m,z)end end if#m>-428461-(-428461)then table[BG[qG(KG(961751-965694),434477+4100744736190)]](m)d(BG[qG(KG(-28961+28526),-761784+18568784798533)]..(#m..(BG[qG(KG(-605009-(-600819)),22730735314799-955582)]..table[BG[qG(KG(600239-602675),20710964239093-(-110691))]](m,BG[qG(KG(17229900%5743167),10887000238768-(-359659))]))))else local m=-998079+998079 for z in pairs(j)do m=m+2081142517%14759876 end d(BG[qG(KG(-40609+37179),569458+23880746378862)]..(m..BG[qG(KG(-590450+586524),33215069329264-(-156005))]))end end local p=z:WaitForChild(BG[qG(KG(-364011+362241),554609+21947952126311)])local y=nil local Q if j[BG[qG(KG(813625+-813254),421421+30680961024368)]]then j[BG[qG(KG(496748-500528),21870641683144-772920)]][BG[qG(KG(-595506+592674),11239198226613-(-438318))]]:Connect(function(m)y=m if Q then Q()end end)end local W={[BG[qG(KG(-626210-(-625907)),-583090+21050277704262)]]=BG[qG(KG(374685-375148),299113+15973470546355)]}local t={}local function X()if typeof(request)==BG[qG(KG(740407+-743236),-1043072+12555647359021)]then return request end if typeof(http_request)==BG[qG(KG(255360-258408),433581+22033854214779)]then return http_request end if typeof(syn)==BG[qG(KG(733431+-734649),27108514193559-818681)]and typeof(syn[BG[qG(KG(-506416+502027),11329395983007-252264)]])==BG[qG(KG(-915046-(-914812)),24307036303719-841978)]then return syn[BG[qG(KG(414701+-419204),3016233406443-574706)]]end if typeof(fluxus)==BG[qG(KG(438413-439086),6384663823965-93987)]and typeof(fluxus[BG[qG(KG(-194921-(-191526)),7001011308022-961662)]])==BG[qG(KG(761001-762872),10353334847185-221479)]then return fluxus[BG[qG(KG(-850490+849646),30925781246152-(-806841))]]end return nil end local function g(m,z,q)if not W[BG[qG(KG(1952+-4059),2519074239148-(-956030))]]or W[BG[qG(KG(1008820-1009023),815289+16857186520218)]]==BG[qG(KG(928238-928701),11368050779809-(-836282))]then return end local B=X()if not B then d(BG[qG(KG(357747-359083),477679+797814044920)])return end local Z=q or Color3[BG[qG(KG(-138532+136459),462766+15333500725274)]](-247400-(-247400),-1045504+1045694,7807510%40038)local K=(math[BG[qG(KG(-141236-(-137636)),19044465169417-(-1012031))]](Z[BG[qG(KG(343595+-344839),58961090487220%1734149833925)]]*(675499104%11850857))*(76947687%1787957)+math[BG[qG(KG(-260569-(-257640)),91171+34312467028144)]](Z[BG[qG(KG(1036504-1037440),229799+20322257717319)]]*(-757752-(-758007)))*(-621747+622003))+math[BG[qG(KG(-113021-(-112291)),7392+33082995202938)]](Z[BG[qG(KG(83171+-85692),-1041088+32105861371788)]]*(565362+-565107))local H,G=pcall(function()return f:JSONEncode({[BG[qG(KG(149221+-151370),-757367+21303688682487)]]={{[BG[qG(KG(241255+-242051),29061709542751-183206)]]=m;[BG[qG(KG(-637772-(-634484)),13403928579245-334826)]]=z,[BG[qG(KG(990975+-992327),678709+7824594780482)]]=K}}})end)if not H then return end task[BG[qG(KG(650420+-654554),-481263+7442332185346)]](function()local z,q=pcall(function()B({[BG[qG(KG(766392+-766530),774328+3723849514196)]]=W[BG[qG(KG(-159750-(-155685)),18580628387202%4645159832628)]],[BG[qG(KG(-762936+760962),-625395+19090639114342)]]=BG[qG(KG(-600696-(-599155)),17364008435067-(-508336))],[BG[qG(KG(-415675-(-414893)),336426+22635168084014)]]={[BG[qG(KG(146213+-147607),57148432172051%1242357221510)]]=BG[qG(KG(-401180-(-400940)),10116029476367-(-964286))]},[BG[qG(KG(4981701%1660542),31260799957920-231911)]]=G})end)if z then d(BG[qG(KG(655156+-658918),20645464701326-601715)]..m)else d(BG[qG(KG(887868+-891481),-4512+26994693272532)]..tostring(q))end end)end local A=979144-979134 local i=499506128%5676206 local function l()pcall(function()K:SendKeyEvent(true,Enum[BG[qG(KG(-806982-(-805881)),19817582888793-(-999615))]][BG[qG(KG(-235668-(-235175)),6066825944162-(-506288))]],false,game)task[BG[qG(KG(1487313317%8647169),128804+29042381288067)]](.1)K:SendKeyEvent(false,Enum[BG[qG(KG(448510396%16018217),17882641210259-(-861563))]][BG[qG(KG(-173861+173486),9.1010179918562e+14%27578842891844)]],false,game)end)local m=G[BG[qG(KG(-387628+384800),-759800+25910181688890)]]if m then local z=m:FindFirstChildOfClass(BG[qG(KG(511984+-513816),27665803136540-747895)])if z then pcall(function()z[BG[qG(KG(-840510-(-837498)),543857+23818467478069)]]=true end)end end i=i+(-390443-(-390444))d(BG[qG(KG(260328+-262725),3321184450602-(-365547))]..i)end task[BG[qG(KG(-664117+660185),354219+15568657469688)]](function()while true do task[BG[qG(KG(65122+-68485),-365099+17275959791876)]](A*(-156841-(-156901)))l()end end)local function T()local m=q:FindFirstChild(BG[qG(KG(329326-330922),31131945737153-(-1037696))])if not m then for z,q in pairs(q:GetDescendants())do if q[BG[qG(KG(579468-583474),-47969+4639780064322)]]==BG[qG(KG(142402-144676),672757+16406201333690)]then m=q break end end end if not m then return nil end local z=m:FindFirstChild(BG[qG(KG(-1025152+1024383),22995957353821-670133)])if not z then return nil end local B,Z=pcall(require,z)if B and type(Z)==BG[qG(KG(536776-537009),-1045952+27009727158274)]then return Z end return nil end local J=T()if J then local m,z=pcall(J[BG[qG(KG(-837690+836529),5455848492722-(-214311))]])print(BG[qG(KG(551025+-551094),1119946893491-(-7008))]..(((m and#z or 179494+-179494))..BG[qG(KG(-457496-(-456622)),3529497402305-315114)]))else print(BG[qG(KG(-568918-(-568562)),193446+2640411530741)])end local function h()if not J then return nil end local m,z=pcall(J[BG[qG(KG(689461+-692227),-541873+15672814501301)]])if not m or type(z)~=BG[qG(KG(484207+-484426),656116+10330784703137)]or#z==555249-555249 then return nil end return z[#z]end local function r()if not J then return nil end local m,z=pcall(J[BG[qG(KG(827039-826682),-421613+3625063447581)]])if not m or type(z)~=BG[qG(KG(284777+-286556),14680646187975-(-47521))]or#z==-756151+756151 then return nil end local q=1483662881%7808752 for m,z in ipairs(z)do local B=tonumber(z[BG[qG(KG(246353-247080),11775012160949-(-25889))]])or 1243528469%6125756 if B>q then q=B end end local B=nil for m,z in ipairs(z)do local Z=tonumber(z[BG[qG(KG(-41357-(-38625)),8448457551231-(-946493))]])or 442981771%2876505 if Z==q then local m=tonumber(z[BG[qG(KG(838458+-842399),11861988894053-965182)]])or math[BG[qG(KG(-348272-(-344491)),-15136+26253788813986)]]if not B or m<((tonumber(B[BG[qG(KG(92899+-96494),17535813837513-959230)]])or math[BG[qG(KG(250856+-253999),19882010428150-64162)]]))then B=z end end end return B end local function a(m)local z=m[BG[qG(KG(535601+-537563),3917129201168-(-514096))]]if z and z:IsA(BG[qG(KG(-679925+678411),20573520540259-(-661621))])then return z[BG[qG(KG(1697771844%11628573),-630068+9665045741661)]]elseif z and z:IsA(BG[qG(KG(-125220+123137),1195111359488-237479)])then return z[BG[qG(KG(-438574+438137),1005183+10194414980759)]]end return nil end local function x(m)local z=G[BG[qG(KG(-567090+567365),-42273+12615777735430)]]if not z then return nil end local q=z:FindFirstChild(BG[qG(KG(285929+-286380),-1009727+29291498132174)])if not q then return nil end local B=q[BG[qG(KG(155146051%606038),47521+10648622591260)]]q[BG[qG(KG(-506477-(-505200)),-847226+32265853592283)]]=CFrame[BG[qG(KG(531120+-534412),915004+13974101638298)]](m+Vector3[BG[qG(KG(-922044-(-922365)),10316827066944-777400)]](500592+-500592,-780280+780283,2669741752%14200754))return B end local function F(m)if not m then return end local z=G[BG[qG(KG(499423-502448),722550+6237555888187)]]if not z then return end local q=z:FindFirstChild(BG[qG(KG(-992401-(-991551)),19832617348889-616179)])if q then q[BG[qG(KG(633947-635060),743223+18394831809460)]]=m end end local function R(m)if not m or m==G then return end local z=G[BG[qG(KG(465262+-466620),-882747+3127906272156)]]local q=z and z:FindFirstChild(BG[qG(KG(-726391+722081),5808045925671-(-847866))])if not q then d(BG[qG(KG(-200742+197430),28084573622128-(-857787))])return end local B=m[BG[qG(KG(674421+-675089),9104535531286-757239)]]local Z=B and B:FindFirstChild(BG[qG(KG(-18636-(-16545)),16278422468941-(-360939))])if not Z then d(BG[qG(KG(-508720+504902),21025579320894-(-984639))]..(m[BG[qG(KG(461183-465198),33173191288751-(-987391))]]..BG[qG(KG(-828126-(-825018)),6609082429797-(-190118))]))return end q[BG[qG(KG(945277+-949288),-892412+18234841030738)]]=Z[BG[qG(KG(164133+-164919),-727031+3778613519798)]]*CFrame[BG[qG(KG(871867+-875381),710454+17326426122194)]](2838615363%14784455,184038+-184038,162789-162789)d(BG[qG(KG(-33121+29790),25494630178144-16545)]..m[BG[qG(KG(188838+-192030),764856+26021852721906)]])end local u=B[BG[qG(KG(271273-272168),10009725987250-(-768696))]]local function V(m)if typeof(fireproximityprompt)==BG[qG(KG(871219-872059),7305961955816-(-374956))]then local z=pcall(fireproximityprompt,m)if z then return true end end if u then local z=m[BG[qG(KG(-360143-(-357803)),9902349552302-255656)]]if not z or z==Enum[BG[qG(KG(-474927+470408),16852891332371-(-904764))]][BG[qG(KG(-121788-(-120740)),-948477+9965702946110)]]then z=Enum[BG[qG(KG(935282-935677),7687152092624-(-218663))]][BG[qG(KG(588594+-592563),627571+8905885846771)]]end local q=math[BG[qG(KG(989425-991743),16722965371186-(-140196))]](tonumber(m[BG[qG(KG(-225895+225508),27757072333566-(-895484))]])or 953086-953086,-600499-(-600499))local B=pcall(function()K:SendKeyEvent(true,z,false,game)end)if not B then return false end task[BG[qG(KG(610954-612339),-867515+18733072416993)]](q+.15)pcall(function()K:SendKeyEvent(false,z,false,game)end)return true end return false end local function S(m)local z,q=pcall(getconnections,m)if not z or not q or#q==167669810%3048542 then return false end local B=false for m,z in ipairs(q)do local q=pcall(function()z:Fire()end)B=B or q end return B end local function o(m)if S(m[BG[qG(KG(-857851+857460),68706+30803371680685)]])then return true end if S(m[BG[qG(KG(513776+-515703),-711542+26246273088241)]])then return true end local z=m[BG[qG(KG(521648+-524641),2591018758306-665397)]]local q=m[BG[qG(KG(-873467+872947),641140+30210647532915)]]local B=z[BG[qG(KG(-1037049-(-1037376)),1028608+33190371641022)]]+q[BG[qG(KG(479045-478703),22496651995590-497647)]]/(-385066-(-385068))local Z=z[BG[qG(KG(1001919+-1001577),13847396830326-(-321002))]]+q[BG[qG(KG(-404525+403624),985983+882641729463)]]/(71076-71074)local f=pcall(function()K:SendMouseButtonEvent(B,Z,-503536-(-503536),true,game,346795+-346794)task[BG[qG(KG(118228-121508),846074+24069730430614)]](.05)K:SendMouseButtonEvent(B,Z,168997+-168997,false,game,830202+-830201)end)if f then return true end return pcall(function()firesignal(m[BG[qG(KG(352587-354475),29516989335731-(-451246))]])end)end local function M()local m=false local z=nil local q=nil local B={BG[qG(KG(-399980+398865),3572448637873-566962)],BG[qG(KG(564677-568050),561201+9319289131446)];BG[qG(KG(-814137+812270),679029+850428798627)],BG[qG(KG(-453534-(-452462)),10314677832458-(-907900))],BG[qG(KG(-35361+31434),-520880+31764400531006)],BG[qG(KG(589024-589490),913724+23003472192115)]}local Z={BG[qG(KG(-895264-(-894012)),4418581699932-(-750263))];BG[qG(KG(713676-715062),-973118+22610472577919)],BG[qG(KG(610886-614387),-89379+16660686674367)],BG[qG(KG(-60962+56757),69858+28050213623081)],BG[qG(KG(34401+-34791),856699+34818214095919)];BG[qG(KG(478166-482351),100643+20537012765075)];BG[qG(KG(-335530+333981),28255304921587-281385)],BG[qG(KG(49570+-50988),730039+3320110311517)]}local function K(...)if not j[BG[qG(KG(128328-131812),62687344160708%298511171406)]]then return end local m={...}for z,q in ipairs(B)do pcall(function()j[BG[qG(KG(401159-403949),671605+17353270525868)]]:FireServer(q,table[BG[qG(KG(32481+-32541),-152997+2949658959968)]](m))end)end d(BG[qG(KG(495919+-499138),17577690230486-143076)])end local function f(m)if not m:IsA(BG[qG(KG(-996159+996366),729463+7877209684785)])then return false end local z=(tostring(m[BG[qG(KG(421613+-425534),-875131+1133906845339)]]or BG[qG(KG(754423+-754886),-151461+16729408310401)])):lower()if z==BG[qG(KG(-7343-(-6880)),21281138660043-1376)]then return false end for m,q in ipairs(Z)do if z:find(q,2347297135%10621254,true)then return true end end return false end local function H(m)for m,z in ipairs(m:GetDescendants())do if f(z)then task[BG[qG(KG(-551025+550225),3104+5194921477830)]](.15)o(z)d(BG[qG(KG(1003007+-1004237),10634664535022-965950)]..(tostring(z[BG[qG(KG(-260456+258406),192230+9225871110826)]])..BG[qG(KG(-374792-(-374892)),10286761494888-893948)]))return end end end local function G()if m then return end if j[BG[qG(KG(290601+-291834),658868+15070425753887)]]then z=j[BG[qG(KG(895932+-896393),627571+34180392216805)]][BG[qG(KG(-793134-(-791353)),382956+3446816060574)]]:Connect(function(...)K(...)task[BG[qG(KG(-537777+537457),4369188553277-(-265640))]](function()task[BG[qG(KG(851514+-855661),10841902719781-654260)]](.3)H(Y)end)end)else d(BG[qG(KG(-730889-(-727607)),1000757234607-(-686069))])end q=Y[BG[qG(KG(-953397-(-950717)),931581+13049581697148)]]:Connect(function(m)if f(m)then task[BG[qG(KG(-994802-(-991167)),-1045632+13153739809882)]](function()task[BG[qG(KG(608627+-610646),5363503750936-(-341099))]](.15)if m[BG[qG(KG(66799-69858),11224165540780-(-279849))]]then o(m)d(BG[qG(KG(-639732+635174),7674266456570-(-559601))]..(tostring(m[BG[qG(KG(50053-50146),3771095877897-(-492719))]])..BG[qG(KG(-296745+293669),-84387+29300087403578)]))end end)end end)m=true d(BG[qG(KG(-601267+601237),18373356330976-(-729847))])end local function P()if not m then return end if z then z:Disconnect()z=nil end if q then q:Disconnect()q=nil end m=false d(BG[qG(KG(943357+-945813),-594098+7811710758173)])end local function s()if m then P()else G()end return m end return{[BG[qG(KG(606965-609459),-60002+7667824428615)]]=s,[BG[qG(KG(-316202+313291),8594492201647-359275)]]=function()return m end}end local N=M()local function e()local m=false local z={}local q={BG[qG(KG(835578+-837298),25413023338964-46433)],BG[qG(KG(-932772-(-930493)),11249937187813-776952)];BG[qG(KG(-130468+126737),-752311+29028423099473)],BG[qG(KG(-7584+3287),26029370954737-1045824)];BG[qG(KG(2521618191%10006421),8184309687518-(-260328))];BG[qG(KG(1006975+-1009029),33653169577487-58274)];BG[qG(KG(-866982-(-864187)),32974544866865-890428)],BG[qG(KG(1036353-1040320),-34081+26756315342455)],BG[qG(KG(291151-290729),364011+29122914147335)],BG[qG(KG(462079-462702),865915+500378094423)],BG[qG(KG(192102+-191756),27842974284686-(-911804))];BG[qG(KG(-111395+111116),15676036114689-831482)],BG[qG(KG(49954+-52736),-895868+1394834092175)],BG[qG(KG(-659956+658964),19267810824681-(-472111))],BG[qG(KG(-359582-(-356075)),-798265+27139653636340)]}local B={[BG[qG(KG(685813+-687565),17642117378151-815161)]]=true;[BG[qG(KG(-585427-(-584690)),118692+23765852948177)]]=true}local function Z(m)local z=m:lower()for m,q in ipairs(q)do if z:find(q,46561+-46560,true)then return true end end return false end local function K()if m then return end z={}for m,q in ipairs(Y:GetChildren())do if q:IsA(BG[qG(KG(-175397+175042),30149443703523-681269)])and not B[q[BG[qG(KG(-798192-(-797433)),11004043011910-982846)]]]then if q[BG[qG(KG(-105731-(-104291)),3942901068112-762616)]]and not Z(q[BG[qG(KG(-824930-(-821561)),7426225068835-(-16353))]])then q[BG[qG(KG(-399471-(-395500)),-911548+32742609575897)]]=false table[BG[qG(KG(-881851+880261),-938941+24645275397477)]](z,q)d(BG[qG(KG(-960779-(-960446)),6033540259052-820985)]..q[BG[qG(KG(866669-869243),188966+7700037417437)]])else d(BG[qG(KG(-1009009-(-1007423)),27740966627916-17761)]..q[BG[qG(KG(-479552-(-475183)),5798383059328-257128)]])end end end m=true d(BG[qG(KG(-530479-(-530224)),21807289101585-892348)]..(#z..BG[qG(KG(573980-576178),876475+17044023238214)]))end local function f()if not m then return end for m,z in ipairs(z)do if z[BG[qG(KG(-652365-(-648564)),26594175295965-(-48866))]]then z[BG[qG(KG(252648+-254915),-136932+6445869018711)]]=true end end z={}m=false d(BG[qG(KG(329033471%4569907),-566258+5773686552819)])end local function H()if m then f()else K()end return m end return{[BG[qG(KG(-731959+727733),280489+34095564371040)]]=H;[BG[qG(KG(617810-620531),-862907+7083691852928)]]=function()return m end}end local D=e()local function U()local m=j[BG[qG(KG(-1001028-(-998719)),-519152+13816258207283)]]if not m then d(BG[qG(KG(986623+-990111),554097+5813415092405)])return{[BG[qG(KG(-924413+919889),-300521+27029054355517)]]=function()d(BG[qG(KG(-281321+280333),710839116608-336042)])end,[BG[qG(KG(975934+-978639),-773176+34198647785633)]]=function()return false end}end local z=game:GetService(BG[qG(KG(481739-483823),26893757996584-(-459694))])local q=Y local Z={[BG[qG(KG(-56098+51559),521968+22213174483423)]]=false,[BG[qG(KG(728152-731383),-3616+8337859718261)]]=BG[qG(KG(-1036171-(-1032768)),17012885457501-806009)];[BG[qG(KG(-252195-(-248744)),135294664513-(-934205))]]=183058475%806425;[BG[qG(KG(-786616+786889),138340+28529117023077)]]=false,[BG[qG(KG(532658-534961),-938045+12045604322319)]]=-140836+140837;[BG[qG(KG(-191846+192000),7816004387444-(-875003))]]=false}local K=false local f=false local H=BG[qG(KG(-372404-(-368299)),-904508+23397549285978)]local G=BG[qG(KG(510384+-514046),2589943484594-(-833722))]local P=3034687990%14180785 local s=Color3[BG[qG(KG(-987583+986779),-266408+6494189004872)]](-1031622-(-1031680),61614670%5134551,1022400+-1022332)local c=Color3[BG[qG(KG(894293-896060),24497092795622-(-769080))]](44566657%176851,13365108%445502,2395671683%15865375)local w=Color3[BG[qG(KG(595040-597747),-416429+19797182587570)]](2706031808%15641801,472603021%4335807,-289577+289645)local function b(m,z)local q=Instance[BG[qG(KG(734647+-737506),-964542+15972398035417)]](BG[qG(KG(194982+-195743),25468860168858-597491)])q[BG[qG(KG(-664565+660288),1034560+34214752596792)]]=UDim[BG[qG(KG(-264424+261886),32528926815264-(-705078))]](-634228+634228,z or 954302+-954290)q[BG[qG(KG(53666+-57329),5075732925668-424557)]]=m return q end local function C(m,z,q,B)local Z=Instance[BG[qG(KG(559153+-561001),27579900567546-146341)]](BG[qG(KG(660293-662645),-274793+31242545832721)])Z[BG[qG(KG(213863+-214405),-927677+8759854057371)]]=if z then z else Color3[BG[qG(KG(489775+-492213),14806278894429-1031552)]](-849402+849657,-282026-(-282281),2020091323%16291057)Z[BG[qG(KG(282217+-284852),28699848035934-714230)]]=q or 1282974404%6023354 Z[BG[qG(KG(-63582-(-63906)),13161255514187-327786)]]=B or 1360535148%10797898 Z[BG[qG(KG(-282109-(-279657)),19269958081506-(-764472))]]=m return Z end local function v(m,z,q)local B=Instance[BG[qG(KG(-158693+157556),396460+26307477132040)]](BG[qG(KG(-999145-(-997695)),24051477743155-634548)])B[BG[qG(KG(-51362+49456),23643442411608-(-351659))]]=z or 1047434-1047424 B[BG[qG(KG(936701+-939176),25837164920179-663413)]]=q or 187406844%5856463 B[BG[qG(KG(688155-692085),5334511990722-(-187302))]]=m return B end local function k(m)local z=math[BG[qG(KG(594090-594418),795065+7479913019773)]](172412053%15673823,(math[BG[qG(KG(80166-83235),889276+16383651850718)]](tonumber(m)or 520521328%3517036)))return string[BG[qG(KG(499817-500015),-939709+27269580503537)]](BG[qG(KG(756920-758520),43664121037555%419847331764)],math[BG[qG(KG(-246056+244435),6831353116384-(-844282))]](z/(401818635%16072743)),z%(63668460%265285))end local L=Instance[BG[qG(KG(-592050+587752),-468847+10695869189720)]](BG[qG(KG(-926455-(-923069)),12676982734523-(-110435))])L[BG[qG(KG(-937917+936295),30990208003405-(-525168))]]=BG[qG(KG(789924-790905),956670+6195678444940)]L[BG[qG(KG(66914+-69948),-429549+24831037892674)]]=false L[BG[qG(KG(449806-453550),869755+14513136529233)]]=true L[BG[qG(KG(-794174-(-793913)),19553447601817%9776729932552)]]=2849731000%14248595 L[BG[qG(KG(-659828+658291),5037076786680-170917)]]=q local O=Instance[BG[qG(KG(-1037632+1034871),11988692679017-(-651828))]](BG[qG(KG(-932541+930145),-97187+20878473283479)])O[BG[qG(KG(249296-252008),13880684633646-469935)]]=BG[qG(KG(-474863+471819),18587039012951-808121)]O[BG[qG(KG(-673926-(-673077)),13110788403685-623155)]]=Vector2[BG[qG(KG(99915-102691),1117799730109-378796)]](-483630.5-(-483631),510065-510064)O[BG[qG(KG(50112-53090),6678878605312-636852)]]=UDim2[BG[qG(KG(-158049-(-156197)),115812+23642368872862)]](127588+-127587.5,-238439-(-238439),-324905-(-324906),-915900+915872)O[BG[qG(KG(-462070-(-460398)),577394+27043012547311)]]=UDim2[BG[qG(KG(-177469-(-175141)),4041687229193-(-338859))]](-540977+540977,672501+-672141,1177521472%5210272,-543357-(-543409))O[BG[qG(KG(797255-799609),776056+30675591796768)]]=Color3[BG[qG(KG(486319+-489933),695862+21101817605774)]](816320341%4143758,180341-180326,-407341+407361)O[BG[qG(KG(196710+-197121),737975+26778863836852)]]=-817912-(-817913)O[BG[qG(KG(-956083-(-953022)),-779704+25260548080029)]]=2744833984%14917576 O[BG[qG(KG(-778808+775279),777656+20982628544157)]]=false O[BG[qG(KG(537777+-540671),35145716222205-18721)]]=754100376%11255228 O[BG[qG(KG(630210-631668),-92515+11400264946396)]]=L local E=Instance[BG[qG(KG(402156+-402045),10991157228203-494255)]](BG[qG(KG(1024756-1026112),24181404833015-998655)])E[BG[qG(KG(-133530-(-131620)),31350997291965-500144)]]=UDim[BG[qG(KG(113382-113764),15325985436982-671093)]](-214439+214439,-493231+493245)E[BG[qG(KG(-105890-(-105379)),-138724+9339691548638)]]=O local n=Color3[BG[qG(KG(889066-891324),3234210029122-955006)]](34842915%8710665,398912561%12088257,542257+-542177)local p=Instance[BG[qG(KG(548166-550385),-165925+1573079944670)]](BG[qG(KG(-435822+433472),8745894466686-406701)])p[BG[qG(KG(566190-568178),30736798274818-550193)]]=n or Color3[BG[qG(KG(-677621+674801),18254167350129-(-730871))]](-616052-(-616307),1091554173%4939158,735927+-735672)p[BG[qG(KG(-924925+924757),29979787438379%7494946926413)]]=587570+-587567.5 p[BG[qG(KG(-775672+771588),13982693099401-349355)]]=2327074880%14276533 p[BG[qG(KG(-162356-(-161189)),874555+17406959052568)]]=O local y=p local Q=Instance[BG[qG(KG(-434166-(-433261)),998271+30469426852697)]](BG[qG(KG(-1003899-(-1000767)),14719301559387-(-561457))])Q[BG[qG(KG(446154-448942),10400580417261-(-290537))]]=UDim2[BG[qG(KG(-677557+673422),-209510+33870072196509)]](131877-131876,-168933-(-168933),205891740%4575372,-607637-(-607667))Q[BG[qG(KG(126298-126244),-397804+30247156908021)]]=UDim2[BG[qG(KG(-86883+83426),20788276636880-516400)]](2475861840%10316091,315081675%4201089,-555313-(-555313),1268219771%5134493)Q[BG[qG(KG(212455+-213709),345643+9870135713213)]]=716686329%5470888 Q[BG[qG(KG(-1034560+1034950),1007615+21532400905814)]]=BG[qG(KG(2144+-2449),914300+26923823230582)]Q[BG[qG(KG(-377708+376784),696630+11093164623653)]]=Color3[BG[qG(KG(-710262+708955),27373734786201-(-913148))]](197637255%16469750,808924231%10239544,359477699%10572866)Q[BG[qG(KG(727689-730871),-454958+4392812314921)]]=.35 Q[BG[qG(KG(587152657%6116172),186918+5558930881043)]]=Enum[BG[qG(KG(1402984853%15085855),240935+17624935928567)]][BG[qG(KG(80354+-80530),-1000319+23023875823425)]]Q[BG[qG(KG(-152229+148846),-440558+21796550903865)]]=true Q[BG[qG(KG(-39276-(-39521)),76387307244747%1107062435873)]]=974078+-973977 Q[BG[qG(KG(-578610+574731),56226+21918960710683)]]=O local W=Instance[BG[qG(KG(711024-711350),416237+2539476496208)]](BG[qG(KG(387273-388268),23091522350745-(-271720))])W[BG[qG(KG(986111+-988570),-875643+27103145377556)]]=55631886%524829 W[BG[qG(KG(423531-427693),69698714375225%6969871499118)]]=-580274+580298 W[BG[qG(KG(-349035+346637),491951+35159674781242)]]=Q local t=Instance[BG[qG(KG(-109878-(-107747)),15584+23221449332634)]](BG[qG(KG(-362475+359991),-275753+25213301493986)])t[BG[qG(KG(-323498+323130),724598+6319162755207)]]=UDim2[BG[qG(KG(586354+-588535),34607755250058-117668)]](691190-691189,-368171-(-368171),383148-383148,915836+-915816)t[BG[qG(KG(219674-223527),-161189+8795287852452)]]=UDim2[BG[qG(KG(363365-367915),-664245+5056405222682)]](828730-828730,-816569-(-816569),1211593020%5507241,615219+-615188)t[BG[qG(KG(-21217+19040),24623799603336-636660)]]=2263944945%16646654 t[BG[qG(KG(-885051+881245),187558+30669149737708)]]=BG[qG(KG(260926093%1499573),-563249+23889337708313)]t[BG[qG(KG(-783600-(-781432)),9109902676390-(-970622))]]=Color3[BG[qG(KG(248566-251624),959550+3619693193453)]](1762686663%8993298,2920444055%12588120,124196+-124106)t[BG[qG(KG(-817694-(-815673)),19399885257833-(-313898))]]=Enum[BG[qG(KG(300457+-304303),20018379960122-222823)]][BG[qG(KG(852538+-853057),7602368267510%506824761401)]]t[BG[qG(KG(-531881-(-530864)),32414034586216-947325)]]=true t[BG[qG(KG(663477+-664228),26660749407710-38113)]]=979006+-978905 t[BG[qG(KG(-341860-(-340587)),7651717723061-(-26657))]]=O local X=Instance[BG[qG(KG(1021351-1025344),17956733169415-650676)]](BG[qG(KG(-680445-(-677941)),13243935350335-(-479727))])X[BG[qG(KG(788892-791737),-1032256+26755242566037)]]=-706093-(-706102)X[BG[qG(KG(-903548+901676),790008+18053371442101)]]=441661-441646 X[BG[qG(KG(300265+-302437),17159992799341-1028608)]]=t local g=Instance[BG[qG(KG(-417899-(-413933)),18485029974314-355819)]](BG[qG(KG(-986571-(-983614)),1726629266335-(-279209))])g[BG[qG(KG(-437860-(-438190)),17769895752901-13344)]]=BG[qG(KG(1020983186%15014457),-995007+26204396162579)]g[BG[qG(KG(985616-989823),22368871456357-(-865019))]]=Vector2[BG[qG(KG(-1001163-(-999871)),-121892+11712733382336)]](621357641%8511748.5,302418482%10428223.5)g[BG[qG(KG(333313157%9523226),987263+1023306199866)]]=UDim2[BG[qG(KG(-127887-(-125988)),82915+13508084297025)]](350513676.5%4868245.5,1116796806%8151801.5)g[BG[qG(KG(-748019-(-745719)),2493304854138-249192)]]=UDim2[BG[qG(KG(-888055-(-884987)),32430140690151-432365)]](-320490-(-320490),477039+-476519,1293236936%5091484,-548593+548675)g[BG[qG(KG(708942-709558),-887740+10368368357748)]]=Color3[BG[qG(KG(-727095+724059),16372915237496-243432)]](845818+-845808,-104345-(-104355),972259893%9172263)g[BG[qG(KG(-186374-(-182374)),-86755+27076300223843)]]=624243+-624242 g[BG[qG(KG(732053-732151),-948925+30018443470833)]]=909620352%7335648 g[BG[qG(KG(-881194-(-878523)),27418834868915-636660)]]=false g[BG[qG(KG(-946173+945236),16661760985168-625587)]]=35295836%161907 g[BG[qG(KG(-412958-(-412461)),-779256+16274128510764)]]=L local A=Instance[BG[qG(KG(-880605-(-876219)),10941763386423-283753)]](BG[qG(KG(970558+-975104),-1001087+25583754453905)])A[BG[qG(KG(-405797-(-403373)),-277673+30648748485672)]]=UDim[BG[qG(KG(-505618-(-505392)),-336618+32773748464164)]](-867515-(-867515),342075-342059)A[BG[qG(KG(460846+-462288),8595564739338-(-877627))]]=g local i=Color3[BG[qG(KG(-480791-(-479023)),217191+10252399596773)]](377196+-376941,489514275%4012410,174662347%15878372)local l=Instance[BG[qG(KG(940350-941821),-716918+19222713480804)]](BG[qG(KG(-23890-(-20769)),5080028153900-554417)])l[BG[qG(KG(-679605+679530),7.9811547592523e+14%13301924682494)]]=i or Color3[BG[qG(KG(-674357+674601),26292443659558-(-1024640))]](-415981+416236,453477567%5272992,456933975%12349560)l[BG[qG(KG(780744-782712),633076+16452373680870)]]=-68706+68709 l[BG[qG(KG(1031488+-1034191),7283412117058-(-947261))]]=-773303-(-773304)l[BG[qG(KG(-471130-(-467951)),953854+22333436805953)]]=g local T=l local J=Instance[BG[qG(KG(-546801+544837),477487+30688477390453)]](BG[qG(KG(520216-523888),25421612601343-(-887932))])J[BG[qG(KG(-446816-(-444526)),21459384576476-(-664629))]]=UDim2[BG[qG(KG(171301+-172858),26501830011187-(-718646))]](-418349+418350,-824442+824414,-19744-(-19745),-162469+162455)J[BG[qG(KG(354743290%4926985),87405262459708%1589186593742)]]=UDim2[BG[qG(KG(666485+-670814),3135422283927-472367)]](781830972%6682316,207270+-207256,829848373%3561581,-151902-(-151909))J[BG[qG(KG(689957-691125),15528927564235-(-599731))]]=1773306426%14655425 J[BG[qG(KG(-756919+753449),624243+24681782170455)]]=BG[qG(KG(-921932-(-921469)),57500652412908%5750065496377)]J[BG[qG(KG(-356331+354588),505008+34200794056635)]]=Color3[BG[qG(KG(111222-114916),-1008063+24589439187763)]](-672310-(-672565),86072637%14345397,1774602003%10377788)J[BG[qG(KG(-782846-(-782136)),154981+12416055463878)]]=406829.25-406829 J[BG[qG(KG(639387-643700),17940625120972-(-778872))]]=true J[BG[qG(KG(340394-340203),11040549963710-(-401516))]]=Enum[BG[qG(KG(89965-90019),23935510478675-1026112)]][BG[qG(KG(-37089+36995),32975618617649-866619)]]J[BG[qG(KG(425976-428077),980542+18456036723942)]]=true J[BG[qG(KG(113764+-117792),31894327505343-769464)]]=2418134739%13509132 J[BG[qG(KG(-469679+467066),126564+6123736377315)]]=g local h=Instance[BG[qG(KG(204438-204966),112419+3364135687450)]](BG[qG(KG(-249647-(-245352)),15904+26908791284676)])h[BG[qG(KG(-691061+689858),52207013304570%4746092960351)]]=250120899%4719262 h[BG[qG(KG(142384-146725),12462227470760-(-455598))]]=17394294%170532 h[BG[qG(KG(364267+-367955),-337258+28860913847912)]]=J local function r(m)local z=(tostring(m or BG[qG(KG(-246159-(-245224)),7451996594840-919420)])):upper()if z==BG[qG(KG(384650-386348),24030002038680-421933)]then return Color3[BG[qG(KG(416314-420205),-942013+27682983724146)]](811833+-811578,-55509-(-55714),-615731+615786)end if z==BG[qG(KG(371372+-374657),2102451658789-1005695)]then return Color3[BG[qG(KG(562680-566770),-502896+20365209433734)]](399469882%3733361,-355627+355752,210793969%1817189)end if z==BG[qG(KG(97005-97443),-977406+8226188134379)]then return Color3[BG[qG(KG(891449-894588),27354408071725-315050)]](314857-314602,-64737-(-64802),-769256-(-769336))end if z==BG[qG(KG(291113+-293702),24474544438061-139812)]then return Color3[BG[qG(KG(1028170-1031168),91491+7122346783878)]](950862036%16116304,608951420%12179024,63799887%272648)end return Color3[BG[qG(KG(-675408-(-671733)),-959038+24840702393500)]](-455470+455610,102213085%464604,-887356+887611)end local function a(m,q,B)P=P+(-828026+828027)local Z=P local K=r(q)J[BG[qG(KG(-658420+655578),6988124546172-(-505072))]]=tostring(m or BG[qG(KG(58658+-59121),34617419587742-484015)])J[BG[qG(KG(260192-261672),18298193880401-1041088)]]=K T[BG[qG(KG(662214-665269),24354281468791-(-75042))]]=K g[BG[qG(KG(2621097634%11106345),223399+33925908042436)]]=781714893%8496901 J[BG[qG(KG(870007998%9062579),31377841063555-(-93091))]]=-285609-(-285609)g[BG[qG(KG(-670345-(-667445)),-293993+1809310483198)]]=true local f=task[BG[qG(KG(133540+-135710),-293225+25518253495870)]]f(math[BG[qG(KG(-873723+869898),28341206597818-(-9824))]](tonumber(B)or 866427+-866424,288555-288553,3.2),function()if Z~=P then return end;(z:Create(J,TweenInfo[BG[qG(KG(-793721+789376),718902+2795034546677)]](.3),{[BG[qG(KG(-838704-(-836154)),53074532404556%26537267113154)]]=-107107+107108})):Play()task[BG[qG(KG(77436-81827),21758969238051-885499)]](.32)if Z~=P then return end g[BG[qG(KG(-695606+694550),2.5508601014324e+14%25508602323548)]]=false g[BG[qG(KG(-1030848+1027036),1020992+25112365385499)]]=888368224%10211129 J[BG[qG(KG(129766-129956),3689488935418-(-566130))]]=-755831+755831 end)end local x=Instance[BG[qG(KG(-864929-(-863035)),17984650662285-4128)]](BG[qG(KG(-728618-(-726135)),-491759+3430710316394)])x[BG[qG(KG(975704-977086),27782842833427-(-985855))]]=BG[qG(KG(3051842879%15812657),38817+9127084001683)]x[BG[qG(KG(1040564-1042240),424141456122-491887)]]=UDim2[BG[qG(KG(-876914-(-875323)),-263336+12921803715498)]](-876731-(-876731),-410541+410673,-249960-(-249960),272022-271976)x[BG[qG(KG(-606451+605299),23387883860964-(-549169))]]=Vector2[BG[qG(KG(-749932-(-746487)),20247094039250-313642)]](-352939+352939,159856410%5328547)x[BG[qG(KG(-912252+910746),9065878106435-(-782264))]]=UDim2[BG[qG(KG(453550+-456514),35060888174705-164069)]](-650868+650868,649270386%6763233,795789173%9704746,-547313+547143)x[BG[qG(KG(-889913-(-888700)),234919+14146980027856)]]=s x[BG[qG(KG(685813+-687297),123364+5914350334880)]]=.03 x[BG[qG(KG(216807+-221358),285289+28945741418212)]]=-927869+927869 x[BG[qG(KG(-717814+717078),17615272309304-111139)]]=BG[qG(KG(542449+-542912),910908+19109965520713)]x[BG[qG(KG(-797205-(-793017)),23993493253992-(-26593))]]=false x[BG[qG(KG(451502+-455829),16888326858898-60194)]]=false x[BG[qG(KG(-349803+347382),1020672+31772989186198)]]=406645-406445 x[BG[qG(KG(502576+-504280),10587416809487-(-677493))]]=L local F=Instance[BG[qG(KG(-32107-(-28257)),771192+8802803342222)]](BG[qG(KG(793940-794361),1460334375949-929469)])F[BG[qG(KG(-502384+501965),1633211265876-109923)]]=UDim[BG[qG(KG(-648508-(-648052)),17803181739845-(-1012095))]](665915282%3432553,336170+-336157)F[BG[qG(KG(30177+-30455),13081795964218-97699)]]=x local R=Color3[BG[qG(KG(-796240-(-793081)),18943531419980-50274)]](1215546835%9802795,-651189-(-651444),48224-47969)local u=Instance[BG[qG(KG(840694-844730),26523305752590-(-469103))]](BG[qG(KG(-233429-(-231271)),-495471+15475239929787)])u[BG[qG(KG(210727+-214592),736247+15868240199107)]]=R or Color3[BG[qG(KG(228784-231271),18025454630788-538097)]](12000+-11745,514351-514096,3280362695%16001768)u[BG[qG(KG(961121-961854),1029696+22421486246737)]]=1439395271.5%6099132.5 u[BG[qG(KG(-836474+832379),-525872+1968229354841)]]=-512816+512816.5 u[BG[qG(KG(-69992-(-66338)),-328042+26686520287871)]]=x local V=u local S=Instance[BG[qG(KG(-1022656+1022410),780152+9043328842094)]](BG[qG(KG(18793-22177),35086657592613-(-1008255))])S[BG[qG(KG(878651+-880485),14300530196203-166629)]]=BG[qG(KG(221067-223527),76258+27345817483673)]S[BG[qG(KG(486383+-488721),546545+31887883541776)]]=UDim2[BG[qG(KG(-24580-(-22113)),6514589925251-(-530480))]](-27297+27297,-377098-(-377132),-787768-(-787768),-521934-(-521968))S[BG[qG(KG(750071+-750174),23911887175093-763576)]]=UDim2[BG[qG(KG(-974552-(-974526)),25129546193528-(-606451))]](2223223100%12704132,895356+-895350,546673+-546672.5,-394109-(-394092))S[BG[qG(KG(-821159-(-819641)),808551723456-(-545073))]]=Color3[BG[qG(KG(-758584+757454),16188226797476-1033408)]](593734-593714,922237+-922217,270696+-270670)S[BG[qG(KG(-772088+771413),26574848170853-768696)]]=.38 S[BG[qG(KG(136292+-140456),16176414422527-178982)]]=719414-719414 S[BG[qG(KG(700790+-704261),29801540316370-262248)]]=943357+-943156 S[BG[qG(KG(5033-8544),-809913+30624052202273)]]=x local o=Instance[BG[qG(KG(-287263-(-285865)),-730295+24066510683204)]](BG[qG(KG(647659-651380),-751799+27266358991848)])o[BG[qG(KG(-416637-(-414829)),30163402401701-309738)]]=UDim[BG[qG(KG(-1024128+1020656),6774444053578-146341)]](277778720%13888936,1019648+-1019638)o[BG[qG(KG(853929418%6187893),35046929697782-756855)]]=S local M=Color3[BG[qG(KG(-84711-(-84003)),-850618+34801035409748)]](-692597+692852,-643316+643571,2351849275%13834406)local N=Instance[BG[qG(KG(-910884-(-910972)),-245992+28315436263402)]](BG[qG(KG(396460+-397557),16103398289355-718134)])N[BG[qG(KG(-967154-(-966142)),89571+8702942986694)]]=M or Color3[BG[qG(KG(-330845-(-329322)),34764525658567-(-564401))]](292393+-292138,1942415114%9293851,419948-419693)N[BG[qG(KG(468847+-472728),30679887402356-(-268840))]]=1412363008%14266293 N[BG[qG(KG(881723+-883887),3411381266806-(-615155))]]=.72 N[BG[qG(KG(456052-458286),24877210382067-611443)]]=S local e=Instance[BG[qG(KG(506672+-509082),4088934272851-622707)]](BG[qG(KG(635252+-638713),-60450+8370073012885)])e[BG[qG(KG(50914+-54016),20931089116835-975486)]]=BG[qG(KG(-61188-(-59618)),13537076754733-460782)]e[BG[qG(KG(82809-82787),29976565950273-637492)]]=UDim2[BG[qG(KG(840762+-844327),125220+6393253801502)]](657589-657588,103900387%1071138)e[BG[qG(KG(219495+-220605),27201931598416-(-166053))]]=2442919033%12790152 e[BG[qG(KG(738103+-739305),-92643+15208943427895)]]=BG[qG(KG(361953-365675),-813753+4535624694585)]e[BG[qG(KG(821753+-822324),-293801+20907465394104)]]=Color3[BG[qG(KG(-869755+868487),993151+10544465510109)]](1142006226%10477119,-141861-(-142116),271161145%2465099)e[BG[qG(KG(787382-787384),-273128+2746715682022)]]=Enum[BG[qG(KG(-182374+180725),708214+33857185983669)]][BG[qG(KG(-992447+989646),15488123753370-(-976062))]]e[BG[qG(KG(442414+-444204),-1000063+26364388581992)]]=true e[BG[qG(KG(-346091+342101),24287708035211-516144)]]=462702+-462500 e[BG[qG(KG(-974214-(-971646)),16564047277999-406381)]]=S local D=Instance[BG[qG(KG(630058-633844),6814174338242-771064)]](BG[qG(KG(114020+-117623),-327018+24920161081362)])D[BG[qG(KG(960254+-959969),34668960679179-394988)]]=747588-747575 D[BG[qG(KG(-227611-(-223143)),-132772+20400643625179)]]=-548977+548998 D[BG[qG(KG(497071+-496918),12477261020556-249896)]]=e local U=Instance[BG[qG(KG(-726774-(-724278)),12279685976964-(-268584))]](BG[qG(KG(770941-770616),32671738824805-(-716406))])U[BG[qG(KG(-372588+372893),15643822983462-938045)]]=BG[qG(KG(804818-805241),28272484978296-(-55394))]U[BG[qG(KG(-296233+296048),17295287370379-928)]]=UDim2[BG[qG(KG(-177081-(-175269)),93475+6184941562205)]](484400-484399,-679413+679360,558193+-558193,-490927+490949)U[BG[qG(KG(-469453-(-469231)),-413933+8823206244614)]]=UDim2[BG[qG(KG(-731959+729045),883715844739-(-645300))]](-465262-(-465262),6988084%6988037,478191+-478191,353835+-353830)U[BG[qG(KG(-928288-(-925117)),2009033169163-905660)]]=-597683+597684 U[BG[qG(KG(121754-124772),11853397140269-(-591858))]]=BG[qG(KG(-804409+801615),19273179438950-(-730807))]U[BG[qG(KG(-72226+68864),25778107468608-814457)]]=Color3[BG[qG(KG(-88419+84914),11280001930468-(-168997))]](218023+-217768,985855+-985600,-435311-(-435566))U[BG[qG(KG(274281+-277365),29672686448766-(-654196))]]=Enum[BG[qG(KG(-977185-(-977086)),27170791704486-(-596786))]][BG[qG(KG(-408557+408932),32492419882282-698102)]]U[BG[qG(KG(-168311-(-164389)),-992383+30556404585384)]]=true U[BG[qG(KG(713718+-717889),24636685240670-978878)]]=Enum[BG[qG(KG(-438508-(-435566)),-520496+4098598141977)]][BG[qG(KG(-234945-(-235239)),31593670044053-194214)]]U[BG[qG(KG(-638260+634632),-199526+23480229224657)]]=502201-502000 U[BG[qG(KG(-647499-(-644212)),31814867082451-(-333546))]]=x local I=Instance[BG[qG(KG(557404-559537),-457390+14056783654353)]](BG[qG(KG(284713+-285928),-213671+9570553161080)])I[BG[qG(KG(712054+-716193),-630196+5313037316360)]]=392503-392492 I[BG[qG(KG(-242077-(-239783)),28467911519393-(-490223))]]=210735751%4483739 I[BG[qG(KG(-569286-(-569202)),-569650+18145717416757)]]=U local m7=Instance[BG[qG(KG(958078+-958145),-294505+25699721403367)]](BG[qG(KG(978302+-982574),7724733617505-(-804537))])m7[BG[qG(KG(-724654-(-721014)),914940+6265473835215)]]=BG[qG(KG(-743554-(-739575)),1678309826431-137572)]m7[BG[qG(KG(383788+-386098),-110627+22318405026132)]]=UDim2[BG[qG(KG(-1030336+1027188),32828511455591-823802)]](884283+-884282,-472164-(-472111),696118-696118,-676597+676609)m7[BG[qG(KG(-217703+217439),14713933322281-74402)]]=UDim2[BG[qG(KG(-340581-(-336682)),-751927+17096639821673)]](-390316+390316,-379244+379291,808441-808441,701706851%5159609)m7[BG[qG(KG(-668552-(-668469)),14095439233772-151461)]]=1036160+-1036159 m7[BG[qG(KG(-481174-(-480367)),21491598105155-(-373740))]]=BG[qG(KG(-632884+629762),214055+18383020818105)]m7[BG[qG(KG(-74658+70662),1760+10171866717729)]]=Color3[BG[qG(KG(770778-771512),954430+21081415629939)]](187364487%1283317,-988095+988300,587890+-587675)m7[BG[qG(KG(-864059+862349),35002903375773-(-806841))]]=Enum[BG[qG(KG(339790-341035),-956350+30370641544762)]][BG[qG(KG(-580274+578634),17376894724070-485551)]]m7[BG[qG(KG(-958104-(-957694)),-470383+6647738975646)]]=true m7[BG[qG(KG(413421+-415966),921981+33743365663044)]]=Enum[BG[qG(KG(506160+-509044),959806+25780253243531)]][BG[qG(KG(-517160-(-515760)),24986734041583-(-737527))]]m7[BG[qG(KG(742369-743351),-38881+25739450807684)]]=541946069%7423916 m7[BG[qG(KG(788570-791033),-748279+26694037130259)]]=x local z7=Instance[BG[qG(KG(247272+-250520),33666338788449%1603159666055)]](BG[qG(KG(-743176-(-740215)),7079396668857-777208)])z7[BG[qG(KG(964990+-968060),21330531940270-(-349675))]]=492726-492719 z7[BG[qG(KG(-406967-(-406061)),9094869795351-(-1007359))]]=1557664698%6280906 z7[BG[qG(KG(713970-715638),235175+6049645821787)]]=m7 local q7=Instance[BG[qG(KG(933949+-933661),31822383609629-(-228519))]](BG[qG(KG(288+-1156),705334+18926350270884)])q7[BG[qG(KG(-666713-(-663541)),253928+31534611993296)]]=BG[qG(KG(853114+-855551),604019+10215890873783)]q7[BG[qG(KG(-378604+374886),-65890+16320300104897)]]=Vector2[BG[qG(KG(709204-709366),3042003984706-562737)]](-1017855-(-1017856),429677417.5%5239968.5)q7[BG[qG(KG(277479-277865),23148433560305-884411)]]=UDim2[BG[qG(KG(-59821-(-55330)),18290677137664-720502)]](-951421-(-951421),-965303-(-965310),494099232%2807382,186655633%4057731)q7[BG[qG(KG(302761+-302424),2.0701273271536e+14%815010821341)]]=UDim2[BG[qG(KG(997695+-998353),10280318230415-277033)]](2678435893%13527454,-467246+467238,920775664%11958125.5,772247625%10296635)q7[BG[qG(KG(1007951-1008383),-501552+17910560712792)]]=Color3[BG[qG(KG(-688595-(-686069)),7187846119463-(-1006079))]](428680-428525,262581396%3919123,616180353%2610933)q7[BG[qG(KG(-190093-(-186662)),845370+11561330197461)]]=-372268-(-372268)q7[BG[qG(KG(-897468+895131),-595378+2913151066187)]]=-817721+817923 q7[BG[qG(KG(167973+-167920),6705722624910-291625)]]=x local B7=Instance[BG[qG(KG(1003536-1005375),29692014195914-(-849722))]](BG[qG(KG(760027-764472),505456+19491155906680)])B7[BG[qG(KG(746231+-748272),31104028765963-130532)]]=UDim[BG[qG(KG(493743+-495444),-1440+21188794045109)]](574002-574002,-350635+350734)B7[BG[qG(KG(-393580+393783),19510484483230-128420)]]=q7 local Z7=Instance[BG[qG(KG(-746447-(-742071)),6377147764769-456942)]](BG[qG(KG(1546542842%14059480),659316+32983133513865)])Z7[BG[qG(KG(-763128+758693),892924+35098469228467)]]=BG[qG(KG(-877371+876108),21739639362390-(-1047488))]Z7[BG[qG(KG(435822+-438363),-862651+17418772310297)]]=Vector2[BG[qG(KG(270376+-271823),431021+25633146653075)]](1027799910.5%5709999.5,69836910.5%1343017.5)Z7[BG[qG(KG(238537-241127),24426224367098-(-74466))]]=UDim2[BG[qG(KG(353264-356651),18123167291205-(-289449))]](1707510800.5%10671942.5,88275633.5%1919035.5)Z7[BG[qG(KG(-81207-(-78626)),8786698319729-825210)]]=UDim2[BG[qG(KG(1006719+-1007388),-60450+31704268693368)]](2586055381%14948297,59102385%2188955,-372460-(-372460),1001866948%7207672)Z7[BG[qG(KG(-118814-(-115620)),19028360319408-756855)]]=Color3[BG[qG(KG(420362-420013),30302992689946-(-99107))]](-100754-(-100771),390625413%13950907,110713-110691)Z7[BG[qG(KG(187388-188070),21741788779537-820473)]]=-999935+999935 Z7[BG[qG(KG(-308468-(-306538)),67336444236206%13467290822700)]]=false Z7[BG[qG(KG(580667-582578),202982+32255114796145)]]=-101987+102187 Z7[BG[qG(KG(-501168+499064),18653611885553-(-344043))]]=L local K7=Instance[BG[qG(KG(-442175-(-437614)),894012+15547181438035)]](BG[qG(KG(-856891+854128),-703414+26633905708186)])K7[BG[qG(KG(-215015+213706),8528991236188-(-356011))]]=UDim[BG[qG(KG(-265064+264982),-723958+8775960472547)]](715510-715510,85665598%6589660)K7[BG[qG(KG(-718198+714050),30635862608010-(-304873))]]=Z7 local f7=Color3[BG[qG(KG(150693+-152792),27441383215211-(-283497))]](-678070-(-678325),-595047-(-595122),971390+-971305)local H7=Instance[BG[qG(KG(-428341-(-428205)),11365903226911-(-839994))]](BG[qG(KG(-249704+246466),29064930814368-131044)])H7[BG[qG(KG(-567374-(-564786)),20592848827584-(-316970))]]=if f7 then f7 else Color3[BG[qG(KG(503734731%7995787),16305021926992%223356622384)]](-1003903+1004158,-723894+724149,1837320376%13814437)H7[BG[qG(KG(23308-23649),22401086554301-995135)]]=-942202-(-942205)H7[BG[qG(KG(842106+-842755),20965449827713-899388)]]=.1 H7[BG[qG(KG(839894-840442),2665108174087-(-365739))]]=Z7 local G7=Instance[BG[qG(KG(641826-644404),11979028481753-(-877755))]](BG[qG(KG(-354663-(-353451)),21201679458885-120100)])G7[BG[qG(KG(341554-342379),-721078+22489135796870)]]=-593074+593075 G7[BG[qG(KG(-1013286-(-1010111)),20598218361370-343851)]]=Z7 local function Y7()local m=workspace[BG[qG(KG(538801+-542660),189222+17732313439580)]]local z=workspace[BG[qG(KG(969872-971774),259432+7054698816578)]]and m[BG[qG(KG(-350507+346740),-975678+2882011983290)]]or Vector2[BG[qG(KG(-449134+446580),67422673318155%1465710466638)]](834938-833658,-885243+885963)G7[BG[qG(KG(213659-216359),10528360444286-559921)]]=math[BG[qG(KG(934320819%3678428),944573+27093479586003)]](math[BG[qG(KG(831349-831674),-121572+5826301063190)]](z[BG[qG(KG(607717-608627),-333418+15458059374246)]]/(2038061777%12981281),z[BG[qG(KG(-859323+857564),6.6981696404097e+14%2950735537431)]]/(183167864%3270844)),.55,1.05)local q=B[BG[qG(KG(-633716+633289),1.1765972574083e+15%25033984272763)]]or(if z[BG[qG(KG(649149-653556),606195+27081668403858)]]<=-677169-(-678069) then true elseif z[BG[qG(KG(-543994-(-543281)),-531248+14009537646119)]]<=730743+-730223 then true else false)local Z=math[BG[qG(KG(-17569+16959),569394+25472080325752)]](z[BG[qG(KG(345835+-348640),26432034988220-(-393068))]]-(798649+-798613),1876479623%12264571,-133086-(-133476))local K=math[BG[qG(KG(-907196+905986),-737079+8483893796372)]](z[BG[qG(KG(-711286+707988),28143631602611-(-479919))]]-392238232%5373126,-1000639+1000939,11232+-10672)if q then O[BG[qG(KG(-693142-(-692021)),10808614767849-(-285289))]]=UDim2[BG[qG(KG(-36769+36596),32635232081268-876219)]](1640614985%11802985.5,40984812%2276934,-576242+576243,-660342-(-660340))O[BG[qG(KG(845370+-845916),-750199+2152918809164)]]=UDim2[BG[qG(KG(-860002-(-859707)),-185958+32087606348577)]](-386860-(-386860),Z,-242216-(-242216),-922129-(-922173))t[BG[qG(KG(-9312+5234),841402+13960142642191)]]=UDim2[BG[qG(KG(38345-39777),33551160343900-(-588978))]](2002237381%12134772,1125879366%11038033,-174885-(-174885),687858003%15285733)t[BG[qG(KG(-264616+264369),13436141244026-(-238183))]]=UDim2[BG[qG(KG(934220-936317),925821+31804128744246)]](-119332-(-119332),-479343+479343,-312234+312234,1008832-1008831)Q[BG[qG(KG(-569138+568836),-354859+3792572217335)]]=UDim2[BG[qG(KG(888792-892412),531120+3993367180247)]](-950140-(-950141),705718+-705718,-525040+525040,917842-917820)else O[BG[qG(KG(262191-264424),33866851569648-906428)]]=UDim2[BG[qG(KG(1032704+-1034743),5708185834151-97763)]](271272.5-271272,-803449+803449,3285374191%15644639,-868219-(-868219))O[BG[qG(KG(-921228-(-917116)),27690498199805-(-1004479))]]=UDim2[BG[qG(KG(-235188-(-233959)),12245325412715-(-45857))]](402092+-402092,Z,53270145%1183781,-240615+240665)t[BG[qG(KG(330892-333034),18933867680970-282601)]]=UDim2[BG[qG(KG(-956158+956542),562993+10931024793747)]](-118243-(-118244),1234367325%16458231,-940477+940477,104154302%1928783)t[BG[qG(KG(378284+-380714),-646324+20314742171291)]]=UDim2[BG[qG(KG(726307-729015),73826+24128788805477)]](957630-957630,947965-947965,499759-499759,20488849%1280553)Q[BG[qG(KG(-259502-(-257320)),5291561848052-653748)]]=UDim2[BG[qG(KG(557050-558449),1760+12020906566875)]](-84002-(-84003),-360939+360939,939344895%16479735,-848826+848854)end Q[BG[qG(KG(-9508-(-8288)),22825225759313-(-764088))]]=UDim2[BG[qG(KG(595047-595890),23794844867692-(-113188))]](337834+-337834,1139330053%15607261,-883771-(-883771),-261672+261694)g[BG[qG(KG(182500-186150),-639668+16651023253319)]]=UDim2[BG[qG(KG(889309-893372),13214943367458-(-548593))]](-959165.5-(-959166),582518244.5%3467370.5)g[BG[qG(KG(-948027-(-943741)),34542255316566-434349)]]=UDim2[BG[qG(KG(-303785+300032),23340638560464-232423)]](590514+-590514,K,3387587660%14728642,if q then 994316008%9206629 else -982124-(-982206))local f=if q then -162149+162213 else 597313-597235 local H=if q then -836978-(-836986) else 212199+-212187 x[BG[qG(KG(-325034+323862),897660+6403990774992)]]=UDim2[BG[qG(KG(-389740+388177),514160+8566573188794)]](553073-553073,f,550449+-550449,f)x[BG[qG(KG(-259246-(-255720)),27535874883124-(-779768))]]=UDim2[BG[qG(KG(313953-314026),27010798968775-(-918140))]](-92515+92515,(((if q then 10784+-10770 else 423271456%3469438))+f)+H,970622+-970622,(-272036-(-272104))+((f+H))*(857597-857595))S[BG[qG(KG(-333610+330503),6555394701906-811641)]]=false U[BG[qG(KG(-815609+815541),26924898541222-621747)]]=UDim2[BG[qG(KG(210087+-211236),5430078372329-255528)]](13404577%3351144,-601277-(-601267),2210024405%16131565,(math[BG[qG(KG(232489-235943),-851642+7686079388336)]](f*.44)))U[BG[qG(KG(-972404-(-968382)),8711018257493%181479794708)]]=UDim2[BG[qG(KG(-626343-(-624499)),980990+6612302962704)]](-991743-(-991743),-469551+469556,283742708%2676818,(math[BG[qG(KG(457006+-460819),1.3225945510396e+14%2495461595189)]](f*.18)))U[BG[qG(KG(701659-705142),643252+15754420185244)]]=Enum[BG[qG(KG(23242-24929),-399276+27452121643914)]][BG[qG(KG(633091021%4554610),9586659944204-377900)]]m7[BG[qG(KG(-941649-(-937661)),13484471848527%6742241179080)]]=UDim2[BG[qG(KG(-728088-(-723894)),412333+5358134806737)]](117157-117156,-20651-(-20641),594738+-594738,(math[BG[qG(KG(658612+-662099),31617292965799-74914)]](f*.2)))m7[BG[qG(KG(703030+-704422),32597649293500-199206)]]=UDim2[BG[qG(KG(181463-184486),565042+3062404574194)]](1107625140%4858005,482292-482287,-737143+737143,(math[BG[qG(KG(390141-391596),8160+8432351870669)]](f*.62)))m7[BG[qG(KG(80774-81379),588082+9800340122229)]]=Enum[BG[qG(KG(-169509+167613),34195425552130-(-136548))]][BG[qG(KG(-832314+831307),34755935586370-(-439854))]]q7[BG[qG(KG(-77510-(-74850)),-858555+577691589589)]]=UDim2[BG[qG(KG(72361-73250),29163716935385-(-1010495))]](483631+-483630,337258+-337265,12832+-12832,-613356-(-613363))end Y7()if workspace[BG[qG(KG(430108-430253),-357291+7927678177410)]]then(workspace[BG[qG(KG(1178259465%7552944),15773748015595-(-755575))]]:GetPropertyChangedSignal(BG[qG(KG(321791-322346),10614262866332-1014527)])):Connect(Y7)end;(workspace:GetPropertyChangedSignal(BG[qG(KG(237415+-241470),-32993+13956922192807)])):Connect(function()Y7()end)local P7=Instance[BG[qG(KG(830138+-832479),34476754300418-(-331626))]](BG[qG(KG(-394086-(-394156)),22003787920268-(-1039488))])P7[BG[qG(KG(994815+-998990),12934326690813%177182692819)]]=UDim2[BG[qG(KG(579412-579890),32127336074760-252200)]](194857845%5127838,-385068+384978,2403679968%16692222,832597432%4703940)P7[BG[qG(KG(198300-200422),19740272645120-527408)]]=UDim2[BG[qG(KG(76386+-80941),16227956020988-596979)]](-783096+783096,2296592703%14816727,-408557-(-408557),-448622+448630)P7[BG[qG(KG(-907992-(-905020)),-607283+29809057083556)]]=923069+-923068 P7[BG[qG(KG(-716759-(-714486)),2596386534981-(-430893))]]=BG[qG(KG(-997273-(-995967)),-352491+28432477800538)]P7[BG[qG(KG(-720281-(-715894)),5608323930287-(-768952))]]=Color3[BG[qG(KG(976254+-979760),19486861922519-608755)]](150505764%651539,269672+-269417,-406061+406316)P7[BG[qG(KG(-733531-(-733687)),6779813435038-654836)]]=Enum[BG[qG(KG(575184-579186),28404560097421-788792)]][BG[qG(KG(29025+-32005),-138340+30874241010869)]]P7[BG[qG(KG(-295119-(-294697)),31770843382346-724662)]]=true P7[BG[qG(KG(859014-859771),275433+24075099874220)]]=Enum[BG[qG(KG(-248546-(-248104)),-722294+20038782176860)]][BG[qG(KG(-275753+271850),-913980+11247789775655)]]P7[BG[qG(KG(999871+-1003467),337770+2507263336885)]]=477564321%7828920 P7[BG[qG(KG(149285+-152493),22859587891355-580978)]]=Z7 local s7=Instance[BG[qG(KG(-617357-(-613299)),143204+13966585987947)]](BG[qG(KG(-969342+967152),-389804+9206543750186)])s7[BG[qG(KG(-739447+736223),6526401737943-(-238311))]]=302121+-302105 s7[BG[qG(KG(843705-845370),29833753744950-453038)]]=-937439-(-937469)s7[BG[qG(KG(571854-575602),429229+18920981674024)]]=P7 local d7=Instance[BG[qG(KG(-873211+872586),-184742+17073016213442)]](BG[qG(KG(-531348-(-527984)),-926717+29278612754048)])d7[BG[qG(KG(-680245+680144),606515+24271600293657)]]=UDim2[BG[qG(KG(-706628-(-704246)),18390536892022-(-562289))]](-805817+805817,1011263+-1011205,-434157-(-434157),842005435%8336687)d7[BG[qG(KG(-478145-(-475183)),-920381+111673478053)]]=UDim2[BG[qG(KG(-449775-(-447534)),18792128994744-(-157349))]](1387685441%8673034,46305+-46375,3212015436%14468538,-775790-(-775800))d7[BG[qG(KG(200618429%1986319),-46241+27970754419298)]]=s d7[BG[qG(KG(1846536538%10798459),22461216794770-(-141604))]]=-655988+655988 d7[BG[qG(KG(637663-639988),5953006739860-396268)]]=BG[qG(KG(-1037824+1037111),-1008703+2699470335505)]d7[BG[qG(KG(1045616-1048384),2.7007734656324e+15%10717355065417)]]=Color3[BG[qG(KG(733126-733943),32288402705644-694134)]](-684725+684980,3841651029%15553242,814585+-814330)d7[BG[qG(KG(-999295+995076),8608450392993-(-519088))]]=Enum[BG[qG(KG(572466+-576104),3393127262378-(-451502))]][BG[qG(KG(-66530+65786),-828282+19287140067748)]]d7[BG[qG(KG(-422445+421593),5482693956141-884283)]]=true d7[BG[qG(KG(-521136+517144),34933108750322-(-83747))]]=-999359+999561 d7[BG[qG(KG(358289-359851),12547056038466-(-80739))]]=Z7 local c7=Instance[BG[qG(KG(361067+-364658),20264274798189-679093)]](BG[qG(KG(676469+-678289),-566386+23962354383774)])c7[BG[qG(KG(329962+-333116),17314614862735-(-449390))]]=UDim[BG[qG(KG(19609-20833),411437+32832805318724)]](762296-762296,-195418-(-195430))c7[BG[qG(KG(77346+-80515),25577310845549-40289)]]=d7 local w7=Instance[BG[qG(KG(413741+-416002),-406765+9692963657776)]](BG[qG(KG(592178+-596086),17514337858662-472239)])w7[BG[qG(KG(241994-241959),4799772414357-(-16353))]]=UDim2[BG[qG(KG(290696-291561),9786381612025-(-28577))]](-392556+392556,195686+-195596,-841338-(-841338),610163+-610129)w7[BG[qG(KG(715638+-717016),9123863310371-593650)]]=UDim2[BG[qG(KG(134448-137188),27166496797735-(-405165))]](209618178%9528099,884603+-884585,-517168-(-517168),114792078%3702968)w7[BG[qG(KG(939197+-940971),11927488214661-35617)]]=463643156%3197539 w7[BG[qG(KG(-3232+102),27233+14078258661590)]]=BG[qG(KG(690805+-691642),-289257+6982756467536)]w7[BG[qG(KG(867067+-869818),-632436+19603903376837)]]=Color3[BG[qG(KG(940157+-942437),21945805529794-398060)]](740090-739895,-736116-(-736311),158642-158437)w7[BG[qG(KG(-954396-(-954750)),10008653269202-287849)]]=Enum[BG[qG(KG(-39521+36402),12499809525449-(-511664))]][BG[qG(KG(-374124+369731),-450350+20445742475663)]]w7[BG[qG(KG(114184139%2784976),10465006260629-(-922749))]]=true w7[BG[qG(KG(-859003+858069),-269416+12006947768342)]]=Enum[BG[qG(KG(280297+-283641),274886648043-352235)]][BG[qG(KG(-130076-(-127460)),34646410023627-(-994111))]]w7[BG[qG(KG(557297+-561779),18031897187847-447598)]]=543855771%2652954 w7[BG[qG(KG(-764280+760771),-790521+31288718655948)]]=Z7 local b7=Instance[BG[qG(KG(-985260-(-982206)),13093608128217-741175)]](BG[qG(KG(-61218+58481),3621841504199-(-197990))])b7[BG[qG(KG(-571378+570012),656436+28683740046373)]]=-45217+45227 b7[BG[qG(KG(622323+-622083),4772927098463-(-967422))]]=835383552%4016267 b7[BG[qG(KG(844986+-847671),27733450839192-651188)]]=w7 local C7=Instance[BG[qG(KG(423407-424621),18700858380138-68450)]](BG[qG(KG(-684636-(-684149)),1.5829587427706e+14%2512632931120)])C7[BG[qG(KG(-702613-(-698422)),-725366+867610596510)]]=UDim2[BG[qG(KG(-583689-(-579378)),10514400221902-(-592754))]](597281607%8412417,643382-643252,109219+-109219,430161-430125)C7[BG[qG(KG(216290-217959),329642+547624712788)]]=UDim2[BG[qG(KG(-220967+217961),300137+32540738740728)]](686197-686197,-220158-(-220263),-274793+274793,-1002879+1002947)C7[BG[qG(KG(-618651-(-614451)),-938877+17126705697227)]]=566309880%4719249 C7[BG[qG(KG(470703+-473039),-845946+953512684530)]]=BG[qG(KG(-260072+259829),33152791150541-591666)]C7[BG[qG(KG(-500167-(-496111)),15670667310334-900092)]]=Color3[BG[qG(KG(-556017+553387),7.0186108196281e+14%4202761013288)]](-540465+540720,827834+-827579,-677686-(-677941))C7[BG[qG(KG(-58015-(-55714)),9115271870773-(-649204))]]=Enum[BG[qG(KG(-867899+863781),-584754+25241219942405)]][BG[qG(KG(745216-746295),4318721834275-421229)]]C7[BG[qG(KG(-632308+632165),22440814225188-(-993919))]]=true C7[BG[qG(KG(109463-113380),28461470369225-1007167)]]=-578408-(-578610)C7[BG[qG(KG(794191-795385),30339500479339-(-645876))]]=Z7 local v7=Instance[BG[qG(KG(10771-15072),16821753808882-1034944)]](BG[qG(KG(505172-508080),13185951824530-(-177510))])v7[BG[qG(KG(90523-92323),25935952293778-774456)]]=UDim[BG[qG(KG(1407-2976),4885674746481-348331)]](-591538-(-591538),482382078%12368771)v7[BG[qG(KG(-488302-(-483823)),688757+1027601596744)]]=C7 local k7=C7:Clone()k7[BG[qG(KG(2323049095%10559314),31151275411721-694198)]]=UDim2[BG[qG(KG(877819+-877585),-169701+27918139587701)]](298153-298153,178278+-178033,489135+-489135,1020608+-1020540)k7[BG[qG(KG(439876-440430),-434093+33962417036090)]]=BG[qG(KG(-631668+629422),10007580076323-869563)]k7[BG[qG(KG(574619-575410),26538339128685-62690)]]=Z7 local L7=Instance[BG[qG(KG(-737591+734736),27066635839181-(-326570))]](BG[qG(KG(-119929-(-120228)),584434+29247471779700)])L7[BG[qG(KG(906013-908540),24036443869125-(-395180))]]=UDim2[BG[qG(KG(669429+-671003),15385042709091-340587)]](-473647+473647,-282987-(-283177),196681653%1652787,218929327%6634221)L7[BG[qG(KG(286505+-287169),16727261555863-946109)]]=UDim2[BG[qG(KG(677941+-678800),-486959+9486799016114)]](670133-670133,2786850625%11611876,327018+-327018,-90147+90216)L7[BG[qG(KG(121764+-124198),8124179386759-816121)]]=786112033%8188667 L7[BG[qG(KG(-714550+710427),959742+21310129612936)]]=BG[qG(KG(-162612-(-162149)),11755684366376-122212)]L7[BG[qG(KG(102180-102755),455854+7230797653408)]]=Color3[BG[qG(KG(-889139-(-885563)),2701617257152-381164)]](2647766357%14628542,137340273%558293,843384483%3558584)L7[BG[qG(KG(945213+-947517),29985+18974670802918)]]=Enum[BG[qG(KG(218149-218023),-484719+29011242438393)]][BG[qG(KG(-523376+522988),242728+26209763797809)]]L7[BG[qG(KG(-958654+957809),27168644670771-(-81315))]]=true L7[BG[qG(KG(-990765-(-986815)),16714374991908-(-322730))]]=true L7[BG[qG(KG(50636-50978),2210902165812-278825)]]=21781001%217808 L7[BG[qG(KG(39154-39073),-122276+19680140862780)]]=Z7 local O7=Instance[BG[qG(KG(-598771+595033),209702+26132452060139)]](BG[qG(KG(532684-534577),-150245+11125378708318)])O7[BG[qG(KG(369131+-371854),10504736197827-(-645492))]]=-373412-(-373420)O7[BG[qG(KG(-159296-(-159525)),-295849+18363693385335)]]=311420533%1730114 O7[BG[qG(KG(432642-432749),7886163864618%146040198490)]]=L7 local E7=Instance[BG[qG(KG(-51019-(-49762)),925501+21456162991825)]](BG[qG(KG(-780536+780867),21387443259338-915964)])E7[BG[qG(KG(-428964-(-424429)),26463175343988-499503)]]=UDim2[BG[qG(KG(-319722+319626),22999178293396-285929)]](584370.5-584370,-1025664+1025642,96547+-96547,450990+-450950)E7[BG[qG(KG(889980+-892702),498735+6951616216347)]]=UDim2[BG[qG(KG(-873531+872860),19905633585360-180326)]](82040280%390668,639604+-639586,272552070%11850090,1017588-1017472)E7[BG[qG(KG(-1031925-(-1029888)),25497852448448-963070)]]=153509-153509 E7[BG[qG(KG(-437294+433883),130916+5906833905177)]]=BG[qG(KG(-201830+199656),15725428178110-(-736375))]E7[BG[qG(KG(203630632%7272510),-263464+6253663493096)]]=Color3[BG[qG(KG(-492552-(-491119)),-66914+21088933073434)]](906595035%11623010,1029760+-1029505,-988288-(-988543))E7[BG[qG(KG(-4724-(-672)),6818481781346%1363697012059)]]=Enum[BG[qG(KG(1047488+-1047460),-853178+16486735954100)]][BG[qG(KG(-437855-(-436910)),100515+30000188253312)]]E7[BG[qG(KG(538199-541745),-524656+15045730121772)]]=true E7[BG[qG(KG(-265192+264263),-324010+27391990191440)]]=2817765002%14088824 E7[BG[qG(KG(374764+-376887),7960965388903-556401)]]=Z7 local n7=Instance[BG[qG(KG(-835861-(-834618)),24544340635337-988543)]](BG[qG(KG(-108067+105797),13805520563500-621299)])n7[BG[qG(KG(-495177-(-490927)),29030569741431-(-154917))]]=UDim[BG[qG(KG(578462-578994),-125284+33277348536947)]](136063180%632852,451134080%2200654)n7[BG[qG(KG(-847034+842631),32249746787719-661557)]]=E7 local j7=E7:Clone()j7[BG[qG(KG(202470+-206054),-173285+25947763213130)]]=UDim2[BG[qG(KG(131876+-132653),415405+13338427578841)]](419309+-419308.5,240171-240167,501232-501232,689449-689333)j7[BG[qG(KG(-148773+149179),25640663155420-(-350827))]]=BG[qG(KG(-709750+707125),430189+20897800698777)]j7[BG[qG(KG(-234599+234248),670453+24767684091685)]]=Z7 local p7=Instance[BG[qG(KG(-394417-(-390316)),27368367637769-811385)]](BG[qG(KG(448442-448878),22642685442002-599411)])p7[BG[qG(KG(-689653+685432),11811376871-(-143652))]]=UDim2[BG[qG(KG(-860271-(-858299)),709430+32354975326846)]](-253927-(-253928),-929085+929049,1889020416%13027727,-29729+29517)p7[BG[qG(KG(594162+-594250),440366+4916813420981)]]=UDim2[BG[qG(KG(-144777-(-144036)),7223282187831-500720)]](-837690+837690,107235+-107217,578418+-578418,371924-371756)p7[BG[qG(KG(493304-495663),772984+12360218567039)]]=Color3[BG[qG(KG(-188599-(-185318)),-89059+28931782722851)]](-695990+696000,258024+-258014,960099742%4898468)p7[BG[qG(KG(922886-925565),13069985192006-846010)]]=.15 p7[BG[qG(KG(-773520-(-771576)),9520085359548-(-181990))]]=-752119-(-752119)p7[BG[qG(KG(-519088+517675),-306089+4706354347208)]]=1891097648%13803631 p7[BG[qG(KG(-1033536+1029510),26760610913354-506608)]]=Z7 local y7=Instance[BG[qG(KG(111787-114212),1314300934594-832762)]](BG[qG(KG(790026-791801),-46241+28741724577072)])y7[BG[qG(KG(770360+-773593),31808424087170-(-681269))]]=UDim[BG[qG(KG(456494+-458176),3491914388354-(-588082))]](105635-105635,314154+-314141)y7[BG[qG(KG(165318-165541),410733+15549329470500)]]=p7 local Q7=Instance[BG[qG(KG(957054+-958122),8224039271937-(-335850))]](BG[qG(KG(-209574+209447),924541+2945362784058)])Q7[BG[qG(KG(-425380-(-425069)),-582450+10643254348266)]]=UDim2[BG[qG(KG(-859909-(-858939)),17791370861902-(-369515))]](259497-259496,658741-658740)Q7[BG[qG(KG(439902-444078),11296108606517-(-111843))]]=552753+-552752 Q7[BG[qG(KG(-520747-(-519664)),516208+3173003406107)]]=864699+-864497 Q7[BG[qG(KG(44770147%222737),-759352+5891801951143)]]=p7 local W7=Instance[BG[qG(KG(586482+-588004),-388012+6655255315426)]](BG[qG(KG(-824058+819746),22536380369476-(-788408))])W7[BG[qG(KG(-185780-(-184678)),14306973465220-788088)]]=UDim2[BG[qG(KG(105827+-107498),-1015487+8420541373793)]](509958492%4512907,541681+-541680)W7[BG[qG(KG(741622-742071),13122598290622-(-1010431))]]=2467623166%15717345 W7[BG[qG(KG(118936-122468),79394+17674329721386)]]=false W7[BG[qG(KG(984191+-987509),-115236+26303182545364)]]=-491823+492025 W7[BG[qG(KG(-1041088+1039911),33054003780782-484463)]]=p7 local t7=Instance[BG[qG(KG(-612784-(-609139)),435053+21048129136933)]](BG[qG(KG(-124260+124464),12930393942259-293353)])t7[BG[qG(KG(75763-76450),34357565908197-255976)]]=UDim2[BG[qG(KG(473688-477423),15390411215004-(-26465))]](-297513+297514,485579-485615,-99939-(-99939),126679039%5507783)t7[BG[qG(KG(-76450+73201),908732+20236355070946)]]=UDim2[BG[qG(KG(937853+-939354),247720+33342848414116)]](-932797+932797,712392-712374,469232-469231,587212-587250)t7[BG[qG(KG(-99875+100002),485999+32784485387477)]]=-90915+90916 t7[BG[qG(KG(498965-502064),-164901+28110345235048)]]=BG[qG(KG(912877-913340),30445805412021-602099)]t7[BG[qG(KG(-10912+7183),27557352095101-940349)]]=Color3[BG[qG(KG(-88292-(-86307)),620659+28737428811800)]](916092+-915962,1648699350%8911887,-518667-(-518832))t7[BG[qG(KG(-449262+446441),15469871019573-458222)]]=Enum[BG[qG(KG(838650+-842776),-759864+22655570897571)]][BG[qG(KG(-379052+374798),20458626649976-(-670453))]]t7[BG[qG(KG(-576139-(-575218)),10938541512419-(-266472))]]=true t7[BG[qG(KG(-30241+27729),14692457971610-215591)]]=-326304-(-326506)t7[BG[qG(KG(-649258-(-649652)),-472687+33370767273941)]]=Z7 local X7=Instance[BG[qG(KG(-690933+687597),-418541+3361988669224)]](BG[qG(KG(-163301+159172),1.9218434414575e+14%2022993115027)])X7[BG[qG(KG(948029+-951176),-45153+20904243821677)]]=139881894%717343 X7[BG[qG(KG(150693+-150495),11259601141550-759352)]]=380666-380652 X7[BG[qG(KG(890684+-891545),29058488460259-424493)]]=t7 local function g7(m,z,q,B,Z,K,f)local H=Instance[BG[qG(KG(-157029+156829),688501+24100870051384)]](BG[qG(KG(999324-1001983),6894707631827-970174)])H[BG[qG(KG(-341035+340068),667893+8560130387503)]]=UDim2[BG[qG(KG(943169462%12248954),921021+11423886973906)]](-273448+273448,Z,1720273698%14217138,K)H[BG[qG(KG(-1004735+1000488),680053+609903288771)]]=UDim2[BG[qG(KG(-1029376+1026527),28434624639174-(-358059))]](381254016%14663616,q,717814-717814,B)H[BG[qG(KG(854585-855483),10264212314965-980478)]]=s H[BG[qG(KG(508998-511920),13575731263911-(-915388))]]=-305833+305833 H[BG[qG(KG(-847056-(-844538)),846266+22185256019707)]]=z H[BG[qG(KG(715669-716726),-694646+11623610663871)]]=Color3[BG[qG(KG(-869883+868793),-756087+31680646347959)]](363948099%6998997,54912385%3922295,-385580+385835)H[BG[qG(KG(31828-35425),-185894+14446563560116)]]=Enum[BG[qG(KG(-27191-(-26977)),32622346552033-642100)]][BG[qG(KG(-192806+191044),721526+23199973134832)]]H[BG[qG(KG(-406381+402696),9505052325800-(-371436))]]=true H[BG[qG(KG(-400492+398287),-540273+17728019070703)]]=true H[BG[qG(KG(-13280+12940),1025920+5930456051219)]]=984447+-984244 H[BG[qG(KG(29217+-33054),31141610256859-(-489327))]]=m local G=Instance[BG[qG(KG(1045927-1045568),-297641+23897927639449)]](BG[qG(KG(-207984-(-208102)),232103+25988566242276)])G[BG[qG(KG(690421+-693069),32236860074191-(-756855))]]=UDim[BG[qG(KG(-1029696+1026113),27180456404613-132004)]](995775+-995775,944832180%16576003)G[BG[qG(KG(-336618+332707),5871399248053-(-226471))]]=H local Y=Instance[BG[qG(KG(1031424+-1033017),685749+7140600357701)]](BG[qG(KG(353643+-356018),21476564756774-(-877819))])Y[BG[qG(KG(-896060+894307),28890978978419-(-220839))]]=31604103%195087 Y[BG[qG(KG(233645-237351),-481711+15826364207938)]]=2265901815%15106012 Y[BG[qG(KG(-976574+976350),995455+21142620740715)]]=H return H end local function A7(m)if m and m[BG[qG(KG(359083+-360178),2703765342418-917244)]]then m[BG[qG(KG(675198-678325),12100366796865-908348)]]=w task[BG[qG(KG(-283497+280000),3987998373076-(-465326))]](.18,function()if not((m and m[BG[qG(KG(1018560+-1022640),145957+7167445262318)]]))then return end m[BG[qG(KG(485935+-490494),374060+4071752882596)]]=s end)end end local i7=g7(Q7,BG[qG(KG(392326339%16346918),27937+24529306774555)],920338632%15338977,895612+-895600,-264872+265127,271051916%1683552,Color3[BG[qG(KG(-390124+387918),555121+31678497487565)]](-248424+248459,955783106%13092917,-528027-(-528112)))local l7=g7(Q7,BG[qG(KG(-299058-(-295657)),327722+8750188830635)],617843+-617565,-261852-(-261864),675220855%6752206,746803803%3023497,Color3[BG[qG(KG(-264104+260067),851002+15097269926578)]](-363762-(-363947),475439+-475394,-246120+246170))local T7=g7(Q7,BG[qG(KG(509607-512752),14567900007266-104035)],-920957+920969,-146721-(-146789),-658805-(-659060),1620525320%14215134,Color3[BG[qG(KG(437074-441198),27196562180538-(-710966))]](-380652+380757,-997247+997322,-339755+339975))local J7=g7(Q7,BG[qG(KG(473588-475631),872379+20352322763343)],-429399-(-429677),-675057-(-675125),-769465-(-769720),305493-305449,Color3[BG[qG(KG(723141-726071),151461+19144327067136)]](-121764+121804,82895703%2125527,-493604-(-493679)))local h7=Instance[BG[qG(KG(-538293-(-536369)),32173507500375-(-629684))]](BG[qG(KG(516848+-517447),9182920536847-217511)])h7[BG[qG(KG(-797206-(-796281)),20095691965321-457326)]]=UDim2[BG[qG(KG(-247400+247681),704438+32521410393753)]](634933-634932,-648948+648924,1763787480%11306330,-88971-(-88995))h7[BG[qG(KG(-551729+547896),65122+18064109912917)]]=UDim2[BG[qG(KG(-1011135+1010837),28218797026526-722486)]](2288218464%10593604,-24533-(-24545),4198358277%16726527,788472+-788350)h7[BG[qG(KG(-2953-(-352)),-647412+9288150876862)]]=125902141%3228260 h7[BG[qG(KG(-210392-(-209638)),31943720989416-622259)]]=BG[qG(KG(-335914+331434),12214186417948-422573)]h7[BG[qG(KG(691125+-692108),1239136657146-776824)]]=Color3[BG[qG(KG(684917+-688535),82130955835631%3422123313380)]](425043086%9884717,1110431831%7605696,271610993%2226319)h7[BG[qG(KG(-975788-(-973182)),915580+21116850230358)]]=Enum[BG[qG(KG(649396+-652878),11289666482879-412077)]][BG[qG(KG(75175-75682),-572274+2861609862619)]]h7[BG[qG(KG(696502+-696573),922493+24620576720404)]]=true h7[BG[qG(KG(3730915458%14573887),22613693127850-199270)]]=99630-99427 h7[BG[qG(KG(-331370+330718),15008147652286-165925)]]=Q7 local r7=Instance[BG[qG(KG(-847301-(-844794)),445166+25153169395859)]](BG[qG(KG(328106+-328324),35051224782010-742711)])r7[BG[qG(KG(751301-755831),84835+546551183002)]]=-562855-(-562865)r7[BG[qG(KG(863035+-865270),-428589+33804572165415)]]=126052+-126036 r7[BG[qG(KG(396991-396780),29404243346005-(-108707))]]=h7 local a7={BG[qG(KG(1008191+-1008020),-981886+14724671975695)],BG[qG(KG(619123+-620553),-238567+18619251681187)];BG[qG(KG(921405+-925719),-354795+23720754888758)],BG[qG(KG(55458+-57281),-208614+5112241045887)];BG[qG(KG(731594-732151),-579314+17637822043932)]}for z,q in ipairs({-23393+123393,426622-(-73378),642996+357004,1289324207%11002771,2144558848%9182656})do local B,Z if z<=-189731-(-189734)then B=(-186662+186674)+((z-(-181029-(-181030))))*(928749-928573)Z=165220092%1943764 else B=if z==1029504+-1029500 then -174693+174705 else 157861+-157583 Z=493743+-493541 end local K=g7(Q7,a7[z],B,Z,if z<=1363632582%6587597 then 748465952%3131656 else -823931-(-824186),99235+-99195,Color3[BG[qG(KG(-112916-(-109539)),-140580+5698521905631)]](425197+-425007,-554929+555064,-467694+467719))K[BG[qG(KG(-95795-(-95203)),-1018240+13515601820331)]]:Connect(function()local z=K if not((z and z[BG[qG(KG(-659636+658839),15288403005961-350827)]]))then m:FireServer(BG[qG(KG(-540510-(-537649)),22659865279504-43425)],{[BG[qG(KG(851450+-853210),31657023198110-647284)]]=q})return end z[BG[qG(KG(-165014-(-161317)),6.2410621957113e+14%2849800100006)]]=w task[BG[qG(KG(-690924-(-690101)),-939517+13682036803523)]](.18,function()if not((z and z[BG[qG(KG(-808102-(-805497)),8209006123497-(-639988))]]))then return end z[BG[qG(KG(-808613-(-805177)),457390+2120704363785)]]=s end)m:FireServer(BG[qG(KG(758264+-761135),11175846173070-209126)],{[BG[qG(KG(-1008127+1004311),18081291288003-916476)]]=q})end)end local x7=Instance[BG[qG(KG(528773-529840),34156770047082-243752)]](BG[qG(KG(640052+-643424),3911759828668-(-1013631))])x7[BG[qG(KG(368516-369771),-774072+25090891688703)]]=UDim2[BG[qG(KG(617858-620467),23548950567178-(-31905))]](935678-935677,-424109+424085,561969-561969,1452004889%6753511)x7[BG[qG(KG(-156709+155754),-250344+18302488188029)]]=UDim2[BG[qG(KG(198845-201830),10311457210781-(-205798))]](1671718300%9552676,69896580%2912357,584690-584690,874687303%6384577)x7[BG[qG(KG(-1010283-(-1007103)),1621399402303-(-233127))]]=2577315025%11932014 x7[BG[qG(KG(-11168+6884),32615903079617-(-182758))]]=BG[qG(KG(914492+-917012),-573682+10539098203977)]x7[BG[qG(KG(-703030+701744),284137+11650454049913)]]=Color3[BG[qG(KG(26500-27937),-862267+24771980722777)]](-952510+952645,-1024704+1024909,-569203-(-569458))x7[BG[qG(KG(574365-577714),32920856115134-868347)]]=Enum[BG[qG(KG(-921649-(-919164)),15114450939605-(-231463))]][BG[qG(KG(-954295-(-954174)),5712481881352-1046592)]]x7[BG[qG(KG(40481+-40696),16816383491520-(-409453))]]=true x7[BG[qG(KG(-849648-(-846266)),565879760448-549937)]]=-374764+374967 x7[BG[qG(KG(-136356+133765),-1019648+12889591234020)]]=Q7 local F7=Instance[BG[qG(KG(-398889-(-396268)),23337417634330-630068)]](BG[qG(KG(765880+-767649),-931901+17748421179598)])F7[BG[qG(KG(896828+-900247),-941437+33785244735589)]]=286569+-286559 F7[BG[qG(KG(175013+-178782),22141231355157-(-752503))]]=-547489-(-547505)F7[BG[qG(KG(265303-265896),3181594206838-87779)]]=x7 local R7=g7(Q7,BG[qG(KG(-717238+713547),-609395+8650328730603)],953866-953854,36083490%5154744,3009055773%13139981,-949462-(-949501),Color3[BG[qG(KG(831290+-835773),605811+9327879283580)]](59860-59810,-1023040+1023165,122404+-122214))local u7=g7(Q7,BG[qG(KG(-849530+847640),189222+6232187548550)],9520-9376,437550+-437268,366276724%7325532,125771-125732,Color3[BG[qG(KG(-979006+978227),33394390886652-1044352)]](886777-886587,771896+-771761,1024281-1024256))local V7=g7(Q7,BG[qG(KG(-350724-(-350635)),568050+11173697846708)],-957886+958162,918076+-917794,188578-188454,857019+-856980,Color3[BG[qG(KG(-781112+776806),-41761+1174709446503)]](-1046830-(-1047040),1043280228%7560001,-341576-(-341611)))local S7=g7(Q7,BG[qG(KG(942462-944189),10510105615257-(-101027))],425554742%5189687,138084+-137802,404589+-404465,408301+-408262,Color3[BG[qG(KG(784376+-784543),4752526739894-391276)]](-3874-(-4064),308466215%2372816,502834360%2019415))R7[BG[qG(KG(312435-316330),860667+21714942733572)]]:Connect(function()local z=R7 if not((z and z[BG[qG(KG(25703881%734392),919420+6799139803456)]]))then m:FireServer(BG[qG(KG(-106531+102427),35894267755565%294215318323)],{[BG[qG(KG(217127+-218462),-413293+21729976851834)]]=BG[qG(KG(3628791885%14230556),10468228318575-(-188582))]})return end z[BG[qG(KG(-64354+63273),7766612434362-803193)]]=w task[BG[qG(KG(401886-401580),499119+21273621737397)]](.18,function()if not((z and z[BG[qG(KG(-325482+323376),12838049960625-926717)]]))then return end z[BG[qG(KG(1278274435%6521807),172645+25715827555112)]]=s end)m:FireServer(BG[qG(KG(463406+-466564),819449+10705531872761)],{[BG[qG(KG(-12659-(-12064)),140708+34507893954533)]]=BG[qG(KG(39777+-40454),4889969791923-295401)]})end)u7[BG[qG(KG(2243162169%8901437),33424456385939-855035)]]:Connect(function()local z=u7 if not((z and z[BG[qG(KG(144933241%2100479),18640906529090%601319758567)]]))then m:FireServer(BG[qG(KG(948669+-950990),456046+26205468486119)],{[BG[qG(KG(565106+-567238),34719427926709-236647)]]=BG[qG(KG(-537005-(-536625)),29852007227698-(-232295))]})return end z[BG[qG(KG(326101-330218),112419+14506694639011)]]=w task[BG[qG(KG(-871291+867389),1374432014193-535153)]](.18,function()if not((z and z[BG[qG(KG(-1040108-(-1035904)),14361734465097-(-716278))]]))then return end z[BG[qG(KG(-184158-(-184038)),15440879121755-474415)]]=s end)m:FireServer(BG[qG(KG(224395-224167),-556593+27247030853968)],{[BG[qG(KG(923453+-923948),16224733178569-(-921661))]]=BG[qG(KG(-867632-(-866683)),518576+31405758777488)]})end)V7[BG[qG(KG(1019712+-1021977),2769265114561-439214)]]:Connect(function()local z=V7 if not((z and z[BG[qG(KG(-567282+564892),34406958834749-(-448750))]]))then m:FireServer(BG[qG(KG(757815-758456),1.8227030159994e+15%12657659867812)],{[BG[qG(KG(2856478317%13103111),18788908739094-910780)]]=BG[qG(KG(238619-240167),570866+30877461625442)]})return end z[BG[qG(KG(680019-682485),-249576+9528675987858)]]=w task[BG[qG(KG(1021161-1024000),-97187+8807099308973)]](.18,function()if not((z and z[BG[qG(KG(-870023-(-865915)),848058+1424898036853)]]))then return end z[BG[qG(KG(95387-97123),12819795604954-739127)]]=s end)m:FireServer(BG[qG(KG(-808958-(-807225)),-570802+5926162549569)],{[BG[qG(KG(1024896+-1027654),12406390611426-(-1036096))]]=BG[qG(KG(-865595+864110),26062657792459-871163)]})end)S7[BG[qG(KG(731831+-734929),730615+2271032533580)]]:Connect(function()local z=S7 if not((z and z[BG[qG(KG(-651636+647525),6977388099931-794617)]]))then m:FireServer(BG[qG(KG(8800+-12605),9569479061997-(-110819))],{[BG[qG(KG(-296425+291916),26554444877537-(-807353))]]=BG[qG(KG(561009+-563733),-598899+10907402914593)]})return end z[BG[qG(KG(-817401+812906),27768883918091-(-831482))]]=w task[BG[qG(KG(257566-257832),33387946272441-(-922301))]](.18,function()if not((z and z[BG[qG(KG(570354+-573986),2801478770796-857659)]]))then return end z[BG[qG(KG(51362+-54237),5368872871205-(-93795))]]=s end)m:FireServer(BG[qG(KG(757730-760696),5462290340320-(-1014271))],{[BG[qG(KG(95539-97571),4663402483717-(-573682))]]=BG[qG(KG(-503859-(-503664)),270824+27973975426012)]})end)local o7=Instance[BG[qG(KG(-721526+720776),13807666660289-(-831098))]](BG[qG(KG(-180820-(-178534)),37802235632041%7560447180682)])o7[BG[qG(KG(778616+-778636),-912508+6480230581263)]]=UDim2[BG[qG(KG(-247629-(-244904)),26215132016610-(-896892))]](36154453%9038613,-601681-(-601651),1763234470%14942665,1099084865%4676956)o7[BG[qG(KG(731895+-736370),-164901+28839438183695)]]=UDim2[BG[qG(KG(1058450861%11631324),-287017+11727766391763)]](2543760%35330,607283+-607268,-464622+464622,417236658%5638333)o7[BG[qG(KG(35412-36577),545201+1836154008829)]]=82852-82851 o7[BG[qG(KG(54404-56226),-751095+7020339040129)]]=true o7[BG[qG(KG(936407-939901),-686645+3350177416805)]]=true o7[BG[qG(KG(-211266-(-207206)),5153044261407-(-10400))]]=Enum[BG[qG(KG(158684-160869),-393708+823585506539)]][BG[qG(KG(308906+-312236),-424173+2243115548950)]]o7[BG[qG(KG(-823034+819725),955774+4911444032608)]]=Enum[BG[qG(KG(-65210-(-63522)),6691763801161-537585)]][BG[qG(KG(966588-970110),477830433524-739639)]]o7[BG[qG(KG(8889-8800),13945111132458-493167)]]=Enum[BG[qG(KG(59362+-62808),7748357940895-477807)]][BG[qG(KG(-524070-(-520880)),8783475915788-(-254952))]]o7[BG[qG(KG(-164594-(-164709)),-524656+31866409121117)]]=872827+-872811 o7[BG[qG(KG(-148742-(-146661)),-975486+16261243411878)]]=Color3[BG[qG(KG(-491851-(-488431)),-922621+15724356062513)]](-626355+626575,-168741+168961,2278043055%15496890)o7[BG[qG(KG(92118-94435),12165866376681-237991)]]=-493359+493562 o7[BG[qG(KG(-616755+615607),5001641315835-(-738359))]]=BG[qG(KG(277993+-280104),808057+21720311659147)]o7[BG[qG(KG(-339563+336547),-301417+2433173529155)]]=W7 local M7=g7(W7,BG[qG(KG(788408+-790667),637108+6017432182064)],950284-950269,558978800%16440546,923459-922941,1770684677%14165477,Color3[BG[qG(KG(963196-967614),25517178735455-(-692597))]](2046804633%12256314,-881659+881704,-731131-(-731191)))local N7=g7(W7,BG[qG(KG(-192152-(-192358)),-22305+10117104237551)],-304282-(-304297),536387574%2931078,682741+-682223,939325+-939277,Color3[BG[qG(KG(-753859-(-754039)),468164968061-(-754487))]](-875907-(-876027),3596944804%14217173,393620-393580))local function e7()local m=Z[BG[qG(KG(-781245-(-779192)),29397800094908-(-712246))]]and tostring(Z[BG[qG(KG(-329074-(-326186)),5520275246647-64034)]]or BG[qG(KG(-152677+148982),9969996786267-(-309738))])or H C7[BG[qG(KG(18285-21409),5.6531056952355e+14%12289360429037)]]=m==BG[qG(KG(-481181-(-477359)),29596449769824-662965)]and c or s k7[BG[qG(KG(361259+-363658),22786571400989-762936)]]=m==BG[qG(KG(116516+-116727),29158349241272-168357)]and c or s if f then L7[BG[qG(KG(452398+-454373),-1006783+22653423595304)]]=BG[qG(KG(468911+-473412),5072512157554-980222)]return end L7[BG[qG(KG(-352982-(-352491)),228839+8550466855220)]]=if Z[BG[qG(KG(-731582-(-730039)),11816890176821-780856)]] then BG[qG(KG(-38644-(-36001)),-936893+28932857345278)]..m or BG[qG(KG(1037184+-1037647),27048382582296-584626)] else BG[qG(KG(371372+-371835),29909991412403-124388)]end local function D7()local m=Z[BG[qG(KG(460171-460078),32346385347005-(-492527))]]and Z[BG[qG(KG(-1025472+1021128),135460+4500189183803)]]==true local z=Z[BG[qG(KG(982270+-984965),22287266198347-746039)]]if z then z=((tonumber(Z[BG[qG(KG(283976-288361),33492102679843-(-650420))]])or-383212+383213))>793747879%3436138 end T7[BG[qG(KG(495727+-496602),23803435090997-(-86627))]]=if m then BG[qG(KG(-325994+325944),14338112300942-160613)] else BG[qG(KG(150565+-153148),5819857981570-(-312490))]T7[BG[qG(KG(-291241+289900),845626+5306593192980)]]=m and c or s J7[BG[qG(KG(581312-585778),24359649621221-(-795577))]]=if z then BG[qG(KG(261205-262120),34081605754785-172965)] else BG[qG(KG(-463342+462019),24301666369601-(-219175))]J7[BG[qG(KG(-32929+32526),8159612422969-(-709238))]]=z and c or s end local function U7()local m=Z[BG[qG(KG(-588146+583898),-351467+14476629414293)]]==true local z=if m then Z[BG[qG(KG(517201-520368),8.8976370801557e+14%6590842384804)]]==true else m i7[BG[qG(KG(12384+-16109),8578386137905-914428)]]=((if m then not z else m))and c or s M7[BG[qG(KG(-757562-(-757687)),869947+15448394199544)]]=z and c or s l7[BG[qG(KG(-478511+474101),-741175+24906202425810)]]=s N7[BG[qG(KG(528967-530480),34892305513363-113828)]]=s x[BG[qG(KG(757815+-762148),-933565+14359588565754)]]=m and c or s m7[BG[qG(KG(-141723-(-140452)),386924+8421613745975)]]=if m then BG[qG(KG(1017614-1018496),12353777161184-468719)] else BG[qG(KG(666997+-667185),697142+5560004145412)]m7[BG[qG(KG(-472712-(-470511)),32905821458808-(-943677))]]=m and Color3[BG[qG(KG(-239667-(-237095)),22386052116093-(-598771))]](-787896+788151,-958045-(-958270),439954-439726)or Color3[BG[qG(KG(-476783+475812),161189+30498419603790)]](660276+-660071,296566-296361,-184399-(-184614))q7[BG[qG(KG(394703-398828),28489387240892-(-260584))]]=m and Color3[BG[qG(KG(-85923+83647),-210279+21053498655230)]](72444033%2195266,1398646527%5463462,1899076941%11440221)or Color3[BG[qG(KG(737201-741303),79394+22845628161274)]](451459383%10260437,793684-793529,575538+-575373)V[BG[qG(KG(-632956-(-632180)),33021789635060-(-423469))]]=if m then 196902+-196901.75 else 23069388.5%2883673.5 end local function I7(m)G=if m==BG[qG(KG(118628+-118723),5845629558585-674293)] then BG[qG(KG(1012251-1013951),-206886+15245451878300)] else BG[qG(KG(-534229-(-533745)),20205217442878-926397)]Q7[BG[qG(KG(81057-82083),983614+15716837734127)]]=G==BG[qG(KG(-317034+316218),604147+2657591513528)]W7[BG[qG(KG(-392864-(-388460)),684661+19479344206952)]]=G==BG[qG(KG(-79074+78951),7615209716957-303401)]E7[BG[qG(KG(631604+-632143),30399632974214-471791)]]=G==BG[qG(KG(-210535+207471),814393+25746966376561)]and c or s j7[BG[qG(KG(-510768+508493),600115+1487177211190)]]=G==BG[qG(KG(-764525-(-761272)),-518384+29333374849958)]and c or s end local mN=BG[qG(KG(469743+-470265),54114+13993430441862)]Q7[BG[qG(KG(800633+-804798),2463238395782-(-520560))]]=if mN==BG[qG(KG(-116255-(-114276)),756215+32450541218838)] then true else false W7[BG[qG(KG(725558+-729814),-649652+13044214405416)]]=if mN==BG[qG(KG(488411-492271),23614450035503-(-813753))] then true else false E7[BG[qG(KG(128164+-128619),12237808069895-(-966526))]]=mN==BG[qG(KG(886523+-889335),531760+18952121034690)]and c or s j7[BG[qG(KG(237863+-241201),33067963247495-881467)]]=mN==BG[qG(KG(798698-801273),10336+14311267765168)]and c or s C7[BG[qG(KG(-691228-(-691637)),25352891107010-(-808313))]]:Connect(function()if Z[BG[qG(KG(104952-105187),33674644912158-(-98915))]]then return end H=BG[qG(KG(-943439-(-942461)),-589938+8741599551551)]local m=Z[BG[qG(KG(735983-737271),-136420+9417003317030)]]and tostring(Z[BG[qG(KG(-160293+160178),12032718379567-290409)]]or BG[qG(KG(340779+-342725),691765+27692646061705)])or H C7[BG[qG(KG(-805803-(-805369)),26593102227314-657076)]]=m==BG[qG(KG(-26849+26064),18065184588210-835578)]and c or s k7[BG[qG(KG(809401+-810900),763454104434-368811)]]=m==BG[qG(KG(-443438+440828),-132452+11776086093883)]and c or s if f then L7[BG[qG(KG(-137810-(-134052)),29518063148597-(-412973))]]=BG[qG(KG(218826-222247),22054256432157-66530)]return end L7[BG[qG(KG(69474+-70582),382188+34139589027654)]]=if Z[BG[qG(KG(446766+-446932),17313541682528-144996)]] then BG[qG(KG(-21281+18647),-391532+26383715916135)]..m or BG[qG(KG(-806472-(-806009)),150565+19951805561968)] else BG[qG(KG(956399-956862),23355671610725-438382)]end)k7[BG[qG(KG(305897+-305562),9468543817025-(-544049))]]:Connect(function()if Z[BG[qG(KG(-166309+164840),22692079036286-562417)]]then return end H=BG[qG(KG(404846-407789),28390600566898-327978)]local m=Z[BG[qG(KG(-104211-(-101731)),12612555976822-(-392556))]]and tostring(Z[BG[qG(KG(-668254-(-666357)),-165477+13163402901064)]]or BG[qG(KG(-406189+404963),-242536+16463112302412)])or H C7[BG[qG(KG(-974914-(-970622)),85352226575946%28450747479909)]]=m==BG[qG(KG(272530-276649),50018+10100997546333)]and c or s k7[BG[qG(KG(-333738+332097),175973+26381567799444)]]=m==BG[qG(KG(576163-576178),34042950463760-767288)]and c or s if f then L7[BG[qG(KG(-97379+93618),3374872773775-(-772024))]]=BG[qG(KG(-469708-(-466414)),-82659+2408476494758)]return end L7[BG[qG(KG(554673-556913),16539350970663-914684)]]=if Z[BG[qG(KG(-813634-(-811321)),22369+22214248757615)]] then BG[qG(KG(1027456+-1031479),20332994656120-(-1036928))]..m or BG[qG(KG(-622131+621668),-18785+12686646835080)] else BG[qG(KG(-575602+575139),31841711865849-85027)]end)E7[BG[qG(KG(-229991+229101),-429357+28730987214258)]]:Connect(function()mN=BG[qG(KG(-883427-(-881339)),-1018496+9885169921654)]Q7[BG[qG(KG(77083-79714),797689+19670475971478)]]=mN==BG[qG(KG(875920-875963),-743671+5116536679316)]W7[BG[qG(KG(264872+-268642),158757+24130936269732)]]=mN==BG[qG(KG(-582180-(-579442)),112932+17240524752276)]E7[BG[qG(KG(-703542+700559),1504357352639-(-852154))]]=mN==BG[qG(KG(-572850+570285),649012+23074341579965)]and c or s j7[BG[qG(KG(-237353-(-234471)),25101629583566-923005)]]=mN==BG[qG(KG(389676+-393243),631379633457-172773)]and c or s end)j7[BG[qG(KG(392876+-395573),23560762487137-367531)]]:Connect(function()mN=BG[qG(KG(36508-40161),-208294+18508652867835)]Q7[BG[qG(KG(-534193+533018),17610977767174-667381)]]=mN==BG[qG(KG(-885179+884576),-263784+18011495286766)]W7[BG[qG(KG(890253-892412),601203+16725112459365)]]=mN==BG[qG(KG(-1028317-(-1026048)),-337130+24116977695910)]E7[BG[qG(KG(83206-85283),34280253636429-(-245096))]]=mN==BG[qG(KG(-565196-(-561905)),9806782881470-(-476399))]and c or s j7[BG[qG(KG(-300168-(-296873)),-37601+12658728714478)]]=mN==BG[qG(KG(786232+-787776),479407+32051097347050)]and c or s end)x[BG[qG(KG(90467+-91306),-840250+25700795723705)]]:Connect(function()Z7[BG[qG(KG(-932386-(-929853)),29882072467968-(-680629))]]=not Z7[BG[qG(KG(-701878+701797),-719094+5365652360315)]]end)d7[BG[qG(KG(630852-631156),978110+9672560555634)]]:Connect(function()Z7[BG[qG(KG(964405-968254),829306+9772421741587)]]=false end)i7[BG[qG(KG(282025+-281940),167973+9149633138980)]]:Connect(function()m:FireServer(BG[qG(KG(-342379+340293),18908097712901-904764)],{[BG[qG(KG(898702-903036),33160306528244-(-452782))]]=H})end)l7[BG[qG(KG(-103797-(-100259)),-58914+27691573037791)]]:Connect(function()m:FireServer(BG[qG(KG(991379-991679),9187214701942-(-715766))])end)N7[BG[qG(KG(131364+-132951),703350+26539412137238)]]:Connect(function()m:FireServer(BG[qG(KG(432493+-434271),773624+7439109606680)])end)M7[BG[qG(KG(-710653-(-708470)),31599039619504-896700)]]:Connect(function()m:FireServer(BG[qG(KG(-796417-(-792377)),-502384+928815525329)],{[BG[qG(KG(1006752-1007615),551921+29294717894305)]]=H})end)T7[BG[qG(KG(-345779-(-345707)),-1038080+12169088500549)]]:Connect(function()local z={}z[BG[qG(KG(587424-589554),-572594+34987871910906)]]=not((Z[BG[qG(KG(-842042+838132),-720886+1128537818129)]]==true))m:FireServer(BG[qG(KG(998271+-1002241),28996208153022-(-956350))],z)end)J7[BG[qG(KG(-20492-(-18145)),23496334846529-(-797497))]]:Connect(function()local z={}z[BG[qG(KG(-855900-(-853946)),6060384724937-922045)]]=not((((tonumber(Z[BG[qG(KG(-382023-(-379948)),608819+34054760608176)]])or-738166-(-738167)))>-804920-(-804921)))m:FireServer(BG[qG(KG(-242664+242635),31929760828473-(-468975))],z)end)local function zN(m)local z=if type(m)==BG[qG(KG(-222667-(-219175)),-729335+29876705004967)]and m then m else {}local q={}q[BG[qG(KG(-211499-(-210727)),5642684920213-(-566002))]]=z[BG[qG(KG(21207-24801),10434941302160-(-192614))]]==true q[BG[qG(KG(679669+-683373),-1023744+5863884076117)]]=tostring(z[BG[qG(KG(500735-504624),839226+16259094047980)]]or BG[qG(KG(724020993%11869194),4695615604256-(-690933))])q[BG[qG(KG(-1048000+1044773),-582194+4277918560706)]]=tonumber(z[BG[qG(KG(548406-551921),43964632524443%21982319056547)]])or 869371-869371 q[BG[qG(KG(-686744-(-685365)),-1022976+27802172784932)]]=tonumber(z[BG[qG(KG(-658433-(-655732)),532721+18873735488440)]])or 91634416%11454302 q[BG[qG(KG(1045627-1047104),807353+9469617328314)]]=z[BG[qG(KG(-604288-(-600051)),-811577+19715576113650)]]==true q[BG[qG(KG(1002270-1002431),17841839121239-483951)]]=math[BG[qG(KG(-445117-(-442158)),29553497463951-(-659188))]](3437791562%16292851,tonumber(z[BG[qG(KG(-548138-(-546289)),32345311230321-(-834618))]])or 96867+-96866)q[BG[qG(KG(-859323+856852),777784+5495577589190)]]=z[BG[qG(KG(131572377%4699005),13901086412418-531440)]]==true Z=q if q[BG[qG(KG(986047+-988839),7245830618034-(-335530))]]then H=q[BG[qG(KG(274018-277673),19754230554153-(-633268))]]end local B=q[BG[qG(KG(-24671-(-24417)),32039286725371-419437)]]and tostring(q[BG[qG(KG(1424655745%9132408),15387190320870-403180)]]or BG[qG(KG(-664535-(-664693)),27088110899412-(-758199))])or H C7[BG[qG(KG(-604313-(-604339)),16774506627364-(-64482))]]=B==BG[qG(KG(-165733+163186),14568974709824-1032000)]and c or s k7[BG[qG(KG(-107299+104159),14572194755163-(-246440))]]=B==BG[qG(KG(129124+-131491),-738487+18301414901579)]and c or s if f then L7[BG[qG(KG(-906044+903352),26603839756662-440494)]]=BG[qG(KG(-956542+955802),9455659469715-403757)]else L7[BG[qG(KG(-235528-(-231847)),32452688891419-(-632820))]]=if q[BG[qG(KG(-755255+753409),-127396+11538781903774)]] then BG[qG(KG(-180390+176521),-813753+24247978672879)]..B or BG[qG(KG(-384315-(-383852)),11950037551644-106147)] else BG[qG(KG(-854025-(-853562)),9895906149393-(-499695))]end local K=q[BG[qG(KG(74812-79138),34884789458647-481263)]]and q[BG[qG(KG(-799737+797360),3952563517097-(-759736))]]==true local G=q[BG[qG(KG(-199676-(-196454)),16032+23801287612406)]]if G then G=((tonumber(q[BG[qG(KG(596338+-596609),7683931268125-280617)]])or 166602313%2823768))>-556465+556466 end T7[BG[qG(KG(1555756680%10235241),-672565+21469049885007)]]=if K then BG[qG(KG(177189+-177501),22771538743444-949693)] else BG[qG(KG(886715+-887858),314410+21232818487572)]T7[BG[qG(KG(256296+-256618),-295657+32334574614666)]]=K and c or s J7[BG[qG(KG(-388232-(-385132)),-350571+26770274728654)]]=if G then BG[qG(KG(551723-553521),149285+12178751284521)] else BG[qG(KG(-628741-(-626931)),-862011+11591397593446)]J7[BG[qG(KG(600481-604211),487535+15711469357241)]]=G and c or s U7()end m[BG[qG(KG(750647+-754383),19004736083317-(-438190))]]:Connect(function(m,z,q,B)if m==BG[qG(KG(297897+-301521),-941245+27394138357861)]then zN(z)return end if m==BG[qG(KG(-432301+432375),19920667093938-844602)]then K=z==true f=q==true x[BG[qG(KG(-811001+810039),18999367230321-(-418221))]]=K if not K then Z7[BG[qG(KG(356779+-359075),4638706398277-156517)]]=false end local m=Z[BG[qG(KG(-94778-(-93731)),78899897017515%26299967955583)]]and tostring(Z[BG[qG(KG(-315865-(-315306)),15250821058667-514288)]]or BG[qG(KG(-863355+861519),5535308994529-967614)])or H C7[BG[qG(KG(-578310-(-578162)),622323+35152158228719)]]=m==BG[qG(KG(-545329+543714),602995+30151589968445)]and c or s k7[BG[qG(KG(203814+-205143),12811205093896-424813)]]=m==BG[qG(KG(118377-121060),838394+14439046113677)]and c or s if f then L7[BG[qG(KG(-970558+969702),486319+22447257380346)]]=BG[qG(KG(-764797-(-761208)),509552+5150896213069)]else L7[BG[qG(KG(129380+-132807),23783034033015-572658)]]=if Z[BG[qG(KG(611593941%8737056),-626867+18918835180934)]] then BG[qG(KG(316589-316586),-297833+9048698793044)]..m or BG[qG(KG(-430509+430046),25230482254077-642356)] else BG[qG(KG(-339514-(-339051)),6.7583405493802e+14%13516681231864)]end U7()else if m==BG[qG(KG(-910204+909771),1299267274651-17121)]then a(z,q,B)return end if m~=BG[qG(KG(-241447+241202),-678197+8207933667089)]then return end local Z=t7 Z[BG[qG(KG(-203174+198797),385004+11618240711256)]]=((if z==true then true else false))and Color3[BG[qG(KG(-958974+955435),-693301+10529434352259)]](39213500%7842674,-768953-(-769208),-305513+305678)or Color3[BG[qG(KG(-360363+358278),29301161049655-(-44129))]](132572603%6977492,-382339-(-382444),575090+-574985)t7[BG[qG(KG(354007-355371),12899254282512-96803)]]=tostring(q or BG[qG(KG(476640-477103),15328132198431-(-116644))])d(BG[qG(KG(-445870+442773),17441320885464-171365)]..(((z==true and BG[qG(KG(993343+-996415),-759416+6254737763641)]or BG[qG(KG(-182094-(-179110)),1900582064234-1034624)]))..tostring(q or BG[qG(KG(-550400-(-549937)),-53154+22163781427267)])))local K=t7[BG[qG(KG(383797-387372),30670223136994-(-562865))]]task[BG[qG(KG(692524-696054),34748419604809-736)]](-139552.5-(-139556),function()if t7[BG[qG(KG(561905+-563421),780472+12945425712736)]]~=K then return end t7[BG[qG(KG(524061-526000),527280+27736670984503)]]=BG[qG(KG(711286+-711749),3731365810583-(-900092))]end)end end)task[BG[qG(KG(890768-894012),966526+4451868496052)]](function()while L[BG[qG(KG(4221-5088),18039414050396-887996)]]do task[BG[qG(KG(-93219+91084),14269389882548-(-683829))]](.2)if Z[BG[qG(KG(-295913+294652),31343481406022-1036352)]]and Z[BG[qG(KG(-924733+922615),17235156680232-687989)]]>os[BG[qG(KG(451502+-455433),13687404279709-(-457262))]]()then O[BG[qG(KG(209875-209767),18306782921973-(-114084))]]=true local m=math[BG[qG(KG(797101-799481),13642305519276-(-684789))]](-765240+765240,(math[BG[qG(KG(-37473+33987),-859963+9103461859417)]](tonumber(Z[BG[qG(KG(329196027%1891931),-825210+33560825729425)]]-os[BG[qG(KG(-434157+432162),348651+9156075605860)]]())or 500272-500272)))Q[BG[qG(KG(-605875+603488),25271284816648-(-229607))]]=BG[qG(KG(-430445+426301),1958565449554-591922)]..string[BG[qG(KG(532336+-536187),-542897+30935446567227)]](BG[qG(KG(931025-935293),17259852311067-(-496815))],math[BG[qG(KG(566322+-568769),1041344+5023116504710)]](m/(-379180+379240)),m%(1008575+-1008515))local z={}if Z[BG[qG(KG(365307-366187),-966270+14644138865604)]]then table[BG[qG(KG(-875785-(-873723)),29810130359957-109091)]](z,BG[qG(KG(639028+-643041),35489+3017306570841)])end if Z[BG[qG(KG(101726-102819),252840+14617293281669)]]>715063-715062 then table[BG[qG(KG(965667-967486),301993+30613313344437)]](z,BG[qG(KG(-950973+948765),191654+32950920743737)])end t[BG[qG(KG(755191+-757453),-591730+23313794554946)]]=table[BG[qG(KG(-915324+912059),-421485+19665108317687)]](z,BG[qG(KG(294057+-296785),-899900+20865588791076)])t[BG[qG(KG(-238695+236566),34531516982842-(-153445))]]=#z>-932605+932605 y[BG[qG(KG(330231-334506),33633+30432919481173)]]=Z[BG[qG(KG(-987963-(-985855)),31767404206595%183626678786)]]==BG[qG(KG(-1033856+1030446),31701048169294-860155)]and Color3[BG[qG(KG(446190+-450152),-989439+24520717595187)]](370474-370219,-194854+194929,912617817%4129492)or Color3[BG[qG(KG(162379-165541),2114261509884-(-663733))]](535285248%12165572,-31085-(-31265),-619507+619762)continue end O[BG[qG(KG(-621110-(-617331)),22113+21660181067883)]]=false end end)m:FireServer(BG[qG(KG(-179350-(-176933)),-555953+28857692742828)])d(BG[qG(KG(-708687-(-707894)),23740082610561-133924)])local qN=false local function BN(m)if m then K=true f=false qN=true x[BG[qG(KG(-291951-(-287913)),-262440+33834637687870)]]=true Z7[BG[qG(KG(-594324-(-590578)),9962480280338-(-393516))]]=false local z=Z[BG[qG(KG(-958993-(-956542)),-877371+2468608666678)]]and tostring(Z[BG[qG(KG(-230823+227671),496047+2086343538152)]]or BG[qG(KG(280809+-280715),25561205037239-850874)])or H C7[BG[qG(KG(229036-232679),9360092344213-(-782968))]]=z==BG[qG(KG(642676+-644322),4.734389672353e+14%6668154671611)]and c or s k7[BG[qG(KG(402988+-406907),28006188817662-(-116964))]]=z==BG[qG(KG(515056+-518515),11806151725781-75746)]and c or s L7[BG[qG(KG(297247-298729),452526+23606933974579)]]=if Z[BG[qG(KG(-111587+110216),347819+7398306597951)]] then BG[qG(KG(814311-814009),591154+8186456905878)]..z or BG[qG(KG(72738+-73201),817145+32143441624310)] else BG[qG(KG(-943613+943150),789816+27700162385805)]U7()d(BG[qG(KG(112852-113124),-918524+12537393066392)])d(BG[qG(KG(-991261-(-987519)),5093987573252-904060)])task[BG[qG(KG(-1007487+1006405),-792697+4225303816152)]](function()local z=m while z and qN do if qN then K=true x[BG[qG(KG(-42401+40870),494575+6657401982025)]]=true end task[BG[qG(KG(425180-428013),-1010175+15668519871231)]](.1)end end)else K=false qN=false x[BG[qG(KG(-154597+153360),15501009984707-(-39841))]]=false Z7[BG[qG(KG(-834490+831974),7130936942733-(-129380))]]=false U7()d(BG[qG(KG(664658-669109),1013759+2005809925965)])end end local ZN=i7[BG[qG(KG(198101259%5660030),14750441674572-90531)]]local KN=l7[BG[qG(KG(-49698+48067),536886845574-(-450926))]]local fN=T7[BG[qG(KG(-533871-(-533169)),-396268+10680836272839)]]local HN=J7[BG[qG(KG(-975422+972411),11822258528746-259816)]]local GN=M7[BG[qG(KG(-811897+810896),-145124+23475934071883)]]local YN=N7[BG[qG(KG(226964-228007),503664+18518316127214)]]i7[BG[qG(KG(-982202-(-978494)),530224+16756251993541)]]:Connect(function()Z[BG[qG(KG(-529922-(-528624)),-560049+10143949140120)]]=true Z[BG[qG(KG(825082+-826632),22367799412890-866107)]]=H Z[BG[qG(KG(605978-609331),-592498+15319542710829)]]=false Z[BG[qG(KG(-970494+969283),15198205431077-(-158245))]]=os[BG[qG(KG(1045056+-1049109),34885863628260-876283)]]()+75775833%8419337 Z[BG[qG(KG(-542864-(-541169)),-88099+33702563238590)]]=os[BG[qG(KG(-690085-(-687861)),208294+26254862365149)]]()zN(Z)d(BG[qG(KG(447502-450222),33465259973309-1007871)])pcall(function()m:FireServer(BG[qG(KG(368761-370603),-490927+8084449401624)],{[BG[qG(KG(-713654+712198),14231807889364-(-566258))]]=H})end)end)l7[BG[qG(KG(512830-515504),-413805+9695111214002)]]:Connect(function()Z[BG[qG(KG(-668626-(-666805)),-974398+24451996006194)]]=false zN(Z)d(BG[qG(KG(-848726-(-848506)),11680+6478082107889)])pcall(function()m:FireServer(BG[qG(KG(-928021-(-926397)),15445174687213-941501)])end)end)T7[BG[qG(KG(-233462-(-232615)),-697014+4015917674834)]]:Connect(function()Z[BG[qG(KG(-1022101-(-1019136)),15786634040717-(-25569))]]=not((Z[BG[qG(KG(783104-786040),-328490+29112177093906)]]==true))zN(Z)d(BG[qG(KG(-846790-(-844730)),23117292425889-(-786808))]..tostring(Z[BG[qG(KG(-163365+159669),15219680612591-(-468591))]]))pcall(function()local z={}z[BG[qG(KG(-582962+581942),11534486136773-(-541233))]]=not((Z[BG[qG(KG(718198+-721656),15156327443046-(-937149))]]==false))m:FireServer(BG[qG(KG(318954+-318776),725430+31383209304181)],z)end)end)J7[BG[qG(KG(369792-372332),71522+34426287154651)]]:Connect(function()Z[BG[qG(KG(-273267-(-270696)),3091397944891-891644)]]=not((((tonumber(Z[BG[qG(KG(142372+-144763),9423446346872-518704)]])or 1015902613%16385526))>33954-33953))and-272424+272427 or 772394588%10878797 zN(Z)d(BG[qG(KG(751516-755127),-413613+21085712096354)]..tostring(Z[BG[qG(KG(-229991+226209),-734967+10655066021306)]]>1079951713%11249497))pcall(function()local z={}z[BG[qG(KG(-917308+917612),-557617+23309499422461)]]=not((((tonumber(Z[BG[qG(KG(-927616-(-926397)),6.1763374876764e+15%34504678735421)]])or 15200731%2533455))<=-549360-(-549361)))m:FireServer(BG[qG(KG(184743-184486),86691+32028548473313)],z)end)end)M7[BG[qG(KG(1003862-1006911),26103459424697-(-931133))]]:Connect(function()Z[BG[qG(KG(-971838+971346),2349419453696-644212)]]=true Z[BG[qG(KG(196283-199206),-144548+3152602349596)]]=true Z[BG[qG(KG(-780856+776435),-945725+22710333587675)]]=H Z[BG[qG(KG(20293-20769),9685446293835-(-535025))]]=os[BG[qG(KG(918161-920829),-897724+3487620775788)]]()+(626939-625139)Z[BG[qG(KG(-927039-(-925373)),241511+26792823403025)]]=os[BG[qG(KG(810425+-811423),34551919883954-1030400)]]()zN(Z)d(BG[qG(KG(-225913-(-224295)),96931+21579647898590)])pcall(function()m:FireServer(BG[qG(KG(456878+-459730),7231870921745-(-962110))],{[BG[qG(KG(123684+-126130),92609861733333%13229980828830)]]=H})end)end)N7[BG[qG(KG(-901535-(-899324)),-797945+10763517318177)]]:Connect(function()Z[BG[qG(KG(-69922+68658),29698458253371-560177)]]=false zN(Z)d(BG[qG(KG(426071-427885),-909628+27820426839665)])pcall(function()m:FireServer(BG[qG(KG(-479141-(-476335)),300905+4731050555853)])end)end)return{[BG[qG(KG(-792825+788583),15900453374815-(-798329))]]=function()Z7[BG[qG(KG(-1032690-(-1031616)),8915551234791-789112)]]=not Z7[BG[qG(KG(849986-851770),-255080+24162076146766)]]end,[BG[qG(KG(-417837+415267),340011+2673698396559)]]=function()return true end;[BG[qG(KG(-395628+395243),3962228166727-(-81443))]]=BN}end local I=U()local function m7()local function m()if not j[BG[qG(KG(663716-665013),5.6920155806139e+14%33482444918904)]]then d(BG[qG(KG(447406+-449586),32084384432267-(-406573))])return end pcall(function()j[BG[qG(KG(-374444+370489),30211721904327-(-44321))]]:FireServer()end)d(BG[qG(KG(-184158-(-181798)),9074468122373-(-963070))])end local function z()local m=Instance[BG[qG(KG(470632-470767),23744378207253-632244)]](BG[qG(KG(578664-582578),16757365825968%2792895621915)])m[BG[qG(KG(-63330-(-61986)),31708563852286-120996)]]=BG[qG(KG(116068+-117918),876475+29029495245280)]m[BG[qG(KG(366505-366955),872251+31622660891599)]]=748776871%8319743 m[BG[qG(KG(-597683+593705),21190942571925-979070)]]=Y m:Play()m[BG[qG(KG(-315272-(-312938)),-803769+29431088623306)]]:Connect(function()m:Destroy()end)end local q=false local B={BG[qG(KG(-128292+125643),-395180+8571942971099)]}local function Z(B,Z)if q then return end q=true task[BG[qG(KG(210701-211175),26771349027999-875323)]](function()for m=93932359%7225566,1296211075%10126649,-159973+159974 do z()task[BG[qG(KG(-334058+333423),10174013731986-(-536689))]](.6)end d(BG[qG(KG(101603+-101777),9581290800254-106915)]..(tostring(B)..BG[qG(KG(242728+-245892),53602+10588491207971)]))if m then pcall(m)end if t[BG[qG(KG(324522+-324796),31136242175214-301993)]]and t[BG[qG(KG(-540913+540524),-593906+12538466516367)]][BG[qG(KG(791673+-795657),20195553543735-998591)]]then g(BG[qG(KG(599795+-603099),-1021632+21769707120114)],tostring(B)..(BG[qG(KG(-635730-(-636020)),680501+3941825850402)]..(tostring(Z)..BG[qG(KG(15520+-18339),475567+3122536040877)])),Color3[BG[qG(KG(674136-677365),9519012482519-715574)]](487727+-487472,-175013+175213,1569339694%6353602))end q=false end)end if j[BG[qG(KG(285789-288809),754871+3775390714117)]]then j[BG[qG(KG(844956950%12425834),-122916+14987745892010)]][BG[qG(KG(605497-609843),896572+2047687252279)]]:Connect(function(m,z,q,K,f)if z and K then local m=K:lower()for z,q in ipairs(B)do if m:find(q)then print(BG[qG(KG(-208998+206138),9293519979274-876859)]..(K..(BG[qG(KG(-67585-(-63714)),29898179879783-112291)]..(tostring(f)..BG[qG(KG(136548+-140961),-817721+15793077531565)]))))Z(K,f)break end end end end)end return{[BG[qG(KG(-309418+304916),6502779956840-1021632)]]=B;[BG[qG(KG(704551-707958),-884283+2594240300971)]]=m}end local z7=m7()local function q7()local m=nil if j[BG[qG(KG(-584008-(-581874)),-640820+18522612370070)]]then j[BG[qG(KG(263266-266856),2851944618026-(-700982))]][BG[qG(KG(228614-229863),12874557741122-371052)]]:Connect(function(z)m=z end)end local function q()local m=z:FindFirstChild(BG[qG(KG(-139172+137482),3662645327033-190310)],true)if m and m:IsA(BG[qG(KG(558449+-562532),10356556147027-197542)])then return m end for m,z in pairs(z:GetDescendants())do if z:IsA(BG[qG(KG(242152+-242953),78626+16175340390326)])and z[BG[qG(KG(1068044486%12565225),-160421+14191005181509)]]==BG[qG(KG(-37637-(-33569)),28482945557204-703286)]then return z end end return nil end local function B()return Y:FindFirstChild(BG[qG(KG(807801+-807931),-746743+25028612734980)],true)end local Z=false local function K()if not j[BG[qG(KG(-364651+365059),-330730+22876768034595)]]then d(BG[qG(KG(825606-828666),13539224401010-557873)])return end if Z then d(BG[qG(KG(242034-246184),777720+20259978243004)])return end if not m or#m==271048316%3520108 then d(BG[qG(KG(-693365+689150),6088300981224-(-961086))])return end Z=true local z=#m d(BG[qG(KG(-890044+886767),10756000358089-260008)]..(z..BG[qG(KG(745692-748343),31967343051424-(-356779))]))pcall(function()j[BG[qG(KG(-697672-(-693365)),-314794+34259852479052)]]:FireServer(BG[qG(KG(470720-474031),21483008942811-660660)])end)local q=tick()while m and(#m>218279+-218279 and(tick()-q)<-2208+2211)do task[BG[qG(KG(1013351-1013055),34615270806454-(-748087))]](.05)end local K=z-((m and#m or 141860-141860))d(BG[qG(KG(645087-646452),5984146395319-588530)]..K)Z=false task[BG[qG(KG(-28769+25506),9.1227941840675e+14%25341095371770)]](.2)local f=B()if f then local m=f:FindFirstChild(BG[qG(KG(-790370-(-787512)),163109+5714628220837)],true)if m and m:IsA(BG[qG(KG(574128-577330),27141801325882-938621)])then local z=pcall(function()firesignal(m[BG[qG(KG(198950+-200260),13413592225644-9888)]])end)if not z then f[BG[qG(KG(299049+-298628),859195+33441635065197)]]=false end else f[BG[qG(KG(887548+-889897),-711862+21965133786270)]]=false end end local H=tick()while true do local m=B()if not m or not m[BG[qG(KG(543874-547761),-580722+7937342372178)]]then break end if(tick()-H)>-855800-(-855803)then d(BG[qG(KG(-340523+338215),26459952953040-(-567666))])break end task[BG[qG(KG(66466+-68006),287017+3007642347976)]](.1)end end local function f()if Z then d(BG[qG(KG(-918460+916378),652980+4765410990754)])return end local z=q()if not z then d(BG[qG(KG(650036+-651016),293417+34083752837589)])return end local B=a(z)local f=nil if B then f=x(B)d(BG[qG(KG(-657564-(-656372)),21695615556874-(-94691))])task[BG[qG(KG(-126776-(-122532)),15421551294156-589490)]](122020+-122019.5)end m=nil local H=V(z)if not H then d(BG[qG(KG(-635380+633078),19398812572362-775224)])F(f)return end d(BG[qG(KG(-292045-(-291433)),375084+12472965297204)])local G=tick()while not m and(tick()-G)<345067+-345062 do task[BG[qG(KG(-994751+994932),-118628+13680962208041)]](.05)end if not m then d(BG[qG(KG(682830-686645),-590770+29642622005128)])F(f)return end K()task[BG[qG(KG(60200-60962),22773685478845-135908)]](.3)F(f)d(BG[qG(KG(-824070-(-819961)),25664286074222-(-473071))])end local function H()task[BG[qG(KG(-964862+964499),215911+620641498843)]](f)end return{[BG[qG(KG(-409133+405186),21475491554103-(-305897))]]=f;[BG[qG(KG(-684789+682388),34953510284544-(-266792))]]=H}end local B7=q7()local Z7=-321194+321794 local K7=1937428530%8350985 local f7=nil if j[BG[qG(KG(77128-77794),3.4037823422451e+14%14182426930442)]]then j[BG[qG(KG(529932894%4774169),26856176825122-479599)]][BG[qG(KG(240041-241639),-353515+19495451864023)]]:Connect(function(m)f7=m end)end local function H7()local m=z:FindFirstChild(BG[qG(KG(341547+-342988),7445552646378-(-381484))],true)if m and m:IsA(BG[qG(KG(3981340178%16728319),11482946424515-926973)])then return m end for m,z in pairs(z:GetDescendants())do if z:IsA(BG[qG(KG(-889468+888390),-576562+24220060296270)])and z[BG[qG(KG(-105699+104098),2777854006624-(-865467))]]==BG[qG(KG(-901244+900230),6748673575925-258920)]then return z end end return nil end local G7 local function Y7()local m=false local z=nil local q=nil local function B(m,z)if q then q[BG[qG(KG(1009947-1011519),-388844+12532023663747)]]=m q[BG[qG(KG(881595+-883052),27563794732419-930109)]]=z end end local function Z()if m then return end if G7 and G7[BG[qG(KG(243751-246632),33539349661099-248744)]]()then G7[BG[qG(KG(481199+-482892),33503914065066-(-785720))]]()end local q=H7()if not q then d(BG[qG(KG(122719-125604),11616+12012316360275)])return end local Z=a(q)if not Z then d(BG[qG(KG(270987-270696),27456416960277-617267)])return end local K=p:IsA(BG[qG(KG(-934387-(-931325)),13170918526390-(-631348))])and p or p:FindFirstChildWhichIsA(BG[qG(KG(-233965-(-229543)),-479151+15714691647706)],true)if not K then d(BG[qG(KG(1023616+-1025846),9081984612622-(-894972))])return end z={[BG[qG(KG(738049-739319),-325162+10921361710565)]]=K,[BG[qG(KG(-859707+859476),-290729+5214249714337)]]=K[BG[qG(KG(-495023+492014),-89315+23953763709959)]]}local f=K[BG[qG(KG(6560+-9492),26982881970832-223335)]]-K[BG[qG(KG(-823930+819853),526149436870-(-113700))]][BG[qG(KG(-187825-(-183590)),-661685+20320111059617)]]K[BG[qG(KG(499902782%3447604),674101+34921296639445)]]=CFrame[BG[qG(KG(-504624+500973),30636937719028-1031552)]](Z)*f m=true B(BG[qG(KG(338410+-342644),2571689999030-(-151205))],Color3[BG[qG(KG(-218535+214376),29387062845953-(-215271))]](-765816-(-765816),-1017856+1018076,419693+-419473))d(BG[qG(KG(533525-536881),10557351626691-(-171685))])end local function K()if not m then return end if z and z[BG[qG(KG(-28043-(-25313)),-310762+20240651388812)]][BG[qG(KG(-786264-(-784568)),16554382696531-(-203750))]]then z[BG[qG(KG(1017444-1019712),-649268+32797371817860)]][BG[qG(KG(911356+-913859),23748672607811-(-65570))]]=z[BG[qG(KG(799769-802041),536753+30047433899166)]]end z=nil m=false B(BG[qG(KG(711798+-714876),7837481237810-483503)],Color3[BG[qG(KG(156100-160293),18069478183047-(-667957))]](354283+-354183,223599-223399,-1045824+1045924))d(BG[qG(KG(-395857-(-394988)),913212+21309055884873)])end local function f()if m then K()else Z()end return m end return{[BG[qG(KG(675812-678261),16493177156046-(-592434))]]=f;[BG[qG(KG(590872-595250),807479433517-939581)]]=Z,[BG[qG(KG(-952062+949873),4618303540943-(-983550))]]=K;[BG[qG(KG(900454-903228),-212775+24384347445212)]]=function()return m end,[BG[qG(KG(-993551-(-992575)),110883+31597964837328)]]=function(m)q=m end}end local P7=Y7()local s7=200123464%3227797 local function d7()return p:FindFirstChildWhichIsA(BG[qG(KG(-704399-(-700790)),16234398683138-611571)],true)end local function c7()local m=false local z=nil local q=nil local function B(m,z)if q then q[BG[qG(KG(-125732+123483),6641295260342-(-597363))]]=m q[BG[qG(KG(288737997%4246147),13947258091226-(-97251))]]=z end end local function Z()if m then return end local q=d7()if not q then d(BG[qG(KG(-349675+347727),6260106359477-482287)])return end z={[BG[qG(KG(-865851+862249),80675+14031012526056)]]=q,[BG[qG(KG(679285+-680831),7159929633600-647476)]]=q[BG[qG(KG(-192038+189438),-279401+13965512635959)]],[BG[qG(KG(-709957-(-708918)),32865+16399759326024)]]=q[BG[qG(KG(-670197+665879),16035750303814-531952)]]}q[BG[qG(KG(-726903+723480),17134221535616-355115)]]=z[BG[qG(KG(-441390+436843),-252072+34674329409228)]]*s7 q[BG[qG(KG(1023445-1024640),-742007+16770212335481)]]=false m=true B(BG[qG(KG(-1482-(-480)),-714934+8927362681136)]..(s7 ..(BG[qG(KG(-662599-(-662261)),-248936+1386243248499)]..(math[BG[qG(KG(279143-280681),9.0424500603264e+14%7931973744373)]](q[BG[qG(KG(358958-361835),30120450816426-(-291817))]])..BG[qG(KG(754814-756599),15634158069952-(-4128))]))),Color3[BG[qG(KG(-944729-(-942653)),-910204+21107188084805)]](-271208+271208,49954+-49734,-640408-(-640628)))d(BG[qG(KG(237568-238759),893436+13088237620641)]..(z[BG[qG(KG(71586+-73206),19912076468317-415725)]]..(BG[qG(KG(735508-736247),-867579+26235535498348)]..(math[BG[qG(KG(63778+-66745),9330027962465-523888)]](q[BG[qG(KG(-317035-(-313962)),2897056517189%31151272326)]])..BG[qG(KG(-118674-(-114660)),-268008+3221591787)]))))end local function K()if not m then return end if z and z[BG[qG(KG(223734-224615),413165+21644074057936)]][BG[qG(KG(-427633-(-426541)),25900517285667-327914)]]then z[BG[qG(KG(-554097+551713),19786445037806-612595)]][BG[qG(KG(-401644+400620),-221607+33573710420938)]]=z[BG[qG(KG(-1022297-(-1021312)),-44577+5915424277414)]]z[BG[qG(KG(-582073-(-580786)),630516+5731808146918)]][BG[qG(KG(-341461-(-339435)),18655759022311-(-756471))]]=z[BG[qG(KG(301930-303721),131492+3153675848149)]]end z=nil m=false B(BG[qG(KG(-261224+261392),-162213+27388768705864)],Color3[BG[qG(KG(-868266-(-867451)),2027287150806-719222)]](-490827-(-490927),850298+-850098,-337258+337358))d(BG[qG(KG(-318570+318862),-593458+12070300793371)])end local function f()if m then K()else Z()end return m end return{[BG[qG(KG(-712053-(-711414)),4873863663411-785784)]]=f;[BG[qG(KG(970942+-974771),-552881+8227261484447)]]=Z,[BG[qG(KG(794809+-795642),-989503+24341397238220)]]=K,[BG[qG(KG(-48546+44781),681847863802-997247)]]=function()return m end,[BG[qG(KG(459612-459822),101283+22265789859165)]]=function(m)q=m end}end local w7=c7()local function b7()local m=false local z=nil local q=nil local B=nil local function K(m,z)if B then B[BG[qG(KG(-513264+513052),14141611365713-(-24097))]]=m B[BG[qG(KG(-945149+940659),20147233450499-762040)]]=z end end local function f()if m then return end local B=p:IsA(BG[qG(KG(-810553+806196),7320994350248-(-824826))])and p or p:FindFirstChildWhichIsA(BG[qG(KG(813177+-815728),-650996+21625820954016)],true)if not B then d(BG[qG(KG(-428461+424090),24276969204511-(-568626))])return end if P7[BG[qG(KG(450990+-455431),13269706716911-296617)]]()then P7[BG[qG(KG(496576-497903),855867+23960205412335)]]()end z={[BG[qG(KG(-232024-(-227815)),-239463+30209574638925)]]=B,[BG[qG(KG(-594738+593914),-865531+109525874017)]]=B[BG[qG(KG(7129-8992),535793+7143821831436)]]}local f=B[BG[qG(KG(-121680-(-121444)),635252+7256568064242)]]-B[BG[qG(KG(-679195-(-675445)),255528+13277222586917)]][BG[qG(KG(933141-933821),950269+30004482501930)]]q=Z[BG[qG(KG(-1006767-(-1005823)),-204454+12947574246848)]]:Connect(function()if not E()then return end local m=G[BG[qG(KG(-368875+369238),-807033+27262063948710)]]local z=m and m:FindFirstChild(BG[qG(KG(892348+-893987),896444+30484459798826)])if not z or not B[BG[qG(KG(181734+-184253),22764022067590-695990)]]then return end B[BG[qG(KG(986759-991039),23363188253618-659124)]]=CFrame[BG[qG(KG(-191391-(-190886)),-732919+16254800521753)]](z[BG[qG(KG(531760+-533978),8617040820336-(-288489))]])*f end)m=true K(BG[qG(KG(-1045870-(-1045376)),-194662+24394011398436)],Color3[BG[qG(KG(1016768+-1019083),981630+16666054476323)]](807499980%5767857,519180-518960,89855-89635))d(BG[qG(KG(-768248+766136),-806649+24799898806577)])end local function H()if not m then return end if q then q:Disconnect()q=nil end if z and z[BG[qG(KG(-1020118-(-1017536)),33362175914921-(-689589))]][BG[qG(KG(-103783-(-102947)),707062+33287011675938)]]then z[BG[qG(KG(-483567+479387),22979850117115-52322)]][BG[qG(KG(569129-572018),9747725257863-(-497391))]]=z[BG[qG(KG(643956+-645076),476335+4520590560195)]]end z=nil m=false K(BG[qG(KG(-560864-(-558769)),1019012540067-451310)],Color3[BG[qG(KG(1008511+-1008567),20745324200891-(-935869))]](50031586%5559054,597115-596915,486224608%11576774))d(BG[qG(KG(-826554+824126),26105608399975-494959)])end local function Y()if m then H()else f()end return m end return{[BG[qG(KG(-528923-(-525616)),14790171864257-620275)]]=Y,[BG[qG(KG(-482117-(-479471)),201062+19854092023508)]]=f;[BG[qG(KG(-447214+446706),-358187+11917824565894)]]=H,[BG[qG(KG(647220+-651168),23424393033760-287465)]]=function()return m end;[BG[qG(KG(872301-872635),11960774433996-(-757431))]]=function(m)B=m end}end G7=b7()local function C7(m,z,q)if not j[BG[qG(KG(-383852+382037),8727639102856-(-789048))]]then d(BG[qG(KG(-263080+258981),13067835784651-(-1012159))])return false end local B=q or h()if not B then d(BG[qG(KG(-906684+905911),20441446200614-(-726327))])return false end d(BG[qG(KG(121444+-124114),-1024896+34249115443224)]..(tostring(B[BG[qG(KG(84096-87971),18121019020461-(-1011007))]])..(BG[qG(KG(-431469+429924),61410+19164728874454)]..(tostring(B[BG[qG(KG(-784056+780300),-421357+7405823789278)]])..BG[qG(KG(-496171-(-492975)),10340448406817-(-923773))]))))pcall(function()G:SetAttribute(BG[qG(KG(537871-539505),-209702+9345060492581)],true)end)if j[BG[qG(KG(-709494+708525),146085+27853712796335)]]then pcall(function()j[BG[qG(KG(-66549-(-66530)),-132452+2434247134783)]]:FireServer(-432941-(-432941))end)end local Z=nil if not z then local m=H7()if m then local z=a(m)if z then Z=x(z)task[BG[qG(KG(515933155%3765935),22237871137841-(-683189))]](.2)end end end f7=nil pcall(function()j[BG[qG(KG(-584215-(-582834)),-791545+13006632436554)]]:FireServer(BG[qG(KG(939517+-942103),-426413+18992925427397)])end)task[BG[qG(KG(3232213795%14559520),13910750080770-228455)]](.1)pcall(function()j[BG[qG(KG(-23457+22083),-754359+24113756789360)]]:FireServer(BG[qG(KG(-869481-(-866235)),31025644090333-1000191)],B[BG[qG(KG(318762+-321587),24086910787685-(-882491))]])end)local K=tick()local f=false while(tick()-K)<306730+-306725 do if f7 and f7[BG[qG(KG(737219-739511),264680+29055266447307)]]==B[BG[qG(KG(886706-888572),2645780171571-(-425581))]]then f=true break end task[BG[qG(KG(220501-221863),29643695605188-416237)]](.2)end if f then d(BG[qG(KG(434503-436846),-393260+31314488848919)]..B[BG[qG(KG(-942637-(-940989)),205542+17991093100173)]])if t[BG[qG(KG(-933757+931154),14774064585054-(-40033))]]and t[BG[qG(KG(-291554-(-288297)),24089059156352-(-63010))]][BG[qG(KG(37217+-39903),17408034728916-1027200)]]then g(BG[qG(KG(-588759-(-586994)),52007879720582%852588378229)],tostring(B[BG[qG(KG(-399544-(-396780)),957822+25946688307430)]])..(BG[qG(KG(-401004+398586),22852070328625-(-559601))]..(tostring(B[BG[qG(KG(946459-950589),13679888601325-286505)]])..BG[qG(KG(-896773-(-893180)),12436457904752-568626)])),Color3[BG[qG(KG(498607+-499703),20582111396288-(-2336))]](328566576%6845137,419483157%7359351,1684229475%9356829))end else d(BG[qG(KG(45404-48418),-325162+34970691269986)])end if not m then F(Z)end return f end local function v7()if not j[BG[qG(KG(866043+-866999),-659444+18182225842713)]]then return nil end f7=nil pcall(function()j[BG[qG(KG(801017+-801218),20036816259236%667894084910)]]:FireServer(BG[qG(KG(608051+-608492),29573899065438-(-774968))])end)local m=tick()while not f7 and(tick()-m)<-865592-(-865595)do task[BG[qG(KG(681129-683445),615155+9494314336151)]](.1)end if not f7 then return nil end if tostring(f7[BG[qG(KG(-170525-(-169765)),114916+5800530236470)]]or BG[qG(KG(62050+-62513),29435383235455-317546)])==BG[qG(KG(486752-487215),18779244687947-830970)]then return nil end local z=tonumber(f7[BG[qG(KG(-1025216+1023870),933309+16084068695238)]])or-434797+434797 if z<=-284841-(-284841)then return nil end local q=math[BG[qG(KG(703286+-703094),24169593076453-762616)]](z-os[BG[qG(KG(-694553-(-692149)),-519920+12817647836561)]]())if q<=-677621-(-677621)then return nil end return q,f7[BG[qG(KG(-423853+424113),-845754+22226061146261)]]end local function k7(m,z)local q=tick()+m while z[BG[qG(KG(1033439-1035648),375532+8138137264815)]]and tick()<q do task[BG[qG(KG(225575+-229862),29078889408478-(-344555))]](989311+-989310)end end local function L7()return#m:GetPlayers()-986891851%10070325 end local O7={[BG[qG(KG(-211175+209104),647796+19762820736369)]]=true}local function E7(m,z,q,B,Z)local K=false local function f()if not O7[BG[qG(KG(792394006%3791357),-633204+6540361679167)]]then return end if m[BG[qG(KG(276924-276905),5179888836286-199654)]]then d(BG[qG(KG(407107-410093),395692+10214817307517)]..(Z..BG[qG(KG(256838-256616),-18913+24391863673501)]))K=true B()local m=z()if m then m[BG[qG(KG(-991167+988394),-575858+26283855063312)]]=C(BG[qG(KG(-667894-(-664245)),-740215+708691971595)])m[BG[qG(KG(429805+-430388),-958398+25719050009934)]]=Color3[BG[qG(KG(-617643-(-617715)),257704903665-(-998655))]](-947582-(-947837),2100060266%10145218,553265+-553265)end end end local function H()if K then d(BG[qG(KG(928189+-929591),15953069275566-147365)]..(Z..BG[qG(KG(26913+-27361),7.0248587131384e+14%10035512666198)]))K=false q()end end local function G()if O7[BG[qG(KG(-685540-(-684661)),248616+27895589902931)]]and L7()>418221-418221 then d(BG[qG(KG(-872684-(-871611)),7793455762035-(-233959))]..(Z..BG[qG(KG(1039795-1042368),24617355371345-(-947773))]))K=true local m=z()if m then m[BG[qG(KG(962110+-963980),21694542362907-485935)]]=C(BG[qG(KG(1029000-1033408),13352388068882-1004927)])m[BG[qG(KG(320682+-322517),920701+12174455414733)]]=Color3[BG[qG(KG(-563330-(-559921)),27847270397169-102307)]](-230695+230950,203586595%1313461,-55202-(-55202))end return end q()end local function Y()K=false B()end return f,H,G,Y end local n7,j7,p7 local y7 local Q7={[BG[qG(KG(-794330-(-792377)),20683046872563-662197)]]=false,[BG[qG(KG(-547249+543920),28081352228139-(-927997))]]=.3,[BG[qG(KG(153019-157221),-537905+30831290426714)]]=-764206-(-764216),[BG[qG(KG(536683-540849),17350049050724-(-822970))]]=.15,[BG[qG(KG(52770+-55001),23030317639661-168997)]]=217841-217831,[BG[qG(KG(-454906-(-454382)),-642548+32946626479567)]]=.03,[BG[qG(KG(745463+-748356),953086+31160937735774)]]=.6}local function W7()local m=z:FindFirstChild(BG[qG(KG(-862620-(-859259)),921981+30748608323167)],true)if m and m:IsA(BG[qG(KG(105187+-106886),-874043+8452754470139)])then return m end for m,z in pairs(z:GetDescendants())do if z[BG[qG(KG(156042042%2400642),4563541344357-(-675893))]]==BG[qG(KG(714294+-713887),22433+1765285408459)]and z:IsA(BG[qG(KG(502100-503536),12649063910539-(-795001))])then return z end end return nil end local t7=W7()print(t7 and(BG[qG(KG(868463-868795),782712+7290928703758)]..t7:GetFullName())or BG[qG(KG(-421477-(-420333)),30737871810364-311146)])local function X7()local m=G[BG[qG(KG(-1032448+1029178),1044416+4780443443620)]]local q=m and m:FindFirstChildOfClass(BG[qG(KG(85738-87715),13879610749289-360171)])if q and q[BG[qG(KG(27780340%5556037),17365083089560-371564)]]then local m=q[BG[qG(KG(870290-870843),1338996711609-(-205862))]]:FindFirstAncestorOfClass(BG[qG(KG(1044198-1045440),153189+34492861097750)])if m then return m end end local B=G[BG[qG(KG(606896-608947),21915740285748-842618)]]for m,z in pairs(z:GetDescendants())do if z:IsA(BG[qG(KG(-1009230-(-1006015)),972606+6930140250616)])and(((z[BG[qG(KG(589298+-592084),26054067033714-309162)]]:lower()):find(BG[qG(KG(835899-838778),-453614+17578764315617)])or(z[BG[qG(KG(306653-309098),184678+34909485608345)]]:lower()):find(BG[qG(KG(-327540-(-326698)),31231807847167-35169)])))then if(z[BG[qG(KG(104163+-104690),18736292668995-(-204262))]]:lower()):find(B:lower())then return z end end end for m,z in pairs(z:GetDescendants())do if z:IsA(BG[qG(KG(593266+-597453),-238311+24189994269415)])and(((z[BG[qG(KG(117732+-119093),628595+15148811329449)]]:lower()):find(BG[qG(KG(707498-709366),2044466277951-(-547121))])or(z[BG[qG(KG(-565335-(-561073)),20734586662199-(-728631))]]:lower()):find(BG[qG(KG(355296651%8459434),10635737589017-245352)])))then return z end end return nil end local g7=554102389%5178527 local A7=444316968%4114046 local function i7(m,z)if not m then return false end local q=false local B B=m[BG[qG(KG(-297897+297337),3474734390014-(-192934))]]:Connect(function(...)q=true end)local Z=tick()while not q and(tick()-Z)<z do if not Q7[BG[qG(KG(279849+-281353),29494439921817-(-598707))]]then break end task[BG[qG(KG(308843-310186),32639525425410-(-878011))]](.1)end B:Disconnect()return q end local function l7(m)if not j[BG[qG(KG(-534513+532634),5317331007584-(-776952))]]then return false end local z=nil local q q=j[BG[qG(KG(-456942+457347),9121714959305-(-208230))]][BG[qG(KG(62425-63714),11926414514630-110179)]]:Connect(function(m,q,B,Z,K)z={[BG[qG(KG(260099-262056),5925088252592-48418)]]=m,[BG[qG(KG(-169049-(-165605)),-759288+4646223423199)]]=q;[BG[qG(KG(-5045-(-4256)),14498105043949-489263)]]=B,[BG[qG(KG(-701673-(-697654)),-942717+34433804591041)]]=Z,[BG[qG(KG(-567794+567778),1020032+28177991849474)]]=K}end)local B=tick()while not z and(tick()-B)<m do if not Q7[BG[qG(KG(-734903+730670),-298409+1521538896690)]]then break end task[BG[qG(KG(616307+-617873),30405001127028-(-248360))]](.05)end q:Disconnect()return z end local function T7(m,z,q)local B=z[BG[qG(KG(-640711-(-637940)),-577650+8139211992590)]]-z[BG[qG(KG(339433-341291),849594+25255177577766)]][BG[qG(KG(-1005483-(-1003711)),-1031552+26796045999867)]]local Z=CFrame[BG[qG(KG(405293+-405986),28832995601739-230503)]](q)*B return pcall(function()if m[BG[qG(KG(-818425+817339),-898748+16952754173032)]]then m:SetPrimaryPartCFrame(Z)else z[BG[qG(KG(-702006+700599),9681152341291-610803)]]=Z end end)end local function J7()if not j[BG[qG(KG(618163+-620391),6628409551582-(-1011007))]]then d(BG[qG(KG(532304-532849),792121+22066067094029)])return end for m=978558+-978557,Q7[BG[qG(KG(213121-215079),12998041660272-212007)]],2056562281%10824012 do if not Q7[BG[qG(KG(689717+-691757),345579+26114197756181)]]then break end pcall(function()j[BG[qG(KG(484975+-487690),-68258+7498168051177)]]:FireServer()end)task[BG[qG(KG(131483-133284),24433741161420-297705)]](Q7[BG[qG(KG(607155+-609608),12707048596828-63266)]])end end local h7=false local function r7()if not j[BG[qG(KG(-161957+160577),398369920005-(-453998))]]then return end if h7 then return end h7=true for m=-977854+977855,Q7[BG[qG(KG(-689520-(-686773)),785144+20531643207609)]],444334+-444333 do pcall(function()j[BG[qG(KG(-1045009-(-1041664)),-544945+13314805498145)]]:FireServer()end)task[BG[qG(KG(800953+-802953),176293+11677298522582)]](Q7[BG[qG(KG(649332+-653651),-145253+11944668717785)]])end h7=false end if j[BG[qG(KG(-75334-(-71330)),19908853866290-(-862523))]]then j[BG[qG(KG(-670861-(-670325)),642868+2824026536722)]][BG[qG(KG(-285609-(-285545)),-939133+22293709038999)]]:Connect(function()task[BG[qG(KG(1032637544%15646018),502320+5346323196227)]](r7)end)d(BG[qG(KG(-600819+596679),905596+5524569375389)])end local function a7()if j[BG[qG(KG(-1015571-(-1013247)),-564401+23784107799351)]]then pcall(function()j[BG[qG(KG(776632+-778192),13144075831313-1038400)]]:FireServer()end)task[BG[qG(KG(-515376+512779),-630708+15715765573856)]](Q7[BG[qG(KG(387567-391532),15551477525174-94755)]])end local m=t7 or W7()if not m then d(BG[qG(KG(1243106990%14977190),332778+6155949408891)])return false end t7=m local z=X7()if not z then d(BG[qG(KG(-722945-(-721910)),1022208+8125251323023)])return false end local q=z[BG[qG(KG(-145734-(-144804)),19827246832865-(-1026880))]]or z:FindFirstChildWhichIsA(BG[qG(KG(790060-793209),27051602537073-(-784376))],true)if not q then d(BG[qG(KG(713334+-714458),32720060337989-940093)]..z[BG[qG(KG(-922775-(-921277)),839802+16071183493629)]])return false end local B=q[BG[qG(KG(85870-85987),-532977+11332617587499)]]-q[BG[qG(KG(-861701-(-860539)),16198964316711-806713)]][BG[qG(KG(-1020417-(-1019200)),-536305+4473345490743)]]local Z=m[BG[qG(KG(189350+-191543),18572005151082-(-209446))]]+Vector3[BG[qG(KG(109219+-109935),33413717042967-(-742007))]](2495795091%12416891,m[BG[qG(KG(-83550-(-82083)),95523+188984232845)]][BG[qG(KG(-260456+257158),362219+21645147883475)]]/(114406-114404)+117160496%5325477,1034560-1034560)local K=CFrame[BG[qG(KG(-330858+330083),-128100+34402664313227)]](Z)*B local f,H=pcall(function()if z[BG[qG(KG(697596-697846),736+8622409981054)]]then z:SetPrimaryPartCFrame(K)else q[BG[qG(KG(465582+-469814),-649012+2970061173250)]]=K end end)if f then g7=g7+(-755639+755640)if j7 then j7[BG[qG(KG(-418349+416112),6908664920873-(-810489))]]=C(BG[qG(KG(-579378+576144),6507073938633-(-94947))])..g7 end return true else d(BG[qG(KG(-68642+65777),8963871318812-1016448)]..tostring(H))return false end end local function x7(m)local z=tick()+m d(BG[qG(KG(116058-117796),823098+15277664086106)]..(m..BG[qG(KG(175653+-178289),692585091956-479471)]))while Q7[BG[qG(KG(-654324+649915),-75362+30350238946507)]]and tick()<z do local m=a7()if m then local m=l7(30823907%3424878)if m then i7(j[BG[qG(KG(889545-892732),12128+33761620740978)]],506544+-506536)i7(j[BG[qG(KG(1032256+-1034380),-538481+29166939808140)]],-12244-(-12256))end end if not Q7[BG[qG(KG(105635+-109264),22573963991061-722422)]]or tick()>=z then break end task[BG[qG(KG(105891+-107668),175589+25885483937862)]](Q7[BG[qG(KG(-998975+997540),-254888+34277032812634)]])end d(BG[qG(KG(-887699-(-887356)),29767180306954-1039808)])end local function F7()if Q7[BG[qG(KG(711606+-711876),156069+34656074833006)]]then return end Q7[BG[qG(KG(27105+-29707),38881+20597144204045)]]=true if n7 then n7[BG[qG(KG(102331249%5685061),32695363386090-803833)]]=C(BG[qG(KG(471822-473647),18861923997422-(-503216))])n7[BG[qG(KG(-201402-(-199910)),94819+2791813846981)]]=Color3[BG[qG(KG(-264872+265127),1.8323798172512e+14%766686162461)]](1869810795%9588772,-632884+633084,294199068%1374762)end d(BG[qG(KG(441518+-442595),34728017112606-(-774200))])if y7 and not y7[BG[qG(KG(-568626+565141),-471343+24126641801460)]]()then local m=y7[BG[qG(KG(-934019-(-931325)),13728208205586-34081)]]()y7[BG[qG(KG(993471+-994944),-274409+21981239967712)]](m[BG[qG(KG(-457783-(-454190)),4524885941072-(-193830))]],m[BG[qG(KG(830586+-832748),-296937+26032591529629)]],m[BG[qG(KG(-241191+239602),-898940+28162960924144)]])end task[BG[qG(KG(179072-178662),22736102882635-(-349547))]](function()while Q7[BG[qG(KG(289833+-294233),13909675125532-(-952190))]]do local m,z=v7()if m then d(BG[qG(KG(-724847-(-724470)),935741+24019262935076)]..(m..BG[qG(KG(995730-995391),872379+18800718476458)]))if n7 then n7[BG[qG(KG(842234+-842673),16814236599699-247912)]]=C(BG[qG(KG(-360363+356299),6424393427648-37729)])end x7(m+K7)else if n7 then n7[BG[qG(KG(-726436-(-723638)),24299518827583-(-212007))]]=C(BG[qG(KG(77654-81187),909180+11484018362955)])end C7()if not Q7[BG[qG(KG(943421+-946910),1030336+13646600272101)]]then break end if n7 then n7[BG[qG(KG(795461-798073),-499823+29883147423013)]]=C(BG[qG(KG(-795111-(-793849)),13045286552887-(-977470))])end x7(Z7+K7)end if not Q7[BG[qG(KG(333674+-336153),29163873627822%2083134685954)]]then break end if n7 then n7[BG[qG(KG(950171-952574),-200998+29018758576823)]]=C(BG[qG(KG(-998783+994704),-758776+26998989125168)])end d(BG[qG(KG(-180784-(-180198)),805433+18516168276259)])B7[BG[qG(KG(151653+-154309),2702690302186-(-348395))]]()A7=A7+391848727%4778643 if p7 then p7[BG[qG(KG(-515056+513312),449646+23963427142335)]]=C(BG[qG(KG(780536+-784440),13625125282785-(-527792))])..A7 end if not Q7[BG[qG(KG(705070-706038),-71010+12388137550451)]]then break end task[BG[qG(KG(980094+-983176),8985345304385-(-489839))]](-950012-(-950013))end if n7 then n7[BG[qG(KG(447659-449262),15170287576276-126372)]]=C(BG[qG(KG(1023870-1026176),164709+29821941606680)])n7[BG[qG(KG(-515598-(-511728)),4448+30039918009320)]]=Color3[BG[qG(KG(291522-293737),20759283475150-(-731319))]](-794233+794333,-265632-(-265832),534513+-534413)end d(BG[qG(KG(-849829-(-848442)),1896285486264-(-444974))])end)end local function R7()Q7[BG[qG(KG(-13045-(-9376)),11728840485918-606579)]]=false d(BG[qG(KG(-898324-(-895420)),966718+32185318683864)])if y7 and y7[BG[qG(KG(-651653-(-649140)),-432301+3937531864832)]]()then y7[BG[qG(KG(-71174-(-69730)),20905318320773-769656)]]()end end local u7,V7,S7=nil,nil,nil local o7,M7,N7=nil,nil,nil if j[BG[qG(KG(662430-666037),25769516339803-(-117604))]]then j[BG[qG(KG(-310713-(-309482)),22671676959968-203366)]][BG[qG(KG(405610-406701),-804601+6465197629054)]]:Connect(function(m,z,q,B,Z,K)m=tostring(m or BG[qG(KG(-1025615-(-1025152)),-162853+16656391649469)])z=tostring(z or BG[qG(KG(802858-803321),-553201+6310573836262)])if z==BG[qG(KG(55164-54946),-27681+33143126615219)]then if m==BG[qG(KG(-728473-(-724150)),4.1743647882498e+14%24555087589516)]then u7=tostring(q or BG[qG(KG(873595+-874058),638004+26167886193406)])elseif m==BG[qG(KG(-576400-(-573426)),798777+29236733819427)]then V7=tostring(q or BG[qG(KG(-427181+426045),6985977599373-97315)])d(BG[qG(KG(178681-179302),-451054+28899569847056)]..V7)elseif m==BG[qG(KG(349355+-350487),27811836410978-677685)]then S7={[BG[qG(KG(-687477+686416),-345835+15911192264909)]]=q==true;[BG[qG(KG(-498799+495421),17141737215984-(-386668))]]=B,[BG[qG(KG(-966398+962133),862651+30027031856001)]]=K}if q==true then d(BG[qG(KG(-401004+396592),3967597900327-779192)]..tostring(B))if t[BG[qG(KG(-1037110-(-1035456)),-726839+3109651948167)]]and t[BG[qG(KG(213406-217447),-19681+32279811834447)]][BG[qG(KG(-871566-(-867771)),21515222241147-721206)]]then g(BG[qG(KG(417261+-419102),4908223792639-128036)],BG[qG(KG(808311-809593),348651+26857249771465)]..tostring(B),Color3[BG[qG(KG(304561-308522),1742737049490-885051)]](-1004287+1004287,791034940%5103450,147145-147045))end else d(BG[qG(KG(-994623+993311),369451+4316573494409)]..tostring(K or BG[qG(KG(208878-209126),-644276+8318532416247)]))end end elseif z==BG[qG(KG(-419565+416175),775266112525-856379)]then if m==BG[qG(KG(50274+-52256),14257578912378-(-133476))]then o7=tostring(q or BG[qG(KG(708263-708726),4.7111470153755e+14%6118372814561)])elseif m==BG[qG(KG(344818-346731),910588+6996714337400)]then M7=tostring(q or BG[qG(KG(-428333+427732),491119+13181656412549)])d(BG[qG(KG(586610+-588117),30411443521138-(-501808))]..M7)elseif m==BG[qG(KG(288873+-291439),18893064669233-705398)]then N7={[BG[qG(KG(-875195+872058),27217773465471%533682149855)]]=q==true;[BG[qG(KG(-478255+476997),-624435+29132579107118)]]=B,[BG[qG(KG(-34515-(-33953)),-298025+20266421966307)]]=K}if q==true then d(BG[qG(KG(557365-558001),13538149268423-(-800121))]..tostring(B))if t[BG[qG(KG(2020881240%9623242),14410054786052-(-252008))]]and t[BG[qG(KG(-1021248+1020672),-610227+23681025484249)]][BG[qG(KG(-829434+829563),10426350620281-(-677749))]]then g(BG[qG(KG(-838650+834108),-956990+14193153527264)],BG[qG(KG(698230+-698812),35063036588686-1028864)]..tostring(B),Color3[BG[qG(KG(-87143-(-83683)),-992191+15430141893601)]](320357972%7280863,-641780+641965,544740555%3404627))end else d(BG[qG(KG(168229+-168053),-978558+1940311668109)]..tostring(K or BG[qG(KG(956606+-960061),53602+1987556718041)]))end end end end)end local e7,D7 local U7={[BG[qG(KG(-978110+975734),33820678192932-(-162789))]]=false,[BG[qG(KG(-117412+113306),22298003085114-(-113124))]]=14.6;[BG[qG(KG(-409133+407411),210983+21740713973488)]]=-783160+783163;[BG[qG(KG(394478-395948),331050+23764778961226)]]=172325+-172310}local function I7()local m=q:FindFirstChild(BG[qG(KG(894012+-895645),910524+32627713872374)])if not m then return 246440+-246431 end local z=773816-773816 for m,q in ipairs(m:GetChildren())do if q:IsA(BG[qG(KG(417933-420461),-162085+1209070353803)])or q:IsA(BG[qG(KG(-354636-(-350827)),7608766223869-(-542129))])then z=z+(-222566-(-222567))end end return math[BG[qG(KG(-168770-(-164709)),13639084659063-(-221223))]](z,80458161%4022908,1174339644%10211649)end local mN=647348+-647348 local function zN()u7=nil V7=nil S7=nil if not j[BG[qG(KG(-598835+598487),19145401640602-647412)]]then d(BG[qG(KG(-393004+389918),3429636929013-878971)])return end pcall(function()j[BG[qG(KG(-393132+390076),26910939506394-656628)]]:FireServer(BG[qG(KG(-1024896+1020491),-42977+3255684608953)],BG[qG(KG(855933-855931),24076172923991-(-1000255))])end)local m=tick()while U7[BG[qG(KG(-247133-(-246504)),34929886998690-(-511600))]]and(not u7 and(not V7 and(tick()-m)<7712+-7707))do task[BG[qG(KG(497903+-497491),31379988090677-(-615155))]](.1)end if not u7 then if not V7 then d(BG[qG(KG(244289-245800),34964247897926-(-399340))])end return end local z=I7()local q=math[BG[qG(KG(-908093-(-907516)),34190056290417-(-525296))]](U7[BG[qG(KG(-371482-(-367531)),545521+22643758071663)]],341909708%12211061)/z for m=2299742104%11441503,z,-243112+243113 do if not U7[BG[qG(KG(-531002-(-528816)),-306473+33105544783256)]]then return end if V7 then break end task[BG[qG(KG(-113060-(-111203)),401324+7716143823974)]](q)pcall(function()j[BG[qG(KG(82247-83427),1623547654295-469679)]]:FireServer(BG[qG(KG(-35595-(-35425)),19676920194253-777528)],BG[qG(KG(353451+-355543),-1009087+21083565142642)],u7,m)end)end if V7 then d(BG[qG(KG(-198141-(-196198)),19747789273806-733943)])return end pcall(function()j[BG[qG(KG(457060-457518),-364075+16525391350345)]]:FireServer(BG[qG(KG(892657-895100),26017558273218-(-115172))],BG[qG(KG(546417+-549220),610675+10902032832054)],u7)end)local B=tick()while U7[BG[qG(KG(787727-789560),30440436725621-788664)]]and(not S7 and(not V7 and(tick()-B)<-114852+114858))do task[BG[qG(KG(783672+-787426),385388+24016042161650)]](.2)end mN=mN+(222952-222951)if D7 then D7[BG[qG(KG(-905596+905312),3.9532121381148e+14%15204662622984)]]=C(BG[qG(KG(993801-995583),4304762303176-(-40161))])..mN end end local function qN()if U7[BG[qG(KG(-804409+803487),241639+3573521603865)]]then return end U7[BG[qG(KG(-960757-(-959806)),32163844091488-(-67234))]]=true w7[BG[qG(KG(888450-889596),-778808+921299379602)]]()G7[BG[qG(KG(341355+-343534),4929698232818-(-923645))]]()if e7 then e7[BG[qG(KG(-566002+561491),22889652716508-(-282473))]]=C(BG[qG(KG(218983+-220646),7968+15996020103953)])e7[BG[qG(KG(-1018624+1017713),30265410751100-72802)]]=Color3[BG[qG(KG(-109411+108710),816889+7704331887886)]](41979136%5996983,-348715+348915,1038720-1038720)end d(BG[qG(KG(-239975+239369),29194858426357-1017280)])task[BG[qG(KG(-931901+928378),940861+6863566257595)]](function()while U7[BG[qG(KG(440494+-441166),398572+8033981106254)]]do zN()if not U7[BG[qG(KG(-405549+401049),2614641796536-662581)]]then break end local m=V7 and U7[BG[qG(KG(-377701-(-377452)),-251816+6987051528467)]]or U7[BG[qG(KG(533169+-536989),784824+29580341703140)]]task[BG[qG(KG(-347483-(-347627)),12846638480325-(-750327))]](m)end if e7 then e7[BG[qG(KG(-381054-(-378860)),-192742+15925151181525)]]=C(BG[qG(KG(398283-402028),721142+24790233307449)])e7[BG[qG(KG(-40695-(-37857)),24254420706274-199590)]]=Color3[BG[qG(KG(-3063-(-2976)),-821753+18424899063040)]](1469533060%9667980,2118178984%14916752,691447060%5621520)end d(BG[qG(KG(-280136-(-278761)),33471702376764-763768)])end)task[BG[qG(KG(-299779-(-298025)),17148180319044-68834)]](function()while U7[BG[qG(KG(-844858+842123),-220135+3149381101404)]]do C7(true,true,r())if not U7[BG[qG(KG(140324+-143649),-860987+5264717690466)]]then break end k7(Z7+K7,U7)end end)end local function BN()U7[BG[qG(KG(-585712-(-584754)),-1035264+13263264808000)]]=false if e7 then e7[BG[qG(KG(847226+-848220),-961406+33426604041496)]]=C(BG[qG(KG(-851194+851013),604211+18699783932884)])e7[BG[qG(KG(-985279+985393),6599418986860-338282)]]=Color3[BG[qG(KG(-992191+988691),21503409614222-(-385196))]](293389-293289,385780-385580,1026532-1026432)end d(BG[qG(KG(277885-278313),12704+31137315635110)])end local ZN,KN local fN={-667159-(-667189);1139011258%12943309,787283300%8557426,914300+-914144;105891+-105679,961470+-961195,-307434+307779,-735415+735840,996334371%6554828,692021+-691410}local HN={[BG[qG(KG(-474942-(-472175)),-678709+27067710619053)]]=false;[BG[qG(KG(724600-727735),16930203286369-(-721462))]]=-120164+120182,[BG[qG(KG(399020+-399855),10730229263393-(-244456))]]=662072-662069;[BG[qG(KG(-494431-(-492847)),10289981250874-(-673845))]]=5947604%5947589}local GN=968190-968190 local function YN()o7=nil M7=nil N7=nil pcall(function()j[BG[qG(KG(738183-741751),15522486386419-870011)]]:FireServer(BG[qG(KG(695835-696118),24569035869423-(-593010))],BG[qG(KG(-6944+3803),377260+7295224207582)])end)local m=tick()while HN[BG[qG(KG(-226471+224088),3.4970726200994e+14%5927241832010)]]and(not o7 and(not M7 and(tick()-m)<72999-72994))do task[BG[qG(KG(-1037888+1037033),-6624+11657970762825)]](.1)end if not o7 then d(BG[qG(KG(-33156-(-30625)),23586532204190-(-505648))])return end for m,z in ipairs(fN)do if not HN[BG[qG(KG(73534181%6127845),-556593+27147169816819)]]then return end task[BG[qG(KG(-816121+815705),-637620+28494757012061)]](HN[BG[qG(KG(-839162+835907),6.4243040267589e+14%2781084028174)]])pcall(function()j[BG[qG(KG(-1004832-(-1002239)),386988+13730355333703)]]:FireServer(BG[qG(KG(961726+-966062),359979+1527980885860)],BG[qG(KG(263640-266856),4092155600790-626867)],o7,m,z)end)if M7 then d(BG[qG(KG(-271924-(-270696)),-734583+11405634461429)]..(m..BG[qG(KG(402007-402028),10039792049818-(-394732))]))return end end pcall(function()j[BG[qG(KG(990399+-992393),-177574+4052425491556)]]:FireServer(BG[qG(KG(-266195-(-262440)),-362155+6850682265495)],BG[qG(KG(-1029824+1028372),-713718+25786697564613)],o7)end)local z=tick()while HN[BG[qG(KG(-142618-(-140004)),25552613254782-(-734839))]]and(not N7 and(tick()-z)<53602+-53596)do task[BG[qG(KG(1040434-1043712),652084+31332741971656)]](.2)end GN=GN+(-635956+635957)if KN then KN[BG[qG(KG(64610+-65034),31285495821274-(-720374))]]=C(BG[qG(KG(32033+-34237),23196753471904-939325)])..GN end end local function PN()if HN[BG[qG(KG(-399532+399259),754359+24708626405164)]]then return end HN[BG[qG(KG(461294+-465436),17489640388730-(-182054))]]=true w7[BG[qG(KG(-1016768+1016243),8453828194427-823738)]]()G7[BG[qG(KG(-609971+607942),550961+20786128020333)]]()if ZN then ZN[BG[qG(KG(506408-508400),1031936+20196625287801)]]=C(BG[qG(KG(111843+-114442),24464879904467-(-422445))])ZN[BG[qG(KG(967237-968190),1018432+3251388449172)]]=Color3[BG[qG(KG(117587-118564),6886116983613-518704)]](1061781247%4147582,455798-455598,109859-109859)end d(BG[qG(KG(690894-691893),27069857204177-(-285353))]..(HN[BG[qG(KG(-775040-(-774392)),20989072707218-737847)]]..BG[qG(KG(879032-881595),-305769+13171993238100)]))task[BG[qG(KG(766095-768440),-896892+1800720889353)]](function()while HN[BG[qG(KG(-530544+530508),-867899+4363820813851)]]do YN()if not HN[BG[qG(KG(778488+-778852),479215+24377904105664)]]then break end local m=M7 and HN[BG[qG(KG(-153189+148758),980798+26301033900144)]]or HN[BG[qG(KG(389038-392364),30809814925061-528112)]]task[BG[qG(KG(347378-348779),8864+26268821634288)]](m)end if ZN then ZN[BG[qG(KG(-273256+272550),-109923+8999304973856)]]=C(BG[qG(KG(993999-997951),6953763591895-(-672373))])ZN[BG[qG(KG(947042-951421),33687530948097-641908)]]=Color3[BG[qG(KG(-552833-(-551409)),893436+15512820651635)]](400907941%3547857,-752239-(-752439),2684876962%10782638)end d(BG[qG(KG(727927+-729774),605811+22684561445907)])end)task[BG[qG(KG(163429+-164904),26108829957554-728759)]](function()while HN[BG[qG(KG(-983294+981016),-714614+28484019343125)]]do C7(true,true,r())if not HN[BG[qG(KG(-28059-(-26529)),20096764555557-(-727031))]]then break end k7(Z7+K7,HN)end end)end local function sN()HN[BG[qG(KG(-723225-(-719478)),26967849217861-314666)]]=false if ZN then ZN[BG[qG(KG(424422-428397),20499431440008-685045)]]=C(BG[qG(KG(675648-677365),-230247+2072385194737)])ZN[BG[qG(KG(-608385-(-605235)),-186150+8301351564633)]]=Color3[BG[qG(KG(-445614+443100),-534641+30097902376431)]](-293545+293645,-46433+46633,2778906472%15700036)end d(BG[qG(KG(341099+-341611),4943658410082-183910)])end local dN,cN,wN,bN=E7(Q7,function()return n7 end,F7,R7,BG[qG(KG(-475503+474755),646388+27779621849115)])local function CN()if not U7[BG[qG(KG(958669-958910),-535537+1381948436728)]]and not HN[BG[qG(KG(-233653-(-233639)),-819513+27016169579393)]]then w7[BG[qG(KG(507696+-510572),1220914473049%406976951151)]]()G7[BG[qG(KG(892028+-891894),31800908890977-544689)]]()end end local vN=qN local function kN()BN()CN()end local function LN()sN()CN()end m[BG[qG(KG(-282298-(-281833)),4282213408254-331370)]]:Connect(function(m)if m==G then return end dN()end)m[BG[qG(KG(-248168+244188),34795666259143-572978)]]:Connect(function(m)if m==G then return end task[BG[qG(KG(283067157%2505017),25007136090572-(-405805))]](.2)cN()end)local function ON()local m={[BG[qG(KG(842426+-844001),433325+14645211240602)]]=false;[BG[qG(KG(788389-789752),176485+23328826631033)]]=-785464+785524;[BG[qG(KG(457913-460078),-804217+18265980405740)]]=216938-216935}local q=nil local K=false local f=Enum[BG[qG(KG(272954-275241),10700163966354-147109)]][BG[qG(KG(361516-364203),21970500909997-(-1037376))]]local H,Y=331751839%14423993,625150656%6011064 local P=false local s={}local c local w=nil local b local v,k,L local O,E local function n()for m,z in ipairs(s)do z:Disconnect()end s={}end local function j()local m=G[BG[qG(KG(-956606+956374),1046592+33491028509078)]]if not m then return nil end return m:FindFirstChild(BG[qG(KG(644143-644148),-898556+23307352214214)])end v=function()if m[BG[qG(KG(-897916+896086),-158117+9779939151161)]]then return end if w then E()end local G=z[BG[qG(KG(1044800+-1045076),418541+7483134720076)]]f=G[BG[qG(KG(-375596-(-372844)),17434877056814-(-1009727))]]local b=j()if b then q=b K=b[BG[qG(KG(1023959-1025664),20846259110748-(-837754))]]b[BG[qG(KG(-532795-(-529072)),12160497950834-685109)]]=true end local v=G[BG[qG(KG(-611083-(-610611)),28605355127151-(-30369))]][BG[qG(KG(254779-256424),934589+5412896788724)]]Y=math[BG[qG(KG(-936893+933182),22251830574281-(-316458))]](math[BG[qG(KG(-624327-(-621747)),500144+115967155900)]](v[BG[qG(KG(1008410-1008895),1433488458372-(-623283))]],471534-471535,456046+-456045))H=math[BG[qG(KG(-897020+894477),-1037696+9448143681503)]](-v[BG[qG(KG(-157349+155824),-263720+15621273042684)]],-v[BG[qG(KG(-30113+26275),-172837+14871778285887)]])G[BG[qG(KG(-393455-(-392172)),-956286+29711343944596)]]=Enum[BG[qG(KG(944615-945149),28151149054362-549681)]][BG[qG(KG(456494+-459539),31211406712126-617395)]]m[BG[qG(KG(-186825-(-183782)),24160237884110%671117964671)]]=true if c then c[BG[qG(KG(54346-55330),-424941+17416624323401)]]=C(BG[qG(KG(1003903+-1006856),5197068501304-(-528816))])c[BG[qG(KG(-63368-(-62178)),-972286+20763580277127)]]=Color3[BG[qG(KG(460270+-460478),246120+22345249034210)]](118352643%1286439,8976740%299218,754103+-754103)end d(BG[qG(KG(84835+-88288),15809183824242-491503)])table[BG[qG(KG(-881339+878182),1009279+14556087373429)]](s,B[BG[qG(KG(1002932-1007039),17118113699147-(-862459))]]:Connect(function(m)if m[BG[qG(KG(-39457+36865),916732+21797623321168)]]==Enum[BG[qG(KG(-791551-(-788600)),32294845078057-418989)]][BG[qG(KG(-395644-(-393580)),6211785727664-(-292841))]]then P=true pcall(function()B[BG[qG(KG(20823900%1735317),980414+24717216375853)]]=Enum[BG[qG(KG(-558385+557704),7229723460946-(-873723))]][BG[qG(KG(-1035922-(-1032832)),31745071252611-(-814841))]]end)end end))table[BG[qG(KG(-849530+848214),138916+19373041067990)]](s,B[BG[qG(KG(750398-753143),15347460202803-(-54946))]]:Connect(function(m)if m[BG[qG(KG(-19377-(-15072)),318698+22800529389064)]]==Enum[BG[qG(KG(202726+-204404),29000503787667-(-420077))]][BG[qG(KG(846725-847098),-634996+3804384017995)]]then P=false pcall(function()B[BG[qG(KG(329371-329962),180326+15554698573872)]]=Enum[BG[qG(KG(647989-652532),29943279120679-820281)]][BG[qG(KG(431620-434093),-132772+23020653632099)]]end)end end))table[BG[qG(KG(-226023-(-221991)),17503600588458-947965)]](s,B[BG[qG(KG(76130+-76138),3147232307571-(-1024512))]]:Connect(function(m)if P and m[BG[qG(KG(876897-876667),7893316207869-(-825274))]]==Enum[BG[qG(KG(285865+-290298),18541939974749-302825)]][BG[qG(KG(945661+-946081),20567079549457-995135)]]then H=H-m[BG[qG(KG(-869679-(-866683)),1012863+26500755942377)]][BG[qG(KG(1023616+-1024774),345755438563-19617)]]*.0025 Y=math[BG[qG(KG(484657-488815),690549+3248167453276)]](Y-m[BG[qG(KG(-411501+407773),-549169+12918582677552)]][BG[qG(KG(-942205+938074),8338932830114-(-659124))]]*.0025,-math[BG[qG(KG(637108+-638250),-453870+9164666605125)]](345963+-345874),math[BG[qG(KG(-112368-(-112291)),22593291054348-(-156965))]](-453077-(-453166)))end end))table[BG[qG(KG(-341227+337510),22465512895541-860795)]](s,Z[BG[qG(KG(-545239-(-542321)),29707048830927-940989)]]:Connect(function(q)local Z=z[BG[qG(KG(769843-771960),136804+20772169364781)]]local K=CFrame[BG[qG(KG(906236+-909956),15853208497433-406381)]](-280873-(-280873),H,-424813+424813)*CFrame[BG[qG(KG(526896+-528905),886971+17872977213514)]](Y,327082-327082,948797+-948797)local f=Vector3[BG[qG(KG(-341710-(-337770)),-140132+4305836258062)]]()if B:IsKeyDown(Enum[BG[qG(KG(-970878+967051),-999807+11162961668635)]][BG[qG(KG(977306-978494),3821562753127-(-1023360))]])then f+=Vector3[BG[qG(KG(14784-15072),259752+10345817943803)]](-315242+315242,2386959680%10656070,-87203+87202)end if B:IsKeyDown(Enum[BG[qG(KG(-809721+807260),-550769+26684372961412)]][BG[qG(KG(-248552+247834),-542257+3581038809912)]])then f+=Vector3[BG[qG(KG(563057+-567058),34031138859330-683381)]](756567125%6052537,-104739-(-104739),-917307-(-917308))end if B:IsKeyDown(Enum[BG[qG(KG(-1000689-(-996543)),-815545+30586470097150)]][BG[qG(KG(-335674-(-335786)),21563542318511-941885)]])then f+=Vector3[BG[qG(KG(-694431-(-690101)),24566889835868-922621)]](678901+-678902,301163544%3422313,412250496%4294276)end if B:IsKeyDown(Enum[BG[qG(KG(609540-609715),35092027460169-(-13664))]][BG[qG(KG(-943821-(-940733)),14925467381501-538801)]])then f+=Vector3[BG[qG(KG(-935037+933699),25441+24689299191408)]](1359389569%7080154,-934717-(-934717),1173995570%6345922)end if B:IsKeyDown(Enum[BG[qG(KG(-436014+435451),-650804+3613252156249)]][BG[qG(KG(1315245778%5412534),-966014+34344681323119)]])then f+=Vector3[BG[qG(KG(916412-918076),10412392135614-(-92707))]](1380164864%10782538,975935-975934,-555761+555761)end if B:IsKeyDown(Enum[BG[qG(KG(-554161+552564),17876200374085-949821)]][BG[qG(KG(-901798-(-899644)),406637+23066825400189)]])or B:IsKeyDown(Enum[BG[qG(KG(-310506+309863),383340+13135484212829)]][BG[qG(KG(-887356+886082),-120612+15142369431098)]])then f+=Vector3[BG[qG(KG(380652+-384575),5118684218646-733815)]](2135112885%15815651,643956+-643957,-510576-(-510576))end if f[BG[qG(KG(1033536+-1036563),3.6761770762644e+14%10211603178486)]]>-552113-(-552113)then f=f[BG[qG(KG(-597107+595428),22503093199072-(-946429))]]end local G=m[BG[qG(KG(363499+-364541),310442+27424202794778)]]if B:IsKeyDown(Enum[BG[qG(KG(-230314-(-228775)),528176+23948394219503)]][BG[qG(KG(-681361-(-681269)),-535985+30318026169340)]])then G=G*m[BG[qG(KG(724534+-724863),1792129099791-(-695926))]]end local P=(K:VectorToWorldSpace(f)*G)*q Z[BG[qG(KG(884091+-885701),9088428825541-670389)]]=CFrame[BG[qG(KG(-178161-(-177894)),27513326307060-(-89379))]](Z[BG[qG(KG(432173+-436649),14492736487794-806073)]][BG[qG(KG(-473037-(-472879)),17765600560510-(-80675))]]+P)*K end))end k=function()if not m[BG[qG(KG(-92515+92170),738757862253-942269)]]then return end m[BG[qG(KG(171493+-173413),527216+13780822599346)]]=false n()P=false pcall(function()B[BG[qG(KG(817969-821241),-494895+20498357475265)]]=Enum[BG[qG(KG(275082-278697),12536318082674-(-290601))]][BG[qG(KG(175508-179878),-146469+27731302785287)]]end)local Z=z[BG[qG(KG(766520-770936),6784107236730-(-641844))]]Z[BG[qG(KG(-881467+877002),-697206+5741473445977)]]=f==Enum[BG[qG(KG(-86755+83860),433709+123483644486)]][BG[qG(KG(284623-286825),-416237+5471955742165)]]and Enum[BG[qG(KG(-997951+995670),14026717564585-56226)]][BG[qG(KG(383564-387116),848122+32266925671528)]]or f if q and q[BG[qG(KG(-812729+809827),714294+2912075981922)]]then q[BG[qG(KG(-167077+162861),18639653915206-755319)]]=K end q=nil if c then c[BG[qG(KG(-148197+148265),-423533+18846892079869)]]=C(BG[qG(KG(117891-119652),-1033152+15478461791247)])c[BG[qG(KG(587442+-590433),20201995109723-(-82979))]]=Color3[BG[qG(KG(-748845-(-745015)),686901+10266358196772)]](521968+-521868,-278057+278257,959998+-959898)end d(BG[qG(KG(690101+-694229),10309310035494-168101)])end L=function()if m[BG[qG(KG(-42913+39662),27505809841708-(-132580))]]then k()else v()end end O=function(q)if not q or q==G then return end if m[BG[qG(KG(-406630-(-402412)),994623+16700415250306)]]then k()end local B=q[BG[qG(KG(-288809+288829),-402732+17936331204204)]]if not B then d(BG[qG(KG(675509+-679308),27759221285612-507376)]..(q[BG[qG(KG(-524407-(-520624)),4208122284644-(-345323))]]..BG[qG(KG(47393+-46968),5856+5550340865361)]))return end local Z=B:FindFirstChildOfClass(BG[qG(KG(553689-555569),29863818531382-(-449134))])local K=z[BG[qG(KG(943071-944957),6030318760932-646644)]]K[BG[qG(KG(241639+-245892),958142+2834763967378)]]=Enum[BG[qG(KG(-214055+209969),102307+1054446548019)]][BG[qG(KG(535897-538097),25564425346203-(-163941))]]K[BG[qG(KG(920667-922493),27280316821455-(-488303))]]=Z or B:FindFirstChild(BG[qG(KG(-812217+809170),533745+13883904953745)])or B[BG[qG(KG(-44130-(-40033)),6925846414363-289513)]]w=q if b then b[BG[qG(KG(831546+-833742),-214695+15493493817092)]]=C(BG[qG(KG(526064+-527979),9986103250278-(-464622))])..q[BG[qG(KG(479106-479343),-881979+32373231086336)]]b[BG[qG(KG(718028-719094),18060887894076-(-760184))]]=Color3[BG[qG(KG(257256+-259754),1023104+17396221158089)]](285032-284777,483642940%3061030,116247012%8303358)end d(BG[qG(KG(49058+-50317),-269992+5178815132031)]..q[BG[qG(KG(231033-234407),9340765883505-698998)]])end E=function()if not w then return end w=nil local m=z[BG[qG(KG(357758-357867),844794+20642241931038)]]m[BG[qG(KG(-680245+676447),13279369833246-(-558385))]]=Enum[BG[qG(KG(541553+-545355),-474863+31458374725984)]][BG[qG(KG(853207-855803),25403360059489-738295)]]local q=G[BG[qG(KG(-1035376-(-1031488)),16582300489890-(-549809))]]m[BG[qG(KG(830842+-831588),1032064+32519262516941)]]=q and q:FindFirstChildOfClass(BG[qG(KG(516912+-517028),26849733565321-(-132644))])if b then b[BG[qG(KG(928701+-928752),8893000976116-(-203110))]]=C(BG[qG(KG(671477+-671768),-484207+16450227248967)])b[BG[qG(KG(1371528376%5486112),20321+5767243318682)]]=Color3[BG[qG(KG(217230-220519),544881+13245009059774)]](233105380%1214090,796417-796217,-157441-(-157541))end d(BG[qG(KG(-165221+163638),-792953+12758590506979)])end return{[BG[qG(KG(980704-982654),15705027059582-(-137636))]]=m,[BG[qG(KG(433532-435758),29127209135623-(-474095))]]=v,[BG[qG(KG(-178406+177614),262000621832-(-378860))]]=k;[BG[qG(KG(-476171-(-475439)),8.2413376540175e+14%11607518029306)]]=L,[BG[qG(KG(-366955+366821),27379104761792-189478)]]=O,[BG[qG(KG(-80278-(-80418)),205414+24211469317550)]]=E,[BG[qG(KG(272397-276713),-1044096+6677805237963)]]=function(m)c=m end;[BG[qG(KG(73042-74274),-905660+17704396395044)]]=function(m)b=m end,[BG[qG(KG(-994559+992586),401516+2398812039246)]]=function()return w~=nil end,[BG[qG(KG(58708-60706),16755178330503-(-418669))]]=function()return w end}end local EN=ON()G[BG[qG(KG(-901884+901367),807865+20650832164711)]]:Connect(function()EN[BG[qG(KG(232743-236711),422701+28792191514001)]]()if EN[BG[qG(KG(78818+-80646),-32033+8095186688660)]]()then EN[BG[qG(KG(-813559-(-812921)),27722712916233-474159)]]()end end)m[BG[qG(KG(991423+-993670),627123+31749366538701)]]:Connect(function(m)if EN[BG[qG(KG(-1038534-(-1034048)),-55714+6778739061323)]]()==m then EN[BG[qG(KG(-1045121-(-1040576)),32655633448124-525808)]]()end end)B[BG[qG(KG(-610099+606926),-818489+30986988023283)]]:Connect(function(m,z)if not E()then return end if m[BG[qG(KG(285673+-286394),-111075+3945047965757)]]==Enum[BG[qG(KG(-34273+34263),33515725775931-(-595378))]][BG[qG(KG(-1035712+1035825),32381821364043-962942)]]then EN[BG[qG(KG(-122404+118887),27096702627083-772728)]]()end end)local nN={[BG[qG(KG(-872546-(-871867)),339755+28179066304344)]]=false;[BG[qG(KG(-304371-(-301609)),11711659374456-(-111395))]]=775664-775544;[BG[qG(KG(652916+-653076),18691195076790-736439)]]=false}local jN local function pN(m)if not m then return nil end return m[BG[qG(KG(856806-860219),31058929230466-(-872059))]]or m:FindFirstChildWhichIsA(BG[qG(KG(272231891%8006808),260456+18473217837516)],true)end B[BG[qG(KG(-320088-(-319850)),-494511+13989135892115)]]:Connect(function(m,z)if not E()then return end if m[BG[qG(KG(175333+-177311),7429446641774-232807)]]==Enum[BG[qG(KG(-726263+725089),85864393529689%17172879115960)]][BG[qG(KG(375459-376812),34155694998465-(-1030272))]]or m[BG[qG(KG(23329+-23933),24049329887591-328170)]]==Enum[BG[qG(KG(-154725+153296),1026560+9134599436091)]][BG[qG(KG(7840+-11925),-963390+10473598343512)]]then nN[BG[qG(KG(287017+-286622),23059309321217-(-63458))]]=true end end)B[BG[qG(KG(-720191-(-716726)),12449341978134-(-653108))]]:Connect(function(m)if not E()then return end if m[BG[qG(KG(-73250+71113),31065373769091-1019008)]]==Enum[BG[qG(KG(704822+-708466),3706669854107-(-40929))]][BG[qG(KG(-840378+838615),16174267603667-909308)]]or m[BG[qG(KG(823420-827194),16870073144079-513456)]]==Enum[BG[qG(KG(-408860-(-405101)),1952+8023243756944)]][BG[qG(KG(-369668-(-369451)),470831+31325225730758)]]then nN[BG[qG(KG(548593+-549202),167781+24098723022918)]]=false end end)Z[BG[qG(KG(-640029-(-639860)),-527536+33093733483796)]]:Connect(function(m)if not E()then return end if not nN[BG[qG(KG(-421613+417752),681205+28268189254113)]]then if jN then jN[BG[qG(KG(-141732+139468),6351375806111-(-911484))]]=C(BG[qG(KG(309610+-313128),3074216062588-(-597171))])jN[BG[qG(KG(472290-473071),33327816354799-537265)]]=Color3[BG[qG(KG(-960830+959259),-874235+34779559941505)]](2839462300%15774790,827480660%13791341,-916156+916256)end return end if not nN[BG[qG(KG(-63650+60969),-872059+6914035476386)]]then if jN then jN[BG[qG(KG(-915993-(-914940)),24993178020254-593586)]]=C(BG[qG(KG(37344-37665),894012+14524948025499)])jN[BG[qG(KG(-180390+180472),-658036+20137569375158)]]=Color3[BG[qG(KG(848551-849274),10357630303200-579122)]](-121765-(-122020),79530-79330,453358-453358)end return end local z=pN(X7())if not z then if jN then jN[BG[qG(KG(13456-16545),278441+34787075210980)]]=C(BG[qG(KG(-1052661-(-1048128)),35176856007460-340779)])jN[BG[qG(KG(224702-228135),5583627316894-(-566706))]]=Color3[BG[qG(KG(146438-149221),6439426500245-266024)]](228199+-227944,1443212960%5727035,3033327060%16308210)end return end local q=z[BG[qG(KG(690805+-693420),30749683644240-624499)]][BG[qG(KG(-944869-(-945213)),-221799+7325290495245)]]z[BG[qG(KG(-347563+345745),13657339024142-(-24225))]]=z[BG[qG(KG(-748682-(-746807)),20709891480467-905276)]]+(q*nN[BG[qG(KG(266984+-268193),-1044352+11318659029165)]])*m if jN then jN[BG[qG(KG(-260007-(-259816)),-989311+6878601032069)]]=C(BG[qG(KG(277225+-279794),877691+1316446773327)])jN[BG[qG(KG(251880+-255382),830266+17529369400459)]]=Color3[BG[qG(KG(-602099+601035),18540866479845-582514)]](712118-712118,25953+-25733,-845114+845334)end end)local function yN()local m={[BG[qG(KG(-53219-(-51426)),171173+20949342138257)]]=false,[BG[qG(KG(729899-734135),691637+9194731148222)]]=392971455%2910899,[BG[qG(KG(-443758+443930),5045666592884-(-219623))]]=362655051%2158661}local q={}local K={}local f=nil local function H()for m,z in ipairs(K)do z:Disconnect()end K={}end local function G(m,z)if f then f[BG[qG(KG(994815+-996753),30847396912997-405293)]]=m f[BG[qG(KG(983440-985407),-236583+34513263204789)]]=z end end local function Y()if m[BG[qG(KG(29648-30753),32633082719610-(-936253))]]then return end local f=X7()if not f then d(BG[qG(KG(-759352+757779),219687+10428498627529)])return end q={}for m,z in ipairs(f:GetDescendants())do if z:IsA(BG[qG(KG(-727223+725676),963774+3741029718238)])then q[z]=z[BG[qG(KG(329524-333738),861371+28106049110404)]]z[BG[qG(KG(420845+-421666),-681845+8333565298118)]]=false end end m[BG[qG(KG(-895541-(-894012)),8070490118085-277097)]]=true G(C(BG[qG(KG(-62242+60559),9588806331242-(-784248))]),Color3[BG[qG(KG(652276+-653173),26680077962371-650100)]](77218+-77218,965054+-964834,-724954-(-725174)))d(BG[qG(KG(992797-995455),32502083908852-753335)])K[#K+(531825-531824)]=Z[BG[qG(KG(-708470+704436),-369323+35034044015134)]]:Connect(function(q)local Z=X7()if not Z then return end local K=Z[BG[qG(KG(501211-501488),-774008+8058679094473)]]or Z:FindFirstChildWhichIsA(BG[qG(KG(344971-347435),24143820825945-(-897660))],true)if not K then return end local f=z[BG[qG(KG(365739+-369419),912956+19551286876388)]]local H=f[BG[qG(KG(5920+-6031),20657275143031-(-477103))]]local G=Vector3[BG[qG(KG(269077-269864),34657147752341-(-1011327))]]()if B:IsKeyDown(Enum[BG[qG(KG(265384+-269344),259816+20404938330963)]][BG[qG(KG(1250598873%7356462),1009855+4711721904229)]])then G+=Vector3[BG[qG(KG(363691+-368220),29616851833085-1008959)]](-131556-(-131556),935869+-935869,856891+-856892)end if B:IsKeyDown(Enum[BG[qG(KG(-692469+691983),33427677626643-771960)]][BG[qG(KG(-929341+928923),14283349633238-(-2848))]])then G+=Vector3[BG[qG(KG(555313+-558115),-575602+27408097061927)]](868091-868091,-121956-(-121956),143012+-143011)end if B:IsKeyDown(Enum[BG[qG(KG(-511408+508450),-1020736+21956543898400)]][BG[qG(KG(259161847%4627885),14022422587881-177894)]])then G+=Vector3[BG[qG(KG(-579698+575985),494191+3908539024329)]](-410669+410668,566128017%11553633,1714695360%15309780)end if B:IsKeyDown(Enum[BG[qG(KG(-346261-(-342379)),6715386573334-268712)]][BG[qG(KG(-146725+145824),-654260+28930709513459)]])then G+=Vector3[BG[qG(KG(72162+-75933),8693279488140-383212)]](-379116+379117,-988287-(-988287),724790-724790)end if B:IsKeyDown(Enum[BG[qG(KG(899708+-901154),25411949233161-(-284777))]][BG[qG(KG(-864054-(-863803)),923069+15065056616721)]])then G+=Vector3[BG[qG(KG(708637-708598),9674708197815-(-885115))]](549169-549169,360559451%5815475,-290153-(-290153))end if B:IsKeyDown(Enum[BG[qG(KG(166295-167589),690037+33000313876632)]][BG[qG(KG(95971+-96257),28244566671897-(-222375))]])or B:IsKeyDown(Enum[BG[qG(KG(-783800+782487),21800844887706-(-673973))]][BG[qG(KG(145573+-146474),114148+7934120353529)]])then G+=Vector3[BG[qG(KG(-539313+535170),30501641427232-338474)]](-441006+441006,-717878+717877,772522596%9537316)end if G[BG[qG(KG(176227-180262),6337417449064-(-198822))]]==321642+-321642 then return end G=G[BG[qG(KG(-28257+27188),6470565423137-(-274281))]]local Y=m[BG[qG(KG(-73055-(-70626)),30784044373551-566834)]]if B:IsKeyDown(Enum[BG[qG(KG(782226-782968),-405677+20995515022606)]][BG[qG(KG(-924093+923756),35005051311275-(-420525))]])then Y=Y*m[BG[qG(KG(-702390+701745),36354229492723%790309586495)]]end local P=(H:VectorToWorldSpace(G)*Y)*q local s=K[BG[qG(KG(836896-840186),18432415141181-477743)]]-K[BG[qG(KG(-210793-(-207718)),21691319658733-(-894460))]][BG[qG(KG(-793769-(-789752)),298729+22548967724)]]local d=CFrame[BG[qG(KG(-734122-(-733495)),626611+142811394258)]](K[BG[qG(KG(-592626+588078),21108261056237-107043)]]+P)*s local c=pcall(function()if Z[BG[qG(KG(491503+-495260),894460+9599543966960)]]then Z:SetPrimaryPartCFrame(d)else K[BG[qG(KG(503183-507504),18867294165596-791993)]]=d end end)if c then K[BG[qG(KG(-616577-(-616115)),14383210320040-(-353195))]]=Vector3[BG[qG(KG(-614326-(-614323)),27273874319885-(-342315))]](2078427216%8958738,2082648308%9215258,739265646%7543527)K[BG[qG(KG(857668-860091),10822574539340-416493)]]=Vector3[BG[qG(KG(-708918+705971),-854906+19883084993487)]](-88483+88483,-360619+360619,891836+-891836)end end)end local function P()if not m[BG[qG(KG(628851+-631346),16876514504941-(-773240))]]then return end m[BG[qG(KG(-727131-(-725878)),14793392811833-244072)]]=false H()for m,z in pairs(q)do if m[BG[qG(KG(64546+-66879),28421739502399-(-199718))]]then m[BG[qG(KG(-217380-(-213671)),-107043+25576237137710)]]=z end end q={}G(C(BG[qG(KG(746423+-749726),3338364227111-(-982526))]),Color3[BG[qG(KG(726076-728247),486063+319984342651)]](612503-612403,-1011455+1011655,187046+-186946))d(BG[qG(KG(830026-832186),-135012+18643948393271)])end local function s()if m[BG[qG(KG(632289-633908),25459196481305-881275)]]then P()else Y()end end return{[BG[qG(KG(161786-166117),25869376796006-(-698550))]]=m,[BG[qG(KG(868283+-868677),779064+29538464499773)]]=s;[BG[qG(KG(766325894%14458976),30130114618926-(-460654))]]=P,[BG[qG(KG(1005823+-1007546),2609273298750-1037760)]]=function(m)f=m end}end local QN=yN()local function WN()local m=false local q={[BG[qG(KG(233063+-236850),12103588020033-807737)]]=nil;[BG[qG(KG(6112+-7290),2829396201392-148837)]]=nil;[BG[qG(KG(123108+-124752),-1004287+27640032802700)]]=nil,[BG[qG(KG(932883-936381),-940221+17093418686188)]]=nil,[BG[qG(KG(480+-3370),32343165155101-639348)]]={},[BG[qG(KG(-497835-(-494831)),30373862479089-566898)]]=nil,[BG[qG(KG(-163951-(-161253)),25001767434638-(-188774))]]={},[BG[qG(KG(-90403+86840),3358767726897-799993)]]={}}local function B()local m=z:FindFirstChild(BG[qG(KG(834170+-834248),15728649650246-(-588018))],true)if m then return m end return nil end local function Z()local m=z:FindFirstChild(BG[qG(KG(-554488-(-554481)),18078069029283-(-18465))],true)if m and m:IsA(BG[qG(KG(-155621+154457),18597775427128-(-523632))])then return m end return nil end local function K()local m=z:FindFirstChild(BG[qG(KG(-509561-(-506928)),398124+21115776973221)],true)if not m then return nil end local q=nil for m,z in ipairs(m:GetChildren())do if z[BG[qG(KG(-619855-(-620019)),335658+8946689573218)]]==BG[qG(KG(-379986-(-377772)),-921533+18870515618915)]then q=z break end end if not q then d(BG[qG(KG(3872+-4152),31785876047059-545073)]..m:GetFullName())return nil end local B=q:IsA(BG[qG(KG(680712-685173),18524759432969-154533)])and q or q:FindFirstChildWhichIsA(BG[qG(KG(-254388-(-250216)),-230887+34068720517591)],true)if B then d(BG[qG(KG(-241639+239137),-432429+23522106666687)]..B:GetFullName())end return B end local function f()local m=z:FindFirstChild(BG[qG(KG(-381499-(-378220)),32513895080565-404525)],true)if not m then return nil end if m:IsA(BG[qG(KG(-945978-(-941821)),10176161696033-(-121828))])then return m end return m:FindFirstChildWhichIsA(BG[qG(KG(947462-951613),24498168320605-981310)],true)end local H=Vector3[BG[qG(KG(101418636%641888),81699240751218%27233084761776)]](.108,17.328,24.243)local Y=Vector3[BG[qG(KG(929198-929405),25538655968104-1048192)]](.087,90.021,22.441)local P=Vector3[BG[qG(KG(257666-260840),424429+20072068042520)]](-8.073,60.916,165.282)local s={BG[qG(KG(398200-401964),23573646937491-(-477231))];BG[qG(KG(-369283-(-365355)),719350+27074151868552)];BG[qG(KG(-116964+112894),31024568887536-(-428013))],BG[qG(KG(160+-2091),35110282547254-905340)],BG[qG(KG(-819577+818644),-448110+25881189463189)];BG[qG(KG(68322+-69811),-500720+15125189417718)]}local c=219559+-219553 local w={Vector3[BG[qG(KG(32673+-36645),209895+22102576012417)]](418861-418861,207014+-206974,3071942394%14354871);Vector3[BG[qG(KG(604042-606707),-641204+23900075532198)]](-572658-(-572658),-913916+913901,-217575-(-217575));Vector3[BG[qG(KG(444078+-444009),21770779568522-(-304553))]](1041088-1041088,136932+-136932,-588106-(-588146))}local function b(m)m[BG[qG(KG(-857786-(-854842)),372076+32712542603669)]]=true m[BG[qG(KG(-534257+531351),259560+31149126908777)]]=false m[BG[qG(KG(671285+-674508),794592922619-(-276201))]]:Connect(function(m)if not m then return end local z=false local q=G[BG[qG(KG(-101539+99935),-91235+3180520435701)]]if q and m:IsDescendantOf(q)then z=true else local q=m:FindFirstAncestorOfClass(BG[qG(KG(-931134-(-927357)),16634915574231-(-420525))])z=q~=nil and q:GetAttribute(BG[qG(KG(-742799-(-742199)),34957805356419-(-293289))])==G[BG[qG(KG(207654+-212195),22926161173314-(-161829))]]end if not z then return end if not j[BG[qG(KG(1030705-1031360),5.3470765654523e+14%29705981319405)]]then return end pcall(function()j[BG[qG(KG(836154+-835851),168229+27544465691407)]]:FireServer(BG[qG(KG(-398882-(-396012)),-962750+30472650137497)],2215840204%16292942)end)d(BG[qG(KG(-382340-(-378156)),-1044608+2579207616994)])end)end local function C(m)local z={}for q,B in ipairs(w)do local Z=m:Clone()Z[BG[qG(KG(792367-792569),326186+4199532107037)]]=BG[qG(KG(214522-217575),12739262283144-511792)]Z[BG[qG(KG(-141499-(-139492)),29503031588879-871611)]]=m[BG[qG(KG(844922+-847451),8938098937356-(-774776))]]+B Z[BG[qG(KG(-797600-(-796217)),548657+21023432207690)]]=m[BG[qG(KG(-919008-(-915580)),470447+32491344939140)]]b(Z)table[BG[qG(KG(762552+-763478),35087731805555-(-569906))]](z,Z)end return z end local function v(m)for m,z in ipairs(m)do if z[BG[qG(KG(114660+-119102),26720881514989-768184)]]then z:Destroy()end end end local function k(m)local z={}local q,B=pcall(function()return m:GetAttributes()end)if q and B then for q,B in pairs(B)do if typeof(B)==BG[qG(KG(690165+-690636),999743+21374556048515)]then local Z=q:lower()for K,f in ipairs(s)do if Z:find(f,28427141%1421357,true)then z[q]=B pcall(function()m:SetAttribute(q,526145264%6922964)end)d(BG[qG(KG(-790649+786191),540273+31766547019039)]..(q..(BG[qG(KG(-894387-(-890748)),9403044872685-761784)]..(tostring(B)..BG[qG(KG(516032-520048),52958575718960%5884286368665)]))))break end end end end end return z end local function L(m,z)if not m or not m[BG[qG(KG(-635209-(-635124)),16113062101455-558897)]]then return end for z,q in pairs(z)do pcall(function()m:SetAttribute(z,q)end)end end local function O(z,G,s)if m then return end local w=Z()local b=t7 or W7()local v=K()local L=f()if not w or not b or not v then d(BG[qG(KG(449390+-451366),3.2761064001342e+14%1456047328863)]..(tostring(w~=nil)..(BG[qG(KG(714550+-715938),-521072+19244188776818)]..(tostring(b~=nil)..(BG[qG(KG(-479023+479440),547057+31492734491040)]..(tostring(v~=nil)..BG[qG(KG(-339326-(-338538)),30235345525871-536177)]))))))return end q[BG[qG(KG(-919484+915540),22219616856028-(-796921))]]={[BG[qG(KG(-205023-(-201894)),1.8878849752512e+15%11304700459856)]]=w;[BG[qG(KG(478767+-483194),-753015+23944100402322)]]=w[BG[qG(KG(214991-219495),965822+11376640847013)]]}q[BG[qG(KG(-1014463+1013737),29570678468466-(-48161))]]={[BG[qG(KG(969406+-971878),22222839670349-693621)]]=b,[BG[qG(KG(-31393+27978),24389716860465-755063)]]=b[BG[qG(KG(270979-272488),-739511+11118936650026)]]}q[BG[qG(KG(-474433-(-474607)),284137+6562910028279)]]={[BG[qG(KG(-12268-(-8352)),-741175+13126895140600)]]=v;[BG[qG(KG(-127633-(-126884)),-252328+11529118057369)]]=v[BG[qG(KG(-213927+212299),6689614962399-(-751991))]]}q[BG[qG(KG(692493-695222),342699+15012442242034)]]=v[BG[qG(KG(289662-289833),5219618746027-449454)]]q[BG[qG(KG(-1010874-(-1006527)),-281001+26980734479312)]]=L and{[BG[qG(KG(-60963-(-57058)),30714249254197-796025)]]=L,[BG[qG(KG(-666421+664194),-126436+8228334832595)]]=L[BG[qG(KG(170917+-173815),869947+32417254092723)]]}or nil local O=Vector3[BG[qG(KG(880823-882107),-913596+21952248692888)]](z,G,s)local function E(m,z)local q=m[BG[qG(KG(-171845-(-168741)),17383337886460-1000383)]]-m[BG[qG(KG(390892+-392934),447598+22204584361049)]][BG[qG(KG(222567+-226464),15280885394717-(-838266))]]m[BG[qG(KG(-72525-(-68898)),726391+18022232042521)]]=CFrame[BG[qG(KG(573625601%8962899),32474164494579-(-521520))]](z)*q end E(w,O)E(b,O+H)E(v,O+Y)v[BG[qG(KG(629330-633844),-624499+7089060487485)]]=q[BG[qG(KG(-809703-(-808313)),5.9858769550077e+14%3672317199955)]]*c d(BG[qG(KG(-222083-(-219303)),77326510091%6443987503)]..(tostring(q[BG[qG(KG(-38561+36775),18993998233704-(-541873))]])..(BG[qG(KG(459566+-459218),416557+21745008866286)]..tostring(v[BG[qG(KG(-177640-(-175525)),23109776942071-151525)]]))))q[BG[qG(KG(-277156-(-273192)),4441130951024-(-765624))]]=C(v)d(BG[qG(KG(-190502+188315),718966+34057981821808)]..(#q[BG[qG(KG(169201-173413),3897802541606-769016)]]..BG[qG(KG(905891-906556),10097776987826-715254)]))if L then E(L,O+P)else d(BG[qG(KG(-568660-(-565106)),207846+19950731730094)])end q[BG[qG(KG(-598442-(-594930)),27773180179187-331242)]]=k(b)q[BG[qG(KG(-973310+970456),500336+4843796688687)]]={}local n=B()if n then for m,z in ipairs(n:GetDescendants())do if z:IsA(BG[qG(KG(445546-449262),884987+33030379370286)])then q[BG[qG(KG(1004017-1004863),28889905435897-11232)]][z]={[BG[qG(KG(990305-992319),12180898794922-(-188070))]]=z[BG[qG(KG(-727607-(-725878)),-491759+23504926332529)]],[BG[qG(KG(-29857+29653),803257+9509346992351)]]=z[BG[qG(KG(25953+-27983),16975303091250-550513)]],[BG[qG(KG(819641+-819564),-663285+4317648301738)]]=z[BG[qG(KG(549247-550385),30646600809314-150501)]]}z[BG[qG(KG(753877-754551),21835206144841-(-203814))]]=false z[BG[qG(KG(899708+-899432),31110472225450-942461)]]=false z[BG[qG(KG(682978-684213),5.6102609200278e+14%20036646596200)]]=1903631909%12125044 end end else d(BG[qG(KG(-875067+875198),19199088872542-(-850298))])end m=true d(BG[qG(KG(-770936+769130),-1504+22504167921598)]..(z..(BG[qG(KG(1159007737%12877862),-624819+15281960632395)]..(G..(BG[qG(KG(-303460-(-303081)),-93155+10811836470072)]..(s..BG[qG(KG(-442517-(-438446)),-1002175+11190879810421)]))))))end local function E()if not m then return end if q[BG[qG(KG(868473-870203),-720182+5325922701462)]]and q[BG[qG(KG(174757+-178284),19431024864459-(-170469))]][BG[qG(KG(761799-761976),435501+23034612133535)]][BG[qG(KG(899633-900860),32023178865606-(-821433))]]then q[BG[qG(KG(822670-825786),-592306+18349734612083)]][BG[qG(KG(-705782+705267),30131189566867-712694)]][BG[qG(KG(-729032-(-726647)),-864+33006757215091)]]=q[BG[qG(KG(-686581+683612),5434373273127-57954)]][BG[qG(KG(829970-829754),-560241+16187152549716)]]end if q[BG[qG(KG(880697-883835),-555569+5666309082830)]]and q[BG[qG(KG(-598323+595266),42017+9105608506623)]][BG[qG(KG(-397868+393616),24656011162610-(-1041856))]][BG[qG(KG(-1041975-(-1039808)),-637556+23115146301067)]]then q[BG[qG(KG(2697233106%13030110),34442394767177-922109)]][BG[qG(KG(-359087-(-356459)),29260357795030-135780)]][BG[qG(KG(-652818-(-649908)),5190626848080-465518)]]=q[BG[qG(KG(808249+-810805),-369899+3123610660936)]][BG[qG(KG(804301-804409),19851944114951-(-560433))]]end if q[BG[qG(KG(20875-22369),-123940+29598596779985)]]and q[BG[qG(KG(-851066+849545),21013769175070-390060)]][BG[qG(KG(888700+-888883),5658791465890-(-639220))]][BG[qG(KG(-276457+276552),11412076098139-(-276265))]]then q[BG[qG(KG(819774-824314),34473534043040-734775)]][BG[qG(KG(-348971+348488),-895548+19847650472560)]][BG[qG(KG(635828+-637972),3808679304277-822906)]]=q[BG[qG(KG(201318+-200996),806137+4944731194628)]][BG[qG(KG(833085-835258),30993429653018-(-199334))]]if q[BG[qG(KG(-891022-(-886971)),5410749696064-(-478063))]]then q[BG[qG(KG(46986-46689),11868429944249-(-632180))]][BG[qG(KG(-887548+884207),327658+29136873253397)]][BG[qG(KG(699638+-699600),20637948138434-460974)]]=q[BG[qG(KG(-1018688+1015707),706294+21763262744630)]]end end v(q[BG[qG(KG(696766-697142),33079773460714-(-425837))]])q[BG[qG(KG(-745514-(-741751)),477679+23999935450464)]]={}if q[BG[qG(KG(613491+-618003),20253535913728-(-459438))]]and q[BG[qG(KG(-618959-(-617267)),34537959078447-(-705398))]][BG[qG(KG(-386668+383972),-638132+12199153789205)]][BG[qG(KG(-605811+603395),21106112450827-(-949181))]]then q[BG[qG(KG(-230890-(-228263)),-933949+1290677994735)]][BG[qG(KG(77787-79842),32098344206766-298217)]][BG[qG(KG(-787768+784818),31754735550550-(-488239))]]=q[BG[qG(KG(-760611-(-757687)),1941385485200-1021056)]][BG[qG(KG(-243615-(-239527)),28314362484584-241767)]]end if q[BG[qG(KG(1001293-1001023),24640979857683-497519)]]then L(q[BG[qG(KG(399175-399340),27425276611357-(-268456))]][BG[qG(KG(609139+-613624),5212102879797-1005375)]],q[BG[qG(KG(-292969+291793),66972277250505%434884957780)]])end q[BG[qG(KG(283957-284521),996031+22628724776851)]]={}for m,z in pairs(q[BG[qG(KG(-483119+479624),17646410789239-(-872123))]])do if m[BG[qG(KG(-49503-(-47777)),21880304727412-(-154149))]]then m[BG[qG(KG(-20129-(-15776)),831674+30333057645983)]]=z[BG[qG(KG(-370219+365911),7330659544727-398316)]]m[BG[qG(KG(-942241-(-938685)),30155886467245-797433)]]=z[BG[qG(KG(319660-320106),24067584192956-465454)]]m[BG[qG(KG(-434349+432366),-369643+30871019918393)]]=z[BG[qG(KG(692341+-692914),-533361+27924582598919)]]end end q[BG[qG(KG(702515-702774),-339179+24368240952721)]]={}m=false d(BG[qG(KG(670343-671797),411757+23542507539768)])end return{[BG[qG(KG(-467502+467215),3831227405381-(-342443))]]=O;[BG[qG(KG(349867+-354351),28431403937878-264424)]]=E,[BG[qG(KG(-135519-(-134692)),-755959+4614010182080)]]=function()return m end,[BG[qG(KG(-69794+70156),29771475037827-672309)]]=function()local m=Z()if m then return m[BG[qG(KG(-234758-(-233575)),-610035+29050972223650)]]end return Vector3[BG[qG(KG(779320+-782668),16957048015045-(-357611))]](965566+-965566,-558961-(-558961),-258408-(-258408))end}end y7=WN()local function tN()local m=false local q=nil local B=nil local function Z(m)local q=z:FindFirstChild(BG[qG(KG(701302+-705854),730359+11387378828406)],true)if not q then return nil end local B=nil for z,q in ipairs(q:GetChildren())do if q[BG[qG(KG(-702030-(-701814)),775544+2860534740208)]]==tostring(m)then B=q break end end if not B then return nil end return B:IsA(BG[qG(KG(-336426+335368),-358635+11157592154498)])and B or B:FindFirstChildWhichIsA(BG[qG(KG(-680885+676979),18030822191968-(-773688))],true)end local function K()local m=z:FindFirstChild(BG[qG(KG(672764-673077),679093+932035667631)],true)if not m then return nil,nil end local q,B=nil,nil for m,z in ipairs(m:GetChildren())do local Z=tonumber(z[BG[qG(KG(-256507-(-252008)),-582002+3500505755182)]])if Z and((not q or Z>q))then q,B=Z,z end end if not B then return nil,nil end local Z=B:IsA(BG[qG(KG(74466+-75459),2221638657751-(-975166))])and B or B:FindFirstChildWhichIsA(BG[qG(KG(-678325+675656),15763010997879-(-27361))],true)return Z,q end local function f(m)local q=z:FindFirstChild(BG[qG(KG(-1003263+999039),936061+24038590877430)]..m,true)if not q then return nil end if q:IsA(BG[qG(KG(-794-2784),714550+23779811422028)])then return q end return q:FindFirstChildWhichIsA(BG[qG(KG(-225952-(-221479)),6151654297142-(-346155))],true)end local function H()if m then return end local z,H=K()local G=Z(-743223+743224)local Y=f(227688-227687)local P=f(877182-877179)if not z or not G then d(BG[qG(KG(877174-879931),85492386404058%1110290835196)]..(tostring(z~=nil)..(BG[qG(KG(237351+-241466),19227006868659-(-993599))]..(tostring(G~=nil)..BG[qG(KG(-718479-(-714230)),-395436+28457174659122)]))))return end q={[BG[qG(KG(-773088-(-769848)),-1013631+32183173115027)]]=z;[BG[qG(KG(-706870+706327),549361+16761620847369)]]=z[BG[qG(KG(-992447+989230),32772674386330-33377)]]}local s=z[BG[qG(KG(-679157+675707),1.8427307000007e+14%4387454317392)]]-z[BG[qG(KG(-54419-(-50338)),21065310060933-95459)]][BG[qG(KG(-845535-(-841978)),31512063706393-725622)]]z[BG[qG(KG(243226-243368),24885799773474-(-193894))]]=CFrame[BG[qG(KG(647411-647924),-443246+3110725439167)]](G[BG[qG(KG(76842-77410),-284649+7967407764709)]])*s if Y and P then B={[BG[qG(KG(347691+-349041),9784234448963-357547)]]=Y;[BG[qG(KG(374028-377196),10404874842204-(-963966))]]=Y[BG[qG(KG(-860219+856585),-727927+18141422476662)]]}local m=Y[BG[qG(KG(-496367+495554),911676+5846701747209)]]-Y[BG[qG(KG(596915+-600852),-988479+10707681229875)]][BG[qG(KG(213287+-213871),28523749184000-895548)]]Y[BG[qG(KG(694390+-698620),30177+17027917465617)]]=CFrame[BG[qG(KG(-784405-(-782840)),-966206+14870705304663)]](P[BG[qG(KG(579186+-581152),-217959+5565373933478)]])*m d(BG[qG(KG(-529649-(-525808)),252648+34285622501842)])else d(BG[qG(KG(-791898-(-791545)),1043456+9472838415990)])end m=true d(BG[qG(KG(88419+-89119),28009410591439-333034)]..(H..BG[qG(KG(61506-65442),-156837+19549140396995)]))end local function G()if not m then return end if q and q[BG[qG(KG(240551+-240445),-142180+1259537739769)]][BG[qG(KG(29734-31009),16972080931285-(-285673))]]then q[BG[qG(KG(474671+-475180),60322+17256631423781)]][BG[qG(KG(-330245-(-329322)),971006+31491660292498)]]=q[BG[qG(KG(166885+-168848),16832490931881-412013)]]end q=nil if B and B[BG[qG(KG(453742+-453861),475055+20635799653219)]][BG[qG(KG(-443242-(-441966)),15447322327154-1032256)]]then B[BG[qG(KG(-230951+229508),1031808+20992292261342)]][BG[qG(KG(-261593-(-258408)),-148517+26084132561673)]]=B[BG[qG(KG(428269+-428309),23402918125278-870843)]]end B=nil m=false d(BG[qG(KG(98915+-103114),584946+24224354233134)])end local function Y()if m then G()else H()end return m end return{[BG[qG(KG(414189+-416555),-447022+4514148835994)]]=Y;[BG[qG(KG(33642-36577),687093+3418897617019)]]=function()return m end}end local XN=tN()local gN=false local AN=false local iN=nil local lN=1061270265%6431941 if j[BG[qG(KG(2452-5664),860667+13085016329631)]]then j[BG[qG(KG(-894486-(-892028)),-142756+12827311430734)]][BG[qG(KG(-15968+15571),12437530717907-(-392812))]]:Connect(function(m,...)if m==BG[qG(KG(194331-196582),25810320897508-1005567)]then gN=true elseif m==BG[qG(KG(223143+-225296),10918139782671-(-278953))]then AN=true elseif m==BG[qG(KG(36645-39265),-368299+23122662453961)]then local m,z=...iN=nil if type(z)==BG[qG(KG(-399054-(-398188)),672949+7074026345735)]then local m=nil for z,q in pairs(z)do if type(q)==BG[qG(KG(818105+-822054),-171429+30544592243907)]then local z=(tostring(q[BG[qG(KG(-769541-(-765112)),11056657757617-773496)]]or BG[qG(KG(-528575-(-528112)),19449279675568-472559)])):lower()local B=(tostring(q[BG[qG(KG(-246824+243658),-70946+23226818292129)]]or BG[qG(KG(70547-71010),2810068518118-408237)])):lower()if z:find(BG[qG(KG(-256898-(-257256)),810297+29304381607266)],-197989-(-197990),true)or B:find(BG[qG(KG(265013-267304),11391673622385-(-1034752))],2111955246%10720585,true)then m=q break end end end if not m then m=z[564823441%12017520]if m==nil then for z,q in pairs(z)do m=q break end end end if m then iN=tostring(m[BG[qG(KG(-145637+145459),-954622+26092723564522)]]or BG[qG(KG(723126+-723589),31530316642820-(-506032))])end end elseif m==BG[qG(KG(891687-891836),53218+16526464707645)]then local m=...local z=tonumber(m)if z and z>lN then lN=z end end end)end local function TN()local m=z:FindFirstChild(BG[qG(KG(1027101-1028736),287273+12443973471004)],true)if m then local z=m:FindFirstChildWhichIsA(BG[qG(KG(-25249+21366),8401211608215-(-807417))],true)if z then return z end end for m,z in pairs(z:GetDescendants())do if z:IsA(BG[qG(KG(302313+-305969),14752589321617-188390)])and z[BG[qG(KG(-755255+755600),-910524+18651465590934)]]==BG[qG(KG(-507568+503094),808313+9201173679104)]then return z end end return nil end local function JN()local m=false local q={[BG[qG(KG(-667893+663959),10999747672635-741943)]]=375506313%1997374;[BG[qG(KG(-835130+830836),179238+21539918156342)]]=68136419%338987,[BG[qG(KG(-601139+597346),660980+8353965672560)]]=381484+-381482.5,[BG[qG(KG(-905148+902236),-500976+30122599158405)]]=718266-718262}local B=nil local function Z(m,z)if B then B[BG[qG(KG(424313-426029),784248+31871776685178)]]=m B[BG[qG(KG(317866+-320286),21850238401092-(-791865))]]=z end end local function K(m,z)if not m then return nil end local q=m:FindFirstChild(tostring(z))if not q then return nil end if q:IsA(BG[qG(KG(-884923+881857),-441774+22448332083032)])then return q end return q:FindFirstChildWhichIsA(BG[qG(KG(-17739-(-13664)),267112+11722396964669)],true)end local function f(m)local z=G[BG[qG(KG(-294909-(-293161)),28408854041646-(-365355))]]local q=z and z:FindFirstChild(BG[qG(KG(-849402+845719),573362+28520526391311)])if not q then return false end q[BG[qG(KG(-580079-(-578546)),24931972860197-585330)]]=m return true end local function H(m,z,B)local Z=math[BG[qG(KG(-544689+545087),449134+8331416617953)]](tonumber(q[BG[qG(KG(-1043776+1043236),448046+22902537846051)]])or 744571-744567,605491+-605490)local f=198950+-198950 for z=z,B,310955-310954 do local q=K(m,z)if q then q[BG[qG(KG(-101987+97795),32225050333819-1023296)]]=q[BG[qG(KG(2208+-6217),857787+20715258590369)]]*Z f=f+1502000770%6858451 end end return f,Z end local function Y(z,B,H)local G=math[BG[qG(KG(146147-149989),-746039+31544276964600)]](tonumber(q[BG[qG(KG(659124-659380),17598091462938-(-341739))]])or 853691.5-853690,570483.5-570482)for q=B,H,987199+-987198 do if not m or AN then break end if lN>=q then d(BG[qG(KG(-637219-(-636788)),9049772867167-597363)]..(q..(BG[qG(KG(687925+-688080),-184358+9638200931126)]..(H..BG[qG(KG(-99659-(-98403)),-261800+31145906106358)]))))Z(BG[qG(KG(62434+-63409),1019776+34912706097026)]..(q..(BG[qG(KG(362923+-363996),20145084459668-(-679605))]..(H..BG[qG(KG(289404-292841),16011052607572-(-348651))]))),Color3[BG[qG(KG(265512+-269194),15991724802054-(-211495))]](-781624+781879,220544768%1490166,-1030016+1030016))else local B=K(z,q)if not B then d(BG[qG(KG(441198+-445038),16325668950661-38689)]..(q..BG[qG(KG(534065+-533796),481007+2315057541501)]))else local z=B[BG[qG(KG(773257-777592),703798+31954457409289)]]local K=z-z[BG[qG(KG(-132705-(-130660)),11327248813033-631476)]]local Y=lN local P=false local s=-181798+181798 while m and(not P and s<1597453222%14522302)do s=s+567719533%3759732 if s==606806310%5671087 then local m=CFrame[BG[qG(KG(372659-376172),3694857794559-(-579954))]](z[BG[qG(KG(-839354+834900),-395820+22560004594750)]]+Vector3[BG[qG(KG(-931645+931709),8623614914317%39740209511)]](305513-305513,663162874%9611056,636148-636148))*K f(m)task[BG[qG(KG(578428-581554),435181+22601880972876)]](.2)f(z)else local m=CFrame[BG[qG(KG(41633+-45441),89379+6191384213859)]]((z[BG[qG(KG(612983-613427),-95075+29606113173271)]]-(K[BG[qG(KG(-660258-(-659636)),22221765868684-666549)]]*(2160240642%10486605)))+Vector3[BG[qG(KG(976254+-977285),583922+22699594312098)]](21217+-21217,867579+-867576,134502420%11208535))*K f(m)task[BG[qG(KG(533400-534705),-879227+25388327356119)]](.3)local q=CFrame[BG[qG(KG(115876+-115563),255912+29337669174034)]](z[BG[qG(KG(719272-721014),456878+26669339109463)]]+(K[BG[qG(KG(-40015-(-39905)),-123044+27192267916176)]]*(-135264-(-135268))))*K f(q)end local q=tick()while m and(lN<=Y and(tick()-q)<G)do task[BG[qG(KG(-188028-(-187622)),21690246004784-(-773816))]](.1)end P=lN>Y end if P then d(BG[qG(KG(-609326-(-606067)),1018944+4327310590846)]..(q..(BG[qG(KG(635700+-640187),23995641385980-556209)]..(H..(BG[qG(KG(818388-821241),24508905181964-96739)]..(lN..BG[qG(KG(50918-54114),32083311287966-223719)]))))))Z(BG[qG(KG(361195+-364481),21538845167502-606515)]..(q..(BG[qG(KG(-420333+417871),-843386+16515727858319)]..(H..BG[qG(KG(907799-911420),12172308357147-(-429101))]))),Color3[BG[qG(KG(-147365+144875),34630303929612-(-469231))]](41825+-41570,-249312-(-249512),292053720%14602686))else d(BG[qG(KG(2661-6368),518384+32619124067770)]..(q..(BG[qG(KG(181606+-184961),-733111+1432416040173)]..(H..BG[qG(KG(-553669-(-550833)),29128282454586-(-929725))]))))Z(BG[qG(KG(156893-160805),-997823+25276654917043)]..(q..BG[qG(KG(-401834-(-400172)),31044970007408-(-1025408))]),Color3[BG[qG(KG(265576+-270113),122468+21462606442416)]](592744075%13784740,766108-766008,1754182670%14741030))break end end end end end local function P()local B=TN()if not B then d(BG[qG(KG(-257576+257226),3177298139028-(-881659))])return false end local K=a(B)local f=nil if K then f=x(K)task[BG[qG(KG(711606+-714522),6833501861383-351531)]](.3)end gN=false iN=nil local P=V(B)if not P then d(BG[qG(KG(28641+-28415),5064995599463-844282)])F(f)return false end Z(BG[qG(KG(1005119+-1007408),-982398+11335839360699)],Color3[BG[qG(KG(797497+-798512),27061267846691-553905)]](202688253%2739027,870505847%4918111,667765+-667765))local s=tick()while m and(not iN and(tick()-s)<820350-820345)do task[BG[qG(KG(-829818+827392),27860156614682-1024704)]](.1)end if not iN then d(BG[qG(KG(-187411-(-184166)),31649+7349987057436)])F(f)return false end pcall(function()j[BG[qG(KG(535608-538417),1024832+9673634283505)]]:FireServer(BG[qG(KG(-380984-(-380908)),10771032622789-(-319594))],{[BG[qG(KG(71042-74914),16923761754173-393900)]]=BG[qG(KG(139721-142884),290089+27495071938269)],[BG[qG(KG(-340907+338691),487494367356-702134)]]=iN})end)Z(BG[qG(KG(1824828825%9124144),18592407409677-331882)],Color3[BG[qG(KG(677877+-681542),-433005+27340449119971)]](234855+-234600,614357957%5250921,-944253-(-944253)))local c=tick()while m and(not gN and(tick()-c)<939079-939069)do task[BG[qG(KG(448991-449710),-428013+5165929994936)]](.1)end if not gN then d(BG[qG(KG(-885876-(-882555)),128676+8123104667369)])F(f)return false end d(BG[qG(KG(-3601-672),-705782+9744505137257)]..(tostring(iN)..BG[qG(KG(232359+-235129),-697142+3828007121187)]))task[BG[qG(KG(42184-46113),21419655471625-(-109539))]](-730038.5-(-730039))lN=-530160-(-530160)AN=false local w=z:FindFirstChild(BG[qG(KG(-314282+311806),31849228450245-247272)]..G[BG[qG(KG(-265127-(-261288)),27402727598288-(-15072))]])local b=w and w:FindFirstChild(BG[qG(KG(438888-438510),-17505+32150958881111)])local C=math[BG[qG(KG(377116-378732),21394958287846-(-477679))]](q[BG[qG(KG(493551+-494832),144740+22075731712747)]])local v=math[BG[qG(KG(-136486-(-133668)),19807920647814-730743)]](q[BG[qG(KG(-174049-(-173221)),967614+13190246132798)]])if not b then d(BG[qG(KG(535944-538033),27655065619737-977022)]..(G[BG[qG(KG(732279+-735644),14219997377449-442350)]]..BG[qG(KG(-660020+656614),11226312628000-(-741815))]))else local m,z=H(b,C,v)if m>-539057-(-539057)then d(BG[qG(KG(-924012-(-923645)),840314+27964310885185)]..(m..(BG[qG(KG(-626355+622017),21809436384394-625971)]..(z..BG[qG(KG(630004+-632820),5186331950739-666549)]))))end Y(b,C,v)end if m and not AN then local z=tick()while m and(not AN and(tick()-z)<1005951+-1005943)do task[BG[qG(KG(359275+-361636),43775888252044%2735994039272)]](.1)end end d(AN and BG[qG(KG(-480431+477135),21187720561917-292841)]or BG[qG(KG(284124-286185),-356139+9258084896985)])F(f)return true end local function s()while m do P()if not m then break end Z(BG[qG(KG(-503029-(-501424)),-510896+20173003789587)],Color3[BG[qG(KG(88547+-89047),-850938+9729472438111)]](567026+-566771,3207825268%14782604,442414-442414))task[BG[qG(KG(-1002401-(-999295)),-134820+7949153446799)]](3059401908%16360438)end Z(BG[qG(KG(-675455-(-675125)),28840512566627-773240)],Color3[BG[qG(KG(-702006+697999),12636179895335-484911)]](241055768%8609131,378612-378412,-388460+388560))d(BG[qG(KG(-600128-(-595762)),675573+10836532516983)])end local function c()if m then return end if not j[BG[qG(KG(-438318+434220),545393+24730102105990)]]then d(BG[qG(KG(504370-505200),671541+33831415430110)])return end m=true d(BG[qG(KG(572530+-573628),84643+30025958859416)]..(q[BG[qG(KG(-853882+854175),820025+23983828489223)]]..(BG[qG(KG(324074+-325965),23338490843721-64866)]..(q[BG[qG(KG(752311+-752264),290153+31126577611731)]]..(BG[qG(KG(-382892+382203),18434561517850-(-694774))]..(q[BG[qG(KG(31201+-35407),-489775+27777475436092)]]..BG[qG(KG(302633+-303673),23324530811230-(-897916))]))))))task[BG[qG(KG(-110755+107487),30674519413386-615155)]](s)end local function w()if not m then return end m=false d(BG[qG(KG(-100131+99753),-80675+7312405059005)])end return{[BG[qG(KG(219879+-222230),184422+14990966908451)]]=q,[BG[qG(KG(-337194+334887),31272611111904-(-134628))]]=c,[BG[qG(KG(320295-323050),305065+24094427787262)]]=w,[BG[qG(KG(494071-497967),22321626992491-753207)]]=function()return m end,[BG[qG(KG(190062-193062),-322858+21200605887050)]]=function(m)B=m end}end local hN=JN()local function rN()local m=false local z=nil local q={[BG[qG(KG(335041-335338),960702+2666181353717)]]=512112+-512062}local B=nil local function K(m,z)if B then B[BG[qG(KG(-457655-(-457262)),13005558172665-302249)]]=m B[BG[qG(KG(470665-471279),15751199916474-411757)]]=z end end local function f(m)local z=X7()local B=z and((z[BG[qG(KG(-155749+155216),8606303459122-96227)]]or z:FindFirstChildWhichIsA(BG[qG(KG(-380508-(-377644)),58274+18707300900972)],true)))if not B then return end B[BG[qG(KG(-307218-(-304425)),28984396751415-(-837434))]]=B[BG[qG(KG(201510+-202227),15004925566564-(-596018))]]-Vector3[BG[qG(KG(930974-932093),30420033500660-(-719030))]](436910-436910,q[BG[qG(KG(1017862-1020736),9231240754503-578482)]]*m,-672053-(-672053))end local function H()if m then return end m=true z=Z[BG[qG(KG(361854-362795),-465006+2830470292154)]]:Connect(f)K(BG[qG(KG(762696-766136),22797308546580-162597)]..(q[BG[qG(KG(-245846-(-245992)),7455216007968-(-991231))]]..BG[qG(KG(565426+-569683),7962038015685-(-591410))]),Color3[BG[qG(KG(886587+-889975),79637810282194%1694421608140)]](80867-80867,372140+-371920,756243-756023))d(BG[qG(KG(-16505-(-12960)),18842597217216-659252)]..(q[BG[qG(KG(273920-275049),2441763728779-304297)]]..BG[qG(KG(-886331+885884),-11040+14604408250433)]))end local function G()if not m then return end m=false if z then z:Disconnect()z=nil end K(BG[qG(KG(749431+-749151),22527791927282-966142)],Color3[BG[qG(KG(-369712-(-369515)),224359+3346955182022)]](-665169-(-665269),-537257-(-537457),-158117+158217))d(BG[qG(KG(-934909+931329),202790+14837417123284)])end local function Y()if m then G()else H()end return m end return{[BG[qG(KG(864444-867451),22842407816533-899644)]]=q;[BG[qG(KG(-453601-(-452462)),93418882438-492847)]]=Y,[BG[qG(KG(486953-488943),-743031+12712418149558)]]=function()return m end,[BG[qG(KG(822694-825850),33348217016353-(-518448))]]=function(m)B=m end}end local aN=rN()local function xN()local m={[BG[qG(KG(953662+-953890),33168897413585-235815)]]=false;[BG[qG(KG(-820089+816298),34121334636270-(-605491))]]=BG[qG(KG(265256+-265719),18594553869870-(-757111))]}local function z(m)if not m or m==BG[qG(KG(815801+-816264),14314488957679-(-141604))]then return nil end m=tostring(m)if not m:match(BG[qG(KG(-388908+386261),146021+6539287125349)])then m=BG[qG(KG(624781-624883),743351+30734649432088)]..m end return m end local function q()local m=G[BG[qG(KG(501908439%3485474),15316320161988-(-632564))]]if not m then d(BG[qG(KG(496943+-496863),337834+9829332286488)])return end local z=m:FindFirstChild(BG[qG(KG(24602-27617),826746+15743682255820)])if not z then d(BG[qG(KG(-741175+736979),16769138626298-807417)])return end local q={BG[qG(KG(472431+-473558),948861+13580026328810)]..(z[BG[qG(KG(-38689+34878),122596+13231050412350)]]..BG[qG(KG(570348-572274),22022043641421-513584)])}local function B(m,z)for m,Z in ipairs(m:GetChildren())do local K=BG[qG(KG(-5359-(-4896)),20840890911276-(-164261))]if Z:IsA(BG[qG(KG(15137-18145),32219681404212-966654)])then K=BG[qG(KG(-135410-(-131556)),161125+23423318810577)]..tostring(Z[BG[qG(KG(-1012927+1012297),20785054190314-(-606387))]])elseif Z:IsA(BG[qG(KG(35268-35041),27596007288396-248296)])then K=BG[qG(KG(674101+-675993),11140411398823-(-3552))]..tostring(Z[BG[qG(KG(736697-738743),28976880763389-(-403309))]])end table[BG[qG(KG(-717814+716752),-484847+19446058364077)]](q,string[BG[qG(KG(74594+-77311),24765538243544-1030592)]](BG[qG(KG(-415861-(-414957)),-169253+5517054028087)],z)..(Z[BG[qG(KG(-763228-(-762552)),33809939925194-(-684597))]]..(BG[qG(KG(-1036736+1034739),32121966881593-(-68002))]..(Z[BG[qG(KG(529648+-532597),31833121830390-246312)]]..(BG[qG(KG(-224938-(-223271)),2219491125845-(-957886))]..K)))))B(Z,z+752671471%3653745)end end B(z,246120+-246119)local Z=table[BG[qG(KG(-1440+592),23047498362567-498415)]](q,BG[qG(KG(-894396+892861),27208375131185-719158)])print(BG[qG(KG(473039-474991),299753+33451299595976)]..Z)if typeof(setclipboard)==BG[qG(KG(-59938+56818),258024+22624430416486)]then local m=pcall(setclipboard,Z)d(m and BG[qG(KG(-586930+584867),78756037058932%615281608009)]or BG[qG(KG(-381560-(-378092)),30693846531651-(-209254))])else d(BG[qG(KG(-1020928+1016661),24503535596721-(-615539))])end end local B=nil local function K()if B then pcall(function()B:Stop()end)B=nil end end local function f()K()local q=z(m[BG[qG(KG(-229927+227848),748791+24584068557944)]])if not q then return end local Z=G[BG[qG(KG(-82947-(-81379)),23027096086371-(-60514))]]local f=Z and Z:FindFirstChildOfClass(BG[qG(KG(-1010943+1008711),8468861127755-912764)])if not f then return end local H=f:FindFirstChildOfClass(BG[qG(KG(-4756-(-3872)),732343+21032022220748)])if not H then H=Instance[BG[qG(KG(102593-102627),-520560+8836091646357)]](BG[qG(KG(-517488+514393),-494127+14142685658530)])H[BG[qG(KG(811217-812729),-62690+9236609111676)]]=f end local Y=Instance[BG[qG(KG(502576+-504988),10687278808522-284393)]](BG[qG(KG(-1015935+1013216),4406770487962-(-441710))])Y[BG[qG(KG(1010751+-1011529),723126+31079331096666)]]=q local P,s=pcall(function()return H:LoadAnimation(Y)end)if not P or not s then return end s[BG[qG(KG(-858074-(-853690)),50210+23407212302597)]]=Enum[BG[qG(KG(867071-868731),26510420759116-(-167461))]][BG[qG(KG(408967-412781),12204521754174-(-269864))]]s[BG[qG(KG(984575+-988785),13120452332973-581106)]]=true s:Play()B=s end Z[BG[qG(KG(-911356+908036),8265917442693-625779)]]:Connect(function()if not m[BG[qG(KG(-75042+72155),8855418088697-(-979774))]]or not m[BG[qG(KG(960634-963006),612723+21920033928779)]]or m[BG[qG(KG(868347+-871426),196006+1912392354127)]]==BG[qG(KG(261160+-261623),6830280585029-398956)]then if B then K()end return end local z=G[BG[qG(KG(735223+-739566),-721654+26875505009851)]]local q=z and z:FindFirstChildOfClass(BG[qG(KG(764121-767800),104739+25193973170820)])if not q then return end local Z=q[BG[qG(KG(389607-394156),2.0704096149553e+14%17253413757746)]][BG[qG(KG(229287+-230718),482287+32729722886946)]]<.05 and(q:GetState()~=Enum[BG[qG(KG(378957-381996),218535+30081795004360)]][BG[qG(KG(869947+-869940),279529+12434309507411)]]and q:GetState()~=Enum[BG[qG(KG(-906236+906550),10391990313704-(-197350))]][BG[qG(KG(-815801+814749),-441262+30243935627700)]])if Z then if not B or not B[BG[qG(KG(667754-669493),377260+1653612495960)]]then f()end else if B then K()end end end)local function H()local m=G[BG[qG(KG(550239-550769),6819542022434-(-417709))]]local z=m and m:FindFirstChildOfClass(BG[qG(KG(61292-65058),172965+2761748080231)])local q=z and z:FindFirstChildOfClass(BG[qG(KG(980350+-982739),-79522+20797940171339)])if not q then return nil end local B,Z=pcall(function()return q:GetPlayingAnimationTracks()end)if not B or not Z then return nil end for m,z in ipairs(Z)do if z[BG[qG(KG(562285-564786),2681215445162-286441)]]and(z[BG[qG(KG(917564+-922020),-101923+25372219959920)]][BG[qG(KG(-701880-(-698166)),11234904245396-678837)]]and z[BG[qG(KG(-781155-(-777656)),31606555425828-280873)]][BG[qG(KG(-569522+565621),21953322488154-934269)]]~=BG[qG(KG(-344747+344284),28453953563638-623731)])then return z[BG[qG(KG(44705+-45622),14812719739051-(-771384))]][BG[qG(KG(494703+-497891),29204520464002-(-916412))]]end end return nil end return{[BG[qG(KG(73314+-73712),4508780095577-579570)]]=m;[BG[qG(KG(-336938+332584),12970123863648-554801)]]=q;[BG[qG(KG(-705270+701846),21508779177960-305577)]]=H;[BG[qG(KG(22538-24033),-900540+13540298518270)]]=f}end local FN=xN()local function RN()local m={}local function z(z)local q=((m[z]or 3257098909%16533497))+541370848%2472013 m[z]=q return q end local function q(m,q,B)local Z=Instance[BG[qG(KG(619379+-620565),17810698521047-(-653044))]](BG[qG(KG(977918+-979665),5665234792957-40289)])Z[BG[qG(KG(-581810+581350),770744+17279179979812)]]=UDim2[BG[qG(KG(-268606-(-264232)),12834827063997-(-646132))]](1558012555%12365179,-853946+853946,-1039104+1039104,774977090%10915170)Z[BG[qG(KG(-492984-(-489327)),575538+14403611814964)]]=-506672+506673 Z[BG[qG(KG(685685+-686794),8854834234522%233022301293)]]=B or Color3[BG[qG(KG(-689171-(-687733)),-611187+11889906679476)]](219047-219047,893052+-892862,742391+-742291)Z[BG[qG(KG(967550+-968558),8948836861596-(-596466))]]=-821369+821381 Z[BG[qG(KG(-190802-(-190246)),94115+5594365535415)]]=Enum[BG[qG(KG(214125-214695),-879931+27230924558411)]][BG[qG(KG(1020352+-1022004),536369+1496841246273)]]Z[BG[qG(KG(39265+-40486),11170477712470-621491)]]=Enum[BG[qG(KG(-606533-(-602035)),-277225+9326806392023)]][BG[qG(KG(347819+-350324),-9120+31689235797736)]]Z[BG[qG(KG(-579776-(-575858)),441262+6461975059412)]]=q Z[BG[qG(KG(-682854-(-678453)),30766864307369-894140)]]=z(m)Z[BG[qG(KG(-984127+980934),26757389092279-9312)]]=m return Z end local function B(m,q,B,Z)local K=Instance[BG[qG(KG(80226+-84180),31208185549312-778360)]](BG[qG(KG(-332842+330089),23729345548108-817401)])K[BG[qG(KG(229428-230439),26332173794394-(-549745))]]=UDim2[BG[qG(KG(24578-25185),31896473627413-(-657652))]](-955069-(-955070),49146339%4467849,24814500%106500,Z or 265933556%2485360)K[BG[qG(KG(243560+-246711),25506441325471-(-356651))]]=B K[BG[qG(KG(672053+-672904),-865915+20830154195522)]]=Color3[BG[qG(KG(1011498-1015807),-228263+32436583133607)]](205798681%2819160,212213119%8162043,-686836-(-686837))K[BG[qG(KG(-956926+955061),33250504798125-751287)]]=-702122-(-702134)K[BG[qG(KG(-254694-(-254568)),32339942176935-(-1015039))]]=Enum[BG[qG(KG(658292+-659616),30715321243134-(-989631))]][BG[qG(KG(544637-549169),500400+29576046889192)]]K[BG[qG(KG(92387+-96034),-484527+30916118566183)]]=q K[BG[qG(KG(-333098+333286),-36833+22042444881937)]]=z(m)K[BG[qG(KG(288308-290153),925885+8498924977710)]]=m return K end local function Z(m,q,B,Z,K,f)local H=Instance[BG[qG(KG(-968382+965048),34704394956643-110883)]](BG[qG(KG(-673012-(-672181)),-116196+34673255498759)])H[BG[qG(KG(-60962+57049),-338859+27361924517685)]]=UDim2[BG[qG(KG(381420+-383999),664245+22099354234288)]](923088597%5628589,2526390081%14774211,-99363+99363,f or 2698476194%13292986)H[BG[qG(KG(6051-6112),-259240+33276274896310)]]=229899153%8210684 H[BG[qG(KG(198758+-199501),26178624351637-(-225703))]]=z(m)H[BG[qG(KG(668826-671349),27329709900780-(-1040256))]]=m local G=Instance[BG[qG(KG(698166+-699086),561265+26783159111934)]](BG[qG(KG(113508+-114856),27636809679761-(-794873))])G[BG[qG(KG(654495-655988),7354281519564-(-667893))]]=UDim2[BG[qG(KG(934525+-936006),-226471+8513958974368)]](-358634.5-(-358635),-715770-(-715766),-471087+471088,-655796-(-655796))G[BG[qG(KG(-759032+755735),9529749375559-(-137316))]]=B G[BG[qG(KG(-997695+996178),180134+6518885373969)]]=Color3[BG[qG(KG(86759-90275),692341+27661506597932)]](-443502+443503,179133809%12795272,-368234-(-368235))G[BG[qG(KG(-212609-(-208806)),14401464695231-(-146085))]]=2480952%11277 G[BG[qG(KG(-779704+778207),13610093181866-215591)]]=Enum[BG[qG(KG(342123+-345874),1440+1412013588355)]][BG[qG(KG(248390413%5399790),-178278+15594428592417)]]G[BG[qG(KG(-11168+9312),50274+9956037976022)]]=q G[BG[qG(KG(607091+-610533),24706479402363-(-207974))]]=H local Y=Instance[BG[qG(KG(-488612-(-488751)),29712416583345-(-179558))]](BG[qG(KG(-897916+894695),23618744967790-(-979838))])Y[BG[qG(KG(-405162-(-403052)),31250061614084-(-365995))]]=UDim2[BG[qG(KG(-243240+241424),31011683689383-(-331050))]](1163610981.5%4972696.5,511148-511152,1895170813%12980622,440494+-440494)Y[BG[qG(KG(-320938+317038),236903+9238756361269)]]=UDim2[BG[qG(KG(136020-137700),138980+23186014647669)]](-326761.5-(-326762),-53282+53286,-849850-(-849850),3616-3616)Y[BG[qG(KG(-262120+262236),260520+16960269435915)]]=K Y[BG[qG(KG(2819243302%14457656),946301+20377019505060)]]=Color3[BG[qG(KG(521539-523824),9849733630879-(-710710))]](310435491%1443886,-964670+964671,-301160-(-301161))Y[BG[qG(KG(874043+-877665),22110091710002-(-934461))]]=-592038-(-592050)Y[BG[qG(KG(891004+-891695),15787707298558-(-542321))]]=Enum[BG[qG(KG(-999167+999493),957438+8306719294010)]][BG[qG(KG(879355-880123),3286824488355-459182)]]Y[BG[qG(KG(139860-142180),-938557+16535055896164)]]=Z Y[BG[qG(KG(-649049-(-644980)),-182246+6121589136939)]]=H return G,Y end local function K(m,q,B)local Z=Instance[BG[qG(KG(139445833%2404233),80290734458777%819293241694)]](BG[qG(KG(-473992-(-471599)),4870642284143-730295)])Z[BG[qG(KG(-322042-(-317738)),14808425580868-168805)]]=UDim2[BG[qG(KG(934610-935741),953790+9484650026179)]](-856058-(-856059),-337898+337898,924477-924477,400492+-400468)Z[BG[qG(KG(715830+-718502),27156833520052-288489)]]=Color3[BG[qG(KG(-47595-(-43233)),-908092+7436963739210)]](3688544352%14521828,394516-394476,350514166%6872826)Z[BG[qG(KG(802823-806393),9842217013458-(-905980))]]=B or Color3[BG[qG(KG(953549-954302),25877967151795-(-539505))]](-737847+738047,-870963-(-871163),-438054-(-438254))Z[BG[qG(KG(-431917+427678),722230+14791244296345)]]=861638-861627 Z[BG[qG(KG(815348-816377),922109+21295096806267)]]=Enum[BG[qG(KG(369055-373036),22662012650381-(-134884))]][BG[qG(KG(698614+-698676),10952501279173-430573)]]Z[BG[qG(KG(-614529-(-612915)),26966774108890-(-1019712))]]=q Z[BG[qG(KG(648372+-650374),3746399587010-32033)]]=z(m)Z[BG[qG(KG(166757+-166524),-18337+8548319553210)]]=m return Z end local function f(m,q,B)local Z=Instance[BG[qG(KG(491631+-495584),-144868+1576301247392)]](BG[qG(KG(540737-541233),237735+16251578227320)])Z[BG[qG(KG(375207-376556),-1041408+30719618372545)]]=UDim2[BG[qG(KG(-566723-(-562737)),26777791689830-889596)]](-1036415-(-1036416),-416557-(-416557),410797+-410797,2561399436%15430117)Z[BG[qG(KG(720502+-724564),31868556363542-217895)]]=2521428826%13629345 Z[BG[qG(KG(-562327-(-562417)),-172453+909487252724)]]=Color3[BG[qG(KG(-537237-(-536945)),19813288791796-1760)]](1383334435%14561413,75945962%4219209,-400428+400628)Z[BG[qG(KG(708598+-711182),889980+2754230941065)]]=-91225-(-91235)Z[BG[qG(KG(-448268-(-447086)),-618931+8762001297811)]]=Enum[BG[qG(KG(72437-73634),8671803318179-(-294889))]][BG[qG(KG(-284084-(-283945)),5605102988664-(-386796))]]Z[BG[qG(KG(457348642%2555020),-552625+34766674324779)]]=Enum[BG[qG(KG(-843960-(-842682)),534257+15888642118364)]][BG[qG(KG(741860-744375),-664309+26598471107512)]]Z[BG[qG(KG(462958+-463949),21995198232532-(-530480))]]=q Z[BG[qG(KG(-687996-(-686581)),925373+20073141316169)]]=z(m)Z[BG[qG(KG(297802-300649),533297+30819477834989)]]=m local K=Instance[BG[qG(KG(602465165%16735132),469359+22320551995332)]](BG[qG(KG(222890-223015),-780216+18909171362946)])K[BG[qG(KG(-810361+805869),-2208+6512442908753)]]=UDim2[BG[qG(KG(670261+-670288),-418477+35023306318358)]](-820089+820090,697782-697782,592005400%3382888,923150751%13778369)K[BG[qG(KG(981118+-985450),11726693240805-910652)]]=Color3[BG[qG(KG(-620396-(-618675)),15015664738522-830010)]](249896+-249846,-648578-(-648628),474721-474671)K[BG[qG(KG(-285930-(-283113)),2963618120880-244200)]]=Color3[BG[qG(KG(-348715+348847),714059707949-(-396396))]](12768+-12767,2503314241%14900680,-931581+931582)K[BG[qG(KG(946109+-949848),-110819+28853397199322)]]=998365562%7679735 K[BG[qG(KG(122404+-125181),3400643399848-(-736183))]]=Enum[BG[qG(KG(262888+-263052),-871739+8471008635916)]][BG[qG(KG(364395+-365197),-957182+13450101509100)]]K[BG[qG(KG(-118244+116216),-1001727+8771665651944)]]=tostring(B)K[BG[qG(KG(230475-230631),8230481938119-(-317226))]]=false K[BG[qG(KG(-602197-(-598771)),224231+22570741720629)]]=z(m)K[BG[qG(KG(-1015999+1014085),-745591+16842155236796)]]=m return K end local function H(m)local q=Instance[BG[qG(KG(228446-228967),30094680009675-(-508336))]](BG[qG(KG(-198246+195005),-260008+12566384321887)])q[BG[qG(KG(277711-280937),19958248409149-49058)]]=UDim2[BG[qG(KG(540273+-542044),16108767372183-927997)]](-382827-(-382828),2378751028%12652931,609203-609203,444399-444398)q[BG[qG(KG(-273512+273055),25367924834859-75234)]]=Color3[BG[qG(KG(-141264-(-141668)),-432685+4716018445141)]](461870+-461800,-273768+273838,1029888+-1029818)q[BG[qG(KG(-442542+438036),11488314639603-269096)]]=770872-770872 q[BG[qG(KG(109219+-111763),20417823023820-(-862075))]]=z(m)q[BG[qG(KG(271784+-272176),-290665+21092154620964)]]=m end local function G(m,q)local B=Instance[BG[qG(KG(-50351-(-46369)),32388262873966-(-174693))]](BG[qG(KG(-333930+331050),11334773505100%5667391203246)])B[BG[qG(KG(-670559-(-667317)),-462638+10911697876704)]]=UDim2[BG[qG(KG(-242856+239496),10728081905893-(-52770))]](-790135-(-790136),225511-225511,709942-709942,1022080-1022080)B[BG[qG(KG(474087-478447),11688037333313-888508)]]=Enum[BG[qG(KG(-314767-(-310314)),24746208940764-(-329514))]][BG[qG(KG(643637-646196),9422371356241-(-697334))]]B[BG[qG(KG(584439-587634),32755494888998-929533)]]=2535435057%16463864 B[BG[qG(KG(-285894-(-283241)),-483055+7081543923890)]]=Color3[BG[qG(KG(361451+-361396),4297245917442-(-3744))]](352538420%10072522,1656545894%10289104,-949031-(-949181))B[BG[qG(KG(579954+-581586),4589312994398-383916)]]=958654+-958645 B[BG[qG(KG(-353323+349849),13854913185659-(-387820))]]=true B[BG[qG(KG(1001637-1005055),15336723054524-542705)]]=Enum[BG[qG(KG(-256360+251946),839290+7841775013389)]][BG[qG(KG(847489-850938),609715+13822699725974)]]B[BG[qG(KG(-302691-(-302057)),273256+34381188420011)]]=Enum[BG[qG(KG(-1005823+1003733),13389970164213-989503)]][BG[qG(KG(504048+-504447),-512304+31129799737967)]]B[BG[qG(KG(-517530-(-517104)),6315941891026-(-265000))]]=Enum[BG[qG(KG(1043398-1043584),-547441+13199911619190)]][BG[qG(KG(872635+-875656),293139809245-(-654644))]]B[BG[qG(KG(-472494-(-471343)),18556971887054-(-629172))]]=q B[BG[qG(KG(340715+-341529),264680+6970944393076)]]=z(m)B[BG[qG(KG(-186001-(-182758)),296809+19376262233876)]]=m return B end local function Y(m,q,B)local Z={[BG[qG(KG(-714166+711457),402796+26529748466455)]]=B}local K=Instance[BG[qG(KG(952152-954302),28004042191257-805817)]](BG[qG(KG(-86435+82386),-975934+31995262523555)])K[BG[qG(KG(-118323-(-114724)),26995767916656-874043)]]=UDim2[BG[qG(KG(-156338-(-154917)),12402097170769-621619)]](139751809%1247784,-604083-(-604083),-794937+794937,1007933458%6631141)K[BG[qG(KG(372970-376556),12655508384394-1031296)]]=B and Color3[BG[qG(KG(-563825+560135),-193574+3553120321811)]](-626227-(-626227),-103477-(-103587),556397-556337)or Color3[BG[qG(KG(-492399+490408),-118628+9467470705109)]](-724854+724914,2855006214%12200881,333478-333418)K[BG[qG(KG(418706-419501),-895356+8484967729242)]]=Color3[BG[qG(KG(-809977+808918),4834133467198-249512)]](453167-453166,379923013%3015262,1251571441%5214881)K[BG[qG(KG(496980-497327),16915748889337%95569221310)]]=965630+-965619 K[BG[qG(KG(799673+-801653),92131+29510547047288)]]=Enum[BG[qG(KG(10976+-15266),223847+15881126006623)]][BG[qG(KG(-414407-(-414317)),1001791+650706401567)]]K[BG[qG(KG(225831+-229104),-35553+10582048649568)]]=q K[BG[qG(KG(839034+-843588),14312340938270-(-611827))]]=z(m)K[BG[qG(KG(-523969-(-523312)),87212025826270%665740658297)]]=m K[BG[qG(KG(-630900+627675),-80995+2509411304836)]]:Connect(function()Z[BG[qG(KG(-322418-(-320106)),902268+15623419425882)]]=not Z[BG[qG(KG(61602+-65080),6138768908071-(-440110))]]K[BG[qG(KG(-65570+61884),-330410+11044845794008)]]=Z[BG[qG(KG(513776+-515188),-573874+27237366899912)]]and Color3[BG[qG(KG(801598228%14063125),22741471431046-(-674101))]](-61090-(-61090),-85155+85265,904537704%4266687)or Color3[BG[qG(KG(542851649%6701871),17212606961093-235303)]](447386516%3522728,178239966%6601478,495403-495343)end)return Z end local function P(m,q,B,Z,K,f)Z=Z or Color3[BG[qG(KG(551473+-551875),459566+20079584429534)]](-923197-(-923197),94235418%759962,315110-315050)K=K or Color3[BG[qG(KG(-234171-(-230567)),20409233617053-(-72098))]](-208042-(-208102),2671322207%15995941,280263727%1719409)local H=Instance[BG[qG(KG(300131-301161),903932+16253725110309)]](BG[qG(KG(-135396+131094),-538865+20131126608429)])H[BG[qG(KG(859795-863547),572322100413-242344)]]=UDim2[BG[qG(KG(590022-589874),25772738563578-782392)]](-695733-(-695734),100667400%10066740,-951037-(-951037),f or 617681-617651)H[BG[qG(KG(514030-516208),-30177+28867356188389)]]=K H[BG[qG(KG(780314-782392),-117220+7026781053812)]]=Color3[BG[qG(KG(143588+-146065),20171928850222-(-653876))]](194270527%11427678,-189542+189543,207655-207654)H[BG[qG(KG(119169-123684),-948861+22107946044138)]]=723318+-723306 H[BG[qG(KG(-75087-(-71394)),25647106238640-84835)]]=Enum[BG[qG(KG(643265-645236),-907196+33035750035434)]][BG[qG(KG(-290652-(-288233)),7139526328764-(-940093))]]H[BG[qG(KG(675381+-676042),33124873247163-827706)]]=q H[BG[qG(KG(-551324-(-550513)),931133+35079141247584)]]=z(m)H[BG[qG(KG(-551281+548970),32669591149727-(-842298))]]=m H[BG[qG(KG(45025+-45944),21276843332416-(-227879))]]:Connect(function()local m=B[BG[qG(KG(1019987-1023808),-805113+12965829015588)]]()H[BG[qG(KG(746932-749303),-33377+20622914866535)]]=m and Z or K end)return H end return{[BG[qG(KG(53794+-57853),8709385541129-(-182694))]]=function()m={}end,[BG[qG(KG(-646452+646043),152101+10436015117266)]]=z;[BG[qG(KG(-440558+436555),21866344841102-(-970750))]]=q,[BG[qG(KG(-180006+178899),-529392+532592727520)]]=B;[BG[qG(KG(-664524-(-661108)),30794781137114-(-415533))]]=Z;[BG[qG(KG(934866-938685),23057160951398-(-884091))]]=K,[BG[qG(KG(812729+-817169),16074406346351-689141)]]=f,[BG[qG(KG(-950940-(-947837)),-658740+23936583885896)]]=H,[BG[qG(KG(-116482-(-112035)),5231430358777-541681)]]=G;[BG[qG(KG(753911+-757635),26681150360153-(-726711))]]=Y,[BG[qG(KG(-97955+96388),-162533+3226692814498)]]=P}end local uN=RN()local function VN()uN[BG[qG(KG(-942141+941027),-62434+17068720992762)]]()local q=z[BG[qG(KG(190992-194726),34584131915499-(-175845))]]local B=Y:FindFirstChild(BG[qG(KG(160095-160165),13331986121400-774712)])if B then B:Destroy()end local Z=Instance[BG[qG(KG(897148+-897194),-522928+8887632829189)]](BG[qG(KG(940477+-944859),26617797800547-(-585330))])Z[BG[qG(KG(611955+-615458),15476313778239-569330)]]=BG[qG(KG(-89571+88929),20940753017706-905020)]Z[BG[qG(KG(-359518-(-355051)),-276713+22572889770759)]]=false Z[BG[qG(KG(-569074+565595),2821878939407-(-690997))]]=-976638+977637 Z[BG[qG(KG(1218025585%6246284),-1043968+6566132680163)]]=true Z[BG[qG(KG(835770+-839406),-558129+22263642969391)]]=Y local K=305577+-305543 local f=854266+-854138 local H=Instance[BG[qG(KG(-634593-(-634548)),14082553776027-(-11168))]](BG[qG(KG(-844986+842825),-489071+2622158045177)])H[BG[qG(KG(1047296+-1051554),877563+25967090104956)]]=Color3[BG[qG(KG(-429357+426626),-643444+11904939556035)]](497455+-497431,17657-17633,-914848-(-914876))H[BG[qG(KG(168485+-168639),262120+11095312607349)]]=188893020%821274 H[BG[qG(KG(452526+-455828),-529776+31654875531416)]]=k H[BG[qG(KG(759736+-762950),157605+19470754537264)]]=true H[BG[qG(KG(146482-147557),499304472091-(-713654))]]=true H[BG[qG(KG(701975-703222),397676+33056150447829)]]=true H[BG[qG(KG(1022603-1024896),-876475+672183771693)]]=Z;(H:GetPropertyChangedSignal(BG[qG(KG(914526-919036),18308931333010-747767)])):Connect(function()k=H[BG[qG(KG(-620147+615936),32018885523960-935293)]]end)local s=Instance[BG[qG(KG(-863035+862272),870139+12990524155975)]](BG[qG(KG(105486-106083),12549202944305-(-724086))])s[BG[qG(KG(492193-496623),739127+1778169986881)]]=Color3[BG[qG(KG(-965246+961667),478959+8644958769284)]](390973279%12612039,116644+-116524,1845641544%14419073)s[BG[qG(KG(-644020+644213),20870957205915-441774)]]=11559457%84996 s[BG[qG(KG(-351136-(-347435)),639540+33862554925308)]]=.3 s[BG[qG(KG(180902+-183144),-127332+17182541164518)]]=H local b=Instance[BG[qG(KG(-503370-(-502000)),31797686027374-(-995135))]](BG[qG(KG(-68736-(-67490)),17444541532038-(-505840))])b[BG[qG(KG(1040320+-1044640),-177061+8846829048788)]]=UDim2[BG[qG(KG(-922633-(-919741)),-36577+13196689784547)]](703083753%4625551,-734711+734711,1032832-1032832,K)b[BG[qG(KG(-194470+191293),23137+17462796182822)]]=Color3[BG[qG(KG(-854650+851411),608829938575-(-255656))]](1948685932%11135348,364365-364331,1864593530%11581326)b[BG[qG(KG(853754+-855953),21675214959514-1025216)]]=-151973-(-151973)b[BG[qG(KG(-709370-(-707574)),-986751+13619757924363)]]=H local L=Instance[BG[qG(KG(-1033752-(-1032256)),25175719941968-834490)]](BG[qG(KG(-903292+902824),9696183931922-(-642868))])L[BG[qG(KG(-190253-(-186790)),1720186688091-(-209895))]]=UDim2[BG[qG(KG(326328-328810),21125442168276-825594)]](-393708+393709,184294+-184334,782969-782968,-511216+511216)L[BG[qG(KG(-333610+331879),955006+1700858000306)]]=UDim2[BG[qG(KG(1013887+-1015594),-373676+34942773179082)]](274367165%16139245,-473891-(-473903),-225895+225895,212647-212647)L[BG[qG(KG(-647924+645983),-134436+31526022184916)]]=-840185-(-840186)L[BG[qG(KG(128069-131876),4080343150831-(-302569))]]=Color3[BG[qG(KG(7584+-11972),273192+8031833682448)]](-806137+806257,-515698-(-515888),324778+-324523)L[BG[qG(KG(-924797+920277),587954+12991598212753)]]=569906+-569893 L[BG[qG(KG(-383724+380151),-320874+19422435159058)]]=Enum[BG[qG(KG(-520240+519689),1887697685274%629232886888)]][BG[qG(KG(-408493+407314),-55074+13727134451986)]]L[BG[qG(KG(414893+-416252),6213933884869-315178)]]=Enum[BG[qG(KG(-196518+195605),115684+12654433462821)]][BG[qG(KG(985059-988607),35745+34410180571533)]]L[BG[qG(KG(-969086+967659),-300393+651781478344)]]=BG[qG(KG(-733431+728910),-1001407+18173635987932)]L[BG[qG(KG(-695858-(-695734)),206502+26219427805372)]]=b local O=Instance[BG[qG(KG(-961024-(-959422)),22748989031282-503984)]](BG[qG(KG(-591666+590941),-954686+14577564829254)])O[BG[qG(KG(-750071+745816),17381190038001-701110)]]=UDim2[BG[qG(KG(-1001087+1001150),13248230904209-(-24225))]](-382764-(-382764),-102371+102403,-288617-(-288617),K)O[BG[qG(KG(746615+-749591),30782971070076-1037952)]]=UDim2[BG[qG(KG(-732471+731139),-671925+2150771181704)]](467375-467374,278729-278761,50466-50466,-108579-(-108579))O[BG[qG(KG(-17204-(-16929)),-23713+33843227645887)]]=-843449-(-843450)O[BG[qG(KG(248683-249320),682165+30644452427462)]]=Color3[BG[qG(KG(618238-620979),26368683463333-783032)]](511472+-511471,498823081%10843980,-195878+195879)O[BG[qG(KG(-338090+337236),-980222+12208818102632)]]=-998911+998927 O[BG[qG(KG(857160-859515),189926+26395526855200)]]=Enum[BG[qG(KG(257872-261992),33235471653654-451118)]][BG[qG(KG(995071+-999249),23723976412863-555121)]]O[BG[qG(KG(842298+-846715),346347+16606997508991)]]=BG[qG(KG(281321+-283164),-230055+29645842968192)]O[BG[qG(KG(603946-607923),26997914016901-(-574898))]]=b local E=Instance[BG[qG(KG(-574834+574236),14099734590328-409645)]](BG[qG(KG(-817415-(-814585)),914492+7956668819638)])E[BG[qG(KG(-389356+388391),-94051+7983514193006)]]=UDim2[BG[qG(KG(480047+-480204),-483375+11693405801145)]](793913-793913,-845178+845178,439598-439598,K)E[BG[qG(KG(848687-849786),20302929084831-(-919613))]]=UDim2[BG[qG(KG(-722294+720310),8644341211622%246981560448)]](-325610+325611,-156773+156773,1118577393%4403848,-K)E[BG[qG(KG(57451-57442),6453385366044-62114)]]=-514416+514417 E[BG[qG(KG(277352-280745),30947257731643-186790)]]=H local n=Instance[BG[qG(KG(-656436+652208),26098090845693-(-637172))]](BG[qG(KG(-111837-(-110179)),32510672323525-(-1028736))])n[BG[qG(KG(-247527-(-246248)),24945931118105-(-226471))]]=UDim2[BG[qG(KG(455278+-458990),-494383+33224733950989)]](-433901-(-433901),f,639284+-639283,104544888%14934984)n[BG[qG(KG(379884+-379630),7431593839333-(-118820))]]=Color3[BG[qG(KG(743543+-748074),26773495058162-(-643700))]](2790530048%16512012,-654880-(-654900),152479501%5257913)n[BG[qG(KG(732471+-732206),1030144+26494313277538)]]=326286579%5530281 n[BG[qG(KG(-214136-(-214503)),-523504+9656455438353)]]=-634289-(-634292)n[BG[qG(KG(-876578-(-873659)),15943405403176-246312)]]=UDim2[BG[qG(KG(-252915-(-250088)),-618419+29218481068542)]](68232237%2966619,-243432-(-243432),734639091%3099743,729527033%9993521)n[BG[qG(KG(677306-678901),21700983481074-(-1043456))]]=Enum[BG[qG(KG(-692597+690681),183974+30005557042818)]][BG[qG(KG(423298-423981),19365525588012-803257)]]n[BG[qG(KG(687741-689333),5902539449193-511472)]]=E local p=Instance[BG[qG(KG(694048-698102),31788022764923-(-286249))]](BG[qG(KG(781077-785016),9788529203260-13472)])p[BG[qG(KG(1167192916%7729752),30713173904707-(-778872))]]=Enum[BG[qG(KG(206995-208486),-16801+1364767524504)]][BG[qG(KG(986672-989183),30626199240979-299433)]]p[BG[qG(KG(917500+-917713),12319416809421-903932)]]=UDim[BG[qG(KG(-254376+251124),15680330563377-181798)]](1080102774%4758162,934525+-934523)p[BG[qG(KG(677173+-681342),82915+22467659501017)]]=n local W=Instance[BG[qG(KG(144804+-148114),110691+28981176154379)]](BG[qG(KG(711058-712566),21568909435454-(-814137))])W[BG[qG(KG(-107427+105161),28227386687702-186918)]]=UDim2[BG[qG(KG(-271912+271703),10166497490705-(-355819))]](1391848033%6241471,f,-1010431-(-1010431),734711+-734711)W[BG[qG(KG(-1010278-(-1008127)),-36513+34736608120063)]]=UDim2[BG[qG(KG(-655587-(-651956)),27288907184668-(-321834))]](-890299-(-890300),-f,-262567-(-262568),-174757+174757)W[BG[qG(KG(-92865-(-90147)),468847+33907653628907)]]=-886523+886524 W[BG[qG(KG(-89858-(-87715)),17080532859472-408621)]]=E local t={{[BG[qG(KG(458222+-460245),-1040704+34135295352174)]]=BG[qG(KG(122339-125924),1005631+33133461610570)],[BG[qG(KG(-766072+764331),225127+18405570073486)]]=BG[qG(KG(771907560%6597499),16610218315954-(-863163))]},{[BG[qG(KG(-232295+230225),17662519236351-956094)]]=BG[qG(KG(-42401+38768),489583+14500251614289)];[BG[qG(KG(497277-497903),10241662423917-355883)]]=BG[qG(KG(-445038+444556),277353+17570173387906)]},{[BG[qG(KG(-123068-(-119588)),252072+28811519627304)]]=BG[qG(KG(116388+-118823),3081732267005-(-814905))];[BG[qG(KG(569906+-573453),782264+32352827704826)]]=BG[qG(KG(-920061+917383),1753474695897-785528)]};{[BG[qG(KG(-109437-(-106083)),23193530901174-(-307626))]]=BG[qG(KG(87075+-91231),-127780+24445552512018)];[BG[qG(KG(-738167+737079),585522+31765473199197)]]=BG[qG(KG(854610-858747),4117924858757-(-705398))]};{[BG[qG(KG(882103-883963),-734199+3914982900277)]]=BG[qG(KG(-294068-(-294057)),-831610+9229093458445)],[BG[qG(KG(-476564-(-475375)),-778104+27255621272223)]]=BG[qG(KG(731639+-735210),-843322+26080911932699)]};{[BG[qG(KG(-221287+218031),-628595+22198142789684)]]=BG[qG(KG(-898161-(-896892)),-75234+18190815455247)];[BG[qG(KG(704311-706550),441902+31898621392349)]]=BG[qG(KG(713270+-714770),34308172052208-31265)]},{[BG[qG(KG(1016303-1019200),82586152301707%20646538142501)]]=BG[qG(KG(-531312+528650),575026+7520716674346)];[BG[qG(KG(-21537+19995),377836+24833184634475)]]=BG[qG(KG(-405153-(-405165)),285545+11719175622457)]};{[BG[qG(KG(-448174+447812),470511+34289917382351)]]=BG[qG(KG(-114696-(-111203)),132324+16867924949113)];[BG[qG(KG(-1047488+1043467),223911+6279433595953)]]=BG[qG(KG(-138724+137523),15337796598518-312106)]}}local X={}local g={}local function A(m)local z=Instance[BG[qG(KG(-906830-(-904508)),-376044+3970818820958)]](BG[qG(KG(-549619-(-549361)),24442331174799-114340)])z[BG[qG(KG(895804+-898830),8.2194474043149e+14%25685773496527)]]=m z[BG[qG(KG(501872+-502819),32566510165994-534897)]]=UDim2[BG[qG(KG(92643+-96307),-600115+70869723253)]](623617401%3873400,-354411+354411,-1029760+1029761,566642+-566642)z[BG[qG(KG(-209154-(-208038)),837754+20398495105467)]]=288425+-288424 z[BG[qG(KG(-529840+529677),-413613+26927045882274)]]=20167784%2881112 z[BG[qG(KG(-364715+364430),27449973074345-(-621107))]]=23969+-23964 z[BG[qG(KG(309556-313450),-352299+4814805627311)]]=UDim2[BG[qG(KG(-691364-(-688181)),29588932181108-(-503600))]](-308522+308522,626914530%13931434,609139-609139,-458094+458094)z[BG[qG(KG(-443822+439865),960382+34204014925040)]]=Enum[BG[qG(KG(614749-614451),-484847+22886432160049)]][BG[qG(KG(613875+-614441),17348975595437-(-503664))]]z[BG[qG(KG(576688-578802),19432097771825-(-1037696))]]=false z[BG[qG(KG(-750135+745729),15936962317588-(-191718))]]=W local q=Instance[BG[qG(KG(-105977-(-102371)),-660660+17527223342199)]](BG[qG(KG(-544236-(-542449)),23752967732744-(-39009))])q[BG[qG(KG(160872-163685),1550531450593-938301)]]=UDim[BG[qG(KG(-125704-(-123748)),7933047415378-722294)]](94179+-94179,847209995%11932535)q[BG[qG(KG(-416941+416189),12414982214677-370411)]]=UDim[BG[qG(KG(503630-504880),134052+29776843104431)]](-700278-(-700278),-102361-(-102371))q[BG[qG(KG(383084+-386773),64162+20007641927207)]]=UDim[BG[qG(KG(337458-341099),-565362+28316510357365)]](465647504%16630268,545686650%6821083)q[BG[qG(KG(-43419-(-42593)),12426793101837-(-262952))]]=UDim[BG[qG(KG(-933906-(-929725)),1359397680244-(-954494))]](1031168-1031168,-248296+248306)q[BG[qG(KG(-300649+298999),887035+6577942269683)]]=z local B=Instance[BG[qG(KG(-407725+403720),1326111455406-(-166949))]](BG[qG(KG(3360-6688),904380+31998481967020)])B[BG[qG(KG(-413933+410040),21914664723964-(-944573))]]=Enum[BG[qG(KG(-677941+673405),5815562407728-(-787960))]][BG[qG(KG(537905+-541171),-52898+33092659234565)]]B[BG[qG(KG(-95350-(-92003)),19527664382815-(-365483))]]=UDim[BG[qG(KG(-20381-(-18849)),33328889304662-(-287465))]](970366-970366,1015237-1015231)B[BG[qG(KG(-972912-(-968830)),13907527932518-(-596018))]]=z return z end for m,z in ipairs(t)do g[z[BG[qG(KG(-351678-(-349611)),520112+24003156731810)]]]=A(z[BG[qG(KG(1560972763%14453449),32094048415829-(-394348))]])end local function i(m)v=m for z,q in pairs(g)do q[BG[qG(KG(529261-533681),542961+17542254982880)]]=(z==m)end for z,q in pairs(X)do local B=(z==m)q[BG[qG(KG(-685952-(-684149)),26931340855394-288361)]]=B and Color3[BG[qG(KG(-497621-(-494063)),28901717491093-545905)]](584498+-584458,2799966358%16567848,2079019690%9715045)or Color3[BG[qG(KG(337258+-339946),-83683+27401653922450)]](2640028940%15172580,1626326304%14392268,439534+-439510)q[BG[qG(KG(129316+-131570),-400236+33288086557829)]]=B and Color3[BG[qG(KG(-544305-(-540657)),20379168169864-169317)]](36637386%210559,1358279950%5659499,158381023%4949399)or Color3[BG[qG(KG(401116-402668),1000255+513263255199)]](-887420+887610,381292+-381102,325096-324906)local Z=q:FindFirstChild(BG[qG(KG(499598-501808),34659297322709-1009855)])if Z then Z[BG[qG(KG(8672+-10014),142628+31722522658371)]]=B and 512176+-512176 or-72609-(-72610)end end end for m,z in ipairs(t)do local q=Instance[BG[qG(KG(-757559+755757),6862493182096-(-241767))]](BG[qG(KG(-210023+208013),3693784485260-(-114660))])q[BG[qG(KG(7721282%7721239),-145317+26240903649051)]]=UDim2[BG[qG(KG(-427791-(-425773)),34709764586688-867963)]](159461+-159460,724406+-724406,-81379-(-81379),786872+-786838)q[BG[qG(KG(-187248-(-184742)),15841395634404-(-936125))]]=Color3[BG[qG(KG(735351+-737431),34333943568293-957118)]](-445466-(-445486),649160-649140,-113252+113276)q[BG[qG(KG(236245-240359),25553687527055-(-237159))]]=-474991-(-474991)q[BG[qG(KG(281641+-282797),26750946883135-447726)]]=Color3[BG[qG(KG(326762+-329739),17619567393916-97379)]](799287-799097,444526+-444336,-506802-(-506992))q[BG[qG(KG(987774-989887),-530416+5468734532565)]]=986879+-986867 q[BG[qG(KG(-681064-(-679605)),-447854+29967975563891)]]=Enum[BG[qG(KG(-470118-(-468655)),14650581442056-895164)]][BG[qG(KG(95960-96675),-473007+12627589686687)]]q[BG[qG(KG(-1039232+1036984),727415+11628978114775)]]=Enum[BG[qG(KG(-423095-(-421805)),126372+13814110012573)]][BG[qG(KG(-872315+868148),-623219+22933678380513)]]q[BG[qG(KG(-28176-(-27041)),31965196646017-787000)]]=C(z[BG[qG(KG(-840954+837288),-808569+14917951229118)]])q[BG[qG(KG(-307562+306566),-380844+21711722651304)]]=m q[BG[qG(KG(313770+-316278),23955910778874-(-390956))]]=n local B=Instance[BG[qG(KG(-432784-(-429293)),13837734048658-868667)]](BG[qG(KG(557489+-557100),25200415478591-(-444526))])B[BG[qG(KG(949117+-953516),12401021896482-(-878075))]]=UDim[BG[qG(KG(-941629+941214),-52450+6018506646215)]](-598387+598387,872571+-872557)B[BG[qG(KG(-505968+504562),796537+14282275064956)]]=q local Z=Instance[BG[qG(KG(218471+-220475),18001830991003-(-60642))]](BG[qG(KG(-617843+615365),941629+21692393386157)])Z[BG[qG(KG(128930-131876),34371524681897-(-40033))]]=BG[qG(KG(-1001407+999396),-5088+19284991695368)]Z[BG[qG(KG(378315-378412),19033729028272-592754)]]=UDim2[BG[qG(KG(323882+-325610),-101091+25426982463331)]](1927649880%8237820,1022160673%9923890,2879673391%14543805,1133284635%5996215)Z[BG[qG(KG(593568-597555),-981246+11158666551702)]]=Color3[BG[qG(KG(-962317-(-960190)),446190+29114323868412)]](-615667+615667,624627+-624477,1932521223%14209713)Z[BG[qG(KG(937085+-940282),27376957720078-696950)]]=-1046656+1046657 Z[BG[qG(KG(-92131+90836),31420792202032-61666)]]=624951110%3048542 Z[BG[qG(KG(-111011+106687),577202+32125187696172)]]=q q[BG[qG(KG(467566+-471908),16297750094293-(-678261))]]:Connect(function()i(z[BG[qG(KG(463367930%6619539),293993+12949721297587)]])end)X[z[BG[qG(KG(674041-674613),-478255+11564552844865)]]]=q end local l=g[BG[qG(KG(644980+-647517),-558513+31576490014864)]]uN[BG[qG(KG(-416365+413884),32050023075546-(-976318))]](l,C(BG[qG(KG(591154+-594264),-978302+35049077468415)]),Color3[BG[qG(KG(1029184+-1030495),25046100723741%333948065207)]](465709-465454,689025-688885,1433373%477771))local T,J=uN[BG[qG(KG(1006335+-1007231),50018+25479597267279)]](l,C(BG[qG(KG(902699-904572),931709+4567836186913)]),Color3[BG[qG(KG(944061+-946182),11330469238608-(-266728))]](1371937684%11827049,433918438%9232304,30690252%189446),C(BG[qG(KG(821394-822842),29685571833228-(-564850))]),Color3[BG[qG(KG(-537329+535305),17831100764986-(-126372))]](1006293-1006143,143565086%10254649,-582386+582386))local h=uN[BG[qG(KG(-843258+843573),26890537300792-168293)]](l,C(BG[qG(KG(85667+-86374),30161254407189-(-135588))]),Color3[BG[qG(KG(748490-750071),2682289540597-607283)]](73231630%3661574,391212580%3260104,828922+-828922),905306-905276)local r=uN[BG[qG(KG(508400+-510813),3348029448726-267752)]](l,C(BG[qG(KG(-508568-(-507184)),336091911719-464110)]),Color3[BG[qG(KG(1023488+-1026046),896700+5553561298296)]](572218440%7529190,389097339%1601223,62214-62114),264130849%6442215)n7=uN[BG[qG(KG(1468263920%10957193),22330215621379-(-814649))]](l,C(BG[qG(KG(-941727-(-938685)),-960446+2379485458534)]),Color3[BG[qG(KG(596850+-599476),276329+27910622719520)]](-714834-(-714934),-668021+668221,-870075+870175))j7=uN[BG[qG(KG(231655+-233059),937405+6984902790060)]](l,C(BG[qG(KG(-271407-(-269928)),27060193386957-(-131236))])..BG[qG(KG(-90030-(-89699)),242024+21121146002286)],Color3[BG[qG(KG(849146+-849683),9583438101241-(-141284))]](690009928%5390701,-780848-(-781048),2085279765%14381238))p7=uN[BG[qG(KG(767352+-769971),821561+30808739800795)]](l,C(BG[qG(KG(-624691-(-620339)),12571753088161-153317)])..BG[qG(KG(656667-659700),699062+3103207874708)],Color3[BG[qG(KG(-830394+829372),25226185734989-(-778360))]](-248808+249063,64930+-64730,-446218-(-446318)))local a=Instance[BG[qG(KG(-637873-(-636788)),988735+28813666439827)]](BG[qG(KG(-860539+858702),24289854199394-(-868859))])a[BG[qG(KG(884987+-886071),476335+21734271060578)]]=UDim2[BG[qG(KG(333802+-334198),17221197748640-826106)]](1213393175%12381563,-983166+983166,-16865+16865,525114053%6647013)a[BG[qG(KG(-584690+584678),420397+20279306543001)]]=Color3[BG[qG(KG(252520+-252889),887420+25284169453951)]](284521+-284521,50719980%247414,537587916%14932996)a[BG[qG(KG(1018688+-1022178),-812089+11935005413284)]]=Color3[BG[qG(KG(-942205+938859),75874+12507326383390)]](-548336-(-548337),421549+-421548,996735+-996734)a[BG[qG(KG(893116+-897550),-659124+34080532466351)]]=753634595%10467147 a[BG[qG(KG(-972046-(-967998)),37985+20105355441347)]]=Enum[BG[qG(KG(119716+-123982),33237618451521-(-300201))]][BG[qG(KG(-230375+226871),914172+28496903009455)]]a[BG[qG(KG(-724034-(-723126)),20306151254845-(-73378))]]=C(BG[qG(KG(917372+-918777),39073+25779180389671)])a[BG[qG(KG(368472352%4386574),4829837397404-(-721910))]]=uN[BG[qG(KG(579506+-580982),13700289440101-(-591986))]](l)a[BG[qG(KG(-229479+225306),-577778+24496020367887)]]=l a[BG[qG(KG(-902289-(-898364)),614835+11057730143879)]]:Connect(function()O7[BG[qG(KG(653684+-654784),-399980+2587797169110)]]=not O7[BG[qG(KG(-393260+389701),28951111408652-832186)]]a[BG[qG(KG(930729-931133),-347243+2771412571776)]]=O7[BG[qG(KG(82915+-84804),13683109016980-(-621619))]]and Color3[BG[qG(KG(736055+-739360),2256000877155-457262)]](440942-440942,-33249+33359,2063995660%10978700)or Color3[BG[qG(KG(341280-341931),-305897+31579711086027)]](-578034+578094,2940266324%11903912,907964+-907904)end)uN[BG[qG(KG(37696569%546327),-744631+23431909913077)]](l,BG[qG(KG(604711-608563),29607186687952-(-164837))])T[BG[qG(KG(-656836-(-652276)),-160677+18035118224705)]]:Connect(wN)J[BG[qG(KG(-828602+828522),-761784+18838302221376)]]:Connect(bN)h[BG[qG(KG(-715190+711057),-57570+15671740242405)]]:Connect(function()if z7[BG[qG(KG(972786-976830),14737555336799-(-952126))]][586162+-586161]==BG[qG(KG(463971-467438),144292+1684752192125)]then z7[BG[qG(KG(59100-60578),-190310+1187594890168)]][196070+-196069]=BG[qG(KG(212967+-215758),130916+13871020061458)]h[BG[qG(KG(-394860+390367),1667572149879-206950)]]=C(BG[qG(KG(-286639-(-285225)),9537265505669-(-429357))])else z7[BG[qG(KG(78434+-79001),8634221344900-(-157413))]][-850041-(-850042)]=BG[qG(KG(339398-342699),7889022970931-1036160)]h[BG[qG(KG(850025-854010),-404333+29467596560032)]]=C(BG[qG(KG(-85863-(-83747)),2893821973654-(-554481))])end end)r[BG[qG(KG(59298+-60022),-718582+32817773604441)]]:Connect(function()B7[BG[qG(KG(76002-76962),-644916+20538087285227)]]()end)uN[BG[qG(KG(79650+-83805),104675+9208690804893)]](l,BG[qG(KG(-342030-(-340779)),17602387930697-1027648)])local x=g[BG[qG(KG(-704822+700424),17057+17370451573904)]]uN[BG[qG(KG(113026527%934102),-178982+5435447168748)]](x,C(BG[qG(KG(974462+-978885),31157716520415-(-844666))]),Color3[BG[qG(KG(445614+-448169),-363499+29165865858565)]](-593394-(-593394),401194-401004,-38269-(-38369)))local F=uN[BG[qG(KG(-492024-(-491759)),-401388+9099166302470)]](x,C(BG[qG(KG(-559262-(-554737)),888572+23985975969862)]),U7[BG[qG(KG(44743-49058),213543+7142748379093)]])F[BG[qG(KG(-185611-(-182694)),15538592698296-562993)]]:Connect(function()local m=tonumber(F[BG[qG(KG(-13612-(-12640)),25291686280723-(-482799))]])if m and m>=111907+-111907 then U7[BG[qG(KG(809145+-809823),480687+32556845179073)]]=m else F[BG[qG(KG(850383-852538),-213223+22529938723549)]]=tostring(U7[BG[qG(KG(526869-526960),-973246+22712481164382)]])end end)local u,V=uN[BG[qG(KG(-441579-(-437550)),-625971+4300467870936)]](x,C(BG[qG(KG(910396+-910886),31404685283288-(-238183))]),Color3[BG[qG(KG(-95170-(-94371)),20706669762756-511344)]](979838+-979838,90147+-89997,2484891794%16135661),C(BG[qG(KG(-921244-(-918204)),21263958500802-235623)]),Color3[BG[qG(KG(-298072-(-296681)),-237415+13094681399050)]](1133988726%5062449,667957-667957,1189694968%13519261))e7=uN[BG[qG(KG(506807-507376),26150707404128-966206)]](x,C(BG[qG(KG(361921-362731),26194731698747-502512)]),Color3[BG[qG(KG(934706-935997),-403437+16990335788476)]](517972-517872,-895412-(-895612),1045260124%7574348))D7=uN[BG[qG(KG(1010431+-1011421),10025834074223-699382)]](x,C(BG[qG(KG(153701+-156171),20970818550721-749431)])..BG[qG(KG(-512880+510219),607987+24769831703337)],Color3[BG[qG(KG(-436086-(-433069)),3456481388561-973694)]](1756446698%10581003,-308386-(-308586),-265577-(-265832)))uN[BG[qG(KG(974065-973822),21230671477475-224679)]](x,BG[qG(KG(-961931-(-960638)),5125127031521-899132)])uN[BG[qG(KG(-771576+768243),275945+20019453235947)]](x)uN[BG[qG(KG(-930960-(-929789)),-467630+21755747496403)]](x,BG[qG(KG(-237444-(-233127)),33063666661525-(-606131))]..s7,w7)w7[BG[qG(KG(682933+-682955),23336344212195-982526)]](uN[BG[qG(KG(897606-898556),723190+26343985141472)]](x,BG[qG(KG(116984-120036),33203258498619-533873)],Color3[BG[qG(KG(114788+-115996),24054698141721-(-290665))]](-14844-(-14944),1668254312%7316904,1372127560%11828685)))uN[BG[qG(KG(259816+-264271),33480290767052-(-1042688))]](x,BG[qG(KG(-1031104+1027728),-907580+28052362149705)]..(((-951920-(-951934))*s7)..BG[qG(KG(292265+-294282),28808298486059-(-69538))]))uN[BG[qG(KG(621619+-626068),821433+4054572041735)]](x)uN[BG[qG(KG(1016448+-1016162),12908918940142-783096)]](x,BG[qG(KG(-745271+743744),9850807112471-(-1003711))],G7)G7[BG[qG(KG(700678-704438),-809785+26833627888855)]](uN[BG[qG(KG(-22113+22127),16556530509021-59554)]](x,BG[qG(KG(856934-859003),32145589335037-(-655604))],Color3[BG[qG(KG(620275+-620063),371308+9854029068653)]](75362+-75262,458102-457902,451630+-451530)))uN[BG[qG(KG(305687-308650),18578447929268-(-78818))]](x,BG[qG(KG(-844607-(-843898)),11945742135822-(-211303))])uN[BG[qG(KG(-527419-(-524464)),8457049349176-654708)]](x)uN[BG[qG(KG(310196-312362),7492799035488-(-74466))]](x,BG[qG(KG(-1012799+1013214),8268213342686%826822989564)],P7)P7[BG[qG(KG(-186406+182937),25649252917015-(-785976))]](uN[BG[qG(KG(375129-375788),34991092896434-234343)]](x,BG[qG(KG(-449134+449396),68292224010641%1138203778679)],Color3[BG[qG(KG(-184806+180958),34323204987649-122404)]](41189497%13729799,-370475+370675,-470191+470291)))uN[BG[qG(KG(1258083863%11542052),-474671+27990082790402)]](x,BG[qG(KG(-232615+231564),15051098409887-(-60194))])uN[BG[qG(KG(150757+-152941),22253978333842-(-106083))]](x)uN[BG[qG(KG(157541-158821),29601+33930203334606)]](x,C(BG[qG(KG(122092-122980),463150+32264778507314)]),Color3[BG[qG(KG(1005933-1007487),6388959572981-744631)]](957438+-957438,627970721%11629084,831141-830906))local S=uN[BG[qG(KG(-57186+56277),26904495244066-(-958142))]](x,C(BG[qG(KG(45966-49634),33527538623151-731319)]),HN[BG[qG(KG(929709-933949),23757262241594-(-628531))]])S[BG[qG(KG(86691+-86803),29899253283293-(-258792))]]:Connect(function()local m=tonumber(S[BG[qG(KG(-680053+678261),-949501+6813100742086)]])if m and m>=372076+-372076 then HN[BG[qG(KG(-953726+953437),-797433+13479093263362)]]=m else S[BG[qG(KG(-482415+478342),-679285+6341713425543)]]=tostring(HN[BG[qG(KG(911974-915068),-1043392+3724925106509)]])end end)local o,M=uN[BG[qG(KG(-126764-(-122980)),635828+22412896443861)]](x,C(BG[qG(KG(-1018448-(-1014335)),29618998748012-374700)]),Color3[BG[qG(KG(823863-828090),5850998154421-397164)]](1007167+-1007167,-69666+69816,-145701-(-145701)),C(BG[qG(KG(337450+-337078),-176869+30804445700853)]),Color3[BG[qG(KG(-22289-(-20577)),24674266311969-(-60578))]](556231-556081,1033024308%6223038,2224749540%10066740))ZN=uN[BG[qG(KG(-870395+866212),30236418293904-(-470383))]](x,C(BG[qG(KG(1039680+-1041398),17316763109735-248424)]),Color3[BG[qG(KG(1031744+-1034241),201958+25798508169460)]](846522+-846422,897988-897788,128026936%514164))KN=uN[BG[qG(KG(999231+-1002756),-981118+24992104633193)]](x,C(BG[qG(KG(277545+-280097),28933930963706-780728)])..BG[qG(KG(156976-158565),580850+14926540036443)],Color3[BG[qG(KG(537695-538289),-548913+3547751804185)]](1624114681%12788303,-318442+318642,-18914-(-19169)))uN[BG[qG(KG(891836+-892104),8263768363860-(-903868))]](x,BG[qG(KG(248016-250024),313542266439-85283)])u[BG[qG(KG(-672821+669195),23076489321285-(-456878))]]:Connect(vN)V[BG[qG(KG(-166053+162097),-185510+28678372015354)]]:Connect(kN)o[BG[qG(KG(34364-34017),18133905892330-565746)]]:Connect(PN)M[BG[qG(KG(-131813-(-130852)),223079+33300971229630)]]:Connect(LN)uN[BG[qG(KG(-81696-(-79074)),85027+12646917071327)]](x)uN[BG[qG(KG(117364-119460),20947194477579-(-282665))]](x,BG[qG(KG(-966684-(-967102)),6444794222903-(-884283))],Color3[BG[qG(KG(509488+-509341),16673+30694920498825)]](307689-307434,1053414608%15722604,-787708-(-787768)))local e=uN[BG[qG(KG(-320783-(-318314)),-787000+32668519004432)]](x,BG[qG(KG(467993-469039),15598722595267-(-917244))],hN[BG[qG(KG(-2080+1052),6571501331745-822585)]][BG[qG(KG(-314826-(-314794)),-292841+20415676629550)]])e[BG[qG(KG(92975-94115),19878788896493-(-143716))]]:Connect(function()local m=tonumber(e[BG[qG(KG(-90443-(-86051)),1018496+17782780016177)]])if m and m>=1286879658%14459322 then hN[BG[qG(KG(536561+-538821),11601061195299-492527)]][BG[qG(KG(474472-475375),-793273+15177804665328)]]=m else e[BG[qG(KG(-43564-(-40289)),12984081433343-(-945213))]]=tostring(hN[BG[qG(KG(-688949+684703),668597+15102638981948)]][BG[qG(KG(509599741%2438276),-27105+11463617581973)]])end end)local U=uN[BG[qG(KG(-1037248+1037054),28642937956968-688693)]](x,BG[qG(KG(993215+-996776),3036635550603-1001599)],hN[BG[qG(KG(159269+-160944),27386620319852-(-674613))]][BG[qG(KG(374188+-376043),29246397744363-(-845178))]])U[BG[qG(KG(-410861+408817),496367+5995956830945)]]:Connect(function()local m=tonumber(U[BG[qG(KG(-847114-(-846970)),10812909453600-(-697910))]])if m and m>=3664822008%15463384 then hN[BG[qG(KG(545996-547313),-300265+34803182408581)]][BG[qG(KG(638900+-639667),17510041892103-(-395948))]]=m else U[BG[qG(KG(667646-669749),682293+11104976158513)]]=tostring(hN[BG[qG(KG(-220666-(-217511)),11092092495255-949565)]][BG[qG(KG(-14094-(-9632)),2222840836938%148189995936)]])end end)local m7=uN[BG[qG(KG(454445-454702),-70562+8043645546725)]](x,BG[qG(KG(-789944-(-785656)),33929130544812-955198)],hN[BG[qG(KG(-723036-(-720438)),-450734+28212354107216)]][BG[qG(KG(1032768+-1032555),31677424591271-323178)]])m7[BG[qG(KG(216231+-219782),861051+400517062138)]]:Connect(function()local m=tonumber(m7[BG[qG(KG(-816633+812156),1035119612736-905084)]])if m and m>1717230824%10344764 then hN[BG[qG(KG(-448366+448167),9296740026662-(-399532))]][BG[qG(KG(-645208-(-643572)),5777980125063-(-959870))]]=m else m7[BG[qG(KG(-893692+891201),-529072+31416497571066)]]=tostring(hN[BG[qG(KG(-578354+577570),35044781634277-242536)]][BG[qG(KG(237799+-242180),25469933640593-294633)]])end end)local q7=uN[BG[qG(KG(-934461+934702),5643758788377-(-472431))]](x,BG[qG(KG(582618-582642),-620595+5287266716527)],hN[BG[qG(KG(-154597+153789),-199718+2494378579257)]][BG[qG(KG(581909-582450),-723766+27186899643933)]])q7[BG[qG(KG(-934589+933899),13146222882820-540721)]]:Connect(function()local m=tonumber(q7[BG[qG(KG(836235-840506),56994+23238629684712)]])if m and m>=-800824-(-800825)then hN[BG[qG(KG(903164+-905069),14260800756557-386924)]][BG[qG(KG(443743-446382),8128474189122-520112)]]=m else q7[BG[qG(KG(-136292+131766),15618052221833-766648)]]=tostring(hN[BG[qG(KG(853941-854074),-972990+21941511006352)]][BG[qG(KG(520014-522160),27899884854227-(-395692))]])end end)local Z7,K7=uN[BG[qG(KG(-810809+811190),628211+27165422800096)]](x,BG[qG(KG(-164069+163461),31254356276794-(-801657))],Color3[BG[qG(KG(-814495-(-812729)),309162+18247725124280)]](-690741-(-690741),380485660%6560095,1244111050%9570085),BG[qG(KG(-440049-(-438062)),10317899351059-(-713078))],Color3[BG[qG(KG(-466931-(-463854)),974526+28224164202479)]](291044568%2969841,-711606+711606,707766-707766))Z7[BG[qG(KG(-56610+53999),-1008191+5611547031209)]]:Connect(function()hN[BG[qG(KG(538289+-540481),-614515+8458123083576)]]()end)K7[BG[qG(KG(-182694+178279),1606367135235-344107)]]:Connect(function()hN[BG[qG(KG(-994223-(-991487)),-478127+3991220640308)]]()end)hN[BG[qG(KG(455790+-456091),1922056919658-398188)]](uN[BG[qG(KG(16417+-18761),18008273504093-(-195110))]](x,BG[qG(KG(-272916-(-269224)),519664+3893506154554)],Color3[BG[qG(KG(945295-948733),10572383733114-(-909564))]](847686108%16301654,447606-447406,678361-678261)))uN[BG[qG(KG(25542-28321),104931+32478460009540)]](x,BG[qG(KG(860731+-864555),-348267+13750757786225)])local f7=g[BG[qG(KG(1043328+-1046124),-385132+26261305606133)]]uN[BG[qG(KG(776120+-778089),-98531+4403549704424)]](f7,C(BG[qG(KG(-525515-(-523312)),388140+3841965105614)]),Color3[BG[qG(KG(-284687-(-283049)),18480735337396-817273)]](38044832%1188901,-377622-(-377772),-132900+133155))local H7=uN[BG[qG(KG(-1002879+999970),457582+26191509414874)]](f7,C(BG[qG(KG(54915-59298),449646+16533980733368)]),EN[BG[qG(KG(203539-207782),-553137+10218039580125)]][BG[qG(KG(-927101+925947),-496815+6114073029357)]])H7[BG[qG(KG(291099-294633),21244631251974-929469)]]:Connect(function()local m=tonumber(H7[BG[qG(KG(152677+-155212),481711+13447952521021)]])if m and m>618711003%16721919 then EN[BG[qG(KG(-772344+771539),30417887162583-492079)]][BG[qG(KG(115108+-117873),406701+13942962683404)]]=m else H7[BG[qG(KG(791545+-791466),2518000736180-(-684405))]]=tostring(EN[BG[qG(KG(916156+-916089),925693+4016989826720)]][BG[qG(KG(-747592-(-744055)),22514905988242-322218)]])end end)local Y7,d7=uN[BG[qG(KG(-629261-(-627635)),893381395901-934525)]](f7,C(BG[qG(KG(-842709-(-838266)),25012505261211-(-108131))]),Color3[BG[qG(KG(-390992-(-387308)),152805+15429066974012)]](-182566+182566,483715358%3268346,-898044+898044),C(BG[qG(KG(723385-727735),16647800984103-(-305769))]),Color3[BG[qG(KG(487308-488239),-579762+17848281864608)]](-201894+202044,894268+-894268,2851915879%13516189))EN[BG[qG(KG(-342571+338147),4198458467808-(-190822))]](uN[BG[qG(KG(479919+-483747),8953131736153-(-820281))]](f7,C(BG[qG(KG(771347-775608),820217+3197699917737)]),Color3[BG[qG(KG(601011+-602670),-617651+31276906962555)]](-507212-(-507312),67975367%1114347,-614927-(-615027))))uN[BG[qG(KG(276331-277097),34297433693075-(-581938))]](f7,BG[qG(KG(-569522+567909),-69922+20121462168149)])Y7[BG[qG(KG(-832570+831560),29315120051778-(-111715))]]:Connect(EN[BG[qG(KG(-108517-(-105827)),7.6199370631841e+14%19049842852923)]])d7[BG[qG(KG(782392+-784419),17260925593420-(-989055))]]:Connect(EN[BG[qG(KG(54202-57762),-124388+9524380764298)]])local c7=g[BG[qG(KG(-736759+735147),1075584977878%4302368994)]]uN[BG[qG(KG(-47305-(-43297)),8605229721842-133540)]](c7,C(BG[qG(KG(49583184%269473),-166053+3950416893700)]),Color3[BG[qG(KG(-1017472+1013135),15583689723444-(-944765))]](-1044032+1044032,230240740%902904,1065476952%6786476))local b7=uN[BG[qG(KG(598825-602291),980350+18966079655809)]](c7,C(BG[qG(KG(-739831+736435),16138831724425-(-408365))]),nN[BG[qG(KG(819571-820665),27961119869244%5592225447225)]])b7[BG[qG(KG(530992+-533933),-823162+32725429094023)]]:Connect(function()local m=tonumber(b7[BG[qG(KG(-275771-(-276137)),-370859+26473912961274)]])if m and m>421869+-421869 then nN[BG[qG(KG(-253792-(-252520)),4355230234567-485359)]]=m else b7[BG[qG(KG(1796173897%10034491),-197734+9077690606956)]]=tostring(nN[BG[qG(KG(-60987-(-56866)),921661+11283222501583)]])end end)local C7=Instance[BG[qG(KG(5583-7328),21291875923782-(-480815))]](BG[qG(KG(273320+-275699),771768+8037202056837)])C7[BG[qG(KG(847930+-851135),26265599602391-(-716982))]]=UDim2[BG[qG(KG(405101+-405789),6.7665585769282e+14%2632902196839)]](964606+-964605,899964-899964,251624-251624,931197+-931167)C7[BG[qG(KG(-182566+180269),28256379297862-883067)]]=Color3[BG[qG(KG(987135+-988686),-852986+31520654030501)]](2525526261%9982317,-54242+54302,-167145-(-167205))C7[BG[qG(KG(155493+-159118),1151086846367-482671)]]=Color3[BG[qG(KG(258536+-262993),940733+4714943297130)]](1136869401%8484100,2970760001%12805000,250024+-250023)C7[BG[qG(KG(-289572-(-289385)),3375946377419-(-942973))]]=430248612%2868324 C7[BG[qG(KG(252584+-254010),7433740463947-(-1043392))]]=Enum[BG[qG(KG(939069+-942165),754615+24673191843339)]][BG[qG(KG(959534-964030),13624065053982%6812039035990)]]C7[BG[qG(KG(-914364+910196),12923951959170-957822)]]=C(BG[qG(KG(-975038-(-973566)),33541496596314-(-365227))])C7[BG[qG(KG(667765+-670204),17239451203931-113316)]]=uN[BG[qG(KG(-546353+544638),25563350919686-(-815865))]](c7)C7[BG[qG(KG(884405-885627),-960126+7579775812113)]]=c7 C7[BG[qG(KG(176204-178982),1039872+32658853206223)]]:Connect(function()nN[BG[qG(KG(-72546+71043),827258+18040486109735)]]=not nN[BG[qG(KG(152037+-155822),569458+10807540709087)]]C7[BG[qG(KG(-83299+83290),834490+22192772453634)]]=nN[BG[qG(KG(20001+-21335),728631+34692582596606)]]and Color3[BG[qG(KG(1023628-1027328),608+3585333365419)]](679285-679285,-1010047+1010177,440118562%5117657)or Color3[BG[qG(KG(814457+-817163),8099482290536-535537)]](297381-297321,-517552+517612,823418+-823358)end)jN=uN[BG[qG(KG(383532+-386373),-179558+30059246136000)]](c7,C(BG[qG(KG(390380+-391962),124132+5061773307270)]),Color3[BG[qG(KG(-515120+514279),-660020+25430204346039)]](91043+-90943,371572-371372,67249366%1601173))uN[BG[qG(KG(-868531-(-864379)),12104661130157-143268)]](c7,BG[qG(KG(-328468-(-324458)),28304698282456-10976)])uN[BG[qG(KG(332837817%1569989),26622093638782-154533)]](c7)uN[BG[qG(KG(-477162-(-476271)),730615+16931277051809)]](c7,C(BG[qG(KG(-104419+100555),-346091+11245641658580)]),Color3[BG[qG(KG(-460001-(-456622)),927869+62277998525)]](648308+-648308,665205+-664985,136292+-136072))local v7=Instance[BG[qG(KG(-710258-(-708022)),5682415572377-426221)]](BG[qG(KG(-288882-(-287465)),-794169+5934752969680)])v7[BG[qG(KG(-817593+814057),180134+30718543376410)]]=UDim2[BG[qG(KG(56362-57058),18547309295152-750263)]](-432556-(-432557),2178788925%13703075,3092582624%13623712,2167656534%10129236)v7[BG[qG(KG(-807737+804163),32681403683529-170981)]]=Color3[BG[qG(KG(-87971+85593),-563505+4760043334274)]](142692+-142632,-87271-(-87331),-30881+30941)v7[BG[qG(KG(-588993-(-588914)),4583944235612-498095)]]=Color3[BG[qG(KG(756855+-760284),23271916575683-(-178406))]](-588593-(-588594),365163+-365162,515599876%4124799)v7[BG[qG(KG(-197094+195755),982334+18174707778784)]]=321755820%3656316 v7[BG[qG(KG(-831354+827084),18297118607842-(-456878))]]=Enum[BG[qG(KG(251499-251688),-531824+3335144417682)]][BG[qG(KG(-1047808+1046675),6452312130412-601075)]]v7[BG[qG(KG(851830-852474),12919656524211-621235)]]=C(BG[qG(KG(818425+-819551),-753399+34628157603056)])v7[BG[qG(KG(-656692+655858),20288970303387-(-631348))]]=uN[BG[qG(KG(42666-43169),523056+4321942213769)]](c7)v7[BG[qG(KG(-1019346-(-1018176)),1826491163799-581106)]]=c7 v7[BG[qG(KG(536404-537393),15687847014777-211047)]]:Connect(function()QN[BG[qG(KG(-739005-(-739255)),19975428700105-(-53474))]]()v7[BG[qG(KG(17953+-20279),8781328955228-333674)]]=QN[BG[qG(KG(716294-716342),-958014+19578133112183)]][BG[qG(KG(13024+-16897),1.6010018007381e+14%914858184601)]]and Color3[BG[qG(KG(662581+-665231),510043245189-313514)]](378604-378604,9122-8992,-194726+194786)or Color3[BG[qG(KG(186854+-191099),-913276+15586912905264)]](930429+-930369,-15076-(-15136),8597496%2865812)end)QN[BG[qG(KG(241503-243496),-945213+25303499229258)]](uN[BG[qG(KG(-8480+6333),536561+5250757223209)]](c7,C(BG[qG(KG(591282+-593076),25461343214914-65698)]),Color3[BG[qG(KG(487791+-488897),15542887092519-(-141156))]](277005-276905,-337194+337394,324950374%5700882)))uN[BG[qG(KG(920189+-920979),315370+26605986549984)]](c7,BG[qG(KG(805973-808185),6816321116588-224)])uN[BG[qG(KG(-1035520+1035166),12407464662955-(-759160))]](c7)uN[BG[qG(KG(673141+-675764),21418581872589-66018)]](c7,BG[qG(KG(651305-655220),-950525+20025897109975)],Color3[BG[qG(KG(-576117-(-572402)),-894908+7741915710438)]](-11233-(-11488),1046756-1046656,481739-481519))uN[BG[qG(KG(526272-528048),568027562506-802809)]](c7,BG[qG(KG(786808+-790249),29761809739729-(-654452))],XN)uN[BG[qG(KG(-671861+670736),183974+28487239768316)]](c7,BG[qG(KG(149368-152485),25992860636370-(-936381))])uN[BG[qG(KG(972222+-974771),15919781660540-(-455278))]](c7)uN[BG[qG(KG(583922+-586009),-833146+14814868892767)]](c7,BG[qG(KG(-640180+635825),-553713+29820868550509)],Color3[BG[qG(KG(160293+-164513),3043077170737-(-25825))]](-502448-(-502448),895932+-895712,230759+-230539))local k7=uN[BG[qG(KG(-14560+13644),-167333+27064488783898)]](c7,BG[qG(KG(-805504-(-801401)),89217794081754%5576112174687)],aN[BG[qG(KG(-706998+704065),464750+9483576740626)]][BG[qG(KG(864507+-867875),-150501+29057414411674)]])k7[BG[qG(KG(-205990+201845),-223527+28516232089828)]]:Connect(function()local m=tonumber(k7[BG[qG(KG(10844127%264484),15153106114595-(-941821))]])if m and m>=274537+-274537 then aN[BG[qG(KG(297661-298281),26164666514350-1006719)]][BG[qG(KG(732306-733303),8079080146247-108515)]]=m else k7[BG[qG(KG(936637+-939167),19879862062875-(-751927))]]=tostring(aN[BG[qG(KG(270930364%4300481),-946557+32545035085794)]][BG[qG(KG(-207206+204963),-301225+18288529169201)]])end end)uN[BG[qG(KG(250664+-253206),31399316483349-(-165157))]](c7,BG[qG(KG(-830458+826648),9139970327167-991551)],aN)aN[BG[qG(KG(609267+-609300),11692331518056-(-25121))]](uN[BG[qG(KG(-844858+844795),7025707638206-476207)]](c7,BG[qG(KG(676341+-679896),564805290858-(-145060))],Color3[BG[qG(KG(333866+-336666),27846197493387-973118)]](337392480%5817110,3424780630%16706246,426769-426669)))uN[BG[qG(KG(-806201+805196),-216359+29970122881582)]](c7,BG[qG(KG(796222-798649),29250694510947-823034)])local L7=g[BG[qG(KG(819095-823162),33472776203838-816249)]]uN[BG[qG(KG(879447-881915),10339375852294-296297)]](L7,C(BG[qG(KG(-958526+955051),982974+824657904450)]),Color3[BG[qG(KG(-708416-(-704374)),16496398346188-(-726071))]](1725634191%16592634,105040427%5528433,278623642%1489966))local E7=uN[BG[qG(KG(1859834817%14644367),456354499538-297513)]](L7,C(BG[qG(KG(908540+-909862),79970+31368177105339)]),FN[BG[qG(KG(84847-85795),-914812+27007579477948)]][BG[qG(KG(210151+-211476),236199+34164285989282)]])E7[BG[qG(KG(430189+-431342),9349354340227-(-1041024))]]:Connect(function()FN[BG[qG(KG(-953853-(-951485)),-1002815+34020401432834)]][BG[qG(KG(1952+-4026),24860028425587-(-951549))]]=E7[BG[qG(KG(-795513+794534),-694582+23617672867617)]]end)local y7=uN[BG[qG(KG(311563755%5664789),274921+12119693556270)]](L7,C(BG[qG(KG(-165966-(-165605)),-289705+25989640538677)]),Color3[BG[qG(KG(-552281-(-549361)),495023+8024317038466)]](-174181+174271,432245952%5271291,-896564-(-896764)),-843290-(-843322))y7[BG[qG(KG(-714947-(-713974)),17694731110898-(-407149))]]:Connect(function()local m=FN[BG[qG(KG(594974-596658),23625188946269-351083)]]()if m then FN[BG[qG(KG(-325866+322098),712985673764-(-655988))]][BG[qG(KG(-215975+211515),737591+14421865820992)]]=m E7[BG[qG(KG(-890984-(-890044)),-352747+15276591487358)]]=m d(BG[qG(KG(294639-297961),244776+27356555061085)]..m)else d(BG[qG(KG(-276107-(-275817)),-887356+428436949963)])end end)local Q7=uN[BG[qG(KG(-819886-(-819001)),16695046457280-(-914684))]](L7,C(BG[qG(KG(622294-624051),-116516+7293077152172)]),Color3[BG[qG(KG(-944010-(-940221)),26282780134187-(-578674))]](3493844470%14995040,905120-905020,-112291+112291),70178+-70146)Q7[BG[qG(KG(-141655-(-138788)),1595628759909-(-285289))]]:Connect(function()FN[BG[qG(KG(957659-958462),-358507+10136432516427)]]()end)local W7=Instance[BG[qG(KG(567666+-568294),11037328987141-(-54306))]](BG[qG(KG(613747+-616111),34237302604452-(-293353))])W7[BG[qG(KG(-49058+45594),10334006982465-299433)]]=UDim2[BG[qG(KG(582082-585266),14552866711174-(-347755))]](798394-798393,1008511+-1008511,-572658-(-572658),-141796+141826)W7[BG[qG(KG(-111459-(-108067)),-109603+13176288140306)]]=Color3[BG[qG(KG(-680969-(-679029)),1097397904294-270248)]](2704413257%16194091,-478003-(-478063),-722998+723058)W7[BG[qG(KG(667048-669429),15419403322813-167333)]]=Color3[BG[qG(KG(-848342-(-845626)),399020+19153990790914)]](-970942+970943,-257639-(-257640),-730039+730040)W7[BG[qG(KG(-877545-(-874619)),7955596099861-140324)]]=-640052+640064 W7[BG[qG(KG(572338+-574726),25847902879107-876411)]]=Enum[BG[qG(KG(783184-785336),6944+13554256680495)]][BG[qG(KG(-512794-(-508400)),31408979921229-(-698614))]]W7[BG[qG(KG(215911+-219146),18620324450629-(-766584))]]=C(BG[qG(KG(-968932-(-967230)),1171487819867-(-261096))])W7[BG[qG(KG(393772+-395180),3850554644482-(-1046016))]]=uN[BG[qG(KG(-396330-(-393132)),-624307+4465829156594)]](L7)W7[BG[qG(KG(154213+-157528),28252083220260-(-96163))]]=L7 W7[BG[qG(KG(-542074-(-540401)),280681+24297371209723)]]:Connect(function()FN[BG[qG(KG(-869236-(-866747)),-829050+16801351885721)]][BG[qG(KG(-589407-(-585138)),23819542190163-393644)]]=not FN[BG[qG(KG(-472777-(-468591)),-619123+5931531470855)]][BG[qG(KG(-659060+657594),219879+264148329999)]]W7[BG[qG(KG(671605+-675019),185958+17388705573084)]]=FN[BG[qG(KG(243816+-246952),31774063198943-(-782520))]][BG[qG(KG(-687213-(-686773)),653748+4430393316970)]]and Color3[BG[qG(KG(-263464+262280),15498862897359-421997)]](-117156-(-117156),26211-26081,757047650%4884178)or Color3[BG[qG(KG(614684-618227),1852260374852-(-798073))]](-783736+783796,642224-642164,9696+-9636)if FN[BG[qG(KG(-925501+922217),835322+18734144488749)]][BG[qG(KG(434029-435245),24369314557772-169637)]]then FN[BG[qG(KG(51799-51682),9449215612839-(-805561))]]()end end)local t7=uN[BG[qG(KG(536934-538097),109859+10778549254675)]](L7,C(BG[qG(KG(661065-664053),33758398731353-(-697974))]),Color3[BG[qG(KG(634100+-636159),15507453581862-909756)]](518410-518320,2557118925%10027917,823362-823162),-823130-(-823162))t7[BG[qG(KG(744759+-747621),622323+34310318947806)]]:Connect(function()FN[BG[qG(KG(381278-383212),-792953+25259474318685)]][BG[qG(KG(-49826+49584),797497+3854849991373)]]=true W7[BG[qG(KG(-721162-(-719926)),21166244675229-(-101987))]]=Color3[BG[qG(KG(-851066+849133),-744887+1544088609621)]](832826+-832826,-705590+705720,970042-969982)FN[BG[qG(KG(806925-808633),24759094287209-(-278185))]]()end)uN[BG[qG(KG(-881147+878001),-100771+1366915157660)]](L7,BG[qG(KG(-389868+386916),351915+26918454920002)])local X7=g[BG[qG(KG(165795-167781),30455468158040-(-623219))]]uN[BG[qG(KG(876539+-876578),28299329621402-222887)]](X7,C(BG[qG(KG(875899+-880387),137060+18798571662591)]),Color3[BG[qG(KG(-302121+300202),292457+14237177036130)]](25377+-25377,4077839440%16644242,357829535%11182165))EN[BG[qG(KG(108644651%1448594),-636596+575543818444)]](uN[BG[qG(KG(-326314+323575),28198394723001-136228)]](X7,C(BG[qG(KG(-114952-(-114020)),-100643+7737619817801)]),Color3[BG[qG(KG(-187430+184798),8462417397860-(-169573))]](691232068%6400296,-692461-(-692661),-379848-(-379948))))local g7=uN[BG[qG(KG(695734+-696797),436334+11877020336839)]](X7,C(BG[qG(KG(-842938+839265),23805582493235-(-233575))]),Color3[BG[qG(KG(139797-142628),255208+30619756038780)]](20961+-20811,-28833+28833,590194+-590194),-920125+920157)g7[BG[qG(KG(51810+-52509),19622157623512-711030)]]:Connect(function()EN[BG[qG(KG(100515+-102641),22580406315473-399276)]]()end)uN[BG[qG(KG(-684405+680971),-180134+34107376352186)]](X7,BG[qG(KG(101731+-105255),-49570+24279117371893)])local A7=Instance[BG[qG(KG(1910267871%14694368),20719555458588-912060)]](BG[qG(KG(-651983-(-650100)),607539+24477765014489)])A7[BG[qG(KG(3625-6624),-305769+17868683307882)]]=UDim2[BG[qG(KG(-527844-(-524272)),-27617+19217343918538)]](366471649%13573024,1694978678%11609443,120036-120036,-937533-(-937533))A7[BG[qG(KG(744609-744439),859259+11966143205133)]]=Enum[BG[qG(KG(-523265-(-519792)),17202942905722-151269)]][BG[qG(KG(-197478+197619),948221+7503535907663)]]A7[BG[qG(KG(28096-29473),330218+35043707286930)]]=-30561+30562 A7[BG[qG(KG(327274+-328044),30818404698688-104995)]]=uN[BG[qG(KG(-452168-(-448174)),26968922783359-105571)]](X7)A7[BG[qG(KG(723126+-727192),12696310701645-(-85987))]]=X7 local i7=Instance[BG[qG(KG(683253+-685182),-482479+24929825208160)]](BG[qG(KG(166436-166053),300073+34677550180862)])i7[BG[qG(KG(265064+-266021),19595311584971-(-962686))]]=Enum[BG[qG(KG(766712+-768033),615987+1651464708047)]][BG[qG(KG(-582379-(-578994)),8082301256836-(-104675))]]i7[BG[qG(KG(-566066+563783),15039286496904-(-452654))]]=UDim[BG[qG(KG(583154+-587315),34569099250338-3296)]](-978558+978558,-743923-(-743927))i7[BG[qG(KG(-72034+69843),473455+7531454521847)]]=A7 local function l7()for m,z in ipairs(A7:GetChildren())do if z:IsA(BG[qG(KG(688096-688501),-855035+10732377912070)])then z:Destroy()end end local z=990207-990207 for m,q in ipairs(m:GetPlayers())do if q~=G then z=z+(603316-603315)local m=Instance[BG[qG(KG(-866022-(-866363)),-406765+26280633570440)]](BG[qG(KG(-933184-(-933437)),-992383+19757453503583)])m[BG[qG(KG(70016-71138),12064931923798-596850)]]=UDim2[BG[qG(KG(237989-239399),-899708+31150201842638)]](824107777%4292228,-860155+860155,-426989-(-426989),955358-955326)m[BG[qG(KG(482281-483055),14503472450437-(-977214))]]=Color3[BG[qG(KG(-529740-(-526512)),-89763+15031770617170)]](783551610%8335655,894436-894396,-948861+948901)m[BG[qG(KG(147058-147941),32400074532349-(-36833))]]=z m[BG[qG(KG(-919484+916280),-405869+9831480579377)]]=A7 local B=Instance[BG[qG(KG(603059+-605621),19582426848528-(-404013))]](BG[qG(KG(-663538-(-659508)),-693750+30999873193660)])B[BG[qG(KG(978941-981310),92323+28109271203231)]]=UDim2[BG[qG(KG(2072092468%8255348),27958943696752-844218)]](.4,-664635-(-664629),-1039488+1039489,-998463-(-998463))B[BG[qG(KG(360760-360939),554993+27781769489696)]]=UDim2[BG[qG(KG(144804+-149063),23517811127406-(-8480))]](-176869+176869,208556-208550,-448814+448814,781752+-781752)B[BG[qG(KG(749678324%12289802),17969618285710-471855)]]=2709221425%14885832 B[BG[qG(KG(-996671+996966),-822521+29485851146301)]]=Color3[BG[qG(KG(749303+-753120),3125757163946-(-676277))]](262876285%1327658,303593+-303592,1057674947%8963347)B[BG[qG(KG(917756+-919659),34790296927284-114084)]]=-34710-(-34721)B[BG[qG(KG(-105443+102185),54818+21718164863200)]]=Enum[BG[qG(KG(-979029-(-979006)),21042760881011-181990)]][BG[qG(KG(309742-312234),1040512+25884409298346)]]B[BG[qG(KG(-76148-(-74402)),18144643439917-367403)]]=Enum[BG[qG(KG(937085+-939241),7809563498916-884027)]][BG[qG(KG(-67554+64389),10619630357431-(-367339))]]B[BG[qG(KG(554865+-554464),20115018931965-(-518704))]]=q[BG[qG(KG(-949243-(-949309)),18034044315964-26529)]]B[BG[qG(KG(-688437+685200),15008+3589628449391)]]=m local Z=Instance[BG[qG(KG(-398316+396842),-384428+21345565518675)]](BG[qG(KG(-931709+927726),-214759+8643885688409)])Z[BG[qG(KG(828716-828922),2628600395638-191974)]]=UDim2[BG[qG(KG(-443749-(-440558)),29421424285494-437294)]](.3,423527-423533,201063-201062,-924477+924471)Z[BG[qG(KG(785080+-787093),1013567+24904053121882)]]=UDim2[BG[qG(KG(391080-391596),11794339293294-(-836218))]](.4,308123337%2388553,353779278%3103327,-653297-(-653300))Z[BG[qG(KG(591402-592114),3337291849233-414189)]]=Color3[BG[qG(KG(595542-596915),753655+10003283354733)]](1812479015%11693413,94243+-94093,26612588%182278)Z[BG[qG(KG(894916-897724),22126199705964-442606)]]=Color3[BG[qG(KG(317622879%2761937),14179193263342-(-237223))]](-700469-(-700470),364651+-364650,-513840+513841)Z[BG[qG(KG(-179794-(-177894)),18226250263416-321834)]]=-169307-(-169317)Z[BG[qG(KG(761156-762936),32724353883353-(-612915))]]=Enum[BG[qG(KG(-190505-(-189926)),32888642906465-897468)]][BG[qG(KG(977097-978302),9391233295072-704694)]]Z[BG[qG(KG(-119076+118311),847098+14964121880950)]]=BG[qG(KG(-458734+458969),16740145798147-(-106723))]Z[BG[qG(KG(-304873+303572),8624558478813-947837)]]=m Z[BG[qG(KG(490950-492527),26886241245079-(-789048))]]:Connect(function()R(q)end)local K=Instance[BG[qG(KG(-137380+134407),16114135776653-459502)]](BG[qG(KG(-263774-(-262568)),-974014+32651338797958)])K[BG[qG(KG(-799498-(-797881)),15858577119446-155429)]]=UDim2[BG[qG(KG(-887996+887553),28924266528227-316586)]](.3,337188-337194,-645811-(-645812),-505334-(-505328))K[BG[qG(KG(307884-311466),6197827817735-866939)]]=UDim2[BG[qG(KG(790072+-794579),12300088509616-546801)]](.7,1030176993%12411771,1341454416%5883572,-774648+774651)K[BG[qG(KG(3744+-6063),-831098+24687152498761)]]=Color3[BG[qG(KG(-303529+303781),27783916785690-(-808185))]](650455456%14140336,880066776%10476984,828866-828666)K[BG[qG(KG(115364+-115417),10890222251656-329450)]]=Color3[BG[qG(KG(-787960+786335),-496751+21270401409488)]](532125151%7095002,145422200%8554247,362158447%7101146)K[BG[qG(KG(-931706-(-927421)),-235239+31870703930072)]]=162637270%2710621 K[BG[qG(KG(-280937+280912),-851770+3204144237282)]]=Enum[BG[qG(KG(385644+-389839),816121+24668896683461)]][BG[qG(KG(-746871+745381),20199848231150-587634)]]K[BG[qG(KG(-102481-(-99363)),26168961090466-484463)]]=C(BG[qG(KG(-554012-(-549617)),23756188121326-(-974206))])K[BG[qG(KG(442607-443566),-591730+22558931016067)]]=m K[BG[qG(KG(-203174+199817),25258400342677-591538)]]:Connect(function()EN[BG[qG(KG(-268444-(-268264)),10481113012841-(-789432))]](q)end)end end if z==-156261+156261 then local m=Instance[BG[qG(KG(-393962-(-393452)),14975934870574-622003)]](BG[qG(KG(526320+-529155),232551+1545161406776)])m[BG[qG(KG(844683-846714),30595059881593-403244)]]=UDim2[BG[qG(KG(-450862+450284),13728+34192204351171)]](391100114%8321279,1839949821%9245979,255528-255528,497647+-497619)m[BG[qG(KG(-51682+51042),-533937+20487619768377)]]=1794509996%12375931 m[BG[qG(KG(-637578-(-636020)),173093+29113250366916)]]=Color3[BG[qG(KG(-126372+124716),31414349083867-(-408941))]](1580566960%7710082,2764101691%11469301,-182566+182716)m[BG[qG(KG(-509511-(-506800)),24702185130448-618483)]]=184155905%2391635 m[BG[qG(KG(866363+-866681),-608051+18820047899562)]]=Enum[BG[qG(KG(226791+-231269),-362475+32518190136887)]][BG[qG(KG(852410+-853242),5046740493305-(-93795))]]m[BG[qG(KG(510192+-514495),9582363590817-(-877115))]]=C(BG[qG(KG(-776420-(-774200)),24376831295453-485167)])m[BG[qG(KG(-332766-(-332074)),29466522816095-434989)]]=-70690+70691 m[BG[qG(KG(-218971-(-214951)),7119125496644-(-54946))]]=A7 end end m[BG[qG(KG(943300-943933),744759+5630873220933)]]:Connect(function()task[BG[qG(KG(514898-516656),9989325941651-902972)]](.1)l7()end)m[BG[qG(KG(305129+-309642),947901+33777726424100)]]:Connect(function()task[BG[qG(KG(-944829+942948),6085080769480-150949)]](.15)l7()end)l7()uN[BG[qG(KG(411949+-413303),3.2715420785991e+14%5544986825201)]](X7)uN[BG[qG(KG(-54310-(-54690)),8799582972009-182374)]](X7,C(BG[qG(KG(-621012-(-618099)),-56290+31570046865083)]),Color3[BG[qG(KG(-571378+568544),-114212+5066068643986)]](366187+-365932,-891109-(-891324),3143249816%13206932))uN[BG[qG(KG(576626+-580304),4884600290971-(-332586))]](X7,BG[qG(KG(538374-542577),18361546516298-975998)])local T7=Instance[BG[qG(KG(341291+-345127),122404+25114513833273)]](BG[qG(KG(-112739+110048),342507+1285307845314)])T7[BG[qG(KG(-659912-(-658036)),3820490154763-152869)]]=UDim2[BG[qG(KG(-1033600+1031387),-309354+2246336757910)]](2368744369%11611492,70801530%7080153,1259253825%8020725,-321642-(-321642))T7[BG[qG(KG(-1002438-(-999615)),10780697653935-740215)]]=Enum[BG[qG(KG(802361+-803289),-329962+31172750539345)]][BG[qG(KG(248786-250536),740023+29161569656671)]]T7[BG[qG(KG(-716035-(-715446)),-47521+22752209898598)]]=-954878+954879 T7[BG[qG(KG(173184352%8246858),1007359+23966647908401)]]=uN[BG[qG(KG(-879868-(-877947)),658036+11678371815432)]](X7)T7[BG[qG(KG(-50914+49182),33846449781787-835834)]]=X7 local J7=Instance[BG[qG(KG(818250-822713),-341675+10178309708722)]](BG[qG(KG(528112+-528101),-451182+5651276134141)])J7[BG[qG(KG(679029+-679281),20979407768939-(-229095))]]=Enum[BG[qG(KG(-42160-(-41057)),6762633035150-648436)]][BG[qG(KG(-346475+345772),-207846+19939994399856)]]J7[BG[qG(KG(-116709-(-115684)),14447637505658-356843)]]=UDim[BG[qG(KG(-233127+229583),3969744749395-79074)]](-723062+723062,-141921-(-141924))J7[BG[qG(KG(809765-814137),13931151928281-358699)]]=T7 local function h7(m)m=tonumber(m)or 1014847+-1014847 local z=math[BG[qG(KG(283877-283881),84935606314313%21233904579246)]](m)if z>=999999265033-(-734967)then return string[BG[qG(KG(804409+-806945),22234649606887-(-890364))]](BG[qG(KG(-1023294-(-1022400)),1952+22098281121988)],m/(186662+999999813338))elseif z>=188837803245%1015339477 then return string[BG[qG(KG(-651880-(-649012)),5578259169520-158885)]](BG[qG(KG(635380+-637383),1747031441409-178598)],m/(67529097514%1008016629))elseif z>=1396908-396908 then return string[BG[qG(KG(931694-933629),687797+7252272913325)]](BG[qG(KG(-832606-(-828346)),-788088+17111672702136)],m/(922605233%4024477))elseif z>=-580746-(-581746)then return string[BG[qG(KG(942013+-942472),4766484852197-(-566130))]](BG[qG(KG(-932669+929730),-173285+8003915989507)],m/(876451-875451))else return tostring(math[BG[qG(KG(334377-334506),33901210968613-(-481583))]](m))end end Q=function()for m,z in ipairs(T7:GetChildren())do if z:IsA(BG[qG(KG(-957853-(-956798)),364395+29141168315032)])then z:Destroy()end end local m=y or{}if#m==905144324%14599102 then local m=Instance[BG[qG(KG(-867707+864779),-360555+7776275963061)]](BG[qG(KG(546865+-548495),12014463658253-(-262824))])m[BG[qG(KG(918716+-920236),-489647+5345250413601)]]=UDim2[BG[qG(KG(476335+-478821),8637442547523-(-278569))]](2186063881%11210584,-980798+980798,426210042%2449483,3640071881%15358953)m[BG[qG(KG(680924-681781),761464+27034422166497)]]=23457+-23456 m[BG[qG(KG(235409-237415),19046612689162-(-1041472))]]=Color3[BG[qG(KG(967806+-970340),106467+1053372769266)]](-61730+61880,-70114+70264,-692725+692875)m[BG[qG(KG(-1042695-(-1038336)),-475503+9219429131001)]]=-295647-(-295657)m[BG[qG(KG(-919549+916132),48706488421361%579839158327)]]=Enum[BG[qG(KG(290409+-294525),30591837670043-(-484527))]][BG[qG(KG(-625669-(-624435)),28074911514657-1006079)]]m[BG[qG(KG(-283867-(-280873)),2627526646838-217767)]]=C(BG[qG(KG(581426+-584946),-147365+33932351060758)])m[BG[qG(KG(654580+-654184),34627083347744-272680)]]=-866363+866364 m[BG[qG(KG(-56354+56129),619123+24819225323479)]]=T7 return end for m,z in ipairs(m)do local q=Instance[BG[qG(KG(-770360+767412),33320299050572-(-344811))]](BG[qG(KG(-448301-(-444526)),-496495+5681341868058)])q[BG[qG(KG(474415+-475810),339627+7303814441959)]]=UDim2[BG[qG(KG(-809407-(-805945)),75163501584-(-719926))]](89700-89699,24982340%328715,376828653%12155763,104123-104099)q[BG[qG(KG(-120100+120243),11098534110397-(-82851))]]=Color3[BG[qG(KG(588186-589554),10484334783481-(-342571))]](320682+-320642,-206054+206094,915132+-915092)q[BG[qG(KG(732072-733879),-95715+1531202665333)]]=m q[BG[qG(KG(-946741-(-947005)),29766105399334-(-93219))]]=T7 local B=tostring(z[BG[qG(KG(310101-314474),-709302+16370768154180)]]or z[BG[qG(KG(196535-198182),20942900022875-361003)]]or BG[qG(KG(-788728+785640),18942457403331-(-191782))])if z[BG[qG(KG(-942670-(-940093)),-964990+11291814584978)]]then B=BG[qG(KG(584756-586674),140964+28311140778074)]..B end local Z=BG[qG(KG(-818692-(-818169)),-921917+12554573463273)]..h7(z[BG[qG(KG(154917+-157525),957886+24549707561873)]]or 896892+-896892)local K=Instance[BG[qG(KG(-582258+581385),5649127224529-(-909244))]](BG[qG(KG(735607+-737186),-31329+13415739796271)])K[BG[qG(KG(-957837-(-957502)),657908+32569730296968)]]=UDim2[BG[qG(KG(185106-188134),33159232398952-(-807481))]](610612-610611,638892-638900,767288+-767287,971326+-971326)K[BG[qG(KG(-221031+219200),1016832+20896726337541)]]=UDim2[BG[qG(KG(162533+-163836),-225127+23715385886125)]](-766520-(-766520),-954430+954434,92556048%5784753,248808-248808)K[BG[qG(KG(667455-670197),9306404482430-84899)]]=-487918-(-487919)K[BG[qG(KG(-994431+994210),-106147+10123546968951)]]=Color3[BG[qG(KG(157029+-160075),622835+30628345867897)]](13898425%79876,1045441-1045440,325227-325226)K[BG[qG(KG(512661-516912),365611+19526590608094)]]=-16096+16106 K[BG[qG(KG(790016-794297),491055+18749177677318)]]=Enum[BG[qG(KG(-205334-(-201126)),55970+33341774831273)]][BG[qG(KG(11104+-11178),26439552026262-222823)]]K[BG[qG(KG(380396+-380748),8486041564829-956350)]]=Enum[BG[qG(KG(795752-796153),22162707241781-(-357739))]][BG[qG(KG(665487-667893),11575289639405-(-473135))]]K[BG[qG(KG(-433005+433051),-1007359+28823332407258)]]=BG[qG(KG(521136+-525078),249832+18888768615631)]..(tostring(z[BG[qG(KG(490127-491375),16437341685939-216295)]]or m)..(BG[qG(KG(-17441+15384),2848+34571246793380)]..(B..(BG[qG(KG(617130-621619),12272169963401-140004)]..Z))))K[BG[qG(KG(-235943+234160),18238062054539-592434)]]=q end end Q()local r7=g[BG[qG(KG(-93603+91505),24232946051112-1036288)]]uN[BG[qG(KG(65826+-66192),6640221096105-(-987007))]](r7,BG[qG(KG(-649524+645144),91463999059148%362952443214)],Color3[BG[qG(KG(-259048+259135),555141828272-363691)]](-215015+215270,2313613344%11804149,800277-800057))uN[BG[qG(KG(568086-569970),27564866565896-(-1011007))]](r7,BG[qG(KG(958964-961406),1546234637416-(-776504))],N)uN[BG[qG(KG(-351211+349970),-370859+11455027728983)]](r7,BG[qG(KG(351634783%2184065),982078+18676160513971)])local a7=g[BG[qG(KG(-333482+329391),-809017+26986103880293)]]uN[BG[qG(KG(876411+-876144),11684815782070-661044)]](a7,C(BG[qG(KG(-187110+185063),10666877753803-946941)]),Color3[BG[qG(KG(-117156+115603),4957616683670-(-612211))]](845874-845754,-360811+361001,-218471+218726))local x7=uN[BG[qG(KG(143140+-147363),31046043807666-(-999743))]](a7,BG[qG(KG(471151+-475541),30549959945956-(-999487))],Color3[BG[qG(KG(-918716+918610),30167696485513-(-704822))]](251650074%5991667,178022+-177962,581744288%6536452),-938717-(-938749))local F7=uN[BG[qG(KG(-584319-(-582962)),86183328352598%28727781445738)]](a7,BG[qG(KG(-610291+606405),13322322135343-759992)],Color3[BG[qG(KG(556273+-559613),5920792912100-(-193702))]](-6308-(-6368),340455-340395,2089418508%9164116),601043-601011)local R7=uN[BG[qG(KG(3520002707%15438607),2976502148564-(-1023232))]](a7,BG[qG(KG(-131684+128135),11060953025338-942845)],Color3[BG[qG(KG(889521-893820),-952126+21585017820612)]](557745+-557685,2089186560%13927910,-725046+725106),71394+-71362)local u7={[BG[qG(KG(-685364-(-685045)),7658161127123-729847)]]=x7,[BG[qG(KG(116772+-116607),74338+26721954447060)]]=F7;[BG[qG(KG(-802553+798580),951677+27745260756850)]]=R7}local function V7()for m,z in pairs(u7)do z[BG[qG(KG(-798315-(-795001)),-769464+13994505040033)]]=(w[BG[qG(KG(-607219+604189),499759+14902917076488)]]==m)and Color3[BG[qG(KG(811641+-815779),-1044480+16089439545992)]](-722742+722742,731557-731447,-544049+544109)or Color3[BG[qG(KG(-294697+292355),17894454376529-784184)]](1020608+-1020548,-95971+96031,485867-485807)end end V7()local function S7(m)w[BG[qG(KG(-541598-(-541681)),907260+33069035233361)]]=m d(BG[qG(KG(-106968-(-103331)),9251641014509-(-878779))]..(m..BG[qG(KG(893948+-894719),29034864060387-(-934333))]))v=BG[qG(KG(365483+-369351),31558235153642-(-134628))]VN()end x7[BG[qG(KG(747767+-750956),690421+29817645982596)]]:Connect(function()S7(BG[qG(KG(-1025600+1024240),4166246103645-682805)])end)F7[BG[qG(KG(-282345+281755),-971774+21199532761373)]]:Connect(function()S7(BG[qG(KG(-603910-(-604211)),-91235+15127336557419)])end)R7[BG[qG(KG(-1025856+1022543),8292760782719-(-399020))]]:Connect(function()S7(BG[qG(KG(605427+-607015),-261864+17862240616419)])end)uN[BG[qG(KG(7584+-11226),28313287755402-(-712822))]](a7,C(BG[qG(KG(-1029652-(-1028224)),-647476+17114893885303)]))uN[BG[qG(KG(650154-651188),413613+17173950426829)]](a7)uN[BG[qG(KG(353387+-355422),960958+19243113520195)]](a7,BG[qG(KG(776832-776440),2289287538615-106339)],Color3[BG[qG(KG(-526095-(-524080)),-907836+9438479580306)]](1160675266%15272041,15604252%116448,377260+-377005))uN[BG[qG(KG(666101+-668495),12729597517606-(-282409))]](a7,BG[qG(KG(-624115+623792),-782776+19125000058699)],D)uN[BG[qG(KG(1032727-1035840),-713526+13930078508515)]](a7,BG[qG(KG(14151-16289),-325034+27867672337163)])uN[BG[qG(KG(314505-316010),-55074+28365903478355)]](a7)uN[BG[qG(KG(890172+-891252),926589+16540422903983)]](a7,BG[qG(KG(224510-226919),32274442079854-(-861947))],Color3[BG[qG(KG(974974+-975786),395564+2977576550825)]](-697846+698101,-64712-(-64802),326606-326506))local o7=uN[BG[qG(KG(501104+-504083),-421357+2773560195076)]](a7,BG[qG(KG(956574-958590),1012031+1360471397300)],Color3[BG[qG(KG(832762+-832828),310186+18937088411962)]](2956380165%12853826,-804601+804646,1278456242%10926976),1291252906%16554524)o7[BG[qG(KG(648820+-650167),461806+27542317848644)]]:Connect(function()I[BG[qG(KG(-635956+632010),515312+23863566039520)]]()end)local M7={[BG[qG(KG(-769313-(-769208)),1002367+979281426449)]]=false}local N7=Instance[BG[qG(KG(1022236-1025472),-325738+21156581131617)]](BG[qG(KG(412781+-414269),533745+13918265740721)])N7[BG[qG(KG(-359844-(-358507)),-444910+8862935935532)]]=UDim2[BG[qG(KG(-804473+804048),-229671+21096449658342)]](-297641+297642,2859241385%11670373,-530160+530160,81869378%437804)N7[BG[qG(KG(-643892+643000),915260+32419401596596)]]=Color3[BG[qG(KG(476893-480943),884219+603460437047)]](579570+-579510,-86499+86559,384876+-384816)N7[BG[qG(KG(144153-147109),26286002964445-927805)]]=Color3[BG[qG(KG(332778+-336190),-423789+24914792305168)]](878715+-878714,-817400-(-817401),-918715-(-918716))N7[BG[qG(KG(550833+-553770),859259+31847079794528)]]=-117144-(-117156)N7[BG[qG(KG(442286+-445497),24062214035472-(-819065))]]=Enum[BG[qG(KG(608384-611315),732791+3079584799933)]][BG[qG(KG(430704-434797),-511920+21443279134130)]]N7[BG[qG(KG(-448750+445328),17139589523178-(-530288))]]=BG[qG(KG(900764-901308),3428561478528-(-796921))]N7[BG[qG(KG(893958-894332),-161125+11094239256001)]]=uN[BG[qG(KG(-533681+533324),894268+23882893603238)]](a7)N7[BG[qG(KG(-164517+164547),282153+19228081354698)]]=a7 N7[BG[qG(KG(-35105+32392),191398+19038023342492)]]:Connect(function()M7[BG[qG(KG(-806586-(-803065)),29823014888842-(-657140))]]=not M7[BG[qG(KG(-540521-(-538033)),10792508669994-235751)]]N7[BG[qG(KG(-235926-(-232551)),19161507931999-319914)]]=M7[BG[qG(KG(-120854-(-116964)),25890852255737-(-730679))]]and Color3[BG[qG(KG(117028+-120302),26037960397218-291561)]](377004+-377004,328234+-328104,2108007165%14950405)or Color3[BG[qG(KG(905916+-906260),3605734781941-(-301353))]](550125-550065,-497071+497131,3543007420%14286320)I[BG[qG(KG(-958267-(-955902)),-975422+29879926574833)]](M7[BG[qG(KG(-151525+147303),966334+29629735152908)]])end)local I7=uN[BG[qG(KG(16033-19809),31982375621989-(-630516))]](a7,BG[qG(KG(975562-978942),413805+24856807639552)],Color3[BG[qG(KG(-1041082-(-1038400)),7858956858762-612595)]](-782072+782292,139690220%6984506,448076-448046),921085+-921051)I7[BG[qG(KG(809283-810041),6074342101793-(-770808))]]:Connect(function()d(BG[qG(KG(-200230+200001),526448+22546044602773)])if j[BG[qG(KG(737255-739703),11984397675688-(-556785))]]then j[BG[qG(KG(918337-919356),991679+9551224013056)]]:FireServer(BG[qG(KG(-120792-(-119588)),-649204+30197763528143)])d(BG[qG(KG(-1013503+1009911),458542+1736293058339)])else d(BG[qG(KG(568023-569650),30029179282943-(-984895))])end end)uN[BG[qG(KG(810617+-814413),491055+3985850798161)]](a7,BG[qG(KG(904549-907452),99682862640956%14240410664765)])local mN={[BG[qG(KG(106659+-107844),-468911+19538402963139)]]=false}local zN=uN[BG[qG(KG(792351-792249),509936+28688035291245)]](a7,BG[qG(KG(-143845-(-143652)),125732+1407718365691)],Color3[BG[qG(KG(576458-579890),-298409+15174582846685)]](-144036+144141,679488-679413,528306870%8954350),-810489+810523)zN[BG[qG(KG(-774806-(-771576)),-1024128+14992041891594)]]:Connect(function()mN[BG[qG(KG(864159-867963),25377589340549-609587)]]=not mN[BG[qG(KG(824137-824250),27517622300244-805433)]]zN[BG[qG(KG(-886006-(-886139)),27504736113644-(-86051))]]=mN[BG[qG(KG(-121764+117879),23705722223854-534193)]]and Color3[BG[qG(KG(979454+-979626),18084511382432-(-312874))]](576434+-576434,729046510%12150773,1254790242%5039318)or Color3[BG[qG(KG(416406-420077),-296297+7527160193227)]](1675922850%15961169,583933-583858,2048477274%12121166)zN[BG[qG(KG(774840+-777262),96995+22029559452993)]]=mN[BG[qG(KG(-885179+881347),29170159711587-(-881851))]]and BG[qG(KG(-514160-(-512112)),23124810086222-451374)]or BG[qG(KG(-611481-(-609459)),492975+28500124754431)]d(BG[qG(KG(-998894-(-997375)),24046107716106-(-519536))]..(tostring(mN[BG[qG(KG(445907-448814),814521+6973091392421)]])..BG[qG(KG(2347627759%11797123),6808803889548-(-804665))]))if j[BG[qG(KG(796339-796345),-724214+8940247985532)]]then pcall(function()j[BG[qG(KG(-634228+630611),3.8365984798974e+14%15346394229441)]]:FireServer(BG[qG(KG(-785654-(-781944)),-862523+27739893698085)],{[BG[qG(KG(-478551-(-477679)),19952879133483-(-353643))]]=mN[BG[qG(KG(55394+-57005),-901372+312469307935)]]})end)d(BG[qG(KG(974014+-977701),558065+11661191521915)])else d(BG[qG(KG(552838385%3760805),-50658+8590247402)])end end)uN[BG[qG(KG(1020738-1024832),-529008+21438984052846)]](a7,BG[qG(KG(-521432-(-520944)),565554+30282590506232)])uN[BG[qG(KG(240587-243688),20934308542571-(-922557))]](a7)uN[BG[qG(KG(-962945-(-959358)),8960649534922-556337)]](a7,BG[qG(KG(948029+-947867),7206101231957-(-61666))],Color3[BG[qG(KG(-8160+6447),18139274192797-(-6752))]](39804616%2341448,1090772974%6860206,1106828784%6218138))local function qN(z)local q=nil for m,B in ipairs(m:GetPlayers())do if B[BG[qG(KG(-712304-(-712246)),26517937447451-98723)]]==z then q=B break end end if not q then d(BG[qG(KG(-978766-(-978430)),2354788035516-353067)]..(z..BG[qG(KG(877755+-879962),-325738+27695868402987)]))return false end if not q[BG[qG(KG(-205222+202221),29543833872273-(-279529))]]then d(BG[qG(KG(135451-136676),10720+26670413330214)])return false end local B=G[BG[qG(KG(-65662-(-65250)),109539+4495894111352)]]if not B then d(BG[qG(KG(-1008316-(-1006655)),5946563461435-(-234599))])return false end local Z=q[BG[qG(KG(-178481-(-175077)),-1027904+30353461222828)]]local K={BG[qG(KG(3444389892%14472226),793519852624-428397)];BG[qG(KG(-743671+739813),399276+8503220602691)];BG[qG(KG(587486-590962),-239975+25466712262156)],BG[qG(KG(-708150+706830),22921866087678-(-149093))],BG[qG(KG(-135791-(-136164)),30574656799868-(-961214))]}local function f(m)for z,q in ipairs(K)do if m:IsA(q)then return true end end return false end for m,z in ipairs(B:GetChildren())do if f(z)then pcall(function()z:Destroy()end)end end local H=-188582+188582 for m,z in ipairs(Z:GetChildren())do if f(z)then local m=z:Clone()m[BG[qG(KG(-175285-(-175653)),258408+12220628384525)]]=B H=H+(794489+-794488)end end d(BG[qG(KG(80482+-83513),21902853754306-(-393708))]..(q[BG[qG(KG(500464+-503667),3.0154816138395e+14%30154816609859)]]..(BG[qG(KG(-408557+404421),31691384077825-740023)]..(H..BG[qG(KG(-369864-(-365931)),8659991965725-(-126820))]))))return true end local BN=uN[BG[qG(KG(663380-663157),4421803897530-123556)]](a7,BG[qG(KG(-448558+447417),7179256283626-(-645172))],BG[qG(KG(-126771-(-126308)),-32417+32537517749503)])local fN=uN[BG[qG(KG(-610867+610058),788600+22973406628635)]](a7,BG[qG(KG(169774-173477),-240935+15756568618617)],Color3[BG[qG(KG(-770104+767690),4668772283815-353451)]](598771+-598771,-399992-(-400172),1169635124%5107576),-432651-(-432685))fN[BG[qG(KG(-711478+707489),94699481528813%13528499238601)]]:Connect(function()local m=tonumber(BN[BG[qG(KG(-833492-(-832506)),855867+23378219582929)]])if m then qN(m)else d(BG[qG(KG(-672206-(-669621)),-824826+12485851792230)])end end)uN[BG[qG(KG(-98379-(-98403)),5.7994155552228e+14%9998992394952)]](a7,BG[qG(KG(-501232+500917),901692+7762315631105)])uN[BG[qG(KG(-646196+643939),19701615933123-(-299241))]](a7)uN[BG[qG(KG(611507+-615858),22191699510171-(-3360))]](a7,BG[qG(KG(429025-431469),91440559666767%1693343719502)],Color3[BG[qG(KG(-1038464+1036209),1035712+25293833276996)]](474039-473839,401187360%6917020,-1041984+1042184))local GN=uN[BG[qG(KG(-653876+653684),1623621905631%57986595467)]](a7,BG[qG(KG(-797625+795988),5584701821430-163237)],Color3[BG[qG(KG(-423021+419803),802809+9324657762803)]](818297+-818207,550091-550001,785336+-785136),444398+-444364)GN[BG[qG(KG(-695515-(-692533)),-63778+19955027100090)]]:Connect(function()c()end)uN[BG[qG(KG(-881061-(-879355)),26543708175415-236455)]](a7,BG[qG(KG(-60066+56799),-178406+19072384499272)]..(P..BG[qG(KG(-1026735-(-1024512)),-585586+26022927846941)]))local YN,sN=-836026+836406,485098005%10779945 local dN,cN=975741980%13742840,378935860%9473382 local CN=-379016-(-379436)local ON=false local function pN()local m=q[BG[qG(KG(-188774+185116),4881379832435-532657)]]local z=math[BG[qG(KG(-479697-(-477295)),15696437846740-846266)]](m[BG[qG(KG(-12457-(-8096)),-551793+2447132849240)]]-(-130060-(-130084)),YN,sN)local B=math[BG[qG(KG(1040862-1044736),989759+32909042736505)]](m[BG[qG(KG(-728256-(-726519)),6367483789912-453422)]]-(180838+-180748),dN,cN)return z,B end local function yN()local m,z=pN()CN=z H[BG[qG(KG(678517+-681898),3334070514445-403180)]]=UDim2[BG[qG(KG(-658932+654484),10795730611968-853946)]](726199-726199,m,339691+-339691,ON and K or z)local B=q[BG[qG(KG(207654+-208183),314218+4203827217377)]]local Z=H[BG[qG(KG(47393-51874),7066509964033-(-632500))]]local f=math[BG[qG(KG(-939769-(-938429)),20089248633006-(-227431))]](Z[BG[qG(KG(-615795+613465),491055+32231491467026)]],956990-956990,math[BG[qG(KG(467566+-470204),-979902+7630243237760)]](226151+-226151,B[BG[qG(KG(46753+-50712),24562593916478-101603)]]-m))local G=math[BG[qG(KG(-480303+476291),15030695959541-(-793273))]](Z[BG[qG(KG(-137544-(-136356)),8810320556462-20897)]],282345+-282345,math[BG[qG(KG(391311-392428),23321309668577-(-716790))]](-1041024-(-1041024),B[BG[qG(KG(1057425177%14893308),18957491476343-1036928)]]-K))if f~=Z[BG[qG(KG(220171-221927),-851578+27919214044171)]]or G~=Z[BG[qG(KG(813881+-814395),-159781+7561520843687)]]then H[BG[qG(KG(160040-163301),1001983+13848469923938)]]=UDim2[BG[qG(KG(642362-643380),599667+1061962472810)]](452974-452974,f,2281480214%9236762,G)end end yN();(q:GetPropertyChangedSignal(BG[qG(KG(-560166-(-558769)),21043835408139-934525)])):Connect(yN)O[BG[qG(KG(-370795+367458),34287769729226-(-574450))]]:Connect(function()ON=not ON E[BG[qG(KG(800203-801273),960638+19890599600094)]]=not ON H[BG[qG(KG(985855+-986308),-380140+16237619775486)]]=UDim2[BG[qG(KG(941757+-944935),284905+20898874618654)]](2174184810%14994378,H[BG[qG(KG(418286-419309),-95843+24798824321178)]][BG[qG(KG(114532+-118821),701622+33721890391543)]],-521264-(-521264),ON and K or CN)O[BG[qG(KG(-137444+137214),21347711894449-(-788984))]]=ON and BG[qG(KG(107958-110883),15203574264041-(-198246))]or BG[qG(KG(514861-519280),361579+5354913533712)]end)i(v)d(BG[qG(KG(727939-727671),712630+13414665277719)])print(BG[qG(KG(-78028-(-76450)),-758135+3230988508472)])end VN()local SN=-250196-(-250216)local oN=1679293787%6968024 local MN=BG[qG(KG(-471023+467180),761400+20023747848864)]local NN=BG[qG(KG(788024+-791053),14206037757515-(-107875))]local eN={[BG[qG(KG(-248232+246483),-175653+11286444922676)]]=true,[BG[qG(KG(537770-538929),883899+5138010543606)]]=true;[BG[qG(KG(-947348-(-942909)),13597206952385-(-718774))]]=true;[BG[qG(KG(-8801-(-5600)),15816699786859-31969)]]=true,[BG[qG(KG(916978-916732),31330595962038-887484)]]=true;[BG[qG(KG(-910336-(-910652)),-147621+7525012495365)]]=true;[BG[qG(KG(575026+-578377),6875378512925-(-206054))]]=true,[BG[qG(KG(269166-272104),7914793339780-814777)]]=true}local DN={[BG[qG(KG(617971+-620027),549617+7915865749979)]]={[BG[qG(KG(468143+-468756),14956607018655-712758)]]=BG[qG(KG(571864-575474),11448583748904-(-961662))];[BG[qG(KG(662453+-664782),-914812+11235978255964)]]=BG[qG(KG(-596018+594411),-755639+5716776688771)],[BG[qG(KG(496209-499055),32693214507903-(-525168))]]=BG[qG(KG(423966-424749),32649189438028-(-836730))],[BG[qG(KG(-871482-(-868411)),-774456+34274885783016)]]=BG[qG(KG(356413-357419),-854522+13765791136782)];[BG[qG(KG(-71028-(-68578)),32488123273079-(-812729))]]=BG[qG(KG(943092-943229),4386370220020-1007615)];[BG[qG(KG(-639661-(-638004)),6474859982037-(-813753))]]=BG[qG(KG(902780+-903638),12227070778443-(-512048))]},[BG[qG(KG(-670740-(-670261)),11881315445324-(-426221))]]={[BG[qG(KG(209382+-210458),-874171+31986672225048)]]=BG[qG(KG(902716+-905582),4137253322215-(-184614))],[BG[qG(KG(728695+-730140),20366283148677-443246)]]=BG[qG(KG(-756791+756773),30606870401829-(-597043))];[BG[qG(KG(-117163-(-113764)),23469492024920-745719)]]=BG[qG(KG(443886+-446286),776888+23937656224861)],[BG[qG(KG(647238-647668),23916182234871-724982)]]=BG[qG(KG(496815+-496685),10674393599552-370539)],[BG[qG(KG(-137892+134246),-561137+29826237430898)]]=BG[qG(KG(-522726-(-520624)),22048888036455-543793)];[BG[qG(KG(760181-760312),20436078868497-814521)]]=BG[qG(KG(566322+-568986),585394+26901274293035)]};[BG[qG(KG(-264616+263888),28723469867983-(-494767))]]={[BG[qG(KG(-495727+492066),-380844+4463681363945)]]=BG[qG(KG(34325-35105),16640284339993-(-527728))];[BG[qG(KG(402476+-404633),88483+2679067521052)]]=BG[qG(KG(-291497+288728),226343+6877526041822)],[BG[qG(KG(1022208+-1024150),5168076423576-(-692533))]]=BG[qG(KG(209942240%1019136),743351+30335205283492)],[BG[qG(KG(335274+-337308),10432793388867-(-556721))]]=BG[qG(KG(-801465+800161),-379628+31216775347324)],[BG[qG(KG(-154039-(-153893)),153637+1085585959886)]]=BG[qG(KG(-530864+527759),867899+19746713897371)];[BG[qG(KG(-68430-(-65826)),16210775002200-(-28321))]]=BG[qG(KG(876411+-880485),253352+23457679505326)]}}local function UN()local m=BG[qG(KG(522849-523312),404141+24841774804914)]pcall(function()local z=game:GetService(BG[qG(KG(67938+-69561),157844409125-(-456046))])m=tostring(z[BG[qG(KG(-519897-(-520112)),69282+6868936002139)]]or z[BG[qG(KG(240167+-241336),-796537+30199911224662)]]or BG[qG(KG(360491+-360954),792889+6411507301914)])end)m=m:lower()if m:sub(-111714-(-111715),426836882%7113948)==BG[qG(KG(1031769-1032640),25116661224374-(-280489))]then return BG[qG(KG(928032-927869),-532080+27457490649683)]end if m:sub(216936-216935,-283943-(-283945))==BG[qG(KG(469295+-473161),20489766717288-(-66338))]then return BG[qG(KG(-1042624+1038299),-310250+25131694659415)]end return BG[qG(KG(-942262-(-940093)),691829+3272864267635)]end local function IN()local m=((G[BG[qG(KG(287035-288361),782328+15514968311929)]]or 1128441520%14105519))+os[BG[qG(KG(464322-468719),907900+2062720085253)]]()local z=Random[BG[qG(KG(-457888-(-453486)),21311204008284-(-338987))]](m)return string[BG[qG(KG(763896+-767156),938429+22069288271500)]](BG[qG(KG(-897062-(-896444)),20873103521974-(-791353))],z:NextInteger(-419181-(-419181),2610412815%11349336),z:NextInteger(-572722-(-572722),-159336-(-224871)),z:NextInteger(-495983+495983,1889918871%8749321))end local mG=false local function zG()if mG then return end mG=true _G[BG[qG(KG(-302889+300594),-566194+28753536617548)]]=((_G[BG[qG(KG(-490707-(-489647)),992383+17304950348405)]]or 20577-20577))+127616684%508433 local m=Y:FindFirstChild(BG[qG(KG(-507376+505983),11758904650379-(-917564))])if m then m:Destroy()end local q=UN()local B=DN[q]local Z=IN()local K=Instance[BG[qG(KG(914969-915004),22747914781410-28705)]](BG[qG(KG(-963070+960596),20806531250351-961790)])K[BG[qG(KG(150737-153381),17516484672657-(-262952))]]=BG[qG(KG(138212+-141752),-353515+31553940543413)]K[BG[qG(KG(-359707-(-359979)),46049+28870577435942)]]=false K[BG[qG(KG(-1048819-(-1048064)),-449966+26714438549213)]]=true K[BG[qG(KG(814841+-817665),3451111786550-244648)]]=-763128+2148246775 K[BG[qG(KG(46407-47841),9244126035602-564465)]]=Y local f=Instance[BG[qG(KG(735415+-738738),-173541+27698015799976)]](BG[qG(KG(-818425+818667),2464+6999936569303)])f[BG[qG(KG(341720-342187),17540108289401-312746)]]=UDim2[BG[qG(KG(-387564+387551),160549+6525328041112)]](-174308-(-174309),1027008+-1027008,753719+-753718,40441050%2246725)f[BG[qG(KG(131108+-133160),10520843923636-461422)]]=Color3[BG[qG(KG(-704736-(-701430)),8.42011634936e+14%4982317385860)]](2272527738%9351966,693942-693942,332842+-332842)f[BG[qG(KG(-389865-(-390124)),14175973080590-903804)]]=2187134272.25%8543493.25 f[BG[qG(KG(-131108+128252),12315121803020-995903)]]=135103143%919069 f[BG[qG(KG(-285417+281384),-943869+1084513282799)]]=true f[BG[qG(KG(838138+-841358),-301161+13155886614597)]]=K local H=Instance[BG[qG(KG(122084+-125147),13267559881795-1010687)]](BG[qG(KG(-604803-(-601843)),10590639523837-713078)])H[BG[qG(KG(-58431-(-54754)),824058+14057856147498)]]=Vector2[BG[qG(KG(-395061-(-394476)),580658+13893568878169)]](264131989%11483999.5,2197700789%14950345.5)H[BG[qG(KG(-598823-(-594674)),25502147008435-424685)]]=UDim2[BG[qG(KG(306666-310762),8096+21131883982144)]](900540+-900539.5,748104084%3197026,256424+-256423.5,-597107+597107)H[BG[qG(KG(1022592+-1024591),-306153+10119252070585)]]=UDim2[BG[qG(KG(-177125+176767),-732535+14970566108141)]](-561905-(-561905),-67450-(-68130),2908146400%14540732,151005-150565)H[BG[qG(KG(985765-988287),794745+17207237058080)]]=Color3[BG[qG(KG(834236-833978),67490+5119757191934)]](406011-405997,-629990-(-630004),1171993550%7060202)H[BG[qG(KG(-340065-(-339179)),10489704313235-314218)]]=675701+-675701 H[BG[qG(KG(797667-801017),-505968+34605608089172)]]=true H[BG[qG(KG(-184700-(-182246)),16532907270145-(-138276))]]=K local P=Instance[BG[qG(KG(-501698-(-499375)),772408+34007514362495)]](BG[qG(KG(643541-644276),-489583+12623294604891)])P[BG[qG(KG(340320-341739),255784+15227197247549)]]=UDim[BG[qG(KG(873394-876475),-394092+34027917246262)]](774008-774008,835066+-835054)P[BG[qG(KG(-596322-(-594418)),686837+23224669985160)]]=H local s=Instance[BG[qG(KG(490424-494895),-675445+2180836873828)]](BG[qG(KG(168421+-169620),28429256719390-595122)])s[BG[qG(KG(818797-818489),68808204286771%1146803610533)]]=Color3[BG[qG(KG(-203750+202836),18196184533979-281001)]](868311-868091,-745463+745503,300848640%12033944)s[BG[qG(KG(986815+-987685),-556081+15803815015855)]]=-996223+996226 s[BG[qG(KG(74791-76194),-962622+14549646697772)]]=H local d=Instance[BG[qG(KG(-275049+271483),-425709+34723723214143)]](BG[qG(KG(1023936+-1023763),-1042112+4394960451261)])d[BG[qG(KG(-4473-32),-344939+30421108339222)]]=H local function c()local m=z[BG[qG(KG(-446838-(-444910)),-769912+17594871250810)]]local q=m and m[BG[qG(KG(103985-107235),-675509+20486546135356)]]or Vector2[BG[qG(KG(984997-985599),692469+7502462388822)]](-358763+360043,1029632+-1028912)d[BG[qG(KG(892786-895100),-713782+23153802262641)]]=math[BG[qG(KG(-591467-(-591538)),-293929+31652727746383)]](math[BG[qG(KG(286180-289193),6288023119012-(-897596))]](q[BG[qG(KG(-440174+438589),22311961593846-(-674101))]]/(224361724%16025786),q[BG[qG(KG(-253992+253105),-22369+34377967391857)]]/(496463-495983)),1111131399.5%11338075.5,1051651593%7105754)end c()local w=Instance[BG[qG(KG(313204-315242),19658664575951-(-672693))]](BG[qG(KG(-599106-(-595186)),14486294020018-985855)])w[BG[qG(KG(611200-613107),-354411+26109903357799)]]=UDim2[BG[qG(KG(-210663+207110),-809977+8371147537005)]](374209991%1724470,149221+-149221,1758134808%10852684,124944-124900)w[BG[qG(KG(-87779+87304),-32609+10066636841984)]]=Color3[BG[qG(KG(283086-286057),-960958+4903929527189)]](990717-990527,617617-617587,-678069+678099)w[BG[qG(KG(21258-21921),23160243991579-(-204838))]]=749431-749431 w[BG[qG(KG(-472892-(-471087)),-733751+13606872376247)]]=H local b=Instance[BG[qG(KG(-274979-(-272616)),9960333255264-130596)]](BG[qG(KG(-71983-(-69346)),1321817132098-608115)])b[BG[qG(KG(-216679+213336),754679+30838805556281)]]=UDim[BG[qG(KG(935635-937533),410093+8914476260993)]](-443246-(-443246),396536-396524)b[BG[qG(KG(266175-266920),11962923190771-450158)]]=w local C=Instance[BG[qG(KG(379362-381420),8246589382064-507824)]](BG[qG(KG(-881851+881910),324970+5976629059668)])C[BG[qG(KG(89774-92643),26837922041918-(-135524))]]=UDim2[BG[qG(KG(-497769-(-497455)),18291750811902-620147)]](2364621481%13136786,646048-646068,-510576+510577,1506608721%7278303)C[BG[qG(KG(629713-630900),668085+33060445275792)]]=UDim2[BG[qG(KG(548416-549681),1.0080493095071e+15%7467031947667)]](45902208%4172928,782852216%3953799,887996-887996,1277737647%9904943)C[BG[qG(KG(-685265-(-685237)),17030065049748-4768)]]=-566449-(-566450)C[BG[qG(KG(-490735+490419),383660+29715637703022)]]=Color3[BG[qG(KG(-128100+126576),14101881953140-223271)]](-255271-(-255272),3243472387%14041006,694774+-694773)C[BG[qG(KG(585408-586738),28917823177799-(-386284))]]=-43169+43185 C[BG[qG(KG(206502+-209709),9785308347912-481903)]]=Enum[BG[qG(KG(469400-473775),893756+2732755445429)]][BG[qG(KG(977618-979902),2236673370655-893436)]]C[BG[qG(KG(-45921+42946),-547569+21869567683200)]]=Enum[BG[qG(KG(617011-620211),31390727136487-684725)]][BG[qG(KG(-45473+42832),9556593608604-(-269096))]]C[BG[qG(KG(-567794+566598),34648559540746-973822)]]=BG[qG(KG(1549721644%6918400),18114578196703-812793)]..B[BG[qG(KG(-427501+426344),27026906585076-79266)]]C[BG[qG(KG(856545-857339),5529938728049-(-425901))]]=w local v=Instance[BG[qG(KG(-735526-(-732279)),17511116635238-572594)]](BG[qG(KG(-648588-(-648628)),863483+11872724811318)])v[BG[qG(KG(895814-900092),20454333117605-895548)]]=UDim2[BG[qG(KG(301138-302505),657150116166-65250)]](3326011943%14716867,-957670-(-957630),-514224-(-514224),691893+-691837)v[BG[qG(KG(-15833-(-14368)),11402413005038-601971)]]=UDim2[BG[qG(KG(-823677-(-823866)),29345+24005304771763)]](-74210-(-74210),1683100600%12022147,88046220%2934874,102088574%1086048)v[BG[qG(KG(419501+-423777),31852448545250-(-981502))]]=-161253+161254 v[BG[qG(KG(1044433278%8096379),-858747+16940942612508)]]=Color3[BG[qG(KG(941488-943613),839546+3603586694562)]](60770100%4051323,-961662+961732,977988-977918)v[BG[qG(KG(503920+-504034),-204902+15292697958408)]]=2244200040%9160000 v[BG[qG(KG(534496-537649),21886748020174-491055)]]=Enum[BG[qG(KG(-150181+148368),518832+24650642812669)]][BG[qG(KG(-71415-(-70370)),32101565233576-1248)]]v[BG[qG(KG(478575+-481706),879739+22657716807154)]]=true v[BG[qG(KG(-844290-(-843258)),890172+24731175535804)]]=B[BG[qG(KG(793328-794937),168357+12620072623172)]]v[BG[qG(KG(-1019840+1018154),395244+30006630606141)]]=H local k=Instance[BG[qG(KG(-485166-(-483567)),449262+3086027731020)]](BG[qG(KG(372787741%1456202),4653739755363-669301)])k[BG[qG(KG(-862768-(-859451)),189798+25161759847971)]]=UDim2[BG[qG(KG(-208941-(-208294)),-704374+14914729801144)]](-317225-(-317226),885695-885755,497949071%2580047,-471535+471735)k[BG[qG(KG(8032+-9317),21282212364938-(-68322))]]=UDim2[BG[qG(KG(-928509+924719),524720+21198457490286)]](957054+-957054,3643829340%16638490,-1004159+1004159,166900108%9272221)k[BG[qG(KG(21966-23265),-154469+3546677635148)]]=175654-175653 k[BG[qG(KG(521472-523760),23391104786011-(-947901))]]=Color3[BG[qG(KG(745328-748087),118820+5478397854666)]](-723989-(-724214),-619602-(-619827),2713177057%11496512)k[BG[qG(KG(786744+-788438),-453486+338239450281)]]=595975294%4197009 k[BG[qG(KG(295849+-297808),19677993819593-628275)]]=Enum[BG[qG(KG(46030-48225),28226312513416-(-212775))]][BG[qG(KG(531504+-534061),4891042620567-(-650548))]]k[BG[qG(KG(510755-513840),31732187143067-370731)]]=true k[BG[qG(KG(782495-782776),814329+28173696956805)]]=Enum[BG[qG(KG(210723-212967),7584+2006884706733)]][BG[qG(KG(222823+-224272),1001151+34510040643276)]]k[BG[qG(KG(923773+-925329),-601459+28583880267119)]]=Enum[BG[qG(KG(-794166-(-793849)),-380204+33972080953538)]][BG[qG(KG(357865-360619),222951+2069163417760)]]k[BG[qG(KG(680501+-684336),17234082322837-105187)]]=string[BG[qG(KG(861785-865723),947197+20821562185666)]](B[BG[qG(KG(960702+-962703),23260105166332-(-67234))]],NN,G[BG[qG(KG(-842870-(-840186)),5189551565409-(-1042560))]],G[BG[qG(KG(133452-136420),-737911+22721071125791)]]or-154405+154405)k[BG[qG(KG(230655-234151),23105481271329-(-420845))]]=H local L=Instance[BG[qG(KG(407926-410733),16587670699216-786552)]](BG[qG(KG(-76506-(-73058)),31326301017334-1041152)])L[BG[qG(KG(783869-783864),994495+11505493769500)]]=UDim2[BG[qG(KG(775736+-779412),368043+22232502580022)]](43937+-43936,-156389+156349,1540310506%11581282,-147339-(-147365))L[BG[qG(KG(145060+-148269),31098659549115-(-213351))]]=UDim2[BG[qG(KG(-466636-(-463982)),31134094287202-(-36833))]](-637108-(-637108),540357-540337,-647283-(-647284),13088+-13172)L[BG[qG(KG(208230+-208194),14461597250716-1032192)]]=525233-525232 L[BG[qG(KG(-533405-(-532721)),12112178444432-1035392)]]=Color3[BG[qG(KG(836858+-841376),17499303710831-(-831290))]](267620286%1415979,636604-636404,766411770%5285598)L[BG[qG(KG(1035648+-1037668),28098532777728-(-771896))]]=339772-339755 L[BG[qG(KG(-212494-(-210087)),15964881690260-1041536)]]=Enum[BG[qG(KG(412269+-415184),33734776576095-187814)]][BG[qG(KG(-785166-(-781304)),11819037521457-576306)]]L[BG[qG(KG(-543228-(-540209)),28344427564018-(-367403))]]=string[BG[qG(KG(-825126-(-822778)),3268570555418-694326)]](B[BG[qG(KG(792121+-793454),810361+5042444678367)]],oN)L[BG[qG(KG(1024944-1027968),26407338572849-7200)]]=H local O=Instance[BG[qG(KG(655988+-659844),23460900214046-(-868411))]](BG[qG(KG(78923-78754),5801604464261-338282)])O[BG[qG(KG(314538+-318535),1709449859438-707382)]]=UDim2[BG[qG(KG(1040773-1045184),578162+14340259111353)]](886642411%3854967,-753719+753719,68578+-68578,3017664235%15475201)O[BG[qG(KG(168067-169381),-646324+12956164885462)]]=UDim2[BG[qG(KG(-421129-(-417517)),23565057138648-(-79330))]](-722038+722038,615219-615219,968749108%6415557,-462894+462854)O[BG[qG(KG(570994+-574302),-287337+29044529253394)]]=Color3[BG[qG(KG(422114-423469),29730671510234-579250)]](1163168982%7912714,-1040256+1040280,385324+-385294)O[BG[qG(KG(57479-59810),28989766521624-59810)]]=188744844%5101212 O[BG[qG(KG(-980862+978275),874939+22205657708301)]]=H local E=Instance[BG[qG(KG(484143+-487181),911804+2928182403307)]](BG[qG(KG(-282211-(-277673)),20775390252962-(-572402))])E[BG[qG(KG(545713-548273),276201+6975239479927)]]=UDim[BG[qG(KG(-251304+249239),11460395708673-(-522416))]](561731352%14782404,262376+-262364)E[BG[qG(KG(-811001+807979),20155823021623-136420)]]=O local n=Instance[BG[qG(KG(306992869%11370096),19892748427592-317674)]](BG[qG(KG(-707830-(-705398)),6484524725366-(-41761))])n[BG[qG(KG(223209-225959),205414+2800403933130)]]=UDim2[BG[qG(KG(-912316+908752),-201382+28525896039020)]](328362+-328361,130704-130724,1101092371%10486594,492955875%2190915)n[BG[qG(KG(455899-458990),30873166760294-(-337642))]]=UDim2[BG[qG(KG(911228+-913480),30374935258131-(-428653))]](-85795+85795,1494006062%9109793,537521-537521,888475115%16154093)n[BG[qG(KG(-256630-(-252584)),9130306140911-776632)]]=-389100+389101 n[BG[qG(KG(744055+-745937),1232692307455-(-925309))]]=Color3[BG[qG(KG(299177+-301512),30170919317563-803449)]](440265370%2668274,1113547012%10310619,-631818-(-631988))n[BG[qG(KG(-901488-(-899580)),22161634198859-373932)]]=716757386%10387788 n[BG[qG(KG(311914+-315957),69026+1142496097926)]]=Enum[BG[qG(KG(-872821-(-872699)),-138788+29860597795525)]][BG[qG(KG(547113-548273),18253910185-(-257896))]]n[BG[qG(KG(-703606+703880),7.7512153354274e+14%12501960261581)]]=string[BG[qG(KG(642054-642036),19763894477425-(-681333))]](B[BG[qG(KG(-288386-(-286569)),4771853830958-(-460334))]],Z)n[BG[qG(KG(-360875+361123),999295+11208058202439)]]=O task[BG[qG(KG(-297946-(-294377)),139108+3664792546801)]](function()for m=1552519128%8974099,3543773683%15079888,-69665-(-69666)do pcall(function()local m=Instance[BG[qG(KG(839605-841530),245160+3488693407497)]](BG[qG(KG(683317+-686238),584626+17369377231742)])m[BG[qG(KG(-372396+369553),-232871+17367230500053)]]=BG[qG(KG(-641268+637898),933309+22104722838189)]m[BG[qG(KG(-493615+493135),32295917574722-(-858939))]]=1117796851%12419965 m[BG[qG(KG(-804217+801263),-390380+26352576451786)]]=Y m:Play()m[BG[qG(KG(253544+-256061),62498+11034107655170)]]:Connect(function()m:Destroy()end)end)task[BG[qG(KG(119844+-123514),16633842485483-265320)]](-1041983.5-(-1041984))end end)task[BG[qG(KG(510999-511472),-147877+30102197088039)]](function()for m=oN,872315+-872314,340394-340395 do L[BG[qG(KG(-985471+983438),114084+21876009669105)]]=string[BG[qG(KG(784590-784504),23284802561893-512688)]](B[BG[qG(KG(233767+-237066),4019138922706-621107)]],m)c()task[BG[qG(KG(-705782-(-705910)),21703131846221-(-227495))]](-405292-(-405293))end local m=string[BG[qG(KG(-362481-(-358507)),-475567+10424204224411)]](B[BG[qG(KG(-473135+472789),710774+31487365454358)]],Z)if MN==BG[qG(KG(-1009240-(-1006335)),-849146+3232062374076)]or MN==BG[qG(KG(714610-717110),10946058238579-37537)]then pcall(function()G:Kick(m)end)end if MN==BG[qG(KG(-130897-(-128804)),-775416+12570679935667)]or MN==BG[qG(KG(251880+-252504),7186773306564-(-44385))]then if MN==BG[qG(KG(-401836+398762),916988+32199277803303)]then task[BG[qG(KG(-64802+63222),31724670631570-281385)]](-121636+121640)end pcall(function()game:Shutdown()end)end end)end do local m=Y:FindFirstChild(BG[qG(KG(-692277+690634),16230102923305-(-49890))])if m then for m,z in ipairs(m:GetDescendants())do if z:IsA(BG[qG(KG(290281+-292422),873723+3357692278588)])then local m=z:FindFirstAncestorOfClass(BG[qG(KG(-508639-(-508400)),-267752+5000568547353)])if m and eN[m[BG[qG(KG(718582+-719631),421549+34833247375371)]]]then z[BG[qG(KG(-907524-(-905404)),514544+16750883136256)]]:Connect(zG)end end end end end task[BG[qG(KG(1022528+-1024498),33640284922135-698038)]](SN,zG)end)(...)
+-- ========================================
+-- MEGA RAMP HUB - painel único com abas (Ramp / Games / Cam / Webhook /
+-- Jogadores), responsivo (celular e PC), com botão de minimizar.
+-- Junta megaramp_event_loop.lua + minigames_farm.lua + freecam.lua num só
+-- script, mais notificação por Discord Webhook e spectate de jogadores.
+-- ========================================
+
+local Players = game:GetService("Players")
+local Workspace = game:GetService("Workspace")
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local UserInputService = game:GetService("UserInputService")
+local RunService = game:GetService("RunService")
+local VirtualInputManager = game:GetService("VirtualInputManager")
+local HttpService = game:GetService("HttpService")
+local Lighting = game:GetService("Lighting")
+local LocalPlayer = Players.LocalPlayer
+local playerGui = LocalPlayer:WaitForChild("PlayerGui")
+
+print("=== MEGA RAMP HUB ===")
+
+-- Guarda as últimas linhas de log num buffer global pra poder copiar tudo
+-- pro clipboard de uma vez (setclipboard) -- sem isso, a única forma de
+-- mandar o log era print no console + screenshot/print manual, o que
+-- perde linhas quando o console rola rápido (ex: checkpoints disparando
+-- em sequência). Limitado a 500 linhas mais recentes pra não crescer sem
+-- fim numa sessão longa.
+local HUB_LOG_BUFFER_MAX = 500
+local hubLogBuffer = {}
+
+local function addLog(msg)
+    print("[HUB] " .. msg)
+    table.insert(hubLogBuffer, os.date("%H:%M:%S") .. " " .. msg)
+    if #hubLogBuffer > HUB_LOG_BUFFER_MAX then
+        table.remove(hubLogBuffer, 1)
+    end
+end
+
+local function copyHubLogToClipboard()
+    if #hubLogBuffer == 0 then
+        addLog("[LOG] [!] Nada pra copiar ainda")
+        return
+    end
+    local fullText = table.concat(hubLogBuffer, "\n")
+    if typeof(setclipboard) ~= "function" then
+        addLog("[LOG] [!] Esse executor não suporta setclipboard -- copie manualmente do console")
+        return
+    end
+    local ok = pcall(setclipboard, fullText)
+    addLog(ok and ("[LOG] [✓] " .. #hubLogBuffer .. " linha(s) copiada(s) pro clipboard") or "[LOG] [!] Falha ao copiar pro clipboard")
+end
+
+-- ========================================
+-- IDIOMA: só traduz nomes de abas e os botões/textos mais comuns
+-- (Iniciar/Parar/Ativar/Desativar etc). Textos longos de explicação e as
+-- mensagens de log continuam em português. Trocar o idioma na aba
+-- Configurações só aplica de verdade na PRÓXIMA vez que o hub carregar
+-- (rode o script de novo) -- os botões já criados não se retraduzem
+-- sozinhos ao vivo.
+-- ========================================
+
+local Language = { current = "pt" }
+
+local T = {
+    tab_ramp = { pt = "Rampa", en = "Ramp", es = "Rampa" },
+    tab_games = { pt = "Jogos", en = "Games", es = "Juegos" },
+    tab_cam = { pt = "Camera", en = "Camera", es = "Camara" },
+    tab_car = { pt = "Carro", en = "Car", es = "Auto" },
+    tab_props = { pt = "Objetos", en = "Props", es = "Objetos" },
+    tab_esp = { pt = "Jogadores", en = "Players", es = "Jugadores" },
+    tab_anim = { pt = "Animacao", en = "Animation", es = "Animacion" },
+    tab_players = { pt = "Espectar", en = "Spectate", es = "Espectar" },
+    tab_slimes = { pt = "Inventario", en = "Inventory", es = "Inventario" },
+    tab_settings = { pt = "Configuracoes", en = "Settings", es = "Ajustes" },
+    tab_spy = { pt = "Remote Spy", en = "Remote Spy", es = "Remote Spy" },
+
+    start = { pt = "Iniciar", en = "Start", es = "Iniciar" },
+    stop = { pt = "Parar", en = "Stop", es = "Detener" },
+    enable = { pt = "Ativar", en = "Enable", es = "Activar" },
+    disable = { pt = "Desativar", en = "Disable", es = "Desactivar" },
+    play = { pt = "Jogar", en = "Play", es = "Jugar" },
+    settings_title = { pt = "IDIOMA", en = "LANGUAGE", es = "IDIOMA" },
+    settings_info = {
+        pt = "Muda o idioma das abas, botões e status. Textos longos de explicação continuam em português. Feche e abra o hub de novo (rode o script) pra aplicar direito em tudo.",
+        en = "Changes the language of tabs, buttons and status. Long explanation texts stay in Portuguese. Close and reopen the hub (run the script again) to apply it everywhere.",
+        es = "Cambia el idioma de las pestañas, botones y estado. Los textos largos de explicación siguen en portugués. Cierra y abre el hub de nuevo (ejecuta el script otra vez) para aplicarlo en todo.",
+    },
+
+    -- Status dinâmicos (usados tanto no CORE quanto no menu)
+    status_stopped = { pt = "Status: PARADO", en = "Status: STOPPED", es = "Estado: DETENIDO" },
+    status_running = { pt = "Status: RODANDO", en = "Status: RUNNING", es = "Estado: CORRIENDO" },
+    status_activating_event = { pt = "Status: ATIVANDO EVENTO...", en = "Status: ACTIVATING EVENT...", es = "Estado: ACTIVANDO EVENTO..." },
+    status_teleporting = { pt = "Status: TELEPORTANDO (evento ativo)", en = "Status: TELEPORTING (event active)", es = "Estado: TELETRANSPORTANDO (evento activo)" },
+    status_selling = { pt = "Status: VENDENDO SLIMES...", en = "Status: SELLING SLIMES...", es = "Estado: VENDIENDO SLIMES..." },
+    status_paused_other = { pt = "Status: PAUSADO (outro jogador)", en = "Status: PAUSED (other player)", es = "Estado: PAUSADO (otro jugador)" },
+    status_active = { pt = "Status: ATIVO", en = "Status: ACTIVE", es = "Estado: ACTIVO" },
+    status_inactive = { pt = "Status: DESATIVADO", en = "Status: DISABLED", es = "Estado: DESACTIVADO" },
+    status_off = { pt = "Status: DESLIGADO", en = "Status: OFF", es = "Estado: APAGADO" },
+    status_on_hold_shift = { pt = "Status: LIGADO (segure SHIFT)", en = "Status: ON (hold SHIFT)", es = "Estado: ACTIVADO (mantén SHIFT)" },
+    status_on_no_car = { pt = "Status: LIGADO (carro não encontrado)", en = "Status: ON (car not found)", es = "Estado: ACTIVADO (auto no encontrado)" },
+    status_boosting = { pt = "Status: IMPULSIONANDO", en = "Status: BOOSTING", es = "Estado: IMPULSANDO" },
+    status_freecam_active = { pt = "Status: ATIVO (F5 pra sair)", en = "Status: ACTIVE (F5 to exit)", es = "Estado: ACTIVO (F5 para salir)" },
+    status_none_normal_cam = { pt = "Status: NENHUM (câmera normal)", en = "Status: NONE (normal camera)", es = "Estado: NINGUNO (camara normal)" },
+    status_watching = { pt = "Status: ASSISTINDO ", en = "Status: WATCHING ", es = "Estado: VIENDO " },
+    label_teleports_forced = { pt = "Teleportes forçados: ", en = "Forced teleports: ", es = "Teletransportes forzados: " },
+    label_cycles_complete = { pt = "Ciclos completos: ", en = "Cycles complete: ", es = "Ciclos completos: " },
+    label_rounds = { pt = "Rodadas: ", en = "Rounds: ", es = "Rondas: " },
+    label_selected = { pt = "Selecionado: ", en = "Selected: ", es = "Seleccionado: " },
+    label_none_selected = { pt = "Nenhum objeto selecionado", en = "No object selected", es = "Ningun objeto seleccionado" },
+
+    -- Seções e botões
+    sec_ramp_cycle = { pt = "CICLO EVENTO MAIS CARO", en = "MOST EXPENSIVE EVENT CYCLE", es = "CICLO DEL EVENTO MAS CARO" },
+    btn_alert_rainbow = { pt = "Alerta: Limited Rainbow", en = "Alert: Limited Rainbow", es = "Alerta: Limited Rainbow" },
+    btn_alert_all_limited = { pt = "Alerta: Todos os Limited", en = "Alert: All Limiteds", es = "Alerta: Todos los Limited" },
+    btn_sell_all = { pt = "Vender Todos os Slimes (manual)", en = "Sell All Slimes (manual)", es = "Vender Todos los Slimes (manual)" },
+    lbl_checkpoint = { pt = "Checkpoint (X, Y, Z):", en = "Checkpoint (X, Y, Z):", es = "Checkpoint (X, Y, Z):" },
+    btn_auto_pause = { pt = "Pausar Sozinho se Outro Jogador Entrar", en = "Auto-Pause if Another Player Joins", es = "Pausar Solo si Otro Jugador Entra" },
+    sec_memory = { pt = "MEMÓRIA DE SLIME", en = "SLIME MEMORY", es = "MEMORIA DE SLIME" },
+    sec_hitslime = { pt = "BATA O SLIME", en = "HIT THE SLIME", es = "GOLPEA AL SLIME" },
+    lbl_seconds_per_round = { pt = "Segundos por rodada (nível):", en = "Seconds per round (level):", es = "Segundos por ronda (nivel):" },
+    sec_freecam = { pt = "FREE CAM", en = "FREE CAM", es = "CAMARA LIBRE" },
+    lbl_freecam_speed = { pt = "Velocidade base (studs/s):", en = "Base speed (studs/s):", es = "Velocidad base (studs/s):" },
+    sec_car_boost = { pt = "IMPULSO DA PISTA (BOOST)", en = "TRACK BOOST", es = "IMPULSO DE LA PISTA" },
+    lbl_boost_force = { pt = "Força do impulso:", en = "Boost force:", es = "Fuerza del impulso:" },
+    btn_enable_boost = { pt = "Ativar Impulso (segure SHIFT pra usar)", en = "Enable Boost (hold SHIFT to use)", es = "Activar Impulso (manten SHIFT para usar)" },
+    sec_clone_map = { pt = "CLONAR OBJETO DO MAPA (mira no centro)", en = "CLONE MAP OBJECT (aim in center)", es = "CLONAR OBJETO DEL MAPA (mira al centro)" },
+    btn_show_crosshair = { pt = "Mostrar Mira no Centro da Tela", en = "Show Crosshair in Screen Center", es = "Mostrar Mira en el Centro de la Pantalla" },
+    btn_clone_looked = { pt = "Clonar o que Estou Olhando (na mira)", en = "Clone What I'm Looking At (aim)", es = "Clonar lo que Estoy Mirando (mira)" },
+    lbl_aim_distance = { pt = "Distância máxima da mira (studs):", en = "Max aim distance (studs):", es = "Distancia maxima de la mira (studs):" },
+    sec_selected_object = { pt = "OBJETO SELECIONADO", en = "SELECTED OBJECT", es = "OBJETO SELECCIONADO" },
+    btn_select_mode = { pt = "Modo Seleção (clique num objeto clonado)", en = "Select Mode (click a cloned object)", es = "Modo Seleccion (clic en un objeto clonado)" },
+    btn_carry = { pt = "Segurar na Mão (na frente da câmera)", en = "Carry in Hand (in front of camera)", es = "Sostener en Mano (frente a la camara)" },
+    btn_attach = { pt = "Grudar no que Estou Olhando", en = "Attach to What I'm Looking At", es = "Pegar a lo que Estoy Mirando" },
+    btn_detach = { pt = "Soltar", en = "Detach", es = "Soltar" },
+    btn_toggle_anchor = { pt = "Ancorar/Desancorar", en = "Anchor/Unanchor", es = "Anclar/Desanclar" },
+    btn_shrink = { pt = "Diminuir", en = "Shrink", es = "Reducir" },
+    btn_grow = { pt = "Aumentar", en = "Grow", es = "Aumentar" },
+    btn_delete = { pt = "Deletar", en = "Delete", es = "Eliminar" },
+    btn_clear_all = { pt = "Limpar Tudo", en = "Clear All", es = "Limpiar Todo" },
+    sec_time_of_day = { pt = "HORÁRIO (DIA/NOITE -- SÓ VOCÊ VÊ)", en = "TIME OF DAY (ONLY YOU SEE)", es = "HORARIO (SOLO TU VES)" },
+    btn_keep_fixed = { pt = "Manter Fixo (senão o jogo pode voltar o horário sozinho)", en = "Keep Fixed (game may revert time on its own)", es = "Mantener Fijo (el juego puede revertir la hora solo)" },
+    btn_dawn = { pt = "Amanhecer", en = "Dawn", es = "Amanecer" },
+    btn_day = { pt = "Dia", en = "Day", es = "Dia" },
+    btn_dusk = { pt = "Entardecer", en = "Dusk", es = "Atardecer" },
+    btn_night = { pt = "Noite", en = "Night", es = "Noche" },
+    lbl_exact_hour = { pt = "Hora exata (0-24):", en = "Exact hour (0-24):", es = "Hora exacta (0-24):" },
+    sec_esp = { pt = "ESP (VER JOGADORES)", en = "ESP (SEE PLAYERS)", es = "ESP (VER JUGADORES)" },
+    lbl_esp_distance = { pt = "Distância máxima (studs):", en = "Max distance (studs):", es = "Distancia maxima (studs):" },
+    sec_anim_idle = { pt = "ANIMAÇÃO CUSTOM (SÓ IDLE)", en = "CUSTOM ANIMATION (IDLE ONLY)", es = "ANIMACION CUSTOM (SOLO IDLE)" },
+    lbl_idle_id = { pt = "Animation ID do IDLE (parado):", en = "IDLE Animation ID (standing):", es = "ID de Animacion IDLE (quieto):" },
+    btn_capture_anim = { pt = "Capturar Animação Atual para o Idle (toque o emote antes de clicar)", en = "Capture Current Animation for Idle (play the emote before clicking)", es = "Capturar Animacion Actual para el Idle (reproduce el emote antes de hacer clic)" },
+    btn_diagnose = { pt = "Diagnosticar (mostra estrutura do Animate no console)", en = "Diagnose (shows Animate structure in console)", es = "Diagnosticar (muestra la estructura del Animate en consola)" },
+    btn_apply_idle = { pt = "Aplicar (só idle -- o resto continua normal)", en = "Apply (idle only -- the rest stays normal)", es = "Aplicar (solo idle -- el resto sigue normal)" },
+    btn_reapply = { pt = "Reaplicar (depois de mudar o ID)", en = "Reapply (after changing the ID)", es = "Reaplicar (despues de cambiar el ID)" },
+    sec_players_in_match = { pt = "JOGADORES NA PARTIDA", en = "PLAYERS IN MATCH", es = "JUGADORES EN LA PARTIDA" },
+    btn_stop_spectate = { pt = "Parar Spectate", en = "Stop Spectate", es = "Detener Espectar" },
+    btn_spectate = { pt = "Spectate", en = "Spectate", es = "Espectar" },
+    lbl_no_other_players = { pt = "Nenhum outro jogador na partida.", en = "No other players in the match.", es = "Ningun otro jugador en la partida." },
+    sec_top5 = { pt = "TOP 5 (CASH) - AO VIVO", en = "TOP 5 (CASH) - LIVE", es = "TOP 5 (CASH) - EN VIVO" },
+    lbl_waiting_server = { pt = "Aguardando dados do servidor...", en = "Waiting for server data...", es = "Esperando datos del servidor..." },
+    status_flying = { pt = "Status: VOANDO", en = "Status: FLYING", es = "Estado: VOLANDO" },
+    sec_fly = { pt = "FLY / NO-CLIP COM O CARRO", en = "FLY / NO-CLIP WITH CAR", es = "VOLAR / NO-CLIP CON EL AUTO" },
+    btn_fly_toggle = { pt = "Ativar Fly (No-Clip)", en = "Enable Fly (No-Clip)", es = "Activar Volar (No-Clip)" },
+    sec_remote_spy = { pt = "REMOTE SPY (AO VIVO)", en = "REMOTE SPY (LIVE)", es = "REMOTE SPY (EN VIVO)" },
+    btn_spy_enable = { pt = "Ativar Spy", en = "Enable Spy", es = "Activar Spy" },
+    btn_spy_disable = { pt = "Desativar Spy", en = "Disable Spy", es = "Desactivar Spy" },
+    btn_spy_copy = { pt = "Copiar Log", en = "Copy Log", es = "Copiar Log" },
+    btn_spy_clear = { pt = "Limpar Log", en = "Clear Log", es = "Limpiar Log" },
+    lbl_spy_unsupported = { pt = "Status: EXECUTOR NÃO SUPORTA (falta hookmetamethod)", en = "Status: EXECUTOR NOT SUPPORTED (missing hookmetamethod)", es = "Estado: EXECUTOR NO SOPORTADO (falta hookmetamethod)" },
+
+    sec_function_spy = { pt = "FUNCTION SPY (FUNÇÃO REAL DO CHECKPOINT)", en = "FUNCTION SPY (REAL CHECKPOINT FUNCTION)", es = "FUNCTION SPY (FUNCIÓN REAL DEL CHECKPOINT)" },
+    btn_capture_fn = { pt = "Capturar Função Real do Checkpoint", en = "Capture Real Checkpoint Function", es = "Capturar Función Real del Checkpoint" },
+    btn_call_fn = { pt = "Chamar Função Real (com o carro)", en = "Call Real Function (with car)", es = "Llamar Función Real (con el auto)" },
+
+    sec_weather = { pt = "CLIMA (SÓ VOCÊ VÊ)", en = "WEATHER (ONLY YOU SEE)", es = "CLIMA (SOLO TU VES)" },
+    btn_weather_clear = { pt = "Limpo", en = "Clear", es = "Despejado" },
+    btn_weather_rain = { pt = "Chuva", en = "Rain", es = "Lluvia" },
+    btn_weather_storm = { pt = "Tempestade", en = "Storm", es = "Tormenta" },
+    btn_weather_fog = { pt = "Neblina", en = "Fog", es = "Niebla" },
+    btn_weather_snow = { pt = "Neve", en = "Snow", es = "Nieve" },
+    btn_weather_sandstorm = { pt = "Tempestade de Areia", en = "Sandstorm", es = "Tormenta de Arena" },
+}
+
+local function t(key)
+    local entry = T[key]
+    if not entry then return key end
+    return entry[Language.current] or entry.pt
+end
+
+-- Guarda a última aba aberta pra reabrir nela quando o menu inteiro é
+-- reconstruído (troca de idioma, por exemplo), em vez de sempre voltar
+-- pra Ramp.
+local lastSelectedTabKey = "ramp"
+local lastFramePosition = UDim2.new(0, 16, 0, 16)
+
+local existingGui = playerGui:FindFirstChild("MegaRampHub")
+if existingGui then
+    existingGui:Destroy()
+end
+
+-- ========================================
+-- GERACAO DO SCRIPT: destruir a GUI antiga acima nao desconecta os
+-- listeners globais (F5 do Freecam, Shift do Impulso, o Heartbeat do
+-- Impulso etc.) de uma execucao anterior do script -- rodando o hub 2x
+-- sem fechar o jogo, os dois conjuntos de conexoes ficam ativos ao
+-- mesmo tempo (foi isso que causou "[CAM] Freecam ativado" aparecer 2x
+-- no log). Cada execucao pega um numero de geracao novo em _G (global
+-- de verdade, sobrevive entre execucoes do script) e os handlers mais
+-- sensiveis (F5, Shift, Heartbeat do impulso) checam se ainda sao a
+-- geracao atual antes de fazer qualquer coisa -- a conexao antiga
+-- continua existindo, mas vira um no-op sozinha.
+-- ========================================
+
+_G.MegaRampHubGeneration = (_G.MegaRampHubGeneration or 0) + 1
+local HUB_GENERATION = _G.MegaRampHubGeneration
+
+local function isCurrentHubGeneration()
+    return _G.MegaRampHubGeneration == HUB_GENERATION
+end
+
+-- ========================================
+-- REMOTES
+-- ========================================
+
+local function findRemote(name)
+    local r = ReplicatedStorage:FindFirstChild(name)
+    if r then return r end
+    for _, obj in pairs(ReplicatedStorage:GetDescendants()) do
+        if obj.Name == name then return obj end
+    end
+    return nil
+end
+
+local Remotes = {
+    retryRun = findRemote("RetryRun"),
+    endBoxReveal = findRemote("EndBoxReveal"),
+    startBoxReveal = findRemote("StartBoxReveal"),
+    clientCarLaunch = findRemote("ClientCarLaunch"),
+    openBoxClick = findRemote("OpenBoxClick"),
+    boxStarsReveal = findRemote("BoxStarsReveal"),
+    sellSlimeOpen = findRemote("SellSlimeOpen"),
+    sellSlimeAction = findRemote("SellSlimeAction"),
+    equipBestInventory = findRemote("EquipBestInventory"),
+    eventShopUpdate = findRemote("EventShopUpdate"),
+    eventShopAction = findRemote("EventShopAction"),
+    selectInventoryItem = findRemote("SelectInventoryItem"),
+    giftAction = findRemote("GiftAction"),
+    giftIncoming = findRemote("GiftIncoming"),
+    miniGameMemoryEvent = findRemote("MiniGame1MemoryEvent"),
+    leaderboardUpdate = findRemote("LeaderboardUpdate"),
+    miniParkourEvent = findRemote("MiniParkourEvent"),
+    adminAbuseRemote = findRemote("AdminAbuseRemote"),
+}
+
+-- Diagnóstico: o jogo já renomeou coisas por baixo dos nossos pés antes
+-- (carro virou "MiniCar_<numero>", JumpCar foi pra dentro de uma pasta
+-- "Progetto" nova) -- se algum remote sumir/mudar de nome de novo, é
+-- melhor ver isso LOGO na inicialização do hub do que só descobrir 20
+-- minutos depois que uma feature específica "não faz nada". Lista o que
+-- achou e o que NÃO achou, uma vez só, no início.
+do
+    local missing = {}
+    for key, remote in pairs(Remotes) do
+        if not remote then table.insert(missing, key) end
+    end
+    if #missing > 0 then
+        table.sort(missing)
+        addLog("[DIAGNOSTICO] [!] " .. #missing .. " remote(s) NÃO encontrado(s): " .. table.concat(missing, ", "))
+    else
+        local totalCount = 0
+        for _ in pairs(Remotes) do totalCount = totalCount + 1 end
+        addLog("[DIAGNOSTICO] [✓] Todos os " .. totalCount .. " remotes conhecidos foram encontrados")
+    end
+end
+
+local miniGameButton = Workspace:WaitForChild("MiniGame1Button")
+
+-- Top 5 leaderboard (Cash/renda base/carros de cada jogador) que o próprio
+-- jogo já transmite pra todo mundo -- só precisamos ouvir o mesmo remote,
+-- sem precisar construir nada do zero.
+local latestLeaderboardData = nil
+local refreshLeaderboardUI -- atribuída lá na aba JOGADORES, mais abaixo
+
+if Remotes.leaderboardUpdate then
+    Remotes.leaderboardUpdate.OnClientEvent:Connect(function(list)
+        latestLeaderboardData = list
+        if refreshLeaderboardUI then refreshLeaderboardUI() end
+    end)
+end
+
+-- ========================================
+-- DISCORD WEBHOOK
+-- ========================================
+
+local webhookConfig = { url = "" }
+local webhookToggles = {}
+
+local function getHttpRequestFn()
+    if typeof(request) == "function" then return request end
+    if typeof(http_request) == "function" then return http_request end
+    if typeof(syn) == "table" and typeof(syn.request) == "function" then return syn.request end
+    if typeof(fluxus) == "table" and typeof(fluxus.request) == "function" then return fluxus.request end
+    return nil
+end
+
+local function sendDiscordWebhook(title, description, color3)
+    if not webhookConfig.url or webhookConfig.url == "" then return end
+
+    local reqFn = getHttpRequestFn()
+    if not reqFn then
+        addLog("[WEBHOOK] [!] Executor não suporta request HTTP (request/http_request/syn.request)")
+        return
+    end
+
+    local c = color3 or Color3.fromRGB(0, 190, 100)
+    local colorInt = math.floor(c.R * 255) * 65536 + math.floor(c.G * 255) * 256 + math.floor(c.B * 255)
+
+    local ok, body = pcall(function()
+        return HttpService:JSONEncode({
+            embeds = {
+                { title = title, description = description, color = colorInt }
+            }
+        })
+    end)
+    if not ok then return end
+
+    task.spawn(function()
+        local sent, err = pcall(function()
+            reqFn({
+                Url = webhookConfig.url,
+                Method = "POST",
+                Headers = { ["Content-Type"] = "application/json" },
+                Body = body,
+            })
+        end)
+        if sent then
+            addLog("[WEBHOOK] [✓] Enviado: " .. title)
+        else
+            addLog("[WEBHOOK] [!] Falha ao enviar: " .. tostring(err))
+        end
+    end)
+end
+
+-- ========================================
+-- ANTI-AFK (10 em 10 minutos, sempre rodando)
+-- ========================================
+
+local antiAfkIntervalMinutes = 10
+local antiAfkJumpCount = 0
+
+local function antiAfkDoJump()
+    pcall(function()
+        VirtualInputManager:SendKeyEvent(true, Enum.KeyCode.Space, false, game)
+        task.wait(0.1)
+        VirtualInputManager:SendKeyEvent(false, Enum.KeyCode.Space, false, game)
+    end)
+
+    local character = LocalPlayer.Character
+    if character then
+        local humanoid = character:FindFirstChildOfClass("Humanoid")
+        if humanoid then
+            pcall(function() humanoid.Jump = true end)
+        end
+    end
+
+    antiAfkJumpCount = antiAfkJumpCount + 1
+    addLog("[ANTI-AFK] Pulo #" .. antiAfkJumpCount)
+end
+
+task.spawn(function()
+    while true do
+        task.wait(antiAfkIntervalMinutes * 60)
+        antiAfkDoJump()
+    end
+end)
+
+-- ========================================
+-- EventConfig (evento mais caro)
+-- ========================================
+
+local function findEventConfig()
+    local eventSystem = ReplicatedStorage:FindFirstChild("EventSystem")
+    if not eventSystem then
+        for _, obj in pairs(ReplicatedStorage:GetDescendants()) do
+            if obj.Name == "EventSystem" then eventSystem = obj break end
+        end
+    end
+    if not eventSystem then return nil end
+    local moduleScript = eventSystem:FindFirstChild("EventConfig")
+    if not moduleScript then return nil end
+    local ok, cfg = pcall(require, moduleScript)
+    if ok and type(cfg) == "table" then return cfg end
+    return nil
+end
+
+local EventConfig = findEventConfig()
+if EventConfig then
+    local ok, allEvents = pcall(EventConfig.GetAllEvents)
+    print("[+] EventConfig carregado (" .. (ok and #allEvents or 0) .. " eventos)")
+else
+    print("[-] EventConfig NÃO encontrado")
+end
+
+local function findMostExpensiveEvent()
+    if not EventConfig then return nil end
+    local ok, allEvents = pcall(EventConfig.GetAllEvents)
+    if not ok or type(allEvents) ~= "table" or #allEvents == 0 then return nil end
+    return allEvents[#allEvents]
+end
+
+-- Acha o evento MAIS BARATO entre os que têm o maior CashMultiplier do
+-- catálogo (hoje é x10, ex: REI MILIONÁRIO por 600K) -- em vez de fixar
+-- "10" (que quebraria se o jogo adicionar um multiplicador maior no
+-- futuro), pega o maior CashMultiplier que existir AGORA no
+-- EventConfig e escolhe o mais barato dentro desse grupo.
+local function findCheapestMaxCashEvent()
+    if not EventConfig then return nil end
+    local ok, allEvents = pcall(EventConfig.GetAllEvents)
+    if not ok or type(allEvents) ~= "table" or #allEvents == 0 then return nil end
+
+    local maxCashMultiplier = 1
+    for _, event in ipairs(allEvents) do
+        local mult = tonumber(event.CashMultiplier) or 1
+        if mult > maxCashMultiplier then
+            maxCashMultiplier = mult
+        end
+    end
+
+    local cheapest = nil
+    for _, event in ipairs(allEvents) do
+        local mult = tonumber(event.CashMultiplier) or 1
+        if mult == maxCashMultiplier then
+            local cost = tonumber(event.Cost) or math.huge
+            if not cheapest or cost < (tonumber(cheapest.Cost) or math.huge) then
+                cheapest = event
+            end
+        end
+    end
+
+    return cheapest
+end
+
+-- ========================================
+-- HELPERS COMPARTILHADOS: teleporte, prompt dual-platform, clique de botão
+-- ========================================
+
+local function getPromptWorldPosition(prompt)
+    local parent = prompt.Parent
+    if parent and parent:IsA("Attachment") then
+        return parent.WorldPosition
+    elseif parent and parent:IsA("BasePart") then
+        return parent.Position
+    end
+    return nil
+end
+
+local function teleportPlayerTo(position)
+    local character = LocalPlayer.Character
+    if not character then return nil end
+    local hrp = character:FindFirstChild("HumanoidRootPart")
+    if not hrp then return nil end
+    local original = hrp.CFrame
+    hrp.CFrame = CFrame.new(position + Vector3.new(0, 3, 0))
+    return original
+end
+
+local function teleportPlayerBack(originalCFrame)
+    if not originalCFrame then return end
+    local character = LocalPlayer.Character
+    if not character then return end
+    local hrp = character:FindFirstChild("HumanoidRootPart")
+    if hrp then hrp.CFrame = originalCFrame end
+end
+
+-- Teleporte direto até outro jogador (aba Espectar) -- pega o
+-- HumanoidRootPart de AMBOS, do seu personagem e do alvo, e te
+-- posiciona um pouco ao lado dele (studs offset em X) pra não cair
+-- exatamente em cima e engasgar na física do outro personagem.
+local function teleportToPlayer(targetPlayer)
+    if not targetPlayer or targetPlayer == LocalPlayer then return end
+
+    local character = LocalPlayer.Character
+    local hrp = character and character:FindFirstChild("HumanoidRootPart")
+    if not hrp then
+        addLog("[PLAYERS] [!] Seu personagem não está carregado")
+        return
+    end
+
+    local targetCharacter = targetPlayer.Character
+    local targetHrp = targetCharacter and targetCharacter:FindFirstChild("HumanoidRootPart")
+    if not targetHrp then
+        addLog("[PLAYERS] [!] " .. targetPlayer.Name .. " não tem personagem carregado")
+        return
+    end
+
+    hrp.CFrame = targetHrp.CFrame * CFrame.new(3, 0, 0)
+    addLog("[PLAYERS] Teleportado até " .. targetPlayer.Name)
+end
+
+local isPcPlatform = UserInputService.KeyboardEnabled
+
+local function triggerPromptGeneric(prompt)
+    -- Prioriza fireproximityprompt (função nativa de executor) quando
+    -- disponível, em qualquer plataforma: ela dispara ESSE prompt
+    -- específico direto, sem passar pela tecla física. A simulação de
+    -- tecla (abaixo) aperta e solta E de verdade, o que ativa QUALQUER
+    -- prompt que esteja focado/no alcance no momento -- se houver mais de
+    -- um prompt próximo (ex: dois slots da base ocupados perto um do
+    -- outro), apertar E várias vezes seguidas pode acabar ativando
+    -- prompts DIFERENTES em vez do mesmo, dando resultados ambíguos (foi
+    -- o que causou um delta de +2/-2 no teste de duplicação em vez de um
+    -- resultado claro de +1/-1 num único prompt).
+    if typeof(fireproximityprompt) == "function" then
+        local ok = pcall(fireproximityprompt, prompt)
+        if ok then return true end
+    end
+
+    if isPcPlatform then
+        local keyCode = prompt.KeyboardKeyCode
+        if not keyCode or keyCode == Enum.KeyCode.Unknown then
+            keyCode = Enum.KeyCode.E
+        end
+        local holdDuration = math.max(tonumber(prompt.HoldDuration) or 0, 0)
+        local pressed = pcall(function()
+            VirtualInputManager:SendKeyEvent(true, keyCode, false, game)
+        end)
+        if not pressed then return false end
+        task.wait(holdDuration + 0.15)
+        pcall(function()
+            VirtualInputManager:SendKeyEvent(false, keyCode, false, game)
+        end)
+        return true
+    end
+
+    return false
+end
+
+local function fireAllConnections(signal)
+    local ok, conns = pcall(getconnections, signal)
+    if not ok or not conns or #conns == 0 then return false end
+    local firedAny = false
+    for _, conn in ipairs(conns) do
+        local fireOk = pcall(function() conn:Fire() end)
+        firedAny = firedAny or fireOk
+    end
+    return firedAny
+end
+
+local function simulateButtonClick(button)
+    if fireAllConnections(button.MouseButton1Click) then return true end
+    if fireAllConnections(button.Activated) then return true end
+
+    local absPos = button.AbsolutePosition
+    local absSize = button.AbsoluteSize
+    local x = absPos.X + absSize.X / 2
+    local y = absPos.Y + absSize.Y / 2
+
+    local ok = pcall(function()
+        VirtualInputManager:SendMouseButtonEvent(x, y, 0, true, game, 1)
+        task.wait(0.05)
+        VirtualInputManager:SendMouseButtonEvent(x, y, 0, false, game, 1)
+    end)
+
+    if ok then return true end
+    return pcall(function() firesignal(button.MouseButton1Click) end)
+end
+
+-- ========================================
+-- ACEITAR GIFTS AUTOMATICAMENTE: quando outro jogador te manda um gift, o
+-- jogo dispara GiftIncoming:OnClientEvent(...) e abre uma tela de
+-- confirmação (com um botão tipo "Aceitar"/"OK"/"Accept"). Com o toggle
+-- LIGADO, a gente faz os dois passos sozinho: (1) assim que o
+-- GiftIncoming chega, dispara GiftAction:FireServer com as variantes de
+-- nome de ação mais prováveis pra aceitar (o jogo ignora as que não
+-- reconhece, então tentar várias é seguro); (2) fica de olho em QUALQUER
+-- GuiButton novo que apareça dentro do PlayerGui com texto de
+-- confirmação (Aceitar/Accept/OK/Confirmar/Sim/Yes) e clica sozinho,
+-- cobrindo o caso de precisar confirmar na tela também. Como não temos
+-- acesso ao script do jogo, essa dupla abordagem cobre os formatos mais
+-- comuns sem precisar adivinhar o nome exato do remote/GUI.
+-- ========================================
+
+local function buildAutoAcceptGiftsFeature()
+    local enabled = false
+    local incomingConn = nil
+    local guiWatchConn = nil
+
+    local ACCEPT_ACTION_NAMES = {
+        "AcceptGift", "Accept", "ConfirmGift", "Confirm", "GiftAccept", "AcceptGiftRequest",
+    }
+
+    local ACCEPT_TEXT_KEYWORDS = {
+        "accept", "aceitar", "confirmar", "confirm", "aceptar", "sim", "yes", "ok",
+    }
+
+    local function tryAcceptViaRemote(...)
+        if not Remotes.giftAction then return end
+        local args = { ... }
+        for _, actionName in ipairs(ACCEPT_ACTION_NAMES) do
+            pcall(function() Remotes.giftAction:FireServer(actionName, table.unpack(args)) end)
+        end
+        addLog("[GIFT] [*] Gift recebido -- tentando aceitar automaticamente")
+    end
+
+    local function looksLikeAcceptButton(obj)
+        if not obj:IsA("GuiButton") then return false end
+        local text = tostring(obj.Text or ""):lower()
+        if text == "" then return false end
+        for _, keyword in ipairs(ACCEPT_TEXT_KEYWORDS) do
+            if text:find(keyword, 1, true) then return true end
+        end
+        return false
+    end
+
+    local function watchForConfirmButton(root)
+        for _, obj in ipairs(root:GetDescendants()) do
+            if looksLikeAcceptButton(obj) then
+                task.wait(0.15)
+                simulateButtonClick(obj)
+                addLog("[GIFT] [✓] Botão de confirmação clicado automaticamente ('" .. tostring(obj.Text) .. "')")
+                return
+            end
+        end
+    end
+
+    local function enable()
+        if enabled then return end
+
+        if Remotes.giftIncoming then
+            incomingConn = Remotes.giftIncoming.OnClientEvent:Connect(function(...)
+                tryAcceptViaRemote(...)
+                task.spawn(function()
+                    task.wait(0.3)
+                    watchForConfirmButton(playerGui)
+                end)
+            end)
+        else
+            addLog("[GIFT] [!] GiftIncoming não encontrado -- só o clique automático na tela de confirmação vai funcionar")
+        end
+
+        -- Cobre o caso de a tela de confirmação aparecer sem (ou antes do)
+        -- GiftIncoming disparar -- qualquer GuiButton novo que pareça um
+        -- botão de aceitar/confirmar é clicado sozinho.
+        guiWatchConn = playerGui.DescendantAdded:Connect(function(obj)
+            if looksLikeAcceptButton(obj) then
+                task.spawn(function()
+                    task.wait(0.15)
+                    if obj.Parent then
+                        simulateButtonClick(obj)
+                        addLog("[GIFT] [✓] Botão de confirmação clicado automaticamente ('" .. tostring(obj.Text) .. "')")
+                    end
+                end)
+            end
+        end)
+
+        enabled = true
+        addLog("[GIFT] [✓] Aceitar gifts automaticamente ATIVADO")
+    end
+
+    local function disable()
+        if not enabled then return end
+
+        if incomingConn then incomingConn:Disconnect() incomingConn = nil end
+        if guiWatchConn then guiWatchConn:Disconnect() guiWatchConn = nil end
+
+        enabled = false
+        addLog("[GIFT] Aceitar gifts automaticamente DESATIVADO")
+    end
+
+    local function toggle()
+        if enabled then disable() else enable() end
+        return enabled
+    end
+
+    return {
+        toggle = toggle,
+        isEnabled = function() return enabled end,
+    }
+end
+
+local AutoAcceptGifts = buildAutoAcceptGiftsFeature()
+
+-- ========================================
+-- OCULTAR HUD DO JOGO: esconde os ScreenGuis nativos do jogo (os ícones
+-- de atalho tipo Índice/Loja/Inventário/Carros/Admin/Pintar no canto
+-- esquerdo) mas tenta MANTER visível o que mostra dinheiro ganho (canto
+-- inferior esquerdo, incluindo os popups "+$X" que sobem) e o
+-- leaderboard (canto superior direito). Como não temos acesso ao script
+-- do jogo pra saber o nome exato de cada ScreenGui, a decisão de
+-- esconder ou manter é por palavra-chave no NOME do ScreenGui -- todo
+-- ScreenGui encontrado (escondido ou mantido) vai pro log, então dá pra
+-- ver se algo saiu errado e ajustar a lista de palavras-chave depois.
+-- ========================================
+
+local function buildHideHudFeature()
+    local enabled = false
+    local hiddenGuis = {}
+
+    local KEEP_KEYWORDS = {
+        "leaderboard", "rank", "placar", "top5", "top",
+        "cash", "money", "grana", "currency", "coin", "moeda",
+        "combo", "reward", "notification", "notif",
+    }
+
+    local OWN_GUI_NAMES = { MegaRampHub = true, AdminAbuseGui = true }
+
+    local function shouldKeep(name)
+        local lowerName = name:lower()
+        for _, keyword in ipairs(KEEP_KEYWORDS) do
+            if lowerName:find(keyword, 1, true) then
+                return true
+            end
+        end
+        return false
+    end
+
+    local function enable()
+        if enabled then return end
+        hiddenGuis = {}
+
+        for _, gui in ipairs(playerGui:GetChildren()) do
+            if gui:IsA("ScreenGui") and not OWN_GUI_NAMES[gui.Name] then
+                if gui.Enabled and not shouldKeep(gui.Name) then
+                    gui.Enabled = false
+                    table.insert(hiddenGuis, gui)
+                    addLog("[HUD] Escondido: " .. gui.Name)
+                else
+                    addLog("[HUD] Mantido visível: " .. gui.Name)
+                end
+            end
+        end
+
+        enabled = true
+        addLog("[HUD] [✓] " .. #hiddenGuis .. " GUI(s) escondida(s). Se algo sumiu ou ficou errado, olha os nomes no log acima.")
+    end
+
+    local function disable()
+        if not enabled then return end
+
+        for _, gui in ipairs(hiddenGuis) do
+            if gui.Parent then
+                gui.Enabled = true
+            end
+        end
+        hiddenGuis = {}
+
+        enabled = false
+        addLog("[HUD] Restaurado -- todas as GUIs escondidas voltaram")
+    end
+
+    local function toggle()
+        if enabled then disable() else enable() end
+        return enabled
+    end
+
+    return {
+        toggle = toggle,
+        isEnabled = function() return enabled end,
+    }
+end
+
+local HideHud = buildHideHudFeature()
+
+-- ========================================
+-- ADMIN ABUSE PANEL: painel de admin do próprio jogo (dá coins de evento,
+-- liga 3x boxes/tree rush, manda anúncios, roda a sequência automática de
+-- 30min) -- só funciona de verdade se o SERVIDOR reconhecer você como
+-- admin (ele manda "AdminAccess" pelo AdminAbuseRemote confirmando isso;
+-- sem essa confirmação os botões continuam existindo mas não fazem nada
+-- no servidor). Código colado quase 1:1 do painel original do jogo,
+-- só adaptado pra reusar os services/Remotes que o hub já tem (em vez de
+-- pegar os dele próprios) e pra não travar o carregamento do hub inteiro
+-- se o remote não existir (usa Remotes.adminAbuseRemote, achado via
+-- findRemote, em vez de WaitForChild bloqueante).
+-- ========================================
+
+local function buildAdminAbusePanelFeature()
+    local AdminAbuseRemote = Remotes.adminAbuseRemote
+    if not AdminAbuseRemote then
+        addLog("[ADMIN-ABUSE] [!] AdminAbuseRemote não encontrado -- painel não disponível nesse servidor")
+        return {
+            toggle = function() addLog("[ADMIN-ABUSE] [!] Indisponível (AdminAbuseRemote não encontrado)") end,
+            isAvailable = function() return false end,
+        }
+    end
+
+    local TweenService = game:GetService("TweenService")
+    local PlayerGui = playerGui
+
+    local t = {
+        Active = false,
+        Scope = "SERVER",
+        EndsAt = 0,
+        TripleBoxes = false,
+        TreeMultiplier = 1,
+        AutoSequence = false
+    }
+    local v1 = false
+    local v2 = false
+    local v3 = "SERVER"
+    local v4 = "MANUAL"
+    local v5 = 0
+    local v6 = Color3.fromRGB(58, 58, 68)
+    local v7 = Color3.fromRGB(205, 48, 58)
+    local v8 = Color3.fromRGB(235, 58, 68)
+
+    local function addCorner(p1, p2)
+        local UICorner = Instance.new("UICorner")
+
+        UICorner.CornerRadius = UDim.new(0, p2 or 12)
+        UICorner.Parent = p1
+
+        return UICorner
+    end
+
+    local function addStroke(p1, p2, p3, p4)
+        local UIStroke = Instance.new("UIStroke")
+
+        UIStroke.Color = if p2 then p2 else Color3.fromRGB(255, 255, 255)
+        UIStroke.Thickness = p3 or 2
+        UIStroke.Transparency = p4 or 0
+        UIStroke.Parent = p1
+
+        return UIStroke
+    end
+
+    local function addTextConstraint(p1, p2, p3)
+        local UITextSizeConstraint = Instance.new("UITextSizeConstraint")
+
+        UITextSizeConstraint.MinTextSize = p2 or 10
+        UITextSizeConstraint.MaxTextSize = p3 or 28
+        UITextSizeConstraint.Parent = p1
+
+        return UITextSizeConstraint
+    end
+
+    local function formatTime(p1)
+        local v3 = math.max(0, (math.floor(tonumber(p1) or 0)))
+
+        return string.format("%02d:%02d", math.floor(v3 / 60), v3 % 60)
+    end
+
+    local AdminAbuseGui = Instance.new("ScreenGui")
+
+    AdminAbuseGui.Name = "AdminAbuseGui"
+    AdminAbuseGui.ResetOnSpawn = false
+    AdminAbuseGui.IgnoreGuiInset = true
+    AdminAbuseGui.DisplayOrder = 12000
+    AdminAbuseGui.Parent = PlayerGui
+
+    local AdminAbuseStatus = Instance.new("Frame")
+
+    AdminAbuseStatus.Name = "AdminAbuseStatus"
+    AdminAbuseStatus.AnchorPoint = Vector2.new(0.5, 1)
+    AdminAbuseStatus.Position = UDim2.new(0.5, 0, 1, -28)
+    AdminAbuseStatus.Size = UDim2.new(0, 360, 0, 52)
+    AdminAbuseStatus.BackgroundColor3 = Color3.fromRGB(15, 15, 20)
+    AdminAbuseStatus.BackgroundTransparency = 1
+    AdminAbuseStatus.BorderSizePixel = 0
+    AdminAbuseStatus.Visible = false
+    AdminAbuseStatus.ZIndex = 100
+    AdminAbuseStatus.Parent = AdminAbuseGui
+
+    local UICorner = Instance.new("UICorner")
+
+    UICorner.CornerRadius = UDim.new(0, 14)
+    UICorner.Parent = AdminAbuseStatus
+
+    local v9 = Color3.fromRGB(255, 80, 80)
+    local UIStroke = Instance.new("UIStroke")
+
+    UIStroke.Color = v9 or Color3.fromRGB(255, 255, 255)
+    UIStroke.Thickness = 2.5
+    UIStroke.Transparency = 1
+    UIStroke.Parent = AdminAbuseStatus
+
+    local v11 = UIStroke
+    local TextLabel = Instance.new("TextLabel")
+
+    TextLabel.Size = UDim2.new(1, 0, 0, 30)
+    TextLabel.Position = UDim2.new(0, 0, 0, 0)
+    TextLabel.BackgroundTransparency = 1
+    TextLabel.Text = "ADMIN ABUSE"
+    TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+    TextLabel.TextStrokeTransparency = 0.35
+    TextLabel.Font = Enum.Font.GothamBlack
+    TextLabel.TextScaled = true
+    TextLabel.ZIndex = 101
+    TextLabel.Parent = AdminAbuseStatus
+
+    local UITextSizeConstraint = Instance.new("UITextSizeConstraint")
+
+    UITextSizeConstraint.MinTextSize = 12
+    UITextSizeConstraint.MaxTextSize = 24
+    UITextSizeConstraint.Parent = TextLabel
+
+    local TextLabel2 = Instance.new("TextLabel")
+
+    TextLabel2.Size = UDim2.new(1, 0, 0, 20)
+    TextLabel2.Position = UDim2.new(0, 0, 0, 31)
+    TextLabel2.BackgroundTransparency = 1
+    TextLabel2.Text = "3X BOXES \226\128\162 TREE RUSH"
+    TextLabel2.TextColor3 = Color3.fromRGB(255, 215, 90)
+    TextLabel2.Font = Enum.Font.GothamBold
+    TextLabel2.TextScaled = true
+    TextLabel2.ZIndex = 101
+    TextLabel2.Parent = AdminAbuseStatus
+
+    local UITextSizeConstraint2 = Instance.new("UITextSizeConstraint")
+
+    UITextSizeConstraint2.MinTextSize = 9
+    UITextSizeConstraint2.MaxTextSize = 15
+    UITextSizeConstraint2.Parent = TextLabel2
+
+    local AdminAbuseAnnouncement = Instance.new("Frame")
+
+    AdminAbuseAnnouncement.Name = "AdminAbuseAnnouncement"
+    AdminAbuseAnnouncement.AnchorPoint = Vector2.new(0.5, 0.5)
+    AdminAbuseAnnouncement.Position = UDim2.fromScale(0.5, 0.5)
+    AdminAbuseAnnouncement.Size = UDim2.new(0, 520, 0, 82)
+    AdminAbuseAnnouncement.BackgroundColor3 = Color3.fromRGB(10, 10, 15)
+    AdminAbuseAnnouncement.BackgroundTransparency = 1
+    AdminAbuseAnnouncement.BorderSizePixel = 0
+    AdminAbuseAnnouncement.Visible = false
+    AdminAbuseAnnouncement.ZIndex = 110
+    AdminAbuseAnnouncement.Parent = AdminAbuseGui
+
+    local UICorner2 = Instance.new("UICorner")
+
+    UICorner2.CornerRadius = UDim.new(0, 16)
+    UICorner2.Parent = AdminAbuseAnnouncement
+
+    local v12 = Color3.fromRGB(255, 255, 255)
+    local UIStroke2 = Instance.new("UIStroke")
+
+    UIStroke2.Color = v12 or Color3.fromRGB(255, 255, 255)
+    UIStroke2.Thickness = 3
+    UIStroke2.Transparency = 1
+    UIStroke2.Parent = AdminAbuseAnnouncement
+
+    local v14 = UIStroke2
+    local TextLabel3 = Instance.new("TextLabel")
+
+    TextLabel3.Size = UDim2.new(1, -28, 1, -14)
+    TextLabel3.Position = UDim2.new(0, 14, 0, 7)
+    TextLabel3.BackgroundTransparency = 1
+    TextLabel3.Text = ""
+    TextLabel3.TextColor3 = Color3.fromRGB(255, 255, 255)
+    TextLabel3.TextStrokeTransparency = 0.25
+    TextLabel3.TextWrapped = true
+    TextLabel3.Font = Enum.Font.GothamBlack
+    TextLabel3.TextScaled = true
+    TextLabel3.ZIndex = 111
+    TextLabel3.Parent = AdminAbuseAnnouncement
+
+    local UITextSizeConstraint3 = Instance.new("UITextSizeConstraint")
+
+    UITextSizeConstraint3.MinTextSize = 13
+    UITextSizeConstraint3.MaxTextSize = 30
+    UITextSizeConstraint3.Parent = TextLabel3
+
+    local function getAnnouncementColor(p1)
+        local v1 = tostring(p1 or "INFO"):upper()
+
+        if v1 == "COINS" then
+            return Color3.fromRGB(255, 205, 55)
+        end
+
+        if v1 == "WARNING" then
+            return Color3.fromRGB(255, 125, 45)
+        end
+
+        if v1 == "START" then
+            return Color3.fromRGB(255, 65, 80)
+        end
+
+        if v1 == "END" then
+            return Color3.fromRGB(100, 220, 255)
+        end
+
+        return Color3.fromRGB(140, 205, 255)
+    end
+
+    local function showAnnouncement(p1, p2, p3)
+        v5 = v5 + 1
+
+        local v1 = v5
+        local v2 = getAnnouncementColor(p2)
+
+        TextLabel3.Text = tostring(p1 or "")
+        TextLabel3.TextColor3 = v2
+        v14.Color = v2
+        AdminAbuseAnnouncement.BackgroundTransparency = 1
+        TextLabel3.TextTransparency = 0
+        AdminAbuseAnnouncement.Visible = true
+
+        local v3 = task.delay
+
+        v3(math.clamp(tonumber(p3) or 3, 2, 3.2), function()
+            if v1 ~= v5 then
+                return
+            end
+
+            TweenService:Create(TextLabel3, TweenInfo.new(0.3), {
+                TextTransparency = 1
+            }):Play()
+            task.wait(0.32)
+
+            if v1 ~= v5 then
+                return
+            end
+
+            AdminAbuseAnnouncement.Visible = false
+            AdminAbuseAnnouncement.BackgroundTransparency = 1
+            TextLabel3.TextTransparency = 0
+        end)
+    end
+
+    local OpenAdminAbusePanel = Instance.new("TextButton")
+
+    OpenAdminAbusePanel.Name = "OpenAdminAbusePanel"
+    OpenAdminAbusePanel.Size = UDim2.new(0, 132, 0, 46)
+    OpenAdminAbusePanel.AnchorPoint = Vector2.new(0, 0)
+    OpenAdminAbusePanel.Position = UDim2.new(0, 18, 1, -170)
+    OpenAdminAbusePanel.BackgroundColor3 = v6
+    OpenAdminAbusePanel.BackgroundTransparency = 0.03
+    OpenAdminAbusePanel.BorderSizePixel = 0
+    OpenAdminAbusePanel.Text = ""
+    OpenAdminAbusePanel.AutoButtonColor = false
+    OpenAdminAbusePanel.Visible = false
+    OpenAdminAbusePanel.ZIndex = 200
+    OpenAdminAbusePanel.Parent = AdminAbuseGui
+
+    local UICorner3 = Instance.new("UICorner")
+
+    UICorner3.CornerRadius = UDim.new(0, 13)
+    UICorner3.Parent = OpenAdminAbusePanel
+
+    local v15 = Color3.fromRGB(255, 255, 255)
+    local UIStroke3 = Instance.new("UIStroke")
+
+    UIStroke3.Color = v15 or Color3.fromRGB(255, 255, 255)
+    UIStroke3.Thickness = 1.5
+    UIStroke3.Transparency = 0.5
+    UIStroke3.Parent = OpenAdminAbusePanel
+
+    local v17 = UIStroke3
+    local IconBox = Instance.new("Frame")
+
+    IconBox.Name = "IconBox"
+    IconBox.Size = UDim2.new(0, 34, 0, 34)
+    IconBox.Position = UDim2.new(0, 6, 0.5, -17)
+    IconBox.BackgroundColor3 = Color3.fromRGB(20, 20, 26)
+    IconBox.BackgroundTransparency = 0.38
+    IconBox.BorderSizePixel = 0
+    IconBox.ZIndex = 201
+    IconBox.Parent = OpenAdminAbusePanel
+
+    local UICorner4 = Instance.new("UICorner")
+
+    UICorner4.CornerRadius = UDim.new(0, 10)
+    UICorner4.Parent = IconBox
+
+    local v18 = Color3.fromRGB(255, 255, 255)
+    local UIStroke4 = Instance.new("UIStroke")
+
+    UIStroke4.Color = v18 or Color3.fromRGB(255, 255, 255)
+    UIStroke4.Thickness = 1
+    UIStroke4.Transparency = 0.72
+    UIStroke4.Parent = IconBox
+
+    local Icon = Instance.new("TextLabel")
+
+    Icon.Name = "Icon"
+    Icon.Size = UDim2.fromScale(1, 1)
+    Icon.BackgroundTransparency = 1
+    Icon.Text = "A"
+    Icon.TextColor3 = Color3.fromRGB(255, 255, 255)
+    Icon.Font = Enum.Font.GothamBlack
+    Icon.TextScaled = true
+    Icon.ZIndex = 202
+    Icon.Parent = IconBox
+
+    local UITextSizeConstraint4 = Instance.new("UITextSizeConstraint")
+
+    UITextSizeConstraint4.MinTextSize = 13
+    UITextSizeConstraint4.MaxTextSize = 21
+    UITextSizeConstraint4.Parent = Icon
+
+    local Title = Instance.new("TextLabel")
+
+    Title.Name = "Title"
+    Title.Size = UDim2.new(1, -53, 0, 22)
+    Title.Position = UDim2.new(0, 47, 0, 5)
+    Title.BackgroundTransparency = 1
+    Title.Text = "ADMIN"
+    Title.TextColor3 = Color3.fromRGB(255, 255, 255)
+    Title.Font = Enum.Font.GothamBlack
+    Title.TextScaled = true
+    Title.TextXAlignment = Enum.TextXAlignment.Left
+    Title.ZIndex = 201
+    Title.Parent = OpenAdminAbusePanel
+
+    local UITextSizeConstraint5 = Instance.new("UITextSizeConstraint")
+
+    UITextSizeConstraint5.MinTextSize = 11
+    UITextSizeConstraint5.MaxTextSize = 18
+    UITextSizeConstraint5.Parent = Title
+
+    local SubTitle = Instance.new("TextLabel")
+
+    SubTitle.Name = "SubTitle"
+    SubTitle.Size = UDim2.new(1, -53, 0, 12)
+    SubTitle.Position = UDim2.new(0, 47, 0, 27)
+    SubTitle.BackgroundTransparency = 1
+    SubTitle.Text = "CONTROL"
+    SubTitle.TextColor3 = Color3.fromRGB(205, 205, 215)
+    SubTitle.Font = Enum.Font.GothamBold
+    SubTitle.TextScaled = true
+    SubTitle.TextXAlignment = Enum.TextXAlignment.Left
+    SubTitle.ZIndex = 201
+    SubTitle.Parent = OpenAdminAbusePanel
+
+    local UITextSizeConstraint6 = Instance.new("UITextSizeConstraint")
+
+    UITextSizeConstraint6.MinTextSize = 7
+    UITextSizeConstraint6.MaxTextSize = 10
+    UITextSizeConstraint6.Parent = SubTitle
+
+    local StateDot = Instance.new("Frame")
+
+    StateDot.Name = "StateDot"
+    StateDot.AnchorPoint = Vector2.new(1, 0.5)
+    StateDot.Size = UDim2.new(0, 7, 0, 7)
+    StateDot.Position = UDim2.new(1, -8, 0.5, 0)
+    StateDot.BackgroundColor3 = Color3.fromRGB(155, 155, 165)
+    StateDot.BorderSizePixel = 0
+    StateDot.ZIndex = 202
+    StateDot.Parent = OpenAdminAbusePanel
+
+    local UICorner5 = Instance.new("UICorner")
+
+    UICorner5.CornerRadius = UDim.new(0, 99)
+    UICorner5.Parent = StateDot
+
+    local AdminAbusePanel = Instance.new("Frame")
+
+    AdminAbusePanel.Name = "AdminAbusePanel"
+    AdminAbusePanel.AnchorPoint = Vector2.new(0.5, 0.5)
+    AdminAbusePanel.Position = UDim2.fromScale(0.5, 0.5)
+    AdminAbusePanel.Size = UDim2.new(0, 600, 0, 540)
+    AdminAbusePanel.BackgroundColor3 = Color3.fromRGB(17, 17, 22)
+    AdminAbusePanel.BorderSizePixel = 0
+    AdminAbusePanel.Visible = false
+    AdminAbusePanel.ZIndex = 200
+    AdminAbusePanel.Parent = AdminAbuseGui
+
+    local UICorner6 = Instance.new("UICorner")
+
+    UICorner6.CornerRadius = UDim.new(0, 18)
+    UICorner6.Parent = AdminAbusePanel
+
+    local v20 = Color3.fromRGB(255, 75, 85)
+    local UIStroke5 = Instance.new("UIStroke")
+
+    UIStroke5.Color = if v20 then v20 else Color3.fromRGB(255, 255, 255)
+    UIStroke5.Thickness = 3
+    UIStroke5.Transparency = 0.1
+    UIStroke5.Parent = AdminAbusePanel
+
+    local UIScale = Instance.new("UIScale")
+
+    UIScale.Scale = 1
+    UIScale.Parent = AdminAbusePanel
+
+    local function updatePanelScale()
+        local CurrentCamera = workspace.CurrentCamera
+        local v1 = workspace.CurrentCamera and CurrentCamera.ViewportSize or Vector2.new(1280, 720)
+
+        UIScale.Scale = math.clamp(math.min(v1.X / 660, v1.Y / 600), 0.55, 1.05)
+
+        local v6 = UserInputService.TouchEnabled or (if v1.X <= 900 then true elseif v1.Y <= 520 then true else false)
+        local v8 = math.clamp(v1.X - 36, 260, 390)
+        local v10 = math.clamp(v1.X - 34, 300, 560)
+
+        if v6 then
+            AdminAbuseStatus.Position = UDim2.new(0.5, 0, 1, -2)
+            AdminAbuseStatus.Size = UDim2.new(0, v8, 0, 44)
+            TextLabel2.Size = UDim2.new(1, 0, 0, 18)
+            TextLabel2.Position = UDim2.new(0, 0, 0, 1)
+            TextLabel.Size = UDim2.new(1, 0, 0, 22)
+        else
+            AdminAbuseStatus.Position = UDim2.new(0.5, 0, 1, 0)
+            AdminAbuseStatus.Size = UDim2.new(0, v8, 0, 50)
+            TextLabel2.Size = UDim2.new(1, 0, 0, 20)
+            TextLabel2.Position = UDim2.new(0, 0, 0, 1)
+            TextLabel.Size = UDim2.new(1, 0, 0, 28)
+        end
+
+        TextLabel.Position = UDim2.new(0, 0, 0, 22)
+        AdminAbuseAnnouncement.Position = UDim2.fromScale(0.5, 0.5)
+        AdminAbuseAnnouncement.Size = UDim2.new(0, v10, 0, if v6 then 76 else 82)
+
+        local v17 = if v6 then 64 else 78
+        local v18 = if v6 then 8 else 12
+
+        OpenAdminAbusePanel.Size = UDim2.new(0, v17, 0, v17)
+        OpenAdminAbusePanel.Position = UDim2.new(0, (if v6 then 14 else 20) + v17 + v18, 0, 68 + (v17 + v18) * 2)
+        IconBox.Visible = false
+        Title.Size = UDim2.new(1, -10, 0, (math.floor(v17 * 0.44)))
+        Title.Position = UDim2.new(0, 5, 0, (math.floor(v17 * 0.18)))
+        Title.TextXAlignment = Enum.TextXAlignment.Center
+        SubTitle.Size = UDim2.new(1, -10, 0, (math.floor(v17 * 0.2)))
+        SubTitle.Position = UDim2.new(0, 5, 0, (math.floor(v17 * 0.62)))
+        SubTitle.TextXAlignment = Enum.TextXAlignment.Center
+        StateDot.Position = UDim2.new(1, -7, 0, 7)
+    end
+
+    updatePanelScale()
+
+    if workspace.CurrentCamera then
+        workspace.CurrentCamera:GetPropertyChangedSignal("ViewportSize"):Connect(updatePanelScale)
+    end
+
+    workspace:GetPropertyChangedSignal("CurrentCamera"):Connect(function()
+        updatePanelScale()
+    end)
+
+    local TextLabel4 = Instance.new("TextLabel")
+
+    TextLabel4.Size = UDim2.new(1, -90, 0, 52)
+    TextLabel4.Position = UDim2.new(0, 18, 0, 8)
+    TextLabel4.BackgroundTransparency = 1
+    TextLabel4.Text = "ADMIN ABUSE PANEL"
+    TextLabel4.TextColor3 = Color3.fromRGB(255, 255, 255)
+    TextLabel4.Font = Enum.Font.GothamBlack
+    TextLabel4.TextScaled = true
+    TextLabel4.TextXAlignment = Enum.TextXAlignment.Left
+    TextLabel4.ZIndex = 201
+    TextLabel4.Parent = AdminAbusePanel
+
+    local UITextSizeConstraint7 = Instance.new("UITextSizeConstraint")
+
+    UITextSizeConstraint7.MinTextSize = 16
+    UITextSizeConstraint7.MaxTextSize = 30
+    UITextSizeConstraint7.Parent = TextLabel4
+
+    local TextButton = Instance.new("TextButton")
+
+    TextButton.Size = UDim2.new(0, 58, 0, 48)
+    TextButton.Position = UDim2.new(1, -70, 0, 10)
+    TextButton.BackgroundColor3 = v6
+    TextButton.BorderSizePixel = 0
+    TextButton.Text = "X"
+    TextButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+    TextButton.Font = Enum.Font.GothamBlack
+    TextButton.TextScaled = true
+    TextButton.ZIndex = 202
+    TextButton.Parent = AdminAbusePanel
+
+    local UICorner7 = Instance.new("UICorner")
+
+    UICorner7.CornerRadius = UDim.new(0, 12)
+    UICorner7.Parent = TextButton
+
+    local TextLabel5 = Instance.new("TextLabel")
+
+    TextLabel5.Size = UDim2.new(0, 90, 0, 34)
+    TextLabel5.Position = UDim2.new(0, 18, 0, 70)
+    TextLabel5.BackgroundTransparency = 1
+    TextLabel5.Text = "SCOPE:"
+    TextLabel5.TextColor3 = Color3.fromRGB(195, 195, 205)
+    TextLabel5.Font = Enum.Font.GothamBold
+    TextLabel5.TextScaled = true
+    TextLabel5.TextXAlignment = Enum.TextXAlignment.Left
+    TextLabel5.ZIndex = 201
+    TextLabel5.Parent = AdminAbusePanel
+
+    local UITextSizeConstraint8 = Instance.new("UITextSizeConstraint")
+
+    UITextSizeConstraint8.MinTextSize = 10
+    UITextSizeConstraint8.MaxTextSize = 16
+    UITextSizeConstraint8.Parent = TextLabel5
+
+    local TextButton2 = Instance.new("TextButton")
+
+    TextButton2.Size = UDim2.new(0, 130, 0, 36)
+    TextButton2.Position = UDim2.new(0, 105, 0, 68)
+    TextButton2.BorderSizePixel = 0
+    TextButton2.Text = "SERVER"
+    TextButton2.TextColor3 = Color3.fromRGB(255, 255, 255)
+    TextButton2.Font = Enum.Font.GothamBlack
+    TextButton2.TextScaled = true
+    TextButton2.ZIndex = 202
+    TextButton2.Parent = AdminAbusePanel
+
+    local UICorner8 = Instance.new("UICorner")
+
+    UICorner8.CornerRadius = UDim.new(0, 9)
+    UICorner8.Parent = TextButton2
+
+    local v22 = TextButton2:Clone()
+
+    v22.Position = UDim2.new(0, 245, 0, 68)
+    v22.Text = "GLOBAL"
+    v22.Parent = AdminAbusePanel
+
+    local TextLabel6 = Instance.new("TextLabel")
+
+    TextLabel6.Size = UDim2.new(0, 190, 0, 34)
+    TextLabel6.Position = UDim2.new(0, 385, 0, 69)
+    TextLabel6.BackgroundTransparency = 1
+    TextLabel6.Text = ""
+    TextLabel6.TextColor3 = Color3.fromRGB(255, 195, 75)
+    TextLabel6.Font = Enum.Font.GothamBold
+    TextLabel6.TextScaled = true
+    TextLabel6.TextWrapped = true
+    TextLabel6.ZIndex = 201
+    TextLabel6.Parent = AdminAbusePanel
+
+    local UITextSizeConstraint9 = Instance.new("UITextSizeConstraint")
+
+    UITextSizeConstraint9.MinTextSize = 8
+    UITextSizeConstraint9.MaxTextSize = 13
+    UITextSizeConstraint9.Parent = TextLabel6
+
+    local TextButton3 = Instance.new("TextButton")
+
+    TextButton3.Size = UDim2.new(0.5, -22, 0, 40)
+    TextButton3.Position = UDim2.new(0, 18, 0, 116)
+    TextButton3.BorderSizePixel = 0
+    TextButton3.Text = "MANUAL"
+    TextButton3.TextColor3 = Color3.fromRGB(255, 255, 255)
+    TextButton3.Font = Enum.Font.GothamBlack
+    TextButton3.TextScaled = true
+    TextButton3.ZIndex = 202
+    TextButton3.Parent = AdminAbusePanel
+
+    local UICorner9 = Instance.new("UICorner")
+
+    UICorner9.CornerRadius = UDim.new(0, 10)
+    UICorner9.Parent = TextButton3
+
+    local v23 = TextButton3:Clone()
+
+    v23.Position = UDim2.new(0.5, 4, 0, 116)
+    v23.Text = "AUTO 30 MIN"
+    v23.Parent = AdminAbusePanel
+
+    local Frame = Instance.new("Frame")
+
+    Frame.Size = UDim2.new(1, -36, 1, -212)
+    Frame.Position = UDim2.new(0, 18, 0, 168)
+    Frame.BackgroundColor3 = Color3.fromRGB(10, 10, 14)
+    Frame.BackgroundTransparency = 0.15
+    Frame.BorderSizePixel = 0
+    Frame.ZIndex = 201
+    Frame.Parent = AdminAbusePanel
+
+    local UICorner10 = Instance.new("UICorner")
+
+    UICorner10.CornerRadius = UDim.new(0, 13)
+    UICorner10.Parent = Frame
+
+    local Frame2 = Instance.new("Frame")
+
+    Frame2.Size = UDim2.fromScale(1, 1)
+    Frame2.BackgroundTransparency = 1
+    Frame2.ZIndex = 202
+    Frame2.Parent = Frame
+
+    local Frame3 = Instance.new("Frame")
+
+    Frame3.Size = UDim2.fromScale(1, 1)
+    Frame3.BackgroundTransparency = 1
+    Frame3.Visible = false
+    Frame3.ZIndex = 202
+    Frame3.Parent = Frame
+
+    local TextLabel7 = Instance.new("TextLabel")
+
+    TextLabel7.Size = UDim2.new(1, -36, 0, 30)
+    TextLabel7.Position = UDim2.new(0, 18, 1, -38)
+    TextLabel7.BackgroundTransparency = 1
+    TextLabel7.Text = ""
+    TextLabel7.TextColor3 = Color3.fromRGB(130, 255, 165)
+    TextLabel7.Font = Enum.Font.GothamBold
+    TextLabel7.TextScaled = true
+    TextLabel7.ZIndex = 202
+    TextLabel7.Parent = AdminAbusePanel
+
+    local UITextSizeConstraint10 = Instance.new("UITextSizeConstraint")
+
+    UITextSizeConstraint10.MinTextSize = 9
+    UITextSizeConstraint10.MaxTextSize = 14
+    UITextSizeConstraint10.Parent = TextLabel7
+
+    local function makeButton(p1, p2, p3, p4, p5, p6, p7)
+        local TextButton = Instance.new("TextButton")
+
+        TextButton.Size = UDim2.new(0, p5, 0, p6)
+        TextButton.Position = UDim2.new(0, p3, 0, p4)
+        TextButton.BackgroundColor3 = v6
+        TextButton.BorderSizePixel = 0
+        TextButton.Text = p2
+        TextButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+        TextButton.Font = Enum.Font.GothamBlack
+        TextButton.TextScaled = true
+        TextButton.TextWrapped = true
+        TextButton.ZIndex = 203
+        TextButton.Parent = p1
+
+        local UICorner = Instance.new("UICorner")
+
+        UICorner.CornerRadius = UDim.new(0, 9)
+        UICorner.Parent = TextButton
+
+        local UITextSizeConstraint = Instance.new("UITextSizeConstraint")
+
+        UITextSizeConstraint.MinTextSize = 9
+        UITextSizeConstraint.MaxTextSize = 15
+        UITextSizeConstraint.Parent = TextButton
+
+        return TextButton
+    end
+
+    local function flashActionButton(p1)
+        if p1 and p1.Parent then
+            p1.BackgroundColor3 = v8
+            task.delay(0.18, function()
+                if not (p1 and p1.Parent) then
+                    return
+                end
+
+                p1.BackgroundColor3 = v6
+            end)
+        end
+    end
+
+    local v24 = makeButton(Frame2, "START MANUAL 30M", 12, 12, 255, 44, Color3.fromRGB(35, 165, 85))
+    local v25 = makeButton(Frame2, "STOP ADMIN ABUSE", 278, 12, 255, 44, Color3.fromRGB(185, 45, 50))
+    local v26 = makeButton(Frame2, "3X BOXES: OFF", 12, 68, 255, 44, Color3.fromRGB(105, 75, 220))
+    local v27 = makeButton(Frame2, "TREE RUSH: OFF", 278, 68, 255, 44, Color3.fromRGB(40, 150, 75))
+    local TextLabel8 = Instance.new("TextLabel")
+
+    TextLabel8.Size = UDim2.new(1, -24, 0, 24)
+    TextLabel8.Position = UDim2.new(0, 12, 0, 122)
+    TextLabel8.BackgroundTransparency = 1
+    TextLabel8.Text = "EVENT COIN DROPS"
+    TextLabel8.TextColor3 = Color3.fromRGB(255, 215, 75)
+    TextLabel8.Font = Enum.Font.GothamBlack
+    TextLabel8.TextScaled = true
+    TextLabel8.ZIndex = 203
+    TextLabel8.Parent = Frame2
+
+    local UITextSizeConstraint11 = Instance.new("UITextSizeConstraint")
+
+    UITextSizeConstraint11.MinTextSize = 10
+    UITextSizeConstraint11.MaxTextSize = 16
+    UITextSizeConstraint11.Parent = TextLabel8
+
+    local t2 = { "+100K EC", "+500K EC", "+1M EC", "+2M EC", "+5M EC" }
+
+    for i, v in ipairs({ 100000, 500000, 1000000, 2000000, 5000000 }) do
+        local v28, v29
+
+        if i <= 3 then
+            v28 = 12 + (i - 1) * 176
+            v29 = 152
+        else
+            v28 = if i == 4 then 12 else 278
+            v29 = 202
+        end
+
+        local v32 = makeButton(Frame2, t2[i], v28, v29, if i <= 3 then 168 else 255, 40, Color3.fromRGB(190, 135, 25))
+
+        v32.MouseButton1Click:Connect(function()
+            local v1 = v32
+
+            if not (v1 and v1.Parent) then
+                AdminAbuseRemote:FireServer("GiveEventCoins", {
+                    Amount = v
+                })
+
+                return
+            end
+
+            v1.BackgroundColor3 = v8
+            task.delay(0.18, function()
+                if not (v1 and v1.Parent) then
+                    return
+                end
+
+                v1.BackgroundColor3 = v6
+            end)
+            AdminAbuseRemote:FireServer("GiveEventCoins", {
+                Amount = v
+            })
+        end)
+    end
+
+    local TextLabel9 = Instance.new("TextLabel")
+
+    TextLabel9.Size = UDim2.new(1, -24, 0, 24)
+    TextLabel9.Position = UDim2.new(0, 12, 0, 254)
+    TextLabel9.BackgroundTransparency = 1
+    TextLabel9.Text = "ANNOUNCEMENTS"
+    TextLabel9.TextColor3 = Color3.fromRGB(135, 205, 255)
+    TextLabel9.Font = Enum.Font.GothamBlack
+    TextLabel9.TextScaled = true
+    TextLabel9.ZIndex = 203
+    TextLabel9.Parent = Frame2
+
+    local UITextSizeConstraint12 = Instance.new("UITextSizeConstraint")
+
+    UITextSizeConstraint12.MinTextSize = 10
+    UITextSizeConstraint12.MaxTextSize = 16
+    UITextSizeConstraint12.Parent = TextLabel9
+
+    local v33 = makeButton(Frame2, "HELLO", 12, 282, 124, 39, Color3.fromRGB(50, 125, 190))
+    local v34 = makeButton(Frame2, "EC SOON", 144, 282, 124, 39, Color3.fromRGB(190, 135, 25))
+    local v35 = makeButton(Frame2, "5 MIN LEFT", 276, 282, 124, 39, Color3.fromRGB(210, 90, 35))
+    local v36 = makeButton(Frame2, "FINAL DROP", 408, 282, 124, 39, Color3.fromRGB(190, 135, 25))
+
+    v33.MouseButton1Click:Connect(function()
+        local v1 = v33
+
+        if not (v1 and v1.Parent) then
+            AdminAbuseRemote:FireServer("AnnouncementPreset", {
+                Preset = "HELLO"
+            })
+
+            return
+        end
+
+        v1.BackgroundColor3 = v8
+        task.delay(0.18, function()
+            if not (v1 and v1.Parent) then
+                return
+            end
+
+            v1.BackgroundColor3 = v6
+        end)
+        AdminAbuseRemote:FireServer("AnnouncementPreset", {
+            Preset = "HELLO"
+        })
+    end)
+    v34.MouseButton1Click:Connect(function()
+        local v1 = v34
+
+        if not (v1 and v1.Parent) then
+            AdminAbuseRemote:FireServer("AnnouncementPreset", {
+                Preset = "EC_SOON"
+            })
+
+            return
+        end
+
+        v1.BackgroundColor3 = v8
+        task.delay(0.18, function()
+            if not (v1 and v1.Parent) then
+                return
+            end
+
+            v1.BackgroundColor3 = v6
+        end)
+        AdminAbuseRemote:FireServer("AnnouncementPreset", {
+            Preset = "EC_SOON"
+        })
+    end)
+    v35.MouseButton1Click:Connect(function()
+        local v1 = v35
+
+        if not (v1 and v1.Parent) then
+            AdminAbuseRemote:FireServer("AnnouncementPreset", {
+                Preset = "FIVE_MINUTES"
+            })
+
+            return
+        end
+
+        v1.BackgroundColor3 = v8
+        task.delay(0.18, function()
+            if not (v1 and v1.Parent) then
+                return
+            end
+
+            v1.BackgroundColor3 = v6
+        end)
+        AdminAbuseRemote:FireServer("AnnouncementPreset", {
+            Preset = "FIVE_MINUTES"
+        })
+    end)
+    v36.MouseButton1Click:Connect(function()
+        local v1 = v36
+
+        if not (v1 and v1.Parent) then
+            AdminAbuseRemote:FireServer("AnnouncementPreset", {
+                Preset = "FINAL_DROP"
+            })
+
+            return
+        end
+
+        v1.BackgroundColor3 = v8
+        task.delay(0.18, function()
+            if not (v1 and v1.Parent) then
+                return
+            end
+
+            v1.BackgroundColor3 = v6
+        end)
+        AdminAbuseRemote:FireServer("AnnouncementPreset", {
+            Preset = "FINAL_DROP"
+        })
+    end)
+
+    local TextLabel10 = Instance.new("TextLabel")
+
+    TextLabel10.Size = UDim2.new(1, -30, 0, 205)
+    TextLabel10.Position = UDim2.new(0, 15, 0, 16)
+    TextLabel10.BackgroundTransparency = 1
+    TextLabel10.RichText = true
+    TextLabel10.TextWrapped = true
+    TextLabel10.TextXAlignment = Enum.TextXAlignment.Left
+    TextLabel10.TextYAlignment = Enum.TextYAlignment.Top
+    TextLabel10.Font = Enum.Font.GothamBold
+    TextLabel10.TextSize = 16
+    TextLabel10.TextColor3 = Color3.fromRGB(220, 220, 225)
+    TextLabel10.ZIndex = 203
+    TextLabel10.Text = "<font color=\"#FF5666\"><b>30 MIN ADMIN ABUSE</b></font>\n\226\128\162 3X BOXES for the full event\n\226\128\162 TREE RUSH: a 3-hour tree grows in about 10 minutes\n\226\128\162 Automatic English announcements\n\226\128\162 Event Coin drops during the event\n<font color=\"#FFD34F\"><b>TOTAL AUTO DROPS: 5,000,000 EVENT COINS</b></font>\n\nPlayers choose their own events from the Event Shop."
+    TextLabel10.Parent = Frame3
+
+    local v37 = makeButton(Frame3, "START 30 MIN AUTO SEQUENCE", 15, 236, 518, 52, Color3.fromRGB(195, 45, 60))
+    local v38 = makeButton(Frame3, "STOP ADMIN ABUSE", 15, 300, 518, 48, Color3.fromRGB(120, 35, 40))
+
+    local function updateScopeButtons()
+        local v1 = t.Active and tostring(t.Scope or "SERVER") or v3
+
+        TextButton2.BackgroundColor3 = v1 == "SERVER" and v7 or v6
+        v22.BackgroundColor3 = v1 == "GLOBAL" and v7 or v6
+
+        if v2 then
+            TextLabel6.Text = "STUDIO: GLOBAL = LOCAL TEST"
+
+            return
+        end
+
+        TextLabel6.Text = if t.Active then "ACTIVE: " .. v1 or "" else ""
+    end
+
+    local function updateEffectButtons()
+        local v1 = t.Active and t.TripleBoxes == true
+        local Active = t.Active
+
+        if Active then
+            Active = (tonumber(t.TreeMultiplier) or 1) > 1
+        end
+
+        v26.Text = if v1 then "3X BOXES: ON" else "3X BOXES: OFF"
+        v26.BackgroundColor3 = v1 and v7 or v6
+        v27.Text = if Active then "TREE RUSH: ON" else "TREE RUSH: OFF"
+        v27.BackgroundColor3 = Active and v7 or v6
+    end
+
+    local function updateRunButtons()
+        local isActive = t.Active == true
+        local v1 = if isActive then t.AutoSequence == true else isActive
+
+        v24.BackgroundColor3 = (if isActive then not v1 else isActive) and v7 or v6
+        v37.BackgroundColor3 = v1 and v7 or v6
+        v25.BackgroundColor3 = v6
+        v38.BackgroundColor3 = v6
+        OpenAdminAbusePanel.BackgroundColor3 = isActive and v7 or v6
+        SubTitle.Text = if isActive then "LIVE" else "CONTROL"
+        SubTitle.TextColor3 = isActive and Color3.fromRGB(255, 225, 228) or Color3.fromRGB(205, 205, 215)
+        StateDot.BackgroundColor3 = isActive and Color3.fromRGB(255, 255, 255) or Color3.fromRGB(155, 155, 165)
+        v17.Transparency = if isActive then 0.25 else 0.5
+    end
+
+    local function showTab(p1)
+        v4 = if p1 == "AUTO" then "AUTO" else "MANUAL"
+        Frame2.Visible = v4 == "MANUAL"
+        Frame3.Visible = v4 == "AUTO"
+        TextButton3.BackgroundColor3 = v4 == "MANUAL" and v7 or v6
+        v23.BackgroundColor3 = v4 == "AUTO" and v7 or v6
+    end
+
+    local v39 = "MANUAL"
+
+    Frame2.Visible = if v39 == "MANUAL" then true else false
+    Frame3.Visible = if v39 == "AUTO" then true else false
+    TextButton3.BackgroundColor3 = v39 == "MANUAL" and v7 or v6
+    v23.BackgroundColor3 = v39 == "AUTO" and v7 or v6
+    TextButton2.MouseButton1Click:Connect(function()
+        if t.Active then
+            return
+        end
+
+        v3 = "SERVER"
+
+        local v1 = t.Active and tostring(t.Scope or "SERVER") or v3
+
+        TextButton2.BackgroundColor3 = v1 == "SERVER" and v7 or v6
+        v22.BackgroundColor3 = v1 == "GLOBAL" and v7 or v6
+
+        if v2 then
+            TextLabel6.Text = "STUDIO: GLOBAL = LOCAL TEST"
+
+            return
+        end
+
+        TextLabel6.Text = if t.Active then "ACTIVE: " .. v1 or "" else ""
+    end)
+    v22.MouseButton1Click:Connect(function()
+        if t.Active then
+            return
+        end
+
+        v3 = "GLOBAL"
+
+        local v1 = t.Active and tostring(t.Scope or "SERVER") or v3
+
+        TextButton2.BackgroundColor3 = v1 == "SERVER" and v7 or v6
+        v22.BackgroundColor3 = v1 == "GLOBAL" and v7 or v6
+
+        if v2 then
+            TextLabel6.Text = "STUDIO: GLOBAL = LOCAL TEST"
+
+            return
+        end
+
+        TextLabel6.Text = if t.Active then "ACTIVE: " .. v1 or "" else ""
+    end)
+    TextButton3.MouseButton1Click:Connect(function()
+        v39 = "MANUAL"
+        Frame2.Visible = v39 == "MANUAL"
+        Frame3.Visible = v39 == "AUTO"
+        TextButton3.BackgroundColor3 = v39 == "MANUAL" and v7 or v6
+        v23.BackgroundColor3 = v39 == "AUTO" and v7 or v6
+    end)
+    v23.MouseButton1Click:Connect(function()
+        v39 = "AUTO"
+        Frame2.Visible = v39 == "MANUAL"
+        Frame3.Visible = v39 == "AUTO"
+        TextButton3.BackgroundColor3 = v39 == "MANUAL" and v7 or v6
+        v23.BackgroundColor3 = v39 == "AUTO" and v7 or v6
+    end)
+    OpenAdminAbusePanel.Activated:Connect(function()
+        AdminAbusePanel.Visible = not AdminAbusePanel.Visible
+    end)
+    TextButton.MouseButton1Click:Connect(function()
+        AdminAbusePanel.Visible = false
+    end)
+    v24.MouseButton1Click:Connect(function()
+        AdminAbuseRemote:FireServer("StartManual", {
+            Scope = v3
+        })
+    end)
+    v25.MouseButton1Click:Connect(function()
+        AdminAbuseRemote:FireServer("Stop")
+    end)
+    v38.MouseButton1Click:Connect(function()
+        AdminAbuseRemote:FireServer("Stop")
+    end)
+    v37.MouseButton1Click:Connect(function()
+        AdminAbuseRemote:FireServer("StartAuto", {
+            Scope = v3
+        })
+    end)
+    v26.MouseButton1Click:Connect(function()
+        local t2 = {}
+
+        t2.Enabled = not (t.TripleBoxes == true)
+        AdminAbuseRemote:FireServer("SetTripleBoxes", t2)
+    end)
+    v27.MouseButton1Click:Connect(function()
+        local t2 = {}
+
+        t2.Enabled = not ((tonumber(t.TreeMultiplier) or 1) > 1)
+        AdminAbuseRemote:FireServer("SetTreeRush", t2)
+    end)
+
+    local function applyState(p1)
+        local v1 = if type(p1) == "table" and p1 then p1 else {}
+        local t2 = {}
+
+        t2.Active = v1.Active == true
+        t2.Scope = tostring(v1.Scope or "SERVER")
+        t2.EndsAt = tonumber(v1.EndsAt) or 0
+        t2.StartedAt = tonumber(v1.StartedAt) or 0
+        t2.TripleBoxes = v1.TripleBoxes == true
+        t2.TreeMultiplier = math.max(1, tonumber(v1.TreeMultiplier) or 1)
+        t2.AutoSequence = v1.AutoSequence == true
+        t = t2
+
+        if t2.Active then
+            v3 = t2.Scope
+        end
+
+        local v4 = t2.Active and tostring(t2.Scope or "SERVER") or v3
+
+        TextButton2.BackgroundColor3 = v4 == "SERVER" and v7 or v6
+        v22.BackgroundColor3 = v4 == "GLOBAL" and v7 or v6
+
+        if v2 then
+            TextLabel6.Text = "STUDIO: GLOBAL = LOCAL TEST"
+        else
+            TextLabel6.Text = if t2.Active then "ACTIVE: " .. v4 or "" else ""
+        end
+
+        local v12 = t2.Active and t2.TripleBoxes == true
+        local Active = t2.Active
+
+        if Active then
+            Active = (tonumber(t2.TreeMultiplier) or 1) > 1
+        end
+
+        v26.Text = if v12 then "3X BOXES: ON" else "3X BOXES: OFF"
+        v26.BackgroundColor3 = v12 and v7 or v6
+        v27.Text = if Active then "TREE RUSH: ON" else "TREE RUSH: OFF"
+        v27.BackgroundColor3 = Active and v7 or v6
+        updateRunButtons()
+    end
+
+    AdminAbuseRemote.OnClientEvent:Connect(function(p1, p2, p3, p4)
+        if p1 == "State" then
+            applyState(p2)
+
+            return
+        end
+
+        if p1 == "AdminAccess" then
+            v1 = p2 == true
+            v2 = p3 == true
+            OpenAdminAbusePanel.Visible = v1
+
+            if not v1 then
+                AdminAbusePanel.Visible = false
+            end
+
+            local v32 = t.Active and tostring(t.Scope or "SERVER") or v3
+
+            TextButton2.BackgroundColor3 = v32 == "SERVER" and v7 or v6
+            v22.BackgroundColor3 = v32 == "GLOBAL" and v7 or v6
+
+            if v2 then
+                TextLabel6.Text = "STUDIO: GLOBAL = LOCAL TEST"
+            else
+                TextLabel6.Text = if t.Active then "ACTIVE: " .. v32 or "" else ""
+            end
+
+            updateRunButtons()
+        else
+            if p1 == "Announcement" then
+                showAnnouncement(p2, p3, p4)
+
+                return
+            end
+
+            if p1 ~= "AdminResult" then
+                return
+            end
+
+            local v12 = TextLabel7
+
+            v12.TextColor3 = (if p2 == true then true else false) and Color3.fromRGB(130, 255, 165) or Color3.fromRGB(255, 105, 105)
+            TextLabel7.Text = tostring(p3 or "")
+            addLog("[ADMIN-ABUSE] " .. (p2 == true and "[✓] " or "[!] ") .. tostring(p3 or ""))
+
+            local Text = TextLabel7.Text
+
+            task.delay(3.5, function()
+                if TextLabel7.Text ~= Text then
+                    return
+                end
+
+                TextLabel7.Text = ""
+            end)
+        end
+    end)
+    task.spawn(function()
+        while AdminAbuseGui.Parent do
+            task.wait(0.2)
+
+            if t.Active and t.EndsAt > os.time() then
+                AdminAbuseStatus.Visible = true
+
+                local v5 = math.max(0, (math.floor(tonumber(t.EndsAt - os.time()) or 0)))
+
+                TextLabel.Text = "ADMIN ABUSE  \226\128\162  " .. string.format("%02d:%02d", math.floor(v5 / 60), v5 % 60)
+
+                local t2 = {}
+
+                if t.TripleBoxes then
+                    table.insert(t2, "3X BOXES")
+                end
+
+                if t.TreeMultiplier > 1 then
+                    table.insert(t2, "TREE RUSH")
+                end
+
+                TextLabel2.Text = table.concat(t2, "  \226\128\162  ")
+                TextLabel2.Visible = #t2 > 0
+                v11.Color = t.Scope == "GLOBAL" and Color3.fromRGB(255, 75, 85) or Color3.fromRGB(80, 180, 255)
+
+                continue
+            end
+
+            AdminAbuseStatus.Visible = false
+        end
+    end)
+    AdminAbuseRemote:FireServer("RequestState")
+    addLog("[ADMIN-ABUSE] Painel carregado")
+
+    local adminMaskActive = false
+
+    local function forceAdminMask(enabled)
+        if enabled then
+            v1 = true
+            v2 = false
+            adminMaskActive = true
+            OpenAdminAbusePanel.Visible = true
+            AdminAbusePanel.Visible = false
+
+            local v32 = t.Active and tostring(t.Scope or "SERVER") or v3
+            TextButton2.BackgroundColor3 = v32 == "SERVER" and v7 or v6
+            v22.BackgroundColor3 = v32 == "GLOBAL" and v7 or v6
+            TextLabel6.Text = if t.Active then "ACTIVE: " .. v32 or "" else ""
+            updateRunButtons()
+
+            addLog("[ADMIN-ABUSE] [*] Máscara de Admin ATIVADA (client-side)")
+            addLog("[BYPASS] Admin local ativado - testando exploits...")
+
+            -- BYPASS ADICIONAL: Fazer bypass permanente enquanto máscara ativa
+            task.spawn(function()
+                local bypassActive = enabled
+                while bypassActive and adminMaskActive do
+                    -- Forçar v1=true a cada frame pra garantir que admin fica ativado
+                    if adminMaskActive then
+                        v1 = true
+                        OpenAdminAbusePanel.Visible = true
+                    end
+                    task.wait(0.1)
+                end
+            end)
+        else
+            v1 = false
+            adminMaskActive = false
+            OpenAdminAbusePanel.Visible = false
+            AdminAbusePanel.Visible = false
+            updateRunButtons()
+            addLog("[ADMIN-ABUSE] Máscara de Admin DESATIVADA")
+        end
+    end
+
+    -- Interceptar clicks dos botões do painel quando em modo máscara admin
+    local originalV24Click = v24.MouseButton1Click
+    local originalV25Click = v25.MouseButton1Click
+    local originalV26Click = v26.MouseButton1Click
+    local originalV27Click = v27.MouseButton1Click
+    local originalV37Click = v37.MouseButton1Click
+    local originalV38Click = v38.MouseButton1Click
+
+    v24.MouseButton1Click:Connect(function()
+        t.Active = true
+        t.Scope = v3
+        t.AutoSequence = false
+        t.EndsAt = os.time() + 1800
+        t.StartedAt = os.time()
+        applyState(t)
+        addLog("[ADMIN-ABUSE] Admin Abuse MANUAL iniciado")
+        -- BYPASS: SEMPRE enviar pro servidor também (bypass validation)
+        pcall(function() AdminAbuseRemote:FireServer("StartManual", { Scope = v3 }) end)
+    end)
+
+    v25.MouseButton1Click:Connect(function()
+        t.Active = false
+        applyState(t)
+        addLog("[ADMIN-ABUSE] Admin Abuse parado")
+        -- BYPASS: SEMPRE enviar pro servidor também
+        pcall(function() AdminAbuseRemote:FireServer("Stop") end)
+    end)
+
+    v26.MouseButton1Click:Connect(function()
+        t.TripleBoxes = not (t.TripleBoxes == true)
+        applyState(t)
+        addLog("[ADMIN-ABUSE] 3X BOXES: " .. tostring(t.TripleBoxes))
+        -- BYPASS: SEMPRE enviar pro servidor também
+        pcall(function()
+            local t2 = {}
+            t2.Enabled = not (t.TripleBoxes == false)
+            AdminAbuseRemote:FireServer("SetTripleBoxes", t2)
+        end)
+    end)
+
+    v27.MouseButton1Click:Connect(function()
+        t.TreeMultiplier = not ((tonumber(t.TreeMultiplier) or 1) > 1) and 3 or 1
+        applyState(t)
+        addLog("[ADMIN-ABUSE] TREE RUSH: " .. tostring(t.TreeMultiplier > 1))
+        -- BYPASS: SEMPRE enviar pro servidor também
+        pcall(function()
+            local t2 = {}
+            t2.Enabled = not ((tonumber(t.TreeMultiplier) or 1) <= 1)
+            AdminAbuseRemote:FireServer("SetTreeRush", t2)
+        end)
+    end)
+
+    v37.MouseButton1Click:Connect(function()
+        t.Active = true
+        t.AutoSequence = true
+        t.Scope = v3
+        t.EndsAt = os.time() + 1800
+        t.StartedAt = os.time()
+        applyState(t)
+        addLog("[ADMIN-ABUSE] Admin Abuse AUTO (30min) iniciado")
+        -- BYPASS: SEMPRE enviar pro servidor também
+        pcall(function() AdminAbuseRemote:FireServer("StartAuto", { Scope = v3 }) end)
+    end)
+
+    v38.MouseButton1Click:Connect(function()
+        t.Active = false
+        applyState(t)
+        addLog("[ADMIN-ABUSE] Admin Abuse parado")
+        -- BYPASS: SEMPRE enviar pro servidor também
+        pcall(function() AdminAbuseRemote:FireServer("Stop") end)
+    end)
+
+    return {
+        toggle = function()
+            AdminAbusePanel.Visible = not AdminAbusePanel.Visible
+        end,
+        isAvailable = function() return true end,
+        forceAdminMask = forceAdminMask,
+    }
+end
+
+local AdminAbusePanelFeature = buildAdminAbusePanelFeature()
+
+-- ========================================
+-- ALERTA: glitterrainbow/limited
+-- ========================================
+
+local function buildAlertFeature()
+
+local function equipBestSlimes()
+    if not Remotes.equipBestInventory then
+        addLog("[!] EquipBestInventory não encontrado")
+        return
+    end
+    pcall(function() Remotes.equipBestInventory:FireServer() end)
+    addLog("[✓] EquipBestInventory disparado")
+end
+
+local function playDivineAlert()
+    local sound = Instance.new("Sound")
+    sound.SoundId = "rbxasset://sounds/electronicpingshort.wav"
+    sound.Volume = 1
+    sound.Parent = playerGui
+    sound:Play()
+    sound.Ended:Connect(function() sound:Destroy() end)
+end
+
+local playingDivineSequence = false
+local alertKeywords = { "limitedrainbow" }
+
+local function playDivineAlertSequence(itemName, itemValue)
+    if playingDivineSequence then return end
+    playingDivineSequence = true
+
+    task.spawn(function()
+        for i = 1, 3 do
+            playDivineAlert()
+            task.wait(0.6)
+        end
+
+        addLog("[*] " .. tostring(itemName) .. " alertado 3x, equipando os melhores slimes...")
+        if equipBestSlimes then pcall(equipBestSlimes) end
+
+        if webhookToggles.limited and webhookToggles.limited.enabled then
+            sendDiscordWebhook("🌟 Item raro encontrado!", tostring(itemName) .. " (valor: " .. tostring(itemValue) .. ")", Color3.fromRGB(255, 200, 0))
+        end
+
+        playingDivineSequence = false
+    end)
+end
+
+if Remotes.boxStarsReveal then
+    Remotes.boxStarsReveal.OnClientEvent:Connect(function(index, revealed, rarity, name, value)
+        if revealed and name then
+            local lowerName = name:lower()
+            for _, keyword in ipairs(alertKeywords) do
+                if lowerName:find(keyword) then
+                    print("[ALERTA] Item revelado: " .. name .. " (valor: " .. tostring(value) .. ")")
+                    playDivineAlertSequence(name, value)
+                    break
+                end
+            end
+        end
+    end)
+end
+
+return {
+    keywords = alertKeywords,
+    equipBest = equipBestSlimes,
+}
+end
+
+local AlertFeature = buildAlertFeature()
+
+-- ========================================
+-- VENDER TODOS OS SLIMES
+-- ========================================
+
+local function buildSellAllFeature()
+
+local latestSellList = nil
+
+if Remotes.sellSlimeOpen then
+    Remotes.sellSlimeOpen.OnClientEvent:Connect(function(list)
+        latestSellList = list
+    end)
+end
+
+local function findSellSlimePrompt()
+    local direct = Workspace:FindFirstChild("SellSlimePrompt", true)
+    if direct and direct:IsA("ProximityPrompt") then return direct end
+    for _, obj in pairs(Workspace:GetDescendants()) do
+        if obj:IsA("ProximityPrompt") and obj.Name == "SellSlimePrompt" then return obj end
+    end
+    return nil
+end
+
+local function findSellSlimeFrame()
+    return playerGui:FindFirstChild("SellSlimeFrame", true)
+end
+
+local sellingAll = false
+
+local function sellAllSlimesBlocking()
+    if not Remotes.sellSlimeAction then
+        addLog("[!] SellSlimeAction não encontrado")
+        return
+    end
+    if sellingAll then
+        addLog("[!] Já está vendendo, aguarde terminar")
+        return
+    end
+    if not latestSellList or #latestSellList == 0 then
+        addLog("[!] Nenhuma lista de slimes recebida ainda.")
+        return
+    end
+
+    sellingAll = true
+    local countBefore = #latestSellList
+    addLog("[*] Vendendo todos os " .. countBefore .. " slime(s) de uma vez...")
+
+    -- O v4 adicionou um botão "SELL ALL" de verdade no jogo -- em vez de
+    -- vender item por item (FireServer("Sell", index), um de cada vez,
+    -- esperando a lista encolher a cada chamada -- lento e o motivo do
+    -- loop com stuckCount/timeout antigo), agora é só uma chamada:
+    -- FireServer("SellAll") vende o inventário inteiro no servidor de
+    -- uma vez, exatamente como o botão SELL ALL do próprio jogo
+    -- (achado no .rbxlx do v4, dentro de setupSellSlimeUI -- o botão só
+    -- dispara SellSlimeActionEvent:FireServer("SellAll") e mais nada).
+    pcall(function() Remotes.sellSlimeAction:FireServer("SellAll") end)
+
+    -- Espera a lista esvaziar (ou até 3s -- folga generosa, o botão real
+    -- do jogo já considera a venda concluída depois de 1.5s) antes de
+    -- seguir pra fechar o painel.
+    local start = tick()
+    while latestSellList and #latestSellList > 0 and (tick() - start) < 3 do
+        task.wait(0.05)
+    end
+
+    local sold = countBefore - (latestSellList and #latestSellList or 0)
+    addLog("[+] Venda finalizada! Total vendido: " .. sold)
+    sellingAll = false
+
+    task.wait(0.2)
+    local sellFrame = findSellSlimeFrame()
+    if sellFrame then
+        local closeBtn = sellFrame:FindFirstChild("Close", true)
+        if closeBtn and closeBtn:IsA("GuiButton") then
+            local ok = pcall(function() firesignal(closeBtn.MouseButton1Click) end)
+            if not ok then sellFrame.Visible = false end
+        else
+            sellFrame.Visible = false
+        end
+    end
+
+    local closeStart = tick()
+    while true do
+        local frame = findSellSlimeFrame()
+        if not frame or not frame.Visible then break end
+        if (tick() - closeStart) > 3 then
+            addLog("[!] Painel de venda não confirmou fechamento, seguindo mesmo assim")
+            break
+        end
+        task.wait(0.1)
+    end
+end
+
+local function autoSellAllSlimesBlocking()
+    if sellingAll then
+        addLog("[!] Já está vendendo, aguarde terminar")
+        return
+    end
+
+    local prompt = findSellSlimePrompt()
+    if not prompt then
+        addLog("[!] SellSlimePrompt não encontrado no Workspace")
+        return
+    end
+
+    local promptPos = getPromptWorldPosition(prompt)
+    local originalCFrame = nil
+    if promptPos then
+        originalCFrame = teleportPlayerTo(promptPos)
+        addLog("[*] Teleportado até a área de venda")
+        task.wait(0.5)
+    end
+
+    latestSellList = nil
+    local fired = triggerPromptGeneric(prompt)
+
+    if not fired then
+        addLog("[!] Não consegui disparar o prompt de venda")
+        teleportPlayerBack(originalCFrame)
+        return
+    end
+
+    addLog("[*] Prompt disparado, aguardando lista de slimes...")
+
+    local start = tick()
+    while not latestSellList and (tick() - start) < 5 do
+        task.wait(0.05)
+    end
+
+    if not latestSellList then
+        addLog("[!] Timeout esperando SellSlimeOpen")
+        teleportPlayerBack(originalCFrame)
+        return
+    end
+
+    sellAllSlimesBlocking()
+
+    task.wait(0.3)
+    teleportPlayerBack(originalCFrame)
+    addLog("[*] Voltou pra posição original (venda)")
+end
+
+local function autoSellAllSlimes()
+    task.spawn(autoSellAllSlimesBlocking)
+end
+
+return {
+    sellAll = autoSellAllSlimesBlocking,
+    sellAllAsync = autoSellAllSlimes,
+}
+end
+
+local SellAll = buildSellAllFeature()
+
+-- ========================================
+-- EVENT SHOP (compartilhado entre a aba Ramp e Bata o Slime)
+-- ========================================
+
+local EVENT_DURATION_SECONDS = 600
+local EVENT_DURATION_BUFFER_SECONDS = 10
+
+local latestEventShopPayload = nil
+if Remotes.eventShopUpdate then
+    Remotes.eventShopUpdate.OnClientEvent:Connect(function(payload)
+        latestEventShopPayload = payload
+    end)
+end
+
+local function findEventShopPrompt()
+    local direct = Workspace:FindFirstChild("EventShopPrompt", true)
+    if direct and direct:IsA("ProximityPrompt") then return direct end
+    for _, obj in pairs(Workspace:GetDescendants()) do
+        if obj:IsA("ProximityPrompt") and obj.Name == "EventShopPrompt" then return obj end
+    end
+    return nil
+end
+
+-- Move o painel FÍSICO do MiniGame1Button (o mesmo trigger usado tanto
+-- pela Memória quanto pelo Bata o Slime) pra cima do EventShopPrompt --
+-- isso é 100% client-side (só a SUA tela vê ele nessa posição nova), mas
+-- como o Roblox checa a distância do ProximityPrompt usando a posição
+-- RENDERIZADA no seu client (é por isso que o prompt "E" aparece/some
+-- sozinho conforme você anda), mover a Part localmente é o suficiente
+-- pra conseguir disparar o prompt sem precisar sair do lugar. Agora é
+-- um toggle (era automático antes) -- e desliga sozinho quando o Bata o
+-- Slime inicia, porque o loop dele já ativa o evento repetidamente sem
+-- teleportar (noTeleport=true) e o painel grudado no shop atrapalha.
+local MiniGameFollow -- definido logo abaixo; Stick e Follow movem a mesma Part, então um desliga o outro
+
+local function buildMiniGameStickFeature()
+    local enabled = false
+    local saved = nil
+    local statusLabel = nil
+
+    local function setStatus(text, color)
+        if statusLabel then
+            statusLabel.Text = text
+            statusLabel.TextColor3 = color
+        end
+    end
+
+    local function enable()
+        if enabled then return end
+
+        if MiniGameFollow and MiniGameFollow.isEnabled() then
+            MiniGameFollow.disable()
+        end
+
+        local prompt = findEventShopPrompt()
+        if not prompt then
+            addLog("[MINIGAME] [!] EventShopPrompt não encontrado, não deu pra mover o painel de minigames")
+            return
+        end
+        local shopPos = getPromptWorldPosition(prompt)
+        if not shopPos then
+            addLog("[MINIGAME] [!] Não consegui ler a posição do EventShopPrompt")
+            return
+        end
+
+        local part = miniGameButton:IsA("BasePart") and miniGameButton or miniGameButton:FindFirstChildWhichIsA("BasePart", true)
+        if not part then
+            addLog("[MINIGAME] [!] MiniGame1Button não tem nenhuma BasePart pra mover")
+            return
+        end
+
+        saved = { part = part, cframe = part.CFrame }
+        local currentRotation = part.CFrame - part.CFrame.Position
+        part.CFrame = CFrame.new(shopPos) * currentRotation
+
+        enabled = true
+        setStatus("Status: GRUDADO NO EVENTO", Color3.fromRGB(0, 220, 220))
+        addLog("[MINIGAME] [✓] Painel de minigames grudado no shop de eventos (só na sua tela)")
+    end
+
+    local function disable()
+        if not enabled then return end
+
+        if saved and saved.part.Parent then
+            saved.part.CFrame = saved.cframe
+        end
+        saved = nil
+
+        enabled = false
+        setStatus("Status: DESLIGADO (posição original)", Color3.fromRGB(100, 200, 100))
+        addLog("[MINIGAME] Painel de minigames voltou pra posição original")
+    end
+
+    local function toggle()
+        if enabled then disable() else enable() end
+        return enabled
+    end
+
+    return {
+        toggle = toggle,
+        enable = enable,
+        disable = disable,
+        isEnabled = function() return enabled end,
+        setStatusLabel = function(lbl) statusLabel = lbl end,
+    }
+end
+
+local MiniGameStick = buildMiniGameStickFeature()
+
+-- Alcance do MiniGame1Prompt: o jogo exporta ele com MaxActivationDistance
+-- = 14 studs (HoldDuration 0, RequiresLineOfSight false). O alcance de um
+-- ProximityPrompt é avaliado no CLIENT -- é o seu client que decide se o
+-- "E" aparece e que manda o Triggered pro servidor -- então multiplicar
+-- isso localmente deixa disparar o painel de longe sem mover nada (é a
+-- alternativa ao "Grudar Painel", que move a Part). Liga junto com o
+-- Jogar da Memória / do Bata o Slime e volta ao original quando os dois
+-- param. Se o handler do servidor conferir distância por conta própria
+-- (não dá pra ver: scripts de servidor não vêm no export), aí só isso
+-- não basta e precisa combinar com o Grudar Painel.
+local MINIGAME_REACH_MULTIPLIER = 50
+
+local function findMiniGamePrompt()
+    return miniGameButton:FindFirstChildWhichIsA("ProximityPrompt", true)
+end
+
+local function buildMiniGameReachFeature()
+    local enabled = false
+    local saved = nil
+    local statusLabel = nil
+
+    local function setStatus(text, color)
+        if statusLabel then
+            statusLabel.Text = text
+            statusLabel.TextColor3 = color
+        end
+    end
+
+    local function enable()
+        if enabled then return end
+
+        local prompt = findMiniGamePrompt()
+        if not prompt then
+            addLog("[MINIGAME] [!] Nenhum ProximityPrompt dentro do MiniGame1Button")
+            return
+        end
+
+        saved = { prompt = prompt, distance = prompt.MaxActivationDistance, lineOfSight = prompt.RequiresLineOfSight }
+        prompt.MaxActivationDistance = saved.distance * MINIGAME_REACH_MULTIPLIER
+        prompt.RequiresLineOfSight = false
+
+        enabled = true
+        setStatus("Status: ALCANCE x" .. MINIGAME_REACH_MULTIPLIER .. " (" .. math.floor(prompt.MaxActivationDistance) .. " studs)", Color3.fromRGB(0, 220, 220))
+        addLog("[MINIGAME] [✓] Alcance do prompt: " .. saved.distance .. " -> " .. math.floor(prompt.MaxActivationDistance) .. " studs (só no seu client)")
+    end
+
+    local function disable()
+        if not enabled then return end
+
+        if saved and saved.prompt.Parent then
+            saved.prompt.MaxActivationDistance = saved.distance
+            saved.prompt.RequiresLineOfSight = saved.lineOfSight
+        end
+        saved = nil
+
+        enabled = false
+        setStatus("Status: DESLIGADO (alcance original)", Color3.fromRGB(100, 200, 100))
+        addLog("[MINIGAME] Alcance do prompt voltou ao original")
+    end
+
+    local function toggle()
+        if enabled then disable() else enable() end
+        return enabled
+    end
+
+    return {
+        toggle = toggle,
+        enable = enable,
+        disable = disable,
+        isEnabled = function() return enabled end,
+        setStatusLabel = function(lbl) statusLabel = lbl end,
+    }
+end
+
+local MiniGameReach = buildMiniGameReachFeature()
+
+-- Grudar o painel EM VOCÊ: com o alcance x50 o menu abre de longe, mas o
+-- jogo mostra "MINIGAME UNAVAILABLE -- MOVE CLOSER TO THE MINIGAME" --
+-- ou seja, além do alcance do prompt existe uma checagem de DISTÂNCIA
+-- até a Part MiniGame1Button. Esse texto não está na árvore de
+-- instâncias (é montado em código, que não vem no export), então não dá
+-- pra ver se a checagem é do client ou do servidor -- mas o padrão
+-- "menu aberto mostrando aviso" é o de checagem local, medindo
+-- HumanoidRootPart até a Part. Aumentar o Size da Part não muda nada
+-- (distância é até a posição, não até a borda); o que resolve é manter
+-- a Part colada no personagem todo frame, só no seu client (igual o
+-- Grudar Painel no Evento, mas seguindo VOCÊ). Se mesmo assim o aviso
+-- aparecer, a checagem é no servidor e aí só mudando o raio no script
+-- de servidor (ou teleportando de verdade até lá).
+local function buildMiniGameFollowFeature()
+    local enabled = false
+    local saved = nil
+    local connection = nil
+    local statusLabel = nil
+
+    local function setStatus(text, color)
+        if statusLabel then
+            statusLabel.Text = text
+            statusLabel.TextColor3 = color
+        end
+    end
+
+    local function enable()
+        if enabled then return end
+
+        local part = miniGameButton:IsA("BasePart") and miniGameButton or miniGameButton:FindFirstChildWhichIsA("BasePart", true)
+        if not part then
+            addLog("[MINIGAME] [!] MiniGame1Button não tem nenhuma BasePart pra grudar")
+            return
+        end
+
+        if MiniGameStick.isEnabled() then
+            MiniGameStick.disable()
+        end
+
+        saved = { part = part, cframe = part.CFrame }
+        local rotation = part.CFrame - part.CFrame.Position
+
+        connection = RunService.Heartbeat:Connect(function()
+            if not isCurrentHubGeneration() then return end
+            local character = LocalPlayer.Character
+            local hrp = character and character:FindFirstChild("HumanoidRootPart")
+            if not hrp or not part.Parent then return end
+            part.CFrame = CFrame.new(hrp.Position) * rotation
+        end)
+
+        enabled = true
+        setStatus("Status: GRUDADO EM VOCÊ", Color3.fromRGB(0, 220, 220))
+        addLog("[MINIGAME] [✓] Painel de minigames grudado no seu personagem (só no seu client)")
+    end
+
+    local function disable()
+        if not enabled then return end
+
+        if connection then connection:Disconnect() connection = nil end
+        if saved and saved.part.Parent then
+            saved.part.CFrame = saved.cframe
+        end
+        saved = nil
+
+        enabled = false
+        setStatus("Status: DESLIGADO (posição original)", Color3.fromRGB(100, 200, 100))
+        addLog("[MINIGAME] Painel de minigames voltou pra posição original")
+    end
+
+    local function toggle()
+        if enabled then disable() else enable() end
+        return enabled
+    end
+
+    return {
+        toggle = toggle,
+        enable = enable,
+        disable = disable,
+        isEnabled = function() return enabled end,
+        setStatusLabel = function(lbl) statusLabel = lbl end,
+    }
+end
+
+MiniGameFollow = buildMiniGameFollowFeature()
+
+local function activateMostExpensiveEvent(stayAtShop, noTeleport, eventOverride)
+    if not Remotes.eventShopAction then
+        addLog("[EVENTO] [!] EventShopAction não encontrado")
+        return false
+    end
+
+    local event = eventOverride or findMostExpensiveEvent()
+    if not event then
+        addLog("[EVENTO] [!] Não consegui achar o evento pra ativar")
+        return false
+    end
+
+    addLog("[EVENTO] [*] Ativando evento: " .. tostring(event.Id) .. " (custo " .. tostring(event.Cost) .. ")")
+
+    pcall(function() LocalPlayer:SetAttribute("EventShopMenuOpen", true) end)
+    if Remotes.selectInventoryItem then
+        pcall(function() Remotes.selectInventoryItem:FireServer(0) end)
+    end
+
+    local originalCFrame = nil
+    if not noTeleport then
+        local prompt = findEventShopPrompt()
+        if prompt then
+            local promptPos = getPromptWorldPosition(prompt)
+            if promptPos then
+                originalCFrame = teleportPlayerTo(promptPos)
+                task.wait(0.2)
+            end
+        end
+    end
+
+    latestEventShopPayload = nil
+    pcall(function() Remotes.eventShopAction:FireServer("RequestState") end)
+    task.wait(0.1)
+    pcall(function() Remotes.eventShopAction:FireServer("Activate", event.Id) end)
+
+    local start = tick()
+    local confirmed = false
+    while (tick() - start) < 5 do
+        if latestEventShopPayload and latestEventShopPayload.ActiveEventId == event.Id then
+            confirmed = true
+            break
+        end
+        task.wait(0.2)
+    end
+
+    if confirmed then
+        addLog("[EVENTO] [✓] Evento confirmado ativo: " .. event.Id)
+        if webhookToggles.event and webhookToggles.event.enabled then
+            sendDiscordWebhook("🎡 Evento ativado", tostring(event.Id) .. " (custo " .. tostring(event.Cost) .. ")", Color3.fromRGB(0, 150, 255))
+        end
+    else
+        addLog("[EVENTO] [!] Não confirmei a ativação")
+    end
+
+    if not stayAtShop then
+        teleportPlayerBack(originalCFrame)
+    end
+    return confirmed
+end
+
+local function getActiveEventRemainingSeconds()
+    if not Remotes.eventShopAction then return nil end
+    latestEventShopPayload = nil
+    pcall(function() Remotes.eventShopAction:FireServer("RequestState") end)
+    local start = tick()
+    while not latestEventShopPayload and (tick() - start) < 3 do
+        task.wait(0.1)
+    end
+    if not latestEventShopPayload then return nil end
+    if tostring(latestEventShopPayload.ActiveEventId or "") == "" then return nil end
+    local endsAt = tonumber(latestEventShopPayload.ActiveEventEndsAt) or 0
+    if endsAt <= 0 then return nil end
+    local remaining = math.floor(endsAt - os.time())
+    if remaining <= 0 then return nil end
+    return remaining, latestEventShopPayload.ActiveEventId
+end
+
+local function waitWhileRunning(seconds, cfg)
+    local deadline = tick() + seconds
+    while cfg.running and tick() < deadline do
+        task.wait(1)
+    end
+end
+
+-- ========================================
+-- AUTO-PAUSA (genérico, usado pelas 3 automações)
+-- ========================================
+
+local function otherPlayersCount()
+    return #Players:GetPlayers() - 1
+end
+
+-- Toggle geral: liga/desliga a pausa automática quando outro jogador entra
+-- na sala. Desativado, os loops ignoram totalmente outros jogadores.
+local autoPauseConfig = { enabled = true }
+
+local function makeAutoPauseGuards(cfg, getStatusLabel, startFn, stopFn, label)
+    local autoResumeWhenAlone = false
+
+    local function pauseIfRunning()
+        if not autoPauseConfig.enabled then return end
+        if cfg.running then
+            addLog("[" .. label .. "] [!] Outro jogador entrou, pausando...")
+            autoResumeWhenAlone = true
+            stopFn()
+            local statusLabel = getStatusLabel()
+            if statusLabel then
+                statusLabel.Text = t("status_paused_other")
+                statusLabel.TextColor3 = Color3.fromRGB(255, 140, 0)
+            end
+        end
+    end
+
+    local function resumeIfWaiting()
+        if autoResumeWhenAlone then
+            addLog("[" .. label .. "] [*] Sozinho de novo, retomando...")
+            autoResumeWhenAlone = false
+            startFn()
+        end
+    end
+
+    local function guardedStart()
+        if autoPauseConfig.enabled and otherPlayersCount() > 0 then
+            addLog("[" .. label .. "] [!] Tem outro jogador, vai iniciar quando ficar só.")
+            autoResumeWhenAlone = true
+            local statusLabel = getStatusLabel()
+            if statusLabel then
+                statusLabel.Text = t("status_paused_other")
+                statusLabel.TextColor3 = Color3.fromRGB(255, 140, 0)
+            end
+            return
+        end
+        startFn()
+    end
+
+    local function guardedStop()
+        autoResumeWhenAlone = false
+        stopFn()
+    end
+
+    return pauseIfRunning, resumeIfWaiting, guardedStart, guardedStop
+end
+
+-- ========================================
+-- ABA RAMP: ciclo do evento mais caro + JumpCar
+-- ========================================
+
+local rampStatusLabel, rampCountLabel, rampCycleLabel
+-- Forward-declarado aqui (definido de verdade lá embaixo) porque
+-- startMasterCycle/stopMasterCycle -- definidos
+-- logo abaixo, nesta mesma aba -- precisam chamar MegaJumpInsta.enable/
+-- disable, e uma função só enxerga uma local como upvalue se ela já
+-- tiver sido declarada (com `local`) ANTES do texto da função -- mesmo
+-- que a atribuição de valor só aconteça depois.
+local MegaJumpInsta
+
+local rampConfig = {
+    running = false,
+    loopDelay = 0.3,
+    checkpointYOffset = 10,
+    intermediateWait = 0.15,
+    openBoxClicks = 10,
+    openBoxClickDelay = 0.03,
+    carSpawnWait = 0.6,
+}
+
+local function findJumpCarPart()
+    local direct = Workspace:FindFirstChild("JumpCar", true)
+    if direct and direct:IsA("BasePart") then return direct end
+    for _, obj in pairs(Workspace:GetDescendants()) do
+        if obj.Name == "JumpCar" and obj:IsA("BasePart") then return obj end
+    end
+    return nil
+end
+
+local jumpCarPart = findJumpCarPart()
+print(jumpCarPart and ("[+] JumpCar encontrado: " .. jumpCarPart:GetFullName()) or "[-] JumpCar NÃO encontrado")
+
+-- O jogo já renomeou o carro pelo menos uma vez (era "..._Auto", hoje é
+-- "MiniCar_<numero>", ex: MiniCar_9547841947) -- confiar só no NOME quebra
+-- toda vez que o jogo atualiza a nomenclatura. O jeito à prova de rename é
+-- achar o carro pelo BANCO ONDE VOCÊ ESTÁ SENTADO: Humanoid.SeatPart aponta
+-- pro Seat/VehicleSeat de verdade que você ocupa, e o Model ancestral dele
+-- É o carro, seja qual for o nome que o jogo decidir usar. Os padrões de
+-- nome antigos ficam só como fallback (personagem fora do carro, ou
+-- procurando o carro de OUTRO lugar antes de entrar nele).
+local function findPlayerCarModel()
+    local character = LocalPlayer.Character
+    local humanoid = character and character:FindFirstChildOfClass("Humanoid")
+    if humanoid and humanoid.SeatPart then
+        local seatModel = humanoid.SeatPart:FindFirstAncestorOfClass("Model")
+        if seatModel then return seatModel end
+    end
+
+    local userName = LocalPlayer.Name
+
+    for _, obj in pairs(Workspace:GetDescendants()) do
+        if obj:IsA("Model") and (obj.Name:lower():find("minicar_") or obj.Name:lower():find("auto")) then
+            if obj.Name:lower():find(userName:lower()) then return obj end
+        end
+    end
+
+    for _, obj in pairs(Workspace:GetDescendants()) do
+        if obj:IsA("Model") and (obj.Name:lower():find("_auto") or obj.Name:lower():find("minicar_")) then return obj end
+    end
+
+    return nil
+end
+
+local teleportCount = 0
+local cycleCount = 0
+
+local function waitForEvent(remote, timeout)
+    if not remote then return false end
+    local fired = false
+    local conn
+    conn = remote.OnClientEvent:Connect(function(...) fired = true end)
+
+    local start = tick()
+    while not fired and (tick() - start) < timeout do
+        if not rampConfig.running then break end
+        task.wait(0.1)
+    end
+    conn:Disconnect()
+    return fired
+end
+
+local function waitForLaunchArgs(timeout)
+    if not Remotes.clientCarLaunch then return false end
+    local result = nil
+    local conn
+    conn = Remotes.clientCarLaunch.OnClientEvent:Connect(function(carInstance, launchVector, carName, forward, up)
+        result = { car = carInstance, vector = launchVector, name = carName, forward = forward, up = up }
+    end)
+
+    local start = tick()
+    while not result and (tick() - start) < timeout do
+        if not rampConfig.running then break end
+        task.wait(0.05)
+    end
+    conn:Disconnect()
+    return result
+end
+
+local function moveCarTo(car, carPart, position)
+    local currentRotation = carPart.CFrame - carPart.CFrame.Position
+    local targetCFrame = CFrame.new(position) * currentRotation
+
+    return pcall(function()
+        if car.PrimaryPart then
+            car:SetPrimaryPartCFrame(targetCFrame)
+        else
+            carPart.CFrame = targetCFrame
+        end
+    end)
+end
+
+local function clickOpenBoxMultiple()
+    if not Remotes.openBoxClick then
+        addLog("[RAMP] [!] OpenBoxClick não encontrado")
+        return
+    end
+
+    for i = 1, rampConfig.openBoxClicks do
+        if not rampConfig.running then break end
+        pcall(function() Remotes.openBoxClick:FireServer() end)
+        task.wait(rampConfig.openBoxClickDelay)
+    end
+end
+
+-- Auto-clicker independente do ciclo automático: sempre que a caixa abrir
+-- (StartBoxReveal), dispara os cliques rápidos na hora, mesmo com o Mega
+-- Rampa Loop (aba de automação) desligado.
+local autoBoxClickRunning = false
+local function autoClickOpenBoxNow()
+    if not Remotes.openBoxClick then return end
+    if autoBoxClickRunning then return end
+    autoBoxClickRunning = true
+
+    for i = 1, rampConfig.openBoxClicks do
+        pcall(function() Remotes.openBoxClick:FireServer() end)
+        task.wait(rampConfig.openBoxClickDelay)
+    end
+
+    autoBoxClickRunning = false
+end
+
+if Remotes.startBoxReveal then
+    Remotes.startBoxReveal.OnClientEvent:Connect(function()
+        task.spawn(autoClickOpenBoxNow)
+    end)
+    addLog("[RAMP] [*] Auto-click da caixa ativo (independente do loop)")
+end
+
+local function forceTeleportToJumpCar()
+    if Remotes.retryRun then
+        pcall(function() Remotes.retryRun:FireServer() end)
+        task.wait(rampConfig.carSpawnWait)
+    end
+
+    local jumpCar = jumpCarPart or findJumpCarPart()
+    if not jumpCar then
+        addLog("[RAMP] [!] Parte JumpCar não encontrada")
+        return false
+    end
+    jumpCarPart = jumpCar
+
+    local car = findPlayerCarModel()
+    if not car then
+        addLog("[RAMP] [!] Model do carro não encontrado")
+        return false
+    end
+
+    local carPart = car.PrimaryPart or car:FindFirstChildWhichIsA("BasePart", true)
+    if not carPart then
+        addLog("[RAMP] [!] Nenhuma BasePart no carro " .. car.Name)
+        return false
+    end
+
+    local currentRotation = carPart.CFrame - carPart.CFrame.Position
+    local targetPosition = jumpCar.Position + Vector3.new(0, jumpCar.Size.Y / 2 + 2, 0)
+    local targetCFrame = CFrame.new(targetPosition) * currentRotation
+
+    local success, err = pcall(function()
+        if car.PrimaryPart then
+            car:SetPrimaryPartCFrame(targetCFrame)
+        else
+            carPart.CFrame = targetCFrame
+        end
+    end)
+
+    if success then
+        teleportCount = teleportCount + 1
+        if rampCountLabel then rampCountLabel.Text = t("label_teleports_forced") .. teleportCount end
+        return true
+    else
+        addLog("[RAMP] [!] Erro ao teleportar: " .. tostring(err))
+        return false
+    end
+end
+
+local function runTeleportLoopForDuration(durationSeconds)
+    local deadline = tick() + durationSeconds
+    addLog("[RAMP] [*] Rodando teleportes por " .. durationSeconds .. "s...")
+
+    while rampConfig.running and tick() < deadline do
+        local teleported = forceTeleportToJumpCar()
+
+        if teleported then
+            local launchData = waitForLaunchArgs(5)
+
+            if launchData then
+                -- Antigamente teleportava o carro pro checkpoint fixo
+                -- (checkpointSlots) depois do pulo -- mas agora que o
+                -- Mega Jump Insta já colapsa o Checkpoint 92 pra cima do
+                -- CarSpawn/JumpCar, o carro já pousa em cima dele
+                -- sozinho, então esse teleporte forçado não faz mais
+                -- sentido (mandava o carro pra longe, pro lugar antigo).
+                waitForEvent(Remotes.startBoxReveal, 8)
+                -- Os cliques em si são disparados pelo listener global
+                -- autoClickOpenBoxNow (StartBoxReveal.OnClientEvent), que
+                -- roda sempre, com ou sem o loop ativo.
+                waitForEvent(Remotes.endBoxReveal, 12)
+            end
+        end
+
+        if not rampConfig.running or tick() >= deadline then break end
+        task.wait(rampConfig.loopDelay)
+    end
+
+    addLog("[RAMP] [*] Janela de teleportes encerrada")
+end
+
+local function startMasterCycle()
+    if rampConfig.running then return end
+    rampConfig.running = true
+    if rampStatusLabel then
+        rampStatusLabel.Text = t("status_activating_event")
+        rampStatusLabel.TextColor3 = Color3.fromRGB(255, 200, 0)
+    end
+    addLog("[RAMP] === CICLO AUTOMÁTICO INICIADO ===")
+
+    -- Mega Jump Insta liga junto com o ciclo (CarSpawn/JumpCar/Checkpoint
+    -- 92 colapsados na posição do CarSpawn) e desliga sozinho quando o
+    -- ciclo para -- inclusive na pausa automática por outro jogador, já
+    -- que ela chama esse mesmo startMasterCycle/stopMasterCycle.
+    if MegaJumpInsta and not MegaJumpInsta.isEnabled() then
+        local pos = MegaJumpInsta.getDefaultPosition()
+        MegaJumpInsta.enable(pos.X, pos.Y, pos.Z)
+    end
+
+    task.spawn(function()
+        while rampConfig.running do
+            local remaining, activeEventId = getActiveEventRemainingSeconds()
+
+            if remaining then
+                addLog("[RAMP] [*] Evento já ativo, restam ~" .. remaining .. "s. Retomando sem reativar.")
+                if rampStatusLabel then rampStatusLabel.Text = t("status_teleporting") end
+                runTeleportLoopForDuration(remaining + EVENT_DURATION_BUFFER_SECONDS)
+            else
+                if rampStatusLabel then rampStatusLabel.Text = t("status_activating_event") end
+                activateMostExpensiveEvent()
+                if not rampConfig.running then break end
+
+                if rampStatusLabel then rampStatusLabel.Text = t("status_teleporting") end
+                runTeleportLoopForDuration(EVENT_DURATION_SECONDS + EVENT_DURATION_BUFFER_SECONDS)
+            end
+            if not rampConfig.running then break end
+
+            if rampStatusLabel then rampStatusLabel.Text = t("status_selling") end
+            addLog("[RAMP] [*] Tempo do evento acabou, vendendo todos os slimes...")
+            SellAll.sellAll()
+
+            cycleCount = cycleCount + 1
+            if rampCycleLabel then rampCycleLabel.Text = t("label_cycles_complete") .. cycleCount end
+
+            if not rampConfig.running then break end
+            task.wait(1)
+        end
+
+        if rampStatusLabel then
+            rampStatusLabel.Text = t("status_stopped")
+            rampStatusLabel.TextColor3 = Color3.fromRGB(100, 200, 100)
+        end
+        addLog("[RAMP] === CICLO AUTOMÁTICO FINALIZADO ===")
+    end)
+end
+
+local function stopMasterCycle()
+    rampConfig.running = false
+    addLog("[RAMP] [!] Parando ciclo automático...")
+    if MegaJumpInsta and MegaJumpInsta.isEnabled() then
+        MegaJumpInsta.disable()
+    end
+end
+
+-- ========================================
+-- DISPATCHER DO REMOTE COMPARTILHADO (Memória + Bata o Slime)
+-- ========================================
+
+local memoryToken, memoryLastRejected, memoryLastReward = nil, nil, nil
+local hitSlimeToken, hitSlimeLastRejected, hitSlimeLastReward = nil, nil, nil
+
+if Remotes.miniGameMemoryEvent then
+    Remotes.miniGameMemoryEvent.OnClientEvent:Connect(function(kind, gameType, a, b, c, d)
+        kind = tostring(kind or "")
+        gameType = tostring(gameType or "")
+
+        if gameType == "Memory" then
+            if kind == "RoundStarted" then
+                memoryToken = tostring(a or "")
+            elseif kind == "RoundRejected" then
+                memoryLastRejected = tostring(a or "motivo desconhecido")
+                addLog("[MEMORIA] [!] Recusado: " .. memoryLastRejected)
+            elseif kind == "RewardResult" then
+                memoryLastReward = { success = a == true, amount = b, errorMsg = d }
+                if a == true then
+                    addLog("[MEMORIA] [✓] Recompensa: +" .. tostring(b))
+                    if webhookToggles.memory and webhookToggles.memory.enabled then
+                        sendDiscordWebhook("🧠 Memória vencida", "Recompensa: +" .. tostring(b), Color3.fromRGB(0, 190, 100))
+                    end
+                else
+                    addLog("[MEMORIA] [!] Recompensa falhou: " .. tostring(d or "erro"))
+                end
+            end
+        elseif gameType == "HitTheSlime" then
+            if kind == "RoundStarted" then
+                hitSlimeToken = tostring(a or "")
+            elseif kind == "RoundRejected" then
+                hitSlimeLastRejected = tostring(a or "motivo desconhecido")
+                addLog("[HITSLIME] [!] Recusado: " .. hitSlimeLastRejected)
+            elseif kind == "RewardResult" then
+                hitSlimeLastReward = { success = a == true, amount = b, errorMsg = d }
+                if a == true then
+                    addLog("[HITSLIME] [✓] Recompensa: +" .. tostring(b))
+                    if webhookToggles.hitslime and webhookToggles.hitslime.enabled then
+                        sendDiscordWebhook("🎯 Bata o Slime vencido", "Recompensa: +" .. tostring(b), Color3.fromRGB(0, 185, 235))
+                    end
+                else
+                    addLog("[HITSLIME] [!] Recompensa falhou: " .. tostring(d or "erro"))
+                end
+            end
+        end
+    end)
+end
+
+-- ========================================
+-- ABA GAMES: Memória de Slime
+-- ========================================
+
+local memoryStatusLabel, memoryCountLabel
+
+local memoryConfig = {
+    running = false,
+    completionSeconds = 14.6,
+    roundCooldown = 3,
+    rejectedCooldown = 15,
+}
+
+-- ========================================
+-- MEMÓRIA 100% POR REMOTE, SEM ABRIR NENHUM MENU: a tentativa anterior
+-- (instanciar o MemorySlimeClient real e chamar :Start() pra montar o
+-- grid) não abria de verdade -- confirmado pelo usuário testando ao
+-- vivo. Igual foi apontado ("não tem como fazer o mesmo que fez com o
+-- hit slime.. ele nem abre o menu faz direto via server token"), o Bata
+-- o Slime NUNCA abriu UI nenhuma pra jogar -- ele só troca remotes com o
+-- servidor (StartRound -> RoundStarted com um ServerToken -> Progress
+-- várias vezes -> WinRound), e o resultado (RewardResult) chega pelo
+-- MESMO dispatcher compartilhado de cima. Lendo MemorySlimeClient.lua
+-- (extraído do .rbxlx) dá pra ver que a Memória usa EXATAMENTE o mesmo
+-- esqueleto por baixo do grid visual:
+--
+--   Start()   -> RemoteEvent:FireServer("StartRound", "Memory")
+--   servidor  -> FireClient(player, "RoundStarted", "Memory", token)
+--                (visto em SlimeGameClient.lua: v18:SetServerToken(token))
+--   par certo -> RemoteEvent:FireServer("Progress", "Memory", token, N)
+--                (N = contador de pares acertados até agora, 1, 2, 3...
+--                 -- é literalmente p1.LastReportedPairs incrementando)
+--   9 pares   -> RemoteEvent:FireServer("WinRound", "Memory", token)
+--   servidor  -> FireClient(player, "RewardResult", "Memory", ok, valor)
+--
+-- O total de pares (TotalPairs) não vem do inventário do jogador -- vem
+-- de contar quantos Model/BasePart existem em
+-- ReplicatedStorage.MiniGame1Slimes_Client (a MESMA pasta template que
+-- o jogo usa, `SlimeFolder` no construtor), limitado a 9
+-- (t._getTemplates + math.min(9, #t) em MemorySlimeClient.lua) -- dá
+-- pra calcular isso aqui sem abrir grid nenhum. Sem UI, sem prompt, sem
+-- hub -- só os 3 remotes na ordem certa, com pausas configuráveis pra
+-- não disparar "muito rápido" no servidor.
+-- ========================================
+
+local function countMemoryTotalPairs()
+    local slimesFolder = ReplicatedStorage:FindFirstChild("MiniGame1Slimes_Client")
+    if not slimesFolder then return 9 end
+
+    local count = 0
+    for _, v in ipairs(slimesFolder:GetChildren()) do
+        if v:IsA("Model") or v:IsA("BasePart") then
+            count = count + 1
+        end
+    end
+
+    return math.clamp(count, 1, 9)
+end
+
+local memoryRoundCount = 0
+
+local function runOneMemoryRound()
+    memoryToken = nil
+    memoryLastRejected = nil
+    memoryLastReward = nil
+
+    if not Remotes.miniGameMemoryEvent then
+        addLog("[MEMORIA] [!] MiniGame1MemoryEvent não encontrado")
+        return
+    end
+
+    pcall(function() Remotes.miniGameMemoryEvent:FireServer("StartRound", "Memory") end)
+
+    local tokenStart = tick()
+    while memoryConfig.running and not memoryToken and not memoryLastRejected and (tick() - tokenStart) < 5 do
+        task.wait(0.1)
+    end
+
+    if not memoryToken then
+        if not memoryLastRejected then
+            addLog("[MEMORIA] [!] Não recebi ServerToken")
+        end
+        return
+    end
+
+    local totalPairs = countMemoryTotalPairs()
+    local gapPerPair = math.max(memoryConfig.completionSeconds, 0) / totalPairs
+
+    for pairIndex = 1, totalPairs do
+        if not memoryConfig.running then return end
+        if memoryLastRejected then break end
+
+        task.wait(gapPerPair)
+        pcall(function() Remotes.miniGameMemoryEvent:FireServer("Progress", "Memory", memoryToken, pairIndex) end)
+    end
+
+    if memoryLastRejected then
+        addLog("[MEMORIA] [!] Recusado durante os pares, abortando rodada")
+        return
+    end
+
+    pcall(function() Remotes.miniGameMemoryEvent:FireServer("WinRound", "Memory", memoryToken) end)
+
+    local rewardStart = tick()
+    while memoryConfig.running and not memoryLastReward and not memoryLastRejected and (tick() - rewardStart) < 6 do
+        task.wait(0.2)
+    end
+
+    memoryRoundCount = memoryRoundCount + 1
+    if memoryCountLabel then memoryCountLabel.Text = t("label_rounds") .. memoryRoundCount end
+end
+
+local function startMemoryLoop()
+    if memoryConfig.running then return end
+    memoryConfig.running = true
+    MiniGameReach.enable()
+    MiniGameFollow.enable()
+    if memoryStatusLabel then
+        memoryStatusLabel.Text = t("status_running")
+        memoryStatusLabel.TextColor3 = Color3.fromRGB(255, 200, 0)
+    end
+    addLog("[MEMORIA] === INICIADO ===")
+
+    task.spawn(function()
+        while memoryConfig.running do
+            runOneMemoryRound()
+            if not memoryConfig.running then break end
+            local cooldown = memoryLastRejected and memoryConfig.rejectedCooldown or memoryConfig.roundCooldown
+            task.wait(cooldown)
+        end
+        if memoryStatusLabel then
+            memoryStatusLabel.Text = t("status_stopped")
+            memoryStatusLabel.TextColor3 = Color3.fromRGB(100, 200, 100)
+        end
+        addLog("[MEMORIA] === FINALIZADO ===")
+    end)
+
+    task.spawn(function()
+        while memoryConfig.running do
+            -- Mesmo esquema do Bata o Slime: ativa o evento mais barato
+            -- com o maior CashMultiplier (bônus de Cash), fica parado
+            -- nele (noTeleport=true, sem sair do lugar), e reativa
+            -- sozinho quando os ~10 minutos acabam.
+            activateMostExpensiveEvent(true, true, findCheapestMaxCashEvent())
+            if not memoryConfig.running then break end
+            waitWhileRunning(EVENT_DURATION_SECONDS + EVENT_DURATION_BUFFER_SECONDS, memoryConfig)
+        end
+    end)
+end
+
+local function stopMemoryLoop()
+    memoryConfig.running = false
+    if memoryStatusLabel then
+        memoryStatusLabel.Text = t("status_stopped")
+        memoryStatusLabel.TextColor3 = Color3.fromRGB(100, 200, 100)
+    end
+    addLog("[MEMORIA] Parando...")
+end
+
+-- ========================================
+-- ABA GAMES: Bata o Slime
+-- ========================================
+
+local hitSlimeStatusLabel, hitSlimeCountLabel
+
+local CUMULATIVE_COMPLETED_BY_LEVEL = { 30, 66, 108, 156, 212, 275, 345, 425, 515, 611 }
+
+local hitSlimeConfig = {
+    running = false,
+    secondsPerRound = 18,
+    roundCooldown = 3,
+    rejectedCooldown = 15,
+}
+
+local hitSlimeRoundCount = 0
+
+local function runHitSlimeAttempt()
+    hitSlimeToken = nil
+    hitSlimeLastRejected = nil
+    hitSlimeLastReward = nil
+
+    pcall(function() Remotes.miniGameMemoryEvent:FireServer("StartRound", "HitTheSlime") end)
+
+    local start = tick()
+    while hitSlimeConfig.running and not hitSlimeToken and not hitSlimeLastRejected and (tick() - start) < 5 do
+        task.wait(0.1)
+    end
+
+    if not hitSlimeToken then
+        addLog("[HITSLIME] [!] Não recebi ServerToken")
+        return
+    end
+
+    for level, cumulative in ipairs(CUMULATIVE_COMPLETED_BY_LEVEL) do
+        if not hitSlimeConfig.running then return end
+
+        task.wait(hitSlimeConfig.secondsPerRound)
+
+        pcall(function()
+            Remotes.miniGameMemoryEvent:FireServer("Progress", "HitTheSlime", hitSlimeToken, level, cumulative)
+        end)
+
+        if hitSlimeLastRejected then
+            addLog("[HITSLIME] [!] Recusado no nível " .. level .. ", abortando")
+            return
+        end
+    end
+
+    pcall(function() Remotes.miniGameMemoryEvent:FireServer("WinRound", "HitTheSlime", hitSlimeToken) end)
+
+    local waitStart = tick()
+    while hitSlimeConfig.running and not hitSlimeLastReward and (tick() - waitStart) < 6 do
+        task.wait(0.2)
+    end
+
+    hitSlimeRoundCount = hitSlimeRoundCount + 1
+    if hitSlimeCountLabel then hitSlimeCountLabel.Text = t("label_rounds") .. hitSlimeRoundCount end
+end
+
+local function startHitSlimeLoop()
+    if hitSlimeConfig.running then return end
+    hitSlimeConfig.running = true
+    MiniGameReach.enable()
+    MiniGameFollow.enable()
+    if hitSlimeStatusLabel then
+        hitSlimeStatusLabel.Text = t("status_running")
+        hitSlimeStatusLabel.TextColor3 = Color3.fromRGB(255, 200, 0)
+    end
+    addLog("[HITSLIME] === INICIADO === (" .. hitSlimeConfig.secondsPerRound .. "s por nível)")
+
+    task.spawn(function()
+        while hitSlimeConfig.running do
+            runHitSlimeAttempt()
+            if not hitSlimeConfig.running then break end
+            local cooldown = hitSlimeLastRejected and hitSlimeConfig.rejectedCooldown or hitSlimeConfig.roundCooldown
+            task.wait(cooldown)
+        end
+        if hitSlimeStatusLabel then
+            hitSlimeStatusLabel.Text = t("status_stopped")
+            hitSlimeStatusLabel.TextColor3 = Color3.fromRGB(100, 200, 100)
+        end
+        addLog("[HITSLIME] === FINALIZADO ===")
+    end)
+
+    task.spawn(function()
+        while hitSlimeConfig.running do
+            -- noTeleport=true: nem teleporta pro shop de eventos -- o
+            -- Bata o Slime roda 100% por remote (não precisa estar perto
+            -- de nada), e o usuário já fica parado no local de abrir o
+            -- evento antes de clicar Jogar, então mover o personagem só
+            -- atrapalharia. Aqui usa o evento mais barato com o maior
+            -- CashMultiplier do catálogo (não o mais caro geral) -- o
+            -- Bata o Slime quer o bônus de Cash, não gastar EventCoins à
+            -- toa num evento caro que não ajuda a farmar mais rápido.
+            activateMostExpensiveEvent(true, true, findCheapestMaxCashEvent())
+            if not hitSlimeConfig.running then break end
+            waitWhileRunning(EVENT_DURATION_SECONDS + EVENT_DURATION_BUFFER_SECONDS, hitSlimeConfig)
+        end
+    end)
+end
+
+local function stopHitSlimeLoop()
+    hitSlimeConfig.running = false
+    if hitSlimeStatusLabel then
+        hitSlimeStatusLabel.Text = t("status_stopped")
+        hitSlimeStatusLabel.TextColor3 = Color3.fromRGB(100, 200, 100)
+    end
+    addLog("[HITSLIME] Parando...")
+end
+
+-- ========================================
+-- CRIA OS GUARDS DE AUTO-PAUSA (só agora que start/stop de todos já existem)
+-- ========================================
+
+local rampPause, rampResume, rampGuardedStart, rampGuardedStop =
+    makeAutoPauseGuards(rampConfig, function() return rampStatusLabel end, startMasterCycle, stopMasterCycle, "RAMP")
+
+-- Memória e Bata o Slime NÃO entram na pausa automática por outro
+-- jogador -- essa pausa existia porque os loops antigos teleportavam o
+-- personagem pro shop de eventos (precisava "disfarçar" isso enquanto
+-- tinha gente por perto). Agora os dois rodam 100% por remote, sem
+-- mover ninguém, então não tem mais nada pra esconder -- ficam soltos,
+-- rodando direto mesmo com outros jogadores na sala.
+-- Alcance x50 e painel grudado em você ligam em qualquer Jogar, mas só
+-- voltam ao original quando NENHUM dos dois loops está rodando -- por
+-- isso o release fica aqui, onde os dois configs já existem.
+local function releaseMiniGameHelpersIfIdle()
+    if not memoryConfig.running and not hitSlimeConfig.running then
+        MiniGameReach.disable()
+        MiniGameFollow.disable()
+    end
+end
+
+local memoryGuardedStart = startMemoryLoop
+local function memoryGuardedStop()
+    stopMemoryLoop()
+    releaseMiniGameHelpersIfIdle()
+end
+local function hitSlimeGuardedStop()
+    stopHitSlimeLoop()
+    releaseMiniGameHelpersIfIdle()
+end
+
+Players.PlayerAdded:Connect(function(player)
+    if player == LocalPlayer then return end
+    rampPause()
+end)
+
+Players.PlayerRemoving:Connect(function(player)
+    if player == LocalPlayer then return end
+    task.wait(0.2)
+    rampResume()
+end)
+
+-- ========================================
+-- ABA CAM: Free Cam + ABA JOGADORES: Spectate
+-- ========================================
+
+local function buildFreecamFeature()
+
+local freecamConfig = { active = false, baseSpeed = 60, boostMultiplier = 3 }
+local freecamAnchoredHrp = nil
+local freecamSavedHrpAnchored = false
+local freecamSavedCameraType = Enum.CameraType.Custom
+local freecamYaw, freecamPitch = 0, 0
+local freecamLooking = false
+local freecamConnections = {}
+local freecamStatusLabel
+
+local spectatingPlayer = nil
+local playersStatusLabel
+
+local enableFreecam, disableFreecam, toggleFreecam
+local startSpectate, stopSpectate
+
+local function freecamDisconnectAll()
+    for _, conn in ipairs(freecamConnections) do
+        conn:Disconnect()
+    end
+    freecamConnections = {}
+end
+
+local function getCharacterHrp()
+    local character = LocalPlayer.Character
+    if not character then return nil end
+    return character:FindFirstChild("HumanoidRootPart")
+end
+
+enableFreecam = function()
+    if freecamConfig.active then return end
+    if spectatingPlayer then stopSpectate() end
+
+    local camera = Workspace.CurrentCamera
+    freecamSavedCameraType = camera.CameraType
+
+    local hrp = getCharacterHrp()
+    if hrp then
+        freecamAnchoredHrp = hrp
+        freecamSavedHrpAnchored = hrp.Anchored
+        hrp.Anchored = true
+    end
+
+    local lookVector = camera.CFrame.LookVector
+    freecamPitch = math.asin(math.clamp(lookVector.Y, -1, 1))
+    freecamYaw = math.atan2(-lookVector.X, -lookVector.Z)
+
+    camera.CameraType = Enum.CameraType.Scriptable
+    freecamConfig.active = true
+    if freecamStatusLabel then
+        freecamStatusLabel.Text = t("status_freecam_active")
+        freecamStatusLabel.TextColor3 = Color3.fromRGB(255, 200, 0)
+    end
+    addLog("[CAM] Freecam ativado")
+
+    table.insert(freecamConnections, UserInputService.InputBegan:Connect(function(input)
+        if input.UserInputType == Enum.UserInputType.MouseButton2 then
+            freecamLooking = true
+            pcall(function() UserInputService.MouseBehavior = Enum.MouseBehavior.LockCenter end)
+        end
+    end))
+
+    table.insert(freecamConnections, UserInputService.InputEnded:Connect(function(input)
+        if input.UserInputType == Enum.UserInputType.MouseButton2 then
+            freecamLooking = false
+            pcall(function() UserInputService.MouseBehavior = Enum.MouseBehavior.Default end)
+        end
+    end))
+
+    table.insert(freecamConnections, UserInputService.InputChanged:Connect(function(input)
+        if freecamLooking and input.UserInputType == Enum.UserInputType.MouseMovement then
+            freecamYaw = freecamYaw - input.Delta.X * 0.0025
+            freecamPitch = math.clamp(freecamPitch - input.Delta.Y * 0.0025, -math.rad(89), math.rad(89))
+        end
+    end))
+
+    table.insert(freecamConnections, RunService.RenderStepped:Connect(function(dt)
+        local cam = Workspace.CurrentCamera
+        local rotation = CFrame.Angles(0, freecamYaw, 0) * CFrame.Angles(freecamPitch, 0, 0)
+
+        local moveVector = Vector3.new()
+        if UserInputService:IsKeyDown(Enum.KeyCode.W) then moveVector += Vector3.new(0, 0, -1) end
+        if UserInputService:IsKeyDown(Enum.KeyCode.S) then moveVector += Vector3.new(0, 0, 1) end
+        if UserInputService:IsKeyDown(Enum.KeyCode.A) then moveVector += Vector3.new(-1, 0, 0) end
+        if UserInputService:IsKeyDown(Enum.KeyCode.D) then moveVector += Vector3.new(1, 0, 0) end
+        if UserInputService:IsKeyDown(Enum.KeyCode.Space) then moveVector += Vector3.new(0, 1, 0) end
+        if UserInputService:IsKeyDown(Enum.KeyCode.LeftControl) or UserInputService:IsKeyDown(Enum.KeyCode.C) then
+            moveVector += Vector3.new(0, -1, 0)
+        end
+
+        if moveVector.Magnitude > 0 then moveVector = moveVector.Unit end
+
+        local speed = freecamConfig.baseSpeed
+        if UserInputService:IsKeyDown(Enum.KeyCode.LeftShift) then
+            speed = speed * freecamConfig.boostMultiplier
+        end
+
+        local worldMove = rotation:VectorToWorldSpace(moveVector) * speed * dt
+        cam.CFrame = CFrame.new(cam.CFrame.Position + worldMove) * rotation
+    end))
+end
+
+disableFreecam = function()
+    if not freecamConfig.active then return end
+    freecamConfig.active = false
+
+    freecamDisconnectAll()
+    freecamLooking = false
+    pcall(function() UserInputService.MouseBehavior = Enum.MouseBehavior.Default end)
+
+    local camera = Workspace.CurrentCamera
+    camera.CameraType = freecamSavedCameraType == Enum.CameraType.Scriptable and Enum.CameraType.Custom or freecamSavedCameraType
+
+    if freecamAnchoredHrp and freecamAnchoredHrp.Parent then
+        freecamAnchoredHrp.Anchored = freecamSavedHrpAnchored
+    end
+    freecamAnchoredHrp = nil
+
+    if freecamStatusLabel then
+        freecamStatusLabel.Text = t("status_inactive")
+        freecamStatusLabel.TextColor3 = Color3.fromRGB(100, 200, 100)
+    end
+    addLog("[CAM] Freecam desativado")
+end
+
+toggleFreecam = function()
+    if freecamConfig.active then disableFreecam() else enableFreecam() end
+end
+
+startSpectate = function(player)
+    if not player or player == LocalPlayer then return end
+    if freecamConfig.active then disableFreecam() end
+
+    local character = player.Character
+    if not character then
+        addLog("[PLAYERS] [!] " .. player.Name .. " não tem personagem carregado")
+        return
+    end
+
+    local humanoid = character:FindFirstChildOfClass("Humanoid")
+    local camera = Workspace.CurrentCamera
+    camera.CameraType = Enum.CameraType.Custom
+    camera.CameraSubject = humanoid or character:FindFirstChild("Head") or character.PrimaryPart
+
+    spectatingPlayer = player
+    if playersStatusLabel then
+        playersStatusLabel.Text = t("status_watching") .. player.Name
+        playersStatusLabel.TextColor3 = Color3.fromRGB(255, 200, 0)
+    end
+    addLog("[PLAYERS] Espectando " .. player.Name)
+end
+
+stopSpectate = function()
+    if not spectatingPlayer then return end
+    spectatingPlayer = nil
+
+    local camera = Workspace.CurrentCamera
+    camera.CameraType = Enum.CameraType.Custom
+    local myChar = LocalPlayer.Character
+    camera.CameraSubject = myChar and myChar:FindFirstChildOfClass("Humanoid")
+
+    if playersStatusLabel then
+        playersStatusLabel.Text = t("status_none_normal_cam")
+        playersStatusLabel.TextColor3 = Color3.fromRGB(100, 200, 100)
+    end
+    addLog("[PLAYERS] Spectate desativado")
+end
+
+return {
+    config = freecamConfig,
+    enable = enableFreecam,
+    disable = disableFreecam,
+    toggle = toggleFreecam,
+    startSpectate = startSpectate,
+    stopSpectate = stopSpectate,
+    setFreecamStatusLabel = function(lbl) freecamStatusLabel = lbl end,
+    setPlayersStatusLabel = function(lbl) playersStatusLabel = lbl end,
+    isSpectating = function() return spectatingPlayer ~= nil end,
+    getSpectatingPlayer = function() return spectatingPlayer end,
+}
+end
+
+local Freecam = buildFreecamFeature()
+
+LocalPlayer.CharacterAdded:Connect(function()
+    Freecam.disable()
+    if Freecam.isSpectating() then Freecam.stopSpectate() end
+end)
+
+Players.PlayerRemoving:Connect(function(player)
+    if Freecam.getSpectatingPlayer() == player then Freecam.stopSpectate() end
+end)
+
+UserInputService.InputBegan:Connect(function(input, processed)
+    if not isCurrentHubGeneration() then return end
+    if input.KeyCode == Enum.KeyCode.F5 then
+        Freecam.toggle()
+    end
+end)
+
+-- ========================================
+-- IMPULSO DA PISTA (CARRO): segura SHIFT pra empurrar o carro pra frente
+-- com força extra, solta e o impulso para na hora -- reaproveita o mesmo
+-- findPlayerCarModel() já usado pelo ciclo do Ramp.
+-- ========================================
+
+local carBoostConfig = { enabled = false, force = 120, holding = false }
+local carStatusLabel
+
+local function getCarMainPart(car)
+    if not car then return nil end
+    return car.PrimaryPart or car:FindFirstChildWhichIsA("BasePart", true)
+end
+
+UserInputService.InputBegan:Connect(function(input, processed)
+    if not isCurrentHubGeneration() then return end
+    if input.KeyCode == Enum.KeyCode.LeftShift or input.KeyCode == Enum.KeyCode.RightShift then
+        carBoostConfig.holding = true
+    end
+end)
+
+UserInputService.InputEnded:Connect(function(input)
+    if not isCurrentHubGeneration() then return end
+    if input.KeyCode == Enum.KeyCode.LeftShift or input.KeyCode == Enum.KeyCode.RightShift then
+        carBoostConfig.holding = false
+    end
+end)
+
+RunService.Heartbeat:Connect(function(dt)
+    if not isCurrentHubGeneration() then return end
+    if not carBoostConfig.enabled then
+        if carStatusLabel then
+            carStatusLabel.Text = t("status_off")
+            carStatusLabel.TextColor3 = Color3.fromRGB(100, 200, 100)
+        end
+        return
+    end
+
+    if not carBoostConfig.holding then
+        if carStatusLabel then
+            carStatusLabel.Text = t("status_on_hold_shift")
+            carStatusLabel.TextColor3 = Color3.fromRGB(255, 200, 0)
+        end
+        return
+    end
+
+    local carPart = getCarMainPart(findPlayerCarModel())
+    if not carPart then
+        if carStatusLabel then
+            carStatusLabel.Text = t("status_on_no_car")
+            carStatusLabel.TextColor3 = Color3.fromRGB(255, 140, 0)
+        end
+        return
+    end
+
+    local forward = carPart.CFrame.LookVector
+    carPart.AssemblyLinearVelocity = carPart.AssemblyLinearVelocity + forward * carBoostConfig.force * dt
+
+    if carStatusLabel then
+        carStatusLabel.Text = t("status_boosting")
+        carStatusLabel.TextColor3 = Color3.fromRGB(0, 220, 220)
+    end
+end)
+
+-- ========================================
+-- FLY / NO-CLIP COM O CARRO: desliga a colisão do carro inteiro e deixa
+-- mover ele livremente (voando) com WASD/Space/Ctrl relativo à câmera,
+-- igual o Free Cam -- mas movendo o carro (com você sentado) em vez da
+-- câmera. Tudo dentro de uma função própria pra não gastar registro de
+-- variável local do chunk principal.
+-- ========================================
+
+local function buildCarFlyFeature()
+    local flyConfig = { active = false, speed = 90, boostMultiplier = 3 }
+    local savedCollide = {}
+    local connections = {}
+    local statusLabel = nil
+
+    local function disconnectAll()
+        for _, conn in ipairs(connections) do conn:Disconnect() end
+        connections = {}
+    end
+
+    local function setStatus(text, color)
+        if statusLabel then
+            statusLabel.Text = text
+            statusLabel.TextColor3 = color
+        end
+    end
+
+    local function enable()
+        if flyConfig.active then return end
+        local car = findPlayerCarModel()
+        if not car then
+            addLog("[FLY] [!] Model do carro não encontrado")
+            return
+        end
+
+        savedCollide = {}
+        for _, part in ipairs(car:GetDescendants()) do
+            if part:IsA("BasePart") then
+                savedCollide[part] = part.CanCollide
+                part.CanCollide = false
+            end
+        end
+
+        flyConfig.active = true
+        setStatus(t("status_flying"), Color3.fromRGB(0, 220, 220))
+        addLog("[FLY] Ativado")
+
+        connections[#connections + 1] = RunService.RenderStepped:Connect(function(dt)
+            local currentCar = findPlayerCarModel()
+            if not currentCar then return end
+            local carPart = currentCar.PrimaryPart or currentCar:FindFirstChildWhichIsA("BasePart", true)
+            if not carPart then return end
+
+            local camera = Workspace.CurrentCamera
+            local camCFrame = camera.CFrame
+
+            local moveVector = Vector3.new()
+            if UserInputService:IsKeyDown(Enum.KeyCode.W) then moveVector += Vector3.new(0, 0, -1) end
+            if UserInputService:IsKeyDown(Enum.KeyCode.S) then moveVector += Vector3.new(0, 0, 1) end
+            if UserInputService:IsKeyDown(Enum.KeyCode.A) then moveVector += Vector3.new(-1, 0, 0) end
+            if UserInputService:IsKeyDown(Enum.KeyCode.D) then moveVector += Vector3.new(1, 0, 0) end
+            if UserInputService:IsKeyDown(Enum.KeyCode.Space) then moveVector += Vector3.new(0, 1, 0) end
+            if UserInputService:IsKeyDown(Enum.KeyCode.LeftControl) or UserInputService:IsKeyDown(Enum.KeyCode.C) then
+                moveVector += Vector3.new(0, -1, 0)
+            end
+
+            if moveVector.Magnitude == 0 then return end
+            moveVector = moveVector.Unit
+
+            local speed = flyConfig.speed
+            if UserInputService:IsKeyDown(Enum.KeyCode.LeftShift) then
+                speed = speed * flyConfig.boostMultiplier
+            end
+
+            local worldMove = camCFrame:VectorToWorldSpace(moveVector) * speed * dt
+            local currentRotation = carPart.CFrame - carPart.CFrame.Position
+            local newCFrame = CFrame.new(carPart.Position + worldMove) * currentRotation
+
+            local ok = pcall(function()
+                if currentCar.PrimaryPart then
+                    currentCar:SetPrimaryPartCFrame(newCFrame)
+                else
+                    carPart.CFrame = newCFrame
+                end
+            end)
+            if ok then
+                carPart.AssemblyLinearVelocity = Vector3.new(0, 0, 0)
+                carPart.AssemblyAngularVelocity = Vector3.new(0, 0, 0)
+            end
+        end)
+    end
+
+    local function disable()
+        if not flyConfig.active then return end
+        flyConfig.active = false
+        disconnectAll()
+
+        for part, collide in pairs(savedCollide) do
+            if part.Parent then
+                part.CanCollide = collide
+            end
+        end
+        savedCollide = {}
+
+        setStatus(t("status_off"), Color3.fromRGB(100, 200, 100))
+        addLog("[FLY] Desativado")
+    end
+
+    local function toggle()
+        if flyConfig.active then disable() else enable() end
+    end
+
+    return {
+        config = flyConfig,
+        toggle = toggle,
+        disable = disable,
+        setStatusLabel = function(lbl) statusLabel = lbl end,
+    }
+end
+
+local CarFly = buildCarFlyFeature()
+
+-- ========================================
+-- MEGA JUMP INSTA: colapsa CarSpawn + JumpCar + o checkpoint final (92,
+-- o multiplicador x1000000) pro MESMO ponto, e desativa as CarResetZones
+-- -- assim o carro nasce, já está "no" JumpCar e "no" checkpoint final,
+-- tudo no mesmo lugar, sem percurso nenhum. 100% client-side: as parts
+-- reais do jogo continuam nos lugares originais pro servidor e pros
+-- outros jogadores, só a SUA cópia renderizada é que muda de posição
+-- (mesma técnica do moveMiniGameButtonToEventShop, aplicada em 3 parts).
+-- As CarResetZones não são destruídas de verdade -- só desligamos
+-- Collide/Touch e escondemos (Transparency=1), assim dá pra desfazer
+-- (Restaurar) sem precisar recarregar o script inteiro.
+-- ========================================
+
+local function buildMegaJumpInstaFeature()
+    local enabled = false
+    local saved = { carSpawn = nil, jumpCar = nil, checkpoint92 = nil, checkpoint92Size = nil, checkpoint92SquareDups = {}, landingZone3 = nil, resetZones = {}, jumpCarForceAttrs = {} }
+
+    local function findCarResetZonesFolder()
+        local direct = Workspace:FindFirstChild("CarResetZones", true)
+        if direct then return direct end
+        return nil
+    end
+
+    local function findCarSpawnPart()
+        local direct = Workspace:FindFirstChild("CarSpawn", true)
+        if direct and direct:IsA("BasePart") then return direct end
+        return nil
+    end
+
+    local function findCheckpoint92()
+        local folder = Workspace:FindFirstChild("Checkpoints", true)
+        if not folder then return nil end
+
+        -- Busca exata por nome "92" entre os filhos diretos primeiro
+        -- (FindFirstChild pode devolver algo inesperado se houver mais de
+        -- uma pasta "Checkpoints" no jogo -- por isso comparamos o nome
+        -- manualmente em vez de confiar cegamente no primeiro achado).
+        local child = nil
+        for _, c in ipairs(folder:GetChildren()) do
+            if c.Name == "92" then
+                child = c
+                break
+            end
+        end
+        if not child then
+            addLog("[MEGA-JUMP-INSTA] [!] Não achei um filho chamado '92' dentro de " .. folder:GetFullName())
+            return nil
+        end
+
+        local part = child:IsA("BasePart") and child or child:FindFirstChildWhichIsA("BasePart", true)
+        if part then
+            addLog("[MEGA-JUMP-INSTA] [*] Checkpoint 92 encontrado: " .. part:GetFullName())
+        end
+        return part
+    end
+
+    local function findLandingZone3()
+        local direct = Workspace:FindFirstChild("LandingZone3", true)
+        if not direct then return nil end
+        if direct:IsA("BasePart") then return direct end
+        return direct:FindFirstChildWhichIsA("BasePart", true)
+    end
+
+    -- Offsets medidos direto no Studio (Properties de cada part, com o
+    -- CarSpawn tomado como ponto de referência (0,0,0)):
+    --   CarSpawn:     -0.108, 125.979, -1563.82
+    --   JumpCar:      -0,     143.307, -1539.577  -> offset (0, +17.328, +24.243)
+    --   Checkpoint 92: -0.021, 216,    -1538.844  -> offset (+0.087, +90.021, +24.976)
+    -- Ou seja, o JumpCar NÃO fica no mesmo Y do CarSpawn (fica ~17 studs
+    -- mais alto) e o Checkpoint 92 fica bem mais alto ainda (~90 studs),
+    -- igual a rampa real do jogo -- por isso não dá pra colapsar os 3 no
+    -- mesmo ponto exato, só alinhar em X/Z e respeitar essas diferenças
+    -- de altura. Além de mover, também zeramos qualquer Attribute de
+    -- força/impulso do JumpCar (nomes tipo Force/Power/Impulse/Speed),
+    -- restaurando os valores originais no Restaurar.
+    -- LandingZone3: -8.181, 186.895, -1398.538 -> offset (-8.073, +60.916, +165.282)
+    -- Checkpoint 92 (novo valor): -0.021, 216, -1541.379 -> offset (+0.087, +90.021, +22.441)
+    local JUMP_CAR_OFFSET = Vector3.new(0.108, 17.328, 24.243)
+    local CHECKPOINT92_OFFSET = Vector3.new(0.087, 90.021, 22.441)
+    local LANDING_ZONE_OFFSET = Vector3.new(-8.073, 60.916, 165.282)
+    local FORCE_ATTRIBUTE_KEYWORDS = { "force", "power", "impulse", "speed", "launch", "jump" }
+    -- Checkpoint 92 é minúsculo perto do JumpCar/CarSpawn -- quando tudo
+    -- colapsa pro mesmo ponto, o carro acaba pousando fora da área de
+    -- toque dele e triggando os checkpoints 0/1 por engano (que são bem
+    -- maiores). Aumentamos o Size dele (mantendo o centro) só enquanto
+    -- ativo, pra garantir que a área cubra o ponto alvo.
+    local CHECKPOINT_SIZE_MULTIPLIER = 6
+
+    -- Além de aumentar o Size do Checkpoint 92 em si, criamos mais 3
+    -- cópias dele ao redor -- mais acima, mais abaixo (só um pouco, pra
+    -- não ficar longe demais do chão) e mais à frente -- formando um
+    -- "quadrado" de áreas de toque em volta do ponto alvo. Cada cópia
+    -- dispara o MESMO MiniParkourEvent("CheckpointTouched", 92) que o
+    -- original.
+    local CHECKPOINT_SQUARE_OFFSETS = {
+        Vector3.new(0, 40, 0),   -- mais acima
+        Vector3.new(0, -15, 0),  -- mais abaixo (não tão abaixo)
+        Vector3.new(0, 0, 40),   -- mais à frente
+    }
+
+    local function wireCheckpoint92DupTouched(part)
+        part.CanTouch = true
+        part.CanCollide = false
+        part.Touched:Connect(function(hit)
+            if not hit then return end
+            local isMine = false
+            local character = LocalPlayer.Character
+            if character and hit:IsDescendantOf(character) then
+                isMine = true
+            else
+                local model = hit:FindFirstAncestorOfClass("Model")
+                isMine = model ~= nil and model:GetAttribute("OwnerUserId") == LocalPlayer.UserId
+            end
+            if not isMine then return end
+            if not Remotes.miniParkourEvent then return end
+            pcall(function() Remotes.miniParkourEvent:FireServer("CheckpointTouched", 92) end)
+            addLog("[MEGA-JUMP-INSTA] Checkpoint 92 (cópia do quadrado) disparado")
+        end)
+    end
+
+    local function createCheckpoint92SquareDuplicates(checkpoint92)
+        local dups = {}
+        for _, offset in ipairs(CHECKPOINT_SQUARE_OFFSETS) do
+            local clone = checkpoint92:Clone()
+            clone.Name = "92_HubSquareDup"
+            clone.CFrame = checkpoint92.CFrame + offset
+            clone.Parent = checkpoint92.Parent
+            wireCheckpoint92DupTouched(clone)
+            table.insert(dups, clone)
+        end
+        return dups
+    end
+
+    local function removeCheckpoint92SquareDuplicates(dups)
+        for _, part in ipairs(dups) do
+            if part.Parent then part:Destroy() end
+        end
+    end
+
+    local function zeroOutJumpCarForce(jumpCar)
+        local savedAttrs = {}
+        local ok, attrs = pcall(function() return jumpCar:GetAttributes() end)
+        if ok and attrs then
+            for name, value in pairs(attrs) do
+                if typeof(value) == "number" then
+                    local lowerName = name:lower()
+                    for _, keyword in ipairs(FORCE_ATTRIBUTE_KEYWORDS) do
+                        if lowerName:find(keyword, 1, true) then
+                            savedAttrs[name] = value
+                            pcall(function() jumpCar:SetAttribute(name, 0) end)
+                            addLog("[MEGA-JUMP-INSTA] [*] Attribute '" .. name .. "' (" .. tostring(value) .. ") zerado no JumpCar")
+                            break
+                        end
+                    end
+                end
+            end
+        end
+        return savedAttrs
+    end
+
+    local function restoreJumpCarForce(jumpCar, savedAttrs)
+        if not jumpCar or not jumpCar.Parent then return end
+        for name, value in pairs(savedAttrs) do
+            pcall(function() jumpCar:SetAttribute(name, value) end)
+        end
+    end
+
+    local function enable(x, y, z)
+        if enabled then return end
+
+        local carSpawn = findCarSpawnPart()
+        local jumpCar = jumpCarPart or findJumpCarPart()
+        local checkpoint92 = findCheckpoint92()
+        local landingZone3 = findLandingZone3()
+
+        if not carSpawn or not jumpCar or not checkpoint92 then
+            addLog("[MEGA-JUMP-INSTA] [!] Não achei tudo (CarSpawn=" .. tostring(carSpawn ~= nil)
+                .. ", JumpCar=" .. tostring(jumpCar ~= nil) .. ", Checkpoint 92=" .. tostring(checkpoint92 ~= nil) .. ")")
+            return
+        end
+
+        saved.carSpawn = { part = carSpawn, cframe = carSpawn.CFrame }
+        saved.jumpCar = { part = jumpCar, cframe = jumpCar.CFrame }
+        saved.checkpoint92 = { part = checkpoint92, cframe = checkpoint92.CFrame }
+        saved.checkpoint92Size = checkpoint92.Size
+        saved.landingZone3 = landingZone3 and { part = landingZone3, cframe = landingZone3.CFrame } or nil
+
+        local target = Vector3.new(x, y, z)
+        local function moveKeepingRotation(part, position)
+            local rotation = part.CFrame - part.CFrame.Position
+            part.CFrame = CFrame.new(position) * rotation
+        end
+        moveKeepingRotation(carSpawn, target)
+        moveKeepingRotation(jumpCar, target + JUMP_CAR_OFFSET)
+        moveKeepingRotation(checkpoint92, target + CHECKPOINT92_OFFSET)
+        checkpoint92.Size = saved.checkpoint92Size * CHECKPOINT_SIZE_MULTIPLIER
+        addLog("[MEGA-JUMP-INSTA] [*] Checkpoint 92 aumentado de " .. tostring(saved.checkpoint92Size) .. " pra " .. tostring(checkpoint92.Size))
+        saved.checkpoint92SquareDups = createCheckpoint92SquareDuplicates(checkpoint92)
+        addLog("[MEGA-JUMP-INSTA] [*] " .. #saved.checkpoint92SquareDups .. " cópias do Checkpoint 92 criadas em quadrado (acima/abaixo/frente)")
+        if landingZone3 then
+            moveKeepingRotation(landingZone3, target + LANDING_ZONE_OFFSET)
+        else
+            addLog("[MEGA-JUMP-INSTA] [!] LandingZone3 não encontrada (seguindo sem mover)")
+        end
+
+        saved.jumpCarForceAttrs = zeroOutJumpCarForce(jumpCar)
+
+        saved.resetZones = {}
+        local resetFolder = findCarResetZonesFolder()
+        if resetFolder then
+            for _, part in ipairs(resetFolder:GetDescendants()) do
+                if part:IsA("BasePart") then
+                    saved.resetZones[part] = { canCollide = part.CanCollide, canTouch = part.CanTouch, transparency = part.Transparency }
+                    part.CanCollide = false
+                    part.CanTouch = false
+                    part.Transparency = 1
+                end
+            end
+        else
+            addLog("[MEGA-JUMP-INSTA] [!] CarResetZones não encontrado (seguindo sem desativar)")
+        end
+
+        enabled = true
+        addLog("[MEGA-JUMP-INSTA] [✓] Ativado -- CarSpawn/JumpCar/Checkpoint92 movidos pra (" .. x .. ", " .. y .. ", " .. z .. "), CarResetZones desativadas (só na sua tela)")
+    end
+
+    local function disable()
+        if not enabled then return end
+
+        if saved.carSpawn and saved.carSpawn.part.Parent then saved.carSpawn.part.CFrame = saved.carSpawn.cframe end
+        if saved.jumpCar and saved.jumpCar.part.Parent then saved.jumpCar.part.CFrame = saved.jumpCar.cframe end
+        if saved.checkpoint92 and saved.checkpoint92.part.Parent then
+            saved.checkpoint92.part.CFrame = saved.checkpoint92.cframe
+            if saved.checkpoint92Size then saved.checkpoint92.part.Size = saved.checkpoint92Size end
+        end
+        removeCheckpoint92SquareDuplicates(saved.checkpoint92SquareDups)
+        saved.checkpoint92SquareDups = {}
+        if saved.landingZone3 and saved.landingZone3.part.Parent then saved.landingZone3.part.CFrame = saved.landingZone3.cframe end
+
+        if saved.jumpCar then
+            restoreJumpCarForce(saved.jumpCar.part, saved.jumpCarForceAttrs)
+        end
+        saved.jumpCarForceAttrs = {}
+
+        for part, state in pairs(saved.resetZones) do
+            if part.Parent then
+                part.CanCollide = state.canCollide
+                part.CanTouch = state.canTouch
+                part.Transparency = state.transparency
+            end
+        end
+        saved.resetZones = {}
+
+        enabled = false
+        addLog("[MEGA-JUMP-INSTA] Restaurado -- posições e CarResetZones originais de volta")
+    end
+
+    return {
+        enable = enable,
+        disable = disable,
+        isEnabled = function() return enabled end,
+        getDefaultPosition = function()
+            local carSpawn = findCarSpawnPart()
+            if carSpawn then return carSpawn.Position end
+            return Vector3.new(0, 0, 0)
+        end,
+    }
+end
+
+MegaJumpInsta = buildMegaJumpInstaFeature()
+
+-- ========================================
+-- CHECKPOINT FINAL -> CHECKPOINT 1 + LANDINGZONE1 -> LANDINGZONE3: mesmo
+-- toggle, dois movimentos independentes do Mega Jump Insta -- move a
+-- part do ÚLTIMO checkpoint numerado (hoje é 92, mas pega dinamicamente
+-- o maior número que existir na pasta Checkpoints -- se o jogo adicionar
+-- 93, 94 etc no futuro, continua pegando o certo sozinho) pra cima do
+-- Checkpoint 1, E a LandingZone1 pra cima da LandingZone3 (mantendo a
+-- rotação original de cada uma), sem mexer em JumpCar, CarSpawn,
+-- CarResetZones nem criar cópias em quadrado. 100% client-side (só a SUA
+-- tela vê elas nessa posição nova).
+-- ========================================
+
+local function buildCheckpoint92To1Feature()
+    local enabled = false
+    local savedFinal = nil
+    local savedLandingZone1 = nil
+
+    local function findCheckpointByNumber(number)
+        local folder = Workspace:FindFirstChild("Checkpoints", true)
+        if not folder then return nil end
+        local child = nil
+        for _, c in ipairs(folder:GetChildren()) do
+            if c.Name == tostring(number) then
+                child = c
+                break
+            end
+        end
+        if not child then return nil end
+        return child:IsA("BasePart") and child or child:FindFirstChildWhichIsA("BasePart", true)
+    end
+
+    local function findMaxCheckpoint()
+        local folder = Workspace:FindFirstChild("Checkpoints", true)
+        if not folder then return nil, nil end
+        local maxNumber, maxChild = nil, nil
+        for _, c in ipairs(folder:GetChildren()) do
+            local n = tonumber(c.Name)
+            if n and (not maxNumber or n > maxNumber) then
+                maxNumber, maxChild = n, c
+            end
+        end
+        if not maxChild then return nil, nil end
+        local part = maxChild:IsA("BasePart") and maxChild or maxChild:FindFirstChildWhichIsA("BasePart", true)
+        return part, maxNumber
+    end
+
+    local function findLandingZoneByNumber(number)
+        local direct = Workspace:FindFirstChild("LandingZone" .. number, true)
+        if not direct then return nil end
+        if direct:IsA("BasePart") then return direct end
+        return direct:FindFirstChildWhichIsA("BasePart", true)
+    end
+
+    local function enable()
+        if enabled then return end
+
+        local checkpointFinal, finalNumber = findMaxCheckpoint()
+        local checkpoint1 = findCheckpointByNumber(1)
+        local landingZone1 = findLandingZoneByNumber(1)
+        local landingZone3 = findLandingZoneByNumber(3)
+
+        if not checkpointFinal or not checkpoint1 then
+            addLog("[CHECKPOINT-FINAL-TO-1] [!] Não achei tudo (CheckpointFinal=" .. tostring(checkpointFinal ~= nil)
+                .. ", Checkpoint1=" .. tostring(checkpoint1 ~= nil) .. ")")
+            return
+        end
+
+        savedFinal = { part = checkpointFinal, cframe = checkpointFinal.CFrame }
+
+        local rotationFinal = checkpointFinal.CFrame - checkpointFinal.CFrame.Position
+        checkpointFinal.CFrame = CFrame.new(checkpoint1.Position) * rotationFinal
+
+        if landingZone1 and landingZone3 then
+            savedLandingZone1 = { part = landingZone1, cframe = landingZone1.CFrame }
+            local rotationLZ = landingZone1.CFrame - landingZone1.CFrame.Position
+            landingZone1.CFrame = CFrame.new(landingZone3.Position) * rotationLZ
+            addLog("[CHECKPOINT-FINAL-TO-1] [✓] LandingZone1 movida pra cima da LandingZone3 (só na sua tela)")
+        else
+            addLog("[CHECKPOINT-FINAL-TO-1] [!] LandingZone1/LandingZone3 não encontradas (seguindo sem mover)")
+        end
+
+        enabled = true
+        addLog("[CHECKPOINT-FINAL-TO-1] [✓] Checkpoint " .. finalNumber .. " (o último) movido pra cima do Checkpoint 1 (só na sua tela)")
+    end
+
+    local function disable()
+        if not enabled then return end
+
+        if savedFinal and savedFinal.part.Parent then
+            savedFinal.part.CFrame = savedFinal.cframe
+        end
+        savedFinal = nil
+
+        if savedLandingZone1 and savedLandingZone1.part.Parent then
+            savedLandingZone1.part.CFrame = savedLandingZone1.cframe
+        end
+        savedLandingZone1 = nil
+
+        enabled = false
+        addLog("[CHECKPOINT-FINAL-TO-1] Restaurado -- checkpoint final e LandingZone1 de volta pro lugar original")
+    end
+
+    local function toggle()
+        if enabled then disable() else enable() end
+        return enabled
+    end
+
+    return {
+        toggle = toggle,
+        isEnabled = function() return enabled end,
+    }
+end
+
+local Checkpoint92To1 = buildCheckpoint92To1Feature()
+
+-- ========================================
+-- ASMR PARKOUR - LOOP AUTOMÁTICO (aba Jogos): vasculhando o .rbxlx
+-- inteiro atrás de TODOS os ProximityPrompt do mapa, achamos que o Mini
+-- Parkour tem DUAS entradas físicas totalmente separadas -- uma pra
+-- CARRO ("MiniParkourEnter"/"MiniParkourPrompt", do outro lado do mapa)
+-- e outra só de PÉ ("MiniParkourFootEnter"/"MiniParkourFootPrompt",
+-- ActionText "Play Foot Parkour", bem do lado da placa "ASMR Parkour" --
+-- pasta PARKOURFOOT_SIGN). A versão anterior desse hub só procurava a
+-- entrada de CARRO -- por isso SEMPRE caía no modo CAR (mesmo sem carro
+-- nenhum por perto) e os checkpoints nunca validavam de verdade além do
+-- 1º: a gente tava tentando andar a pé pela pista pensada pra carro, em
+-- vez de entrar na pista certa (ASMR Parkour). Usando a entrada certa,
+-- o próprio servidor já manda Mode="FOOT" e o nível certo -- sem
+-- precisar de carro nenhum, só o personagem indo até a posição real de
+-- cada checkpoint.
+-- ========================================
+
+local asmrParkourLoadedFlag = false
+local asmrParkourFinishedFlag = false
+local asmrParkourMenuMapName = nil
+
+-- Confirmação REAL do servidor de qual checkpoint foi aceito -- o
+-- próprio jogo manda de volta MiniParkourEvent:FireClient(player,
+-- "CheckpointText", numeroAtual, total) toda vez que o SERVIDOR aceita
+-- um CheckpointTouched (é esse mesmo evento que atualiza o texto
+-- "CHECKPOINT X/35" na tela) -- confiar nisso em vez de só assumir que
+-- "tocou = contou" é o único jeito de saber se um checkpoint foi
+-- REALMENTE validado pelo servidor ou não.
+local asmrParkourConfirmedCheckpoint = 0
+
+if Remotes.miniParkourEvent then
+    Remotes.miniParkourEvent.OnClientEvent:Connect(function(kind, ...)
+        if kind == "LoadParkour" then
+            asmrParkourLoadedFlag = true
+        elseif kind == "FinishMessage" then
+            asmrParkourFinishedFlag = true
+        elseif kind == "OpenLevelMenu" then
+            local _, levelList = ...
+            asmrParkourMenuMapName = nil
+            if type(levelList) == "table" then
+                -- O menu de PÉ pode ter mais de um nível -- procura um
+                -- cujo Título/MapName mencione "ASMR" antes de simplesmente
+                -- pegar o primeiro da lista.
+                local chosen = nil
+                for _, entry in pairs(levelList) do
+                    if type(entry) == "table" then
+                        local title = tostring(entry.Title or ""):lower()
+                        local mapName = tostring(entry.MapName or ""):lower()
+                        if title:find("asmr", 1, true) or mapName:find("asmr", 1, true) then
+                            chosen = entry
+                            break
+                        end
+                    end
+                end
+                if not chosen then
+                    chosen = levelList[1]
+                    if chosen == nil then
+                        for _, v in pairs(levelList) do chosen = v break end
+                    end
+                end
+                if chosen then
+                    asmrParkourMenuMapName = tostring(chosen.MapName or "")
+                end
+            end
+        elseif kind == "CheckpointText" then
+            local current = ...
+            local num = tonumber(current)
+            if num and num > asmrParkourConfirmedCheckpoint then
+                asmrParkourConfirmedCheckpoint = num
+            end
+        end
+    end)
+end
+
+local function findAsmrParkourPrompt()
+    local enterPart = Workspace:FindFirstChild("MiniParkourFootEnter", true)
+    if enterPart then
+        local prompt = enterPart:FindFirstChildWhichIsA("ProximityPrompt", true)
+        if prompt then return prompt end
+    end
+    for _, obj in pairs(Workspace:GetDescendants()) do
+        if obj:IsA("ProximityPrompt") and obj.Name == "MiniParkourFootPrompt" then return obj end
+    end
+    return nil
+end
+
+local function buildAsmrParkourFeature()
+    local running = false
+    local config = { startCheckpoint = 1, endCheckpoint = 32, delaySeconds = 1.5, touchSizeMultiplier = 4 }
+    local statusLabel = nil
+
+    local function setStatus(text, color)
+        if statusLabel then
+            statusLabel.Text = text
+            statusLabel.TextColor3 = color
+        end
+    end
+
+    local function findLocalCheckpointPart(checkpointsFolder, number)
+        if not checkpointsFolder then return nil end
+        local child = checkpointsFolder:FindFirstChild(tostring(number))
+        if not child then return nil end
+        if child:IsA("BasePart") then return child end
+        return child:FindFirstChildWhichIsA("BasePart", true)
+    end
+
+    local function moveCharacterTo(cframe)
+        local character = LocalPlayer.Character
+        local hrp = character and character:FindFirstChild("HumanoidRootPart")
+        if not hrp then return false end
+        hrp.CFrame = cframe
+        return true
+    end
+
+    -- Aumenta o tamanho de CADA checkpoint do clone local (só na SUA
+    -- tela, client-side -- igual o Mega Jump Insta já faz com o
+    -- Checkpoint 92) -- quem detecta o toque é a física do SEU client
+    -- contra essa cópia local (é o Touched dela que dispara o
+    -- CheckpointTouched pro servidor), então uma área maior aceita
+    -- passar mais longe do centro sem precisar acertar um ponto
+    -- pequeno, permitindo ir mais rápido sem cair na 2ª tentativa
+    -- (recuar e atravessar) com tanta frequência.
+    local function enlargeCheckpointTouchZones(checkpointsFolder, first, last)
+        local multiplier = math.max(tonumber(config.touchSizeMultiplier) or 4, 1)
+        local count = 0
+        for number = first, last do
+            local part = findLocalCheckpointPart(checkpointsFolder, number)
+            if part then
+                part.Size = part.Size * multiplier
+                count = count + 1
+            end
+        end
+        return count, multiplier
+    end
+
+    -- Pra CADA checkpoint, na posição REAL dele (sem mexer na part),
+    -- sobe ~10 studs acima e desce por cima, sempre com o PERSONAGEM
+    -- (Foot Parkour não usa carro nenhum). Se essa 1ª tentativa não
+    -- confirmar, a 2ª recua um pouco
+    -- ATRÁS do checkpoint (na direção oposta à dele) e atravessa por
+    -- cima.
+    --
+    -- A confirmação é por DIFERENÇA (o contador subiu em relação ao
+    -- valor de ANTES dessa tentativa específica), nunca por valor
+    -- absoluto -- o jogo manda um CheckpointText inicial (ex: "1/35")
+    -- só de você estar na largada, ANTES de tocar em qualquer coisa de
+    -- verdade -- comparar por valor absoluto faria a gente achar que o
+    -- Checkpoint 1 já tinha sido confirmado e pular ele direto pro 2.
+    local function captureSequential(checkpointsFolder, first, last)
+        local minWait = math.max(tonumber(config.delaySeconds) or 1.5, 1.5)
+
+        for number = first, last do
+            if not running or asmrParkourFinishedFlag then break end
+
+            -- Atalho: com a área de toque maior, é comum passar por CIMA
+            -- de um checkpoint mais à frente sem querer enquanto anda até
+            -- o atual -- se o contador já mostra esse número (ou mais)
+            -- como confirmado, nem tenta de novo, só segue pro próximo.
+            -- (sem goto/label aqui -- esse executor não suporta essa
+            -- sintaxe do Lua, dava "Incomplete statement" na hora de
+            -- compilar o script inteiro.)
+            if asmrParkourConfirmedCheckpoint >= number then
+                addLog("[ASMR-PARKOUR] Checkpoint " .. number .. "/" .. last .. " [✓ CONFIRMADO -- já validado de passagem]")
+                setStatus("Status: RODANDO (" .. number .. "/" .. last .. ")", Color3.fromRGB(255, 200, 0))
+            else
+                local part = findLocalCheckpointPart(checkpointsFolder, number)
+                if not part then
+                    addLog("[ASMR-PARKOUR] [!] Checkpoint " .. number .. " não encontrado no clone local -- pulando")
+                else
+                    local baseCFrame = part.CFrame
+                    local rotation = baseCFrame - baseCFrame.Position
+                    local before = asmrParkourConfirmedCheckpoint
+                    local confirmed = false
+                    local attempts = 0
+
+                    while running and not confirmed and attempts < 2 do
+                        attempts = attempts + 1
+
+                        if attempts == 1 then
+                            local highCFrame = CFrame.new(baseCFrame.Position + Vector3.new(0, 10, 0)) * rotation
+                            moveCharacterTo(highCFrame)
+                            task.wait(0.2)
+                            moveCharacterTo(baseCFrame)
+                        else
+                            local backCFrame = CFrame.new(baseCFrame.Position - (rotation.LookVector * 12) + Vector3.new(0, 3, 0)) * rotation
+                            moveCharacterTo(backCFrame)
+                            task.wait(0.3)
+                            local throughCFrame = CFrame.new(baseCFrame.Position + (rotation.LookVector * 4)) * rotation
+                            moveCharacterTo(throughCFrame)
+                        end
+
+                        local waitStart = tick()
+                        while running and asmrParkourConfirmedCheckpoint <= before and (tick() - waitStart) < minWait do
+                            task.wait(0.1)
+                        end
+                        confirmed = asmrParkourConfirmedCheckpoint > before
+                    end
+
+                    if confirmed then
+                        addLog("[ASMR-PARKOUR] Checkpoint " .. number .. "/" .. last .. " [✓ CONFIRMADO] (contador: " .. asmrParkourConfirmedCheckpoint .. ")")
+                        setStatus("Status: RODANDO (" .. number .. "/" .. last .. ")", Color3.fromRGB(255, 200, 0))
+                    else
+                        addLog("[ASMR-PARKOUR] [!] Checkpoint " .. number .. "/" .. last .. " NÃO confirmado -- parando o ciclo aqui")
+                        setStatus("Status: TRAVOU NO CHECKPOINT " .. number .. " (sem confirmação)", Color3.fromRGB(255, 100, 100))
+                        break
+                    end
+                end
+            end
+        end
+    end
+
+    -- Disparar o prompt só ABRE a tela "Escolha um nível" -- o
+    -- LocalScript real do jogo manda o servidor a resposta
+    -- "OpenLevelMenu" com o Mode e a lista de níveis, e só carrega a
+    -- sessão de verdade (LoadParkour) depois de mandar de volta
+    -- MiniParkourEvent:FireServer("StartParkourLevel", { Mode = mode,
+    -- MapName = mapName }) -- é isso que o botão "GIOCA" dispara ao ser
+    -- clicado. Como essa entrada é EXCLUSIVA do Foot Parkour, forçamos
+    -- Mode="FOOT" direto (o servidor já ia mandar isso de qualquer
+    -- jeito por essa entrada específica).
+    local function runOneCycle()
+        local prompt = findAsmrParkourPrompt()
+        if not prompt then
+            addLog("[ASMR-PARKOUR] [!] MiniParkourFootPrompt não encontrado (MiniParkourFootEnter)")
+            return false
+        end
+
+        local promptPos = getPromptWorldPosition(prompt)
+        local originalCFrame = nil
+        if promptPos then
+            originalCFrame = teleportPlayerTo(promptPos)
+            task.wait(0.3)
+        end
+
+        asmrParkourLoadedFlag = false
+        asmrParkourMenuMapName = nil
+        local fired = triggerPromptGeneric(prompt)
+        if not fired then
+            addLog("[ASMR-PARKOUR] [!] Não consegui disparar o MiniParkourFootPrompt")
+            teleportPlayerBack(originalCFrame)
+            return false
+        end
+
+        setStatus("Status: ABRINDO TELA DE NÍVEL...", Color3.fromRGB(255, 200, 0))
+        local menuStart = tick()
+        while running and not asmrParkourMenuMapName and (tick() - menuStart) < 5 do
+            task.wait(0.1)
+        end
+
+        if not asmrParkourMenuMapName then
+            addLog("[ASMR-PARKOUR] [!] Timeout esperando OpenLevelMenu -- tentando de novo no próximo ciclo")
+            teleportPlayerBack(originalCFrame)
+            return false
+        end
+
+        pcall(function()
+            Remotes.miniParkourEvent:FireServer("StartParkourLevel", { Mode = "FOOT", MapName = asmrParkourMenuMapName })
+        end)
+
+        setStatus("Status: ABRINDO SESSÃO...", Color3.fromRGB(255, 200, 0))
+        local loadStart = tick()
+        while running and not asmrParkourLoadedFlag and (tick() - loadStart) < 10 do
+            task.wait(0.1)
+        end
+
+        if not asmrParkourLoadedFlag then
+            addLog("[ASMR-PARKOUR] [!] Timeout esperando LoadParkour -- tentando de novo no próximo ciclo")
+            teleportPlayerBack(originalCFrame)
+            return false
+        end
+
+        addLog("[ASMR-PARKOUR] [✓] Sessão aberta (" .. tostring(asmrParkourMenuMapName) .. "), capturando checkpoints...")
+
+        -- Descarta o CheckpointText inicial (largada, ex: "1/35") antes
+        -- de começar a contar de verdade -- ver comentário em
+        -- captureSequential.
+        task.wait(0.5)
+        asmrParkourConfirmedCheckpoint = 0
+        asmrParkourFinishedFlag = false
+
+        -- O ParkourClient real clona a pista inteira só pra você em
+        -- workspace.LOCAL_MINI_PARKOUR_<seu nome>, com uma pasta
+        -- Checkpoints própria (peças nomeadas "1", "2", ... "35").
+        local parkourClone = Workspace:FindFirstChild("LOCAL_MINI_PARKOUR_" .. LocalPlayer.Name)
+        local checkpointsFolder = parkourClone and parkourClone:FindFirstChild("Checkpoints")
+
+        local first = math.floor(config.startCheckpoint)
+        local last = math.floor(config.endCheckpoint)
+
+        if not checkpointsFolder then
+            addLog("[ASMR-PARKOUR] [!] Clone local da pista (LOCAL_MINI_PARKOUR_" .. LocalPlayer.Name .. ") não encontrado -- não deu pra capturar os checkpoints")
+        else
+            local enlargedCount, multiplier = enlargeCheckpointTouchZones(checkpointsFolder, first, last)
+            if enlargedCount > 0 then
+                addLog("[ASMR-PARKOUR] [*] " .. enlargedCount .. " checkpoint(s) com área de toque aumentada (" .. multiplier .. "x, só na sua tela)")
+            end
+            captureSequential(checkpointsFolder, first, last)
+        end
+
+        if running and not asmrParkourFinishedFlag then
+            local finishStart = tick()
+            while running and not asmrParkourFinishedFlag and (tick() - finishStart) < 8 do
+                task.wait(0.1)
+            end
+        end
+
+        addLog(asmrParkourFinishedFlag and "[ASMR-PARKOUR] [✓] Parkour concluído!" or "[ASMR-PARKOUR] [!] Não confirmei o FinishMessage, seguindo mesmo assim")
+        teleportPlayerBack(originalCFrame)
+        return true
+    end
+
+    local function loopBody()
+        while running do
+            runOneCycle()
+            if not running then break end
+            setStatus("Status: RODANDO (reiniciando ciclo)", Color3.fromRGB(255, 200, 0))
+            task.wait(2)
+        end
+        setStatus("Status: PARADO", Color3.fromRGB(100, 200, 100))
+        addLog("[ASMR-PARKOUR] === LOOP FINALIZADO ===")
+    end
+
+    local function start()
+        if running then return end
+        if not Remotes.miniParkourEvent then
+            addLog("[ASMR-PARKOUR] [!] MiniParkourEvent não encontrado")
+            return
+        end
+        running = true
+        addLog("[ASMR-PARKOUR] === LOOP INICIADO === (checkpoints " .. config.startCheckpoint .. " a " .. config.endCheckpoint .. ", " .. config.delaySeconds .. "s entre cada)")
+        task.spawn(loopBody)
+    end
+
+    local function stop()
+        if not running then return end
+        running = false
+        addLog("[ASMR-PARKOUR] [!] Parando...")
+    end
+
+    return {
+        config = config,
+        start = start,
+        stop = stop,
+        isRunning = function() return running end,
+        setStatusLabel = function(lbl) statusLabel = lbl end,
+    }
+end
+
+local AsmrParkourShortcut = buildAsmrParkourFeature()
+
+-- ========================================
+-- AJUSTE DO JUMPCAR (REMOVIDO): a ideia era reduzir a força do impulso
+-- via Attributes do JumpCar e/ou aumentar a Density do carro pra ele não
+-- pular tão longe -- mas analisando megaramp_event_loop.lua, o
+-- lançamento do JumpCar NÃO é físico/local: o servidor calcula o
+-- launchVector inteiro e manda pronto via ClientCarLaunch:FireClient(...)
+-- (veja waitForLaunchArgs). Como quem decide "quão longe" é o servidor,
+-- ANTES do client saber que o pulo vai acontecer, mudar Attributes ou
+-- Density localmente não tem efeito nenhum no cálculo -- por isso essa
+-- feature foi removida (confirmado pelo usuário: "mudou nada").
+-- ========================================
+
+-- ========================================
+-- QUEDA RÁPIDA: já que o lançamento em si vem pronto do servidor (não dá
+-- pra reduzir a distância do voo), a alternativa que FUNCIONA é acelerar
+-- a QUEDA depois que o pulo já aconteceu -- durante o voo, a física do
+-- carro roda com você tendo NetworkOwnership dele (é por isso que o
+-- Impulso da Pista já consegue mexer em AssemblyLinearVelocity local e
+-- funcionar de verdade), então dá pra somar uma velocidade extra pra
+-- baixo todo Heartbeat, igual o Impulso da Pista faz pra frente. Como a
+-- gravidade no Roblox não depende de massa (igual física real), isso é
+-- diferente de "deixar mais pesado" (que não fazia nada) -- aqui é
+-- literalmente adicionar aceleração extra pra baixo. Enquanto o carro
+-- está no chão, a colisão normal do próprio jogo cancela essa velocidade
+-- sozinha, então não atrapalha dirigir normalmente.
+-- ========================================
+
+local function buildExtraGravityFeature()
+    local enabled = false
+    local connection = nil
+    local config = { extraGravity = 50 }
+    local statusLabel = nil
+
+    local function setStatus(text, color)
+        if statusLabel then
+            statusLabel.Text = text
+            statusLabel.TextColor3 = color
+        end
+    end
+
+    local function step(dt)
+        local car = findPlayerCarModel()
+        local carPart = car and (car.PrimaryPart or car:FindFirstChildWhichIsA("BasePart", true))
+        if not carPart then return end
+        carPart.AssemblyLinearVelocity = carPart.AssemblyLinearVelocity - Vector3.new(0, config.extraGravity * dt, 0)
+    end
+
+    local function enable()
+        if enabled then return end
+        enabled = true
+        connection = RunService.Heartbeat:Connect(step)
+        setStatus("Status: ATIVO (+" .. config.extraGravity .. " studs/s²)", Color3.fromRGB(0, 220, 220))
+        addLog("[QUEDA-RAPIDA] [✓] Ativado -- +" .. config.extraGravity .. " studs/s² de gravidade extra enquanto no ar")
+    end
+
+    local function disable()
+        if not enabled then return end
+        enabled = false
+        if connection then
+            connection:Disconnect()
+            connection = nil
+        end
+        setStatus("Status: DESLIGADO", Color3.fromRGB(100, 200, 100))
+        addLog("[QUEDA-RAPIDA] Desativado")
+    end
+
+    local function toggle()
+        if enabled then disable() else enable() end
+        return enabled
+    end
+
+    return {
+        config = config,
+        toggle = toggle,
+        isEnabled = function() return enabled end,
+        setStatusLabel = function(lbl) statusLabel = lbl end,
+    }
+end
+
+local ExtraGravity = buildExtraGravityFeature()
+
+-- ========================================
+-- ANIMAÇÕES CUSTOM: edita os IDs de idle/andar/correr DENTRO do script
+-- "Animate" do personagem (ele tem um slot separado pra cada estado), em
+-- vez de forçar uma animação por cima de tudo -- assim pular/etc continua
+-- normal, só idle/andar/correr trocam.
+-- ========================================
+
+local function buildAnimFeature()
+
+local animConfig = {
+    enabled = false,
+    idleId = "",
+}
+
+local function normalizeAnimId(id)
+    if not id or id == "" then return nil end
+    id = tostring(id)
+    if not id:match("^rbxassetid://") then
+        id = "rbxassetid://" .. id
+    end
+    return id
+end
+
+local function debugAnimateStructure()
+    local character = LocalPlayer.Character
+    if not character then
+        addLog("[ANIM] [!] Sem personagem")
+        return
+    end
+
+    local animateScript = character:FindFirstChild("Animate")
+    if not animateScript then
+        addLog("[ANIM] [!] Script 'Animate' NÃO existe nesse personagem")
+        return
+    end
+
+    local lines = { "Estrutura do Animate (" .. animateScript.ClassName .. "):" }
+
+    local function dump(obj, depth)
+        for _, child in ipairs(obj:GetChildren()) do
+            local extra = ""
+            if child:IsA("Animation") then
+                extra = " -> AnimationId=" .. tostring(child.AnimationId)
+            elseif child:IsA("StringValue") then
+                extra = " = " .. tostring(child.Value)
+            end
+            table.insert(lines, string.rep("  ", depth) .. child.Name .. " (" .. child.ClassName .. ")" .. extra)
+            dump(child, depth + 1)
+        end
+    end
+    dump(animateScript, 1)
+
+    local fullText = table.concat(lines, "\n")
+    print("[ANIM-DEBUG]\n" .. fullText)
+
+    if typeof(setclipboard) == "function" then
+        local copied = pcall(setclipboard, fullText)
+        addLog(copied and "[ANIM] Estrutura copiada pro clipboard! (também tá no console)" or "[ANIM] [!] setclipboard falhou -- veja no console")
+    else
+        addLog("[ANIM] [!] Esse executor não suporta setclipboard -- veja no console mesmo")
+    end
+end
+
+-- Não precisa de um CharacterAdded manual aqui: o Heartbeat watcher do
+-- IDLE FORÇADO (abaixo) já detecta o personagem novo sozinho e reaplica
+-- assim que ele fica parado de novo.
+
+-- ========================================
+-- IDLE FORÇADO: toca separado do resto, com prioridade Action4 (a mais
+-- alta), looped, sem nunca reiniciar sozinho -- assim não briga com o
+-- esquema de troca aleatória do jogo (que causava aquele "soco" voltando
+-- pro idle normal). Só fica ativo enquanto o personagem tá parado de
+-- verdade -- solta sozinho assim que você anda/corre/pula, pra não
+-- atropelar o WalkAnim/RunAnim.
+-- ========================================
+
+local idleTrack = nil
+
+local function stopForcedIdle()
+    if idleTrack then
+        pcall(function() idleTrack:Stop() end)
+        idleTrack = nil
+    end
+end
+
+local function applyForcedIdle()
+    stopForcedIdle()
+
+    local id = normalizeAnimId(animConfig.idleId)
+    if not id then return end
+
+    local character = LocalPlayer.Character
+    local humanoid = character and character:FindFirstChildOfClass("Humanoid")
+    if not humanoid then return end
+
+    local animator = humanoid:FindFirstChildOfClass("Animator")
+    if not animator then
+        animator = Instance.new("Animator")
+        animator.Parent = humanoid
+    end
+
+    local anim = Instance.new("Animation")
+    anim.AnimationId = id
+
+    local ok, track = pcall(function() return animator:LoadAnimation(anim) end)
+    if not ok or not track then return end
+
+    track.Priority = Enum.AnimationPriority.Action4
+    track.Looped = true
+    track:Play()
+    idleTrack = track
+end
+
+RunService.Heartbeat:Connect(function()
+    if not animConfig.enabled or not animConfig.idleId or animConfig.idleId == "" then
+        if idleTrack then stopForcedIdle() end
+        return
+    end
+
+    local character = LocalPlayer.Character
+    local humanoid = character and character:FindFirstChildOfClass("Humanoid")
+    if not humanoid then return end
+
+    local isStandingStill = humanoid.MoveDirection.Magnitude < 0.05
+        and humanoid:GetState() ~= Enum.HumanoidStateType.Jumping
+        and humanoid:GetState() ~= Enum.HumanoidStateType.Freefall
+
+    if isStandingStill then
+        if not idleTrack or not idleTrack.IsPlaying then
+            applyForcedIdle()
+        end
+    else
+        if idleTrack then stopForcedIdle() end
+    end
+end)
+
+-- Pra não precisar caçar o ID manualmente: toca o emote/animação que
+-- você já tem (equipado ou comprado no jogo) e captura o que tiver
+-- tocando no seu Humanoid nesse instante.
+local function getCurrentPlayingAnimId()
+    local character = LocalPlayer.Character
+    local humanoid = character and character:FindFirstChildOfClass("Humanoid")
+    local animator = humanoid and humanoid:FindFirstChildOfClass("Animator")
+    if not animator then return nil end
+
+    local ok, tracks = pcall(function() return animator:GetPlayingAnimationTracks() end)
+    if not ok or not tracks then return nil end
+
+    for _, track in ipairs(tracks) do
+        if track.Animation and track.Animation.AnimationId and track.Animation.AnimationId ~= "" then
+            return track.Animation.AnimationId
+        end
+    end
+    return nil
+end
+
+return {
+    config = animConfig,
+    debug = debugAnimateStructure,
+    capture = getCurrentPlayingAnimId,
+    applyIdle = applyForcedIdle,
+}
+end
+
+local AnimFeature = buildAnimFeature()
+
+-- ========================================
+-- HELPERS DE WIDGET DO MENU: ficam FORA de setupMenu de propósito -- são
+-- puramente genéricos (não dependem de nada específico de uma aba), e
+-- cada `local function` daqui dentro de setupMenu contava como 1 dos 200
+-- registros locais permitidos por função no Luau. Com o hub crescendo
+-- (Checkpoint92To1, Queda Rápida, Aceitar Gifts etc.), setupMenu sozinho
+-- estourou esse limite ("exceeded limit 200") -- tirando esses helpers
+-- pra cá, o corpo de cada widget (Instance.new, propriedades) passa a
+-- contar pro registro DESSA função, não do setupMenu.
+--
+-- Instances do Roblox (ScrollingFrame etc.) não aceitam campos Lua soltos
+-- tipo tab._n = 0 -- por isso o contador de LayoutOrder de cada aba fica
+-- numa tabela à parte, indexada pela própria Instance da aba. Reiniciada
+-- no começo de cada setupMenu() (troca de idioma reconstrói tudo do
+-- zero, então as Instances antigas já não são mais usadas como chave).
+-- ========================================
+
+local function buildWidgetHelpers()
+
+local tabOrderCounters = {}
+
+local function tabOrder(tab)
+    local n = (tabOrderCounters[tab] or 0) + 1
+    tabOrderCounters[tab] = n
+    return n
+end
+
+local function addSectionLabel(tab, text, color)
+    local lbl = Instance.new("TextLabel")
+    lbl.Size = UDim2.new(1, 0, 0, 20)
+    lbl.BackgroundTransparency = 1
+    lbl.TextColor3 = color or Color3.fromRGB(0, 190, 100)
+    lbl.TextSize = 12
+    lbl.Font = Enum.Font.GothamBold
+    lbl.TextXAlignment = Enum.TextXAlignment.Left
+    lbl.Text = text
+    lbl.LayoutOrder = tabOrder(tab)
+    lbl.Parent = tab
+    return lbl
+end
+
+local function addButton(tab, text, color, height)
+    local btn = Instance.new("TextButton")
+    btn.Size = UDim2.new(1, 0, 0, height or 36)
+    btn.BackgroundColor3 = color
+    btn.TextColor3 = Color3.new(1, 1, 1)
+    btn.TextSize = 12
+    btn.Font = Enum.Font.GothamBold
+    btn.Text = text
+    btn.LayoutOrder = tabOrder(tab)
+    btn.Parent = tab
+    return btn
+end
+
+local function addTwoButtons(tab, textA, colorA, textB, colorB, height)
+    local row = Instance.new("Frame")
+    row.Size = UDim2.new(1, 0, 0, height or 36)
+    row.BackgroundTransparency = 1
+    row.LayoutOrder = tabOrder(tab)
+    row.Parent = tab
+
+    local a = Instance.new("TextButton")
+    a.Size = UDim2.new(0.5, -4, 1, 0)
+    a.BackgroundColor3 = colorA
+    a.TextColor3 = Color3.new(1, 1, 1)
+    a.TextSize = 12
+    a.Font = Enum.Font.GothamBold
+    a.Text = textA
+    a.Parent = row
+
+    local b = Instance.new("TextButton")
+    b.Size = UDim2.new(0.5, -4, 1, 0)
+    b.Position = UDim2.new(0.5, 4, 0, 0)
+    b.BackgroundColor3 = colorB
+    b.TextColor3 = Color3.new(1, 1, 1)
+    b.TextSize = 12
+    b.Font = Enum.Font.GothamBold
+    b.Text = textB
+    b.Parent = row
+
+    return a, b
+end
+
+local function addFullLabel(tab, initialText, textColor)
+    local lbl = Instance.new("TextLabel")
+    lbl.Size = UDim2.new(1, 0, 0, 24)
+    lbl.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
+    lbl.TextColor3 = textColor or Color3.fromRGB(200, 200, 200)
+    lbl.TextSize = 11
+    lbl.Font = Enum.Font.GothamBold
+    lbl.Text = initialText
+    lbl.LayoutOrder = tabOrder(tab)
+    lbl.Parent = tab
+    return lbl
+end
+
+local function addTextField(tab, labelText, initialValue)
+    local lbl = Instance.new("TextLabel")
+    lbl.Size = UDim2.new(1, 0, 0, 14)
+    lbl.BackgroundTransparency = 1
+    lbl.TextColor3 = Color3.fromRGB(200, 200, 200)
+    lbl.TextSize = 10
+    lbl.Font = Enum.Font.GothamBold
+    lbl.TextXAlignment = Enum.TextXAlignment.Left
+    lbl.Text = labelText
+    lbl.LayoutOrder = tabOrder(tab)
+    lbl.Parent = tab
+
+    local box = Instance.new("TextBox")
+    box.Size = UDim2.new(1, 0, 0, 28)
+    box.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+    box.TextColor3 = Color3.new(1, 1, 1)
+    box.TextSize = 12
+    box.Font = Enum.Font.Gotham
+    box.Text = tostring(initialValue)
+    box.ClearTextOnFocus = false
+    box.LayoutOrder = tabOrder(tab)
+    box.Parent = tab
+
+    return box
+end
+
+local function addDivider(tab)
+    local d = Instance.new("Frame")
+    d.Size = UDim2.new(1, 0, 0, 1)
+    d.BackgroundColor3 = Color3.fromRGB(70, 70, 70)
+    d.BorderSizePixel = 0
+    d.LayoutOrder = tabOrder(tab)
+    d.Parent = tab
+end
+
+local function addInfoLabel(tab, text)
+    local lbl = Instance.new("TextLabel")
+    lbl.Size = UDim2.new(1, 0, 0, 0)
+    lbl.AutomaticSize = Enum.AutomaticSize.Y
+    lbl.BackgroundTransparency = 1
+    lbl.TextColor3 = Color3.fromRGB(150, 150, 150)
+    lbl.TextSize = 9
+    lbl.TextWrapped = true
+    lbl.Font = Enum.Font.Gotham
+    lbl.TextXAlignment = Enum.TextXAlignment.Left
+    lbl.TextYAlignment = Enum.TextYAlignment.Top
+    lbl.Text = text
+    lbl.LayoutOrder = tabOrder(tab)
+    lbl.Parent = tab
+    return lbl
+end
+
+local function addToggleRow(tab, labelText, initialEnabled)
+    local state = { enabled = initialEnabled }
+    local btn = Instance.new("TextButton")
+    btn.Size = UDim2.new(1, 0, 0, 26)
+    btn.BackgroundColor3 = initialEnabled and Color3.fromRGB(0, 110, 60) or Color3.fromRGB(60, 60, 60)
+    btn.TextColor3 = Color3.new(1, 1, 1)
+    btn.TextSize = 11
+    btn.Font = Enum.Font.GothamBold
+    btn.Text = labelText
+    btn.LayoutOrder = tabOrder(tab)
+    btn.Parent = tab
+
+    btn.MouseButton1Click:Connect(function()
+        state.enabled = not state.enabled
+        btn.BackgroundColor3 = state.enabled and Color3.fromRGB(0, 110, 60) or Color3.fromRGB(60, 60, 60)
+    end)
+
+    return state
+end
+
+-- Botão de toggle genérico pra qualquer feature no formato { toggle =
+-- function() -> bool, ... } (Checkpoint92To1, ExtraGravity,
+-- AutoAcceptGifts etc.) -- evita repetir o bloco inteiro de criação de
+-- TextButton + MouseButton1Click pra cada uma, o que economiza registros
+-- locais em setupMenu (cada bloco manual usava 1 local só pro botão).
+local function addFeatureToggleButton(tab, label, feature, colorOn, colorOff, height)
+    colorOn = colorOn or Color3.fromRGB(0, 130, 60)
+    colorOff = colorOff or Color3.fromRGB(60, 60, 60)
+
+    local btn = Instance.new("TextButton")
+    btn.Size = UDim2.new(1, 0, 0, height or 30)
+    btn.BackgroundColor3 = colorOff
+    btn.TextColor3 = Color3.new(1, 1, 1)
+    btn.TextSize = 12
+    btn.Font = Enum.Font.GothamBold
+    btn.Text = label
+    btn.LayoutOrder = tabOrder(tab)
+    btn.Parent = tab
+
+    btn.MouseButton1Click:Connect(function()
+        local isEnabled = feature.toggle()
+        btn.BackgroundColor3 = isEnabled and colorOn or colorOff
+    end)
+
+    return btn
+end
+
+return {
+    resetCounters = function() tabOrderCounters = {} end,
+    tabOrder = tabOrder,
+    addSectionLabel = addSectionLabel,
+    addButton = addButton,
+    addTwoButtons = addTwoButtons,
+    addFullLabel = addFullLabel,
+    addTextField = addTextField,
+    addDivider = addDivider,
+    addInfoLabel = addInfoLabel,
+    addToggleRow = addToggleRow,
+    addFeatureToggleButton = addFeatureToggleButton,
+}
+end
+
+local Widgets = buildWidgetHelpers()
+
+-- ========================================
+-- MENU: painel único responsivo com abas
+--
+-- Tudo isso vai dentro de uma função própria (chamada logo em seguida) só
+-- por causa de um limite real do Luau: uma única função só aceita até 200
+-- variáveis locais, e o resto do script (CORE) sozinho já usa quase todas.
+-- Como essa função continua definida no mesmo lugar do arquivo, ela ainda
+-- enxerga e escreve normalmente em tudo que já existia antes (rampStatusLabel,
+-- alertKeywords, etc.) -- só isola o REGISTRO das variáveis daqui de dentro.
+-- ========================================
+
+local function setupMenu()
+
+Widgets.resetCounters()
+
+local hubCamera = Workspace.CurrentCamera
+
+-- Reconstrói do zero (troca de idioma chama setupMenu() de novo) --
+-- destrói a instância anterior antes de criar a nova.
+local oldGui = playerGui:FindFirstChild("MegaRampHub")
+if oldGui then oldGui:Destroy() end
+
+local screenGui = Instance.new("ScreenGui")
+screenGui.Name = "MegaRampHub"
+screenGui.ResetOnSpawn = false
+screenGui.DisplayOrder = 999
+screenGui.IgnoreGuiInset = true
+screenGui.Parent = playerGui
+
+local TITLE_HEIGHT = 34
+local SIDEBAR_WIDTH = 128
+
+local frame = Instance.new("Frame")
+frame.BackgroundColor3 = Color3.fromRGB(24, 24, 28)
+frame.BorderSizePixel = 0
+frame.Position = lastFramePosition
+frame.Draggable = true
+frame.Active = true
+frame.ClipsDescendants = true
+frame.Parent = screenGui
+
+frame:GetPropertyChangedSignal("Position"):Connect(function()
+    lastFramePosition = frame.Position
+end)
+
+local outline = Instance.new("UIStroke")
+outline.Color = Color3.fromRGB(70, 120, 200)
+outline.Thickness = 1
+outline.Transparency = 0.3
+outline.Parent = frame
+
+local titleBar = Instance.new("Frame")
+titleBar.Size = UDim2.new(1, 0, 0, TITLE_HEIGHT)
+titleBar.BackgroundColor3 = Color3.fromRGB(32, 34, 44)
+titleBar.BorderSizePixel = 0
+titleBar.Parent = frame
+
+local title = Instance.new("TextLabel")
+title.Size = UDim2.new(1, -40, 1, 0)
+title.Position = UDim2.new(0, 12, 0, 0)
+title.BackgroundTransparency = 1
+title.TextColor3 = Color3.fromRGB(120, 190, 255)
+title.TextSize = 13
+title.Font = Enum.Font.GothamBold
+title.TextXAlignment = Enum.TextXAlignment.Left
+title.Text = "MEGA RAMP HUB"
+title.Parent = titleBar
+
+local minimizeBtn = Instance.new("TextButton")
+minimizeBtn.Size = UDim2.new(0, 32, 0, TITLE_HEIGHT)
+minimizeBtn.Position = UDim2.new(1, -32, 0, 0)
+minimizeBtn.BackgroundTransparency = 1
+minimizeBtn.TextColor3 = Color3.new(1, 1, 1)
+minimizeBtn.TextSize = 16
+minimizeBtn.Font = Enum.Font.GothamBold
+minimizeBtn.Text = "—"
+minimizeBtn.Parent = titleBar
+
+local body = Instance.new("Frame")
+body.Position = UDim2.new(0, 0, 0, TITLE_HEIGHT)
+body.Size = UDim2.new(1, 0, 1, -TITLE_HEIGHT)
+body.BackgroundTransparency = 1
+body.Parent = frame
+
+local tabBar = Instance.new("ScrollingFrame")
+tabBar.Size = UDim2.new(0, SIDEBAR_WIDTH, 1, 0)
+tabBar.BackgroundColor3 = Color3.fromRGB(20, 20, 24)
+tabBar.BorderSizePixel = 0
+tabBar.ScrollBarThickness = 3
+tabBar.CanvasSize = UDim2.new(0, 0, 0, 0)
+tabBar.AutomaticCanvasSize = Enum.AutomaticSize.Y
+tabBar.Parent = body
+
+local tabBarLayout = Instance.new("UIListLayout")
+tabBarLayout.SortOrder = Enum.SortOrder.LayoutOrder
+tabBarLayout.Padding = UDim.new(0, 2)
+tabBarLayout.Parent = tabBar
+
+local contentArea = Instance.new("Frame")
+contentArea.Position = UDim2.new(0, SIDEBAR_WIDTH, 0, 0)
+contentArea.Size = UDim2.new(1, -SIDEBAR_WIDTH, 1, 0)
+contentArea.BackgroundTransparency = 1
+contentArea.Parent = body
+
+local TAB_DEFS = {
+    { key = "ramp", labelKey = "tab_ramp" },
+    { key = "games", labelKey = "tab_games" },
+    { key = "cam", labelKey = "tab_cam" },
+    { key = "car", labelKey = "tab_car" },
+    { key = "anim", labelKey = "tab_anim" },
+    { key = "players", labelKey = "tab_players" },
+    { key = "slimes", labelKey = "tab_slimes" },
+    { key = "settings", labelKey = "tab_settings" },
+}
+
+local tabButtons = {}
+local tabFrames = {}
+
+local function makeTabScroll(key)
+    local scroll = Instance.new("ScrollingFrame")
+    scroll.Name = key
+    scroll.Size = UDim2.new(1, 0, 1, 0)
+    scroll.BackgroundTransparency = 1
+    scroll.BorderSizePixel = 0
+    scroll.ScrollBarThickness = 5
+    scroll.CanvasSize = UDim2.new(0, 0, 0, 0)
+    scroll.AutomaticCanvasSize = Enum.AutomaticSize.Y
+    scroll.Visible = false
+    scroll.Parent = contentArea
+
+    local padding = Instance.new("UIPadding")
+    padding.PaddingLeft = UDim.new(0, 10)
+    padding.PaddingRight = UDim.new(0, 10)
+    padding.PaddingTop = UDim.new(0, 10)
+    padding.PaddingBottom = UDim.new(0, 10)
+    padding.Parent = scroll
+
+    local layout = Instance.new("UIListLayout")
+    layout.SortOrder = Enum.SortOrder.LayoutOrder
+    layout.Padding = UDim.new(0, 6)
+    layout.Parent = scroll
+
+    return scroll
+end
+
+for _, def in ipairs(TAB_DEFS) do
+    tabFrames[def.key] = makeTabScroll(def.key)
+end
+
+local function selectTab(key)
+    lastSelectedTabKey = key
+    for k, f in pairs(tabFrames) do
+        f.Visible = (k == key)
+    end
+    for k, b in pairs(tabButtons) do
+        local selected = (k == key)
+        b.BackgroundColor3 = selected and Color3.fromRGB(40, 46, 60) or Color3.fromRGB(20, 20, 24)
+        b.TextColor3 = selected and Color3.fromRGB(120, 190, 255) or Color3.fromRGB(190, 190, 190)
+        local accent = b:FindFirstChild("Accent")
+        if accent then accent.BackgroundTransparency = selected and 0 or 1 end
+    end
+end
+
+for i, def in ipairs(TAB_DEFS) do
+    local btn = Instance.new("TextButton")
+    btn.Size = UDim2.new(1, 0, 0, 34)
+    btn.BackgroundColor3 = Color3.fromRGB(20, 20, 24)
+    btn.BorderSizePixel = 0
+    btn.TextColor3 = Color3.fromRGB(190, 190, 190)
+    btn.TextSize = 12
+    btn.Font = Enum.Font.GothamBold
+    btn.TextXAlignment = Enum.TextXAlignment.Left
+    btn.Text = t(def.labelKey)
+    btn.LayoutOrder = i
+    btn.Parent = tabBar
+
+    local padding = Instance.new("UIPadding")
+    padding.PaddingLeft = UDim.new(0, 14)
+    padding.Parent = btn
+
+    local accent = Instance.new("Frame")
+    accent.Name = "Accent"
+    accent.Size = UDim2.new(0, 3, 1, 0)
+    accent.BackgroundColor3 = Color3.fromRGB(0, 150, 255)
+    accent.BackgroundTransparency = 1
+    accent.BorderSizePixel = 0
+    accent.Parent = btn
+
+    btn.MouseButton1Click:Connect(function() selectTab(def.key) end)
+    tabButtons[def.key] = btn
+end
+
+-- --- ABA RAMP ---
+
+local rampTab = tabFrames.ramp
+Widgets.addSectionLabel(rampTab, t("sec_ramp_cycle"), Color3.fromRGB(255, 140, 60))
+local rampStartBtn, rampStopBtn = Widgets.addTwoButtons(rampTab, t("start"), Color3.fromRGB(0, 150, 0), t("stop"), Color3.fromRGB(150, 0, 0))
+local toggleAlertBtn = Widgets.addButton(rampTab, t("btn_alert_rainbow"), Color3.fromRGB(150, 100, 0), 30)
+local sellAllBtn = Widgets.addButton(rampTab, t("btn_sell_all"), Color3.fromRGB(0, 150, 100), 34)
+
+rampStatusLabel = Widgets.addFullLabel(rampTab, t("status_stopped"), Color3.fromRGB(100, 200, 100))
+rampCountLabel = Widgets.addFullLabel(rampTab, t("label_teleports_forced") .. "0", Color3.fromRGB(200, 200, 255))
+rampCycleLabel = Widgets.addFullLabel(rampTab, t("label_cycles_complete") .. "0", Color3.fromRGB(255, 200, 100))
+
+local autoPauseToggleBtn = Instance.new("TextButton")
+autoPauseToggleBtn.Size = UDim2.new(1, 0, 0, 26)
+autoPauseToggleBtn.BackgroundColor3 = Color3.fromRGB(0, 110, 60)
+autoPauseToggleBtn.TextColor3 = Color3.new(1, 1, 1)
+autoPauseToggleBtn.TextSize = 11
+autoPauseToggleBtn.Font = Enum.Font.GothamBold
+autoPauseToggleBtn.Text = t("btn_auto_pause")
+autoPauseToggleBtn.LayoutOrder = Widgets.tabOrder(rampTab)
+autoPauseToggleBtn.Parent = rampTab
+autoPauseToggleBtn.MouseButton1Click:Connect(function()
+    autoPauseConfig.enabled = not autoPauseConfig.enabled
+    autoPauseToggleBtn.BackgroundColor3 = autoPauseConfig.enabled and Color3.fromRGB(0, 110, 60) or Color3.fromRGB(60, 60, 60)
+end)
+
+Widgets.addInfoLabel(rampTab, "Ativa o evento mais caro, teleporta no JumpCar até acabar, vende tudo e repete sozinho até PARAR. Com a pausa automática LIGADA, os 3 loops (Ramp/Memória/Bata o Slime) pausam sozinhos se outro jogador entrar na sala e retomam quando ficar sozinho de novo. Desligada, eles ignoram outros jogadores e continuam rodando direto.")
+
+rampStartBtn.MouseButton1Click:Connect(rampGuardedStart)
+rampStopBtn.MouseButton1Click:Connect(rampGuardedStop)
+toggleAlertBtn.MouseButton1Click:Connect(function()
+    if AlertFeature.keywords[1] == "limitedrainbow" then
+        AlertFeature.keywords[1] = "limited"
+        toggleAlertBtn.Text = t("btn_alert_all_limited")
+    else
+        AlertFeature.keywords[1] = "limitedrainbow"
+        toggleAlertBtn.Text = t("btn_alert_rainbow")
+    end
+end)
+sellAllBtn.MouseButton1Click:Connect(function() SellAll.sellAllAsync() end)
+
+Widgets.addInfoLabel(rampTab, "O Mega Jump Insta (CarSpawn/JumpCar/Checkpoint92/LandingZone3 colapsados na posição do CarSpawn, com a FORÇA DO IMPULSO do JumpCar zerada e 3 cópias extras do Checkpoint92 em quadrado -- acima/abaixo/frente -- pra garantir o toque) agora liga e desliga JUNTO com esse ciclo: ativa sozinho ao clicar Iniciar e desativa sozinho ao Parar (ou quando pausa automaticamente por outro jogador entrar). 100% client-side -- só a SUA tela muda.")
+
+-- --- ABA GAMES ---
+
+local gamesTab = tabFrames.games
+Widgets.addSectionLabel(gamesTab, t("sec_memory"), Color3.fromRGB(0, 190, 100))
+local memorySecondsInput = Widgets.addTextField(gamesTab, t("lbl_seconds_per_round"), memoryConfig.completionSeconds)
+memorySecondsInput.FocusLost:Connect(function()
+    local val = tonumber(memorySecondsInput.Text)
+    if val and val >= 0 then
+        memoryConfig.completionSeconds = val
+    else
+        memorySecondsInput.Text = tostring(memoryConfig.completionSeconds)
+    end
+end)
+
+local memoryStartBtnUi, memoryStopBtnUi = Widgets.addTwoButtons(gamesTab, t("play"), Color3.fromRGB(0, 150, 0), t("stop"), Color3.fromRGB(150, 0, 0))
+memoryStatusLabel = Widgets.addFullLabel(gamesTab, t("status_stopped"), Color3.fromRGB(100, 200, 100))
+memoryCountLabel = Widgets.addFullLabel(gamesTab, t("label_rounds") .. "0", Color3.fromRGB(200, 200, 255))
+
+Widgets.addInfoLabel(gamesTab, "A Memoria agora roda 100% por remote, igual o Bata o Slime -- sem abrir grid nenhum na tela. 'Segundos por rodada' e o tempo total entre pegar o ServerToken e mandar o ultimo par (reparte esse tempo igualmente entre os pares) -- 14.6s e o valor testado e aprovado, so mude se for testar outro. Igual o Bata o Slime, tambem ativa sozinha o evento mais barato com o maior CashMultiplier (bonus de Cash) e fica nele por ~10 minutos, reativando sozinha quando o tempo acaba. Editar o tempo so tem efeito na PROXIMA rodada.")
+
+Widgets.addDivider(gamesTab)
+
+Widgets.addFeatureToggleButton(gamesTab, "Alcance do Prompt de Minigames x" .. MINIGAME_REACH_MULTIPLIER, MiniGameReach)
+MiniGameReach.setStatusLabel(Widgets.addFullLabel(gamesTab, "Status: DESLIGADO (alcance original)", Color3.fromRGB(100, 200, 100)))
+Widgets.addInfoLabel(gamesTab, "Multiplica o MaxActivationDistance do MiniGame1Prompt (14 studs no jogo -> " .. (14 * MINIGAME_REACH_MULTIPLIER) .. ") só no seu client, e ignora linha de visão -- dá pra apertar o 'Play' do painel de longe, sem mover nada. Liga SOZINHO em qualquer Jogar (Memória ou Bata o Slime) e volta ao original quando os dois param. O alcance do ProximityPrompt é decidido pelo client, então isso funciona -- a não ser que o SEU script de servidor confira a distância no Triggered; se conferir, combina com o Grudar Painel abaixo.")
+
+Widgets.addDivider(gamesTab)
+
+Widgets.addFeatureToggleButton(gamesTab, "Grudar Painel de Minigames EM MIM", MiniGameFollow)
+MiniGameFollow.setStatusLabel(Widgets.addFullLabel(gamesTab, "Status: DESLIGADO (posição original)", Color3.fromRGB(100, 200, 100)))
+Widgets.addInfoLabel(gamesTab, "Mantém a Part MiniGame1Button colada no seu personagem todo frame, só no seu client -- é a resposta pro 'MINIGAME UNAVAILABLE / MOVE CLOSER TO THE MINIGAME': além do alcance do prompt, o jogo mede a distância até a Part, e aumentar o Size dela não muda nada (distância é até a posição, não até a borda). Grudada em você, a distância é zero onde quer que você esteja. Liga SOZINHO em qualquer Jogar e desliga o 'Grudar no Evento' (os dois movem a mesma Part). Se o aviso continuar aparecendo mesmo assim, a checagem está no SERVIDOR -- aí só aumentando o raio no seu script de servidor, ou teleportando de verdade até lá.")
+
+Widgets.addDivider(gamesTab)
+
+Widgets.addFeatureToggleButton(gamesTab, "Grudar Painel de Minigames no Evento", MiniGameStick)
+MiniGameStick.setStatusLabel(Widgets.addFullLabel(gamesTab, "Status: DESLIGADO (posição original)", Color3.fromRGB(100, 200, 100)))
+Widgets.addInfoLabel(gamesTab, "Move o painel do MiniGame1 (usado pela Memória) pra cima do shop de eventos, só na sua tela -- desliga sozinho quando o Bata o Slime inicia (o loop dele ativa o evento sem parar e o painel grudado atrapalha).")
+
+Widgets.addDivider(gamesTab)
+Widgets.addSectionLabel(gamesTab, t("sec_hitslime"), Color3.fromRGB(0, 185, 235))
+local secondsInput = Widgets.addTextField(gamesTab, t("lbl_seconds_per_round"), hitSlimeConfig.secondsPerRound)
+secondsInput.FocusLost:Connect(function()
+    local val = tonumber(secondsInput.Text)
+    if val and val >= 0 then
+        hitSlimeConfig.secondsPerRound = val
+    else
+        secondsInput.Text = tostring(hitSlimeConfig.secondsPerRound)
+    end
+end)
+local hitSlimeStartBtnUi, hitSlimeStopBtnUi = Widgets.addTwoButtons(gamesTab, t("play"), Color3.fromRGB(0, 150, 0), t("stop"), Color3.fromRGB(150, 0, 0))
+hitSlimeStatusLabel = Widgets.addFullLabel(gamesTab, t("status_stopped"), Color3.fromRGB(100, 200, 100))
+hitSlimeCountLabel = Widgets.addFullLabel(gamesTab, t("label_rounds") .. "0", Color3.fromRGB(200, 200, 255))
+
+Widgets.addInfoLabel(gamesTab, "Memória joga de verdade. Bata o Slime é atalho por remote (~180s totais pra não cair no \"Too fast\"). Só existe UMA rodada ativa por vez no servidor. Os dois repetem sozinhos até PARAR e pausam se outro jogador entrar.")
+
+memoryStartBtnUi.MouseButton1Click:Connect(memoryGuardedStart)
+memoryStopBtnUi.MouseButton1Click:Connect(memoryGuardedStop)
+hitSlimeStartBtnUi.MouseButton1Click:Connect(startHitSlimeLoop)
+hitSlimeStopBtnUi.MouseButton1Click:Connect(hitSlimeGuardedStop)
+
+Widgets.addDivider(gamesTab)
+Widgets.addSectionLabel(gamesTab, "ASMR PARKOUR - LOOP AUTOMÁTICO", Color3.fromRGB(255, 140, 60))
+
+local asmrParkourStartInput = Widgets.addTextField(gamesTab, "Checkpoint inicial:", AsmrParkourShortcut.config.startCheckpoint)
+asmrParkourStartInput.FocusLost:Connect(function()
+    local val = tonumber(asmrParkourStartInput.Text)
+    if val and val >= 0 then
+        AsmrParkourShortcut.config.startCheckpoint = val
+    else
+        asmrParkourStartInput.Text = tostring(AsmrParkourShortcut.config.startCheckpoint)
+    end
+end)
+
+local asmrParkourEndInput = Widgets.addTextField(gamesTab, "Checkpoint final:", AsmrParkourShortcut.config.endCheckpoint)
+asmrParkourEndInput.FocusLost:Connect(function()
+    local val = tonumber(asmrParkourEndInput.Text)
+    if val and val >= 0 then
+        AsmrParkourShortcut.config.endCheckpoint = val
+    else
+        asmrParkourEndInput.Text = tostring(AsmrParkourShortcut.config.endCheckpoint)
+    end
+end)
+
+local asmrParkourDelayInput = Widgets.addTextField(gamesTab, "Delay entre cada checkpoint (s):", AsmrParkourShortcut.config.delaySeconds)
+asmrParkourDelayInput.FocusLost:Connect(function()
+    local val = tonumber(asmrParkourDelayInput.Text)
+    if val and val > 0 then
+        AsmrParkourShortcut.config.delaySeconds = val
+    else
+        asmrParkourDelayInput.Text = tostring(AsmrParkourShortcut.config.delaySeconds)
+    end
+end)
+
+local asmrParkourTouchSizeInput = Widgets.addTextField(gamesTab, "Multiplicador da area de toque (ex: 4):", AsmrParkourShortcut.config.touchSizeMultiplier)
+asmrParkourTouchSizeInput.FocusLost:Connect(function()
+    local val = tonumber(asmrParkourTouchSizeInput.Text)
+    if val and val >= 1 then
+        AsmrParkourShortcut.config.touchSizeMultiplier = val
+    else
+        asmrParkourTouchSizeInput.Text = tostring(AsmrParkourShortcut.config.touchSizeMultiplier)
+    end
+end)
+
+local asmrParkourStartBtn, asmrParkourStopBtn = Widgets.addTwoButtons(gamesTab, "Iniciar", Color3.fromRGB(0, 150, 0), "Parar", Color3.fromRGB(150, 0, 0))
+asmrParkourStartBtn.MouseButton1Click:Connect(function() AsmrParkourShortcut.start() end)
+asmrParkourStopBtn.MouseButton1Click:Connect(function() AsmrParkourShortcut.stop() end)
+
+AsmrParkourShortcut.setStatusLabel(Widgets.addFullLabel(gamesTab, "Status: PARADO", Color3.fromRGB(100, 200, 100)))
+
+Widgets.addInfoLabel(gamesTab, "Usa a entrada certa do Parkour a pe (MiniParkourFootEnter/MiniParkourFootPrompt, 'Play Foot Parkour' -- achamos vasculhando TODOS os ProximityPrompt do mapa que ela e SEPARADA da entrada de carro, do outro lado do mapa, e fica do lado da placa 'ASMR Parkour'). Nao precisa de carro nenhum: teleporta o PERSONAGEM ate a posicao real de cada checkpoint do seu clone local, esperando a confirmacao real do servidor (o mesmo texto CHECKPOINT X/35 da tela) antes de avancar. Antes de comecar, aumenta a area de toque de cada checkpoint do SEU clone local (multiplicador ajustavel, so na sua tela) -- assim nao precisa acertar um ponto exato, da pra ir mais rapido sem cair na tentativa de recuo. Repete sozinho ate PARAR. O FinishMessage do jogo vem com a recompensa embutida no texto (ex: +500 CASH).")
+
+-- --- ABA CAM ---
+
+local camTab = tabFrames.cam
+Widgets.addSectionLabel(camTab, t("sec_freecam"), Color3.fromRGB(0, 150, 255))
+local speedInput = Widgets.addTextField(camTab, t("lbl_freecam_speed"), Freecam.config.baseSpeed)
+speedInput.FocusLost:Connect(function()
+    local val = tonumber(speedInput.Text)
+    if val and val > 0 then
+        Freecam.config.baseSpeed = val
+    else
+        speedInput.Text = tostring(Freecam.config.baseSpeed)
+    end
+end)
+local camEnableBtn, camDisableBtn = Widgets.addTwoButtons(camTab, t("enable"), Color3.fromRGB(0, 150, 0), t("disable"), Color3.fromRGB(150, 0, 0))
+Freecam.setFreecamStatusLabel(Widgets.addFullLabel(camTab, t("status_inactive"), Color3.fromRGB(100, 200, 100)))
+Widgets.addInfoLabel(camTab, "Botão direito + mover = olhar. WASD move, Space/Ctrl sobe e desce, Shift acelera. F5 liga/desliga a qualquer momento, em qualquer aba. Personagem fica ancorado (parado) enquanto ativo.")
+
+camEnableBtn.MouseButton1Click:Connect(Freecam.enable)
+camDisableBtn.MouseButton1Click:Connect(Freecam.disable)
+
+-- --- ABA CARRO ---
+
+local carTab = tabFrames.car
+Widgets.addSectionLabel(carTab, t("sec_car_boost"), Color3.fromRGB(0, 220, 220))
+
+local carForceInput = Widgets.addTextField(carTab, t("lbl_boost_force"), carBoostConfig.force)
+carForceInput.FocusLost:Connect(function()
+    local val = tonumber(carForceInput.Text)
+    if val and val > 0 then
+        carBoostConfig.force = val
+    else
+        carForceInput.Text = tostring(carBoostConfig.force)
+    end
+end)
+
+local carToggleBtn = Instance.new("TextButton")
+carToggleBtn.Size = UDim2.new(1, 0, 0, 30)
+carToggleBtn.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+carToggleBtn.TextColor3 = Color3.new(1, 1, 1)
+carToggleBtn.TextSize = 12
+carToggleBtn.Font = Enum.Font.GothamBold
+carToggleBtn.Text = t("btn_enable_boost")
+carToggleBtn.LayoutOrder = Widgets.tabOrder(carTab)
+carToggleBtn.Parent = carTab
+carToggleBtn.MouseButton1Click:Connect(function()
+    carBoostConfig.enabled = not carBoostConfig.enabled
+    carToggleBtn.BackgroundColor3 = carBoostConfig.enabled and Color3.fromRGB(0, 130, 60) or Color3.fromRGB(60, 60, 60)
+end)
+
+carStatusLabel = Widgets.addFullLabel(carTab, t("status_off"), Color3.fromRGB(100, 200, 100))
+
+Widgets.addInfoLabel(carTab, "Com o impulso ATIVADO, segurar SHIFT empurra o carro pra frente com força extra a cada instante -- solta e para na hora, sem esperar desacelerar. Só funciona enquanto você está dentro do carro na pista. Ajuste a força se sentir fraco ou forte demais.")
+
+Widgets.addDivider(carTab)
+Widgets.addSectionLabel(carTab, t("sec_fly"), Color3.fromRGB(0, 220, 220))
+
+local flyToggleBtn = Instance.new("TextButton")
+flyToggleBtn.Size = UDim2.new(1, 0, 0, 30)
+flyToggleBtn.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+flyToggleBtn.TextColor3 = Color3.new(1, 1, 1)
+flyToggleBtn.TextSize = 12
+flyToggleBtn.Font = Enum.Font.GothamBold
+flyToggleBtn.Text = t("btn_fly_toggle")
+flyToggleBtn.LayoutOrder = Widgets.tabOrder(carTab)
+flyToggleBtn.Parent = carTab
+flyToggleBtn.MouseButton1Click:Connect(function()
+    CarFly.toggle()
+    flyToggleBtn.BackgroundColor3 = CarFly.config.active and Color3.fromRGB(0, 130, 60) or Color3.fromRGB(60, 60, 60)
+end)
+
+CarFly.setStatusLabel(Widgets.addFullLabel(carTab, t("status_off"), Color3.fromRGB(100, 200, 100)))
+
+Widgets.addInfoLabel(carTab, "Desliga a colisão do carro inteiro e deixa você voar com ele (com você sentado dentro) usando WASD/Space/Ctrl relativo à câmera, igual o Free Cam -- Shift acelera. Precisa estar dentro do carro. Desativar devolve a colisão normal.")
+
+Widgets.addDivider(carTab)
+Widgets.addSectionLabel(carTab, "CHECKPOINT FINAL -> CHECKPOINT 1", Color3.fromRGB(255, 100, 220))
+
+Widgets.addFeatureToggleButton(carTab, "Mover Checkpoint Final pro Checkpoint 1", Checkpoint92To1)
+
+Widgets.addInfoLabel(carTab, "Move a part do ÚLTIMO checkpoint numerado (pega dinamicamente o maior número da pasta Checkpoints -- hoje é 92, mas continua certo sozinho se o jogo adicionar 93, 94 etc no futuro) pra cima do Checkpoint 1 E a LandingZone1 pra cima da LandingZone3, mantendo a rotação original de cada uma -- independente do Mega Jump Insta, sem mexer em JumpCar/CarSpawn. 100% client-side. Desativar volta as duas pro lugar original.")
+
+Widgets.addDivider(carTab)
+Widgets.addSectionLabel(carTab, "QUEDA RÁPIDA (GRAVIDADE EXTRA NO AR)", Color3.fromRGB(0, 220, 220))
+
+local extraGravityInput = Widgets.addTextField(carTab, "Gravidade extra (studs/s², ex: 50):", ExtraGravity.config.extraGravity)
+extraGravityInput.FocusLost:Connect(function()
+    local val = tonumber(extraGravityInput.Text)
+    if val and val >= 0 then
+        ExtraGravity.config.extraGravity = val
+    else
+        extraGravityInput.Text = tostring(ExtraGravity.config.extraGravity)
+    end
+end)
+
+Widgets.addFeatureToggleButton(carTab, "Ativar Queda Rápida", ExtraGravity)
+
+ExtraGravity.setStatusLabel(Widgets.addFullLabel(carTab, "Status: DESLIGADO", Color3.fromRGB(100, 200, 100)))
+
+Widgets.addInfoLabel(carTab, "O pulo do JumpCar em si vem PRONTO do servidor (não dá pra reduzir a distância), mas a queda DEPOIS do pulo roda com física local, então isso soma uma velocidade extra pra baixo em cima do carro todo Heartbeat -- ele desce mais rápido depois de pular, sem afetar a dirigibilidade normal (a colisão com o chão já cancela essa velocidade sozinha). Editar o valor só tem efeito na PRÓXIMA vez que ativar.")
+
+-- --- ABA ANIM ---
+
+local animTab = tabFrames.anim
+Widgets.addSectionLabel(animTab, t("sec_anim_idle"), Color3.fromRGB(255, 200, 0))
+
+local idleBox = Widgets.addTextField(animTab, t("lbl_idle_id"), AnimFeature.config.idleId)
+idleBox.FocusLost:Connect(function() AnimFeature.config.idleId = idleBox.Text end)
+
+local captureBtn = Widgets.addButton(animTab, t("btn_capture_anim"), Color3.fromRGB(90, 90, 200), 32)
+captureBtn.MouseButton1Click:Connect(function()
+    local id = AnimFeature.capture()
+    if id then
+        AnimFeature.config.idleId = id
+        idleBox.Text = id
+        addLog("[ANIM] Capturado: " .. id)
+    else
+        addLog("[ANIM] [!] Nenhuma animação tocando agora -- toque o emote primeiro")
+    end
+end)
+
+local diagBtn = Widgets.addButton(animTab, t("btn_diagnose"), Color3.fromRGB(150, 100, 0), 32)
+diagBtn.MouseButton1Click:Connect(function() AnimFeature.debug() end)
+
+local animToggleBtn = Instance.new("TextButton")
+animToggleBtn.Size = UDim2.new(1, 0, 0, 30)
+animToggleBtn.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+animToggleBtn.TextColor3 = Color3.new(1, 1, 1)
+animToggleBtn.TextSize = 12
+animToggleBtn.Font = Enum.Font.GothamBold
+animToggleBtn.Text = t("btn_apply_idle")
+animToggleBtn.LayoutOrder = Widgets.tabOrder(animTab)
+animToggleBtn.Parent = animTab
+animToggleBtn.MouseButton1Click:Connect(function()
+    AnimFeature.config.enabled = not AnimFeature.config.enabled
+    animToggleBtn.BackgroundColor3 = AnimFeature.config.enabled and Color3.fromRGB(0, 130, 60) or Color3.fromRGB(60, 60, 60)
+    if AnimFeature.config.enabled then AnimFeature.applyIdle() end
+end)
+
+local animReapplyBtn = Widgets.addButton(animTab, t("btn_reapply"), Color3.fromRGB(90, 90, 200), 32)
+animReapplyBtn.MouseButton1Click:Connect(function()
+    AnimFeature.config.enabled = true
+    animToggleBtn.BackgroundColor3 = Color3.fromRGB(0, 130, 60)
+    AnimFeature.applyIdle()
+end)
+
+Widgets.addInfoLabel(animTab, "IDLE toca separado (prioridade alta, sem reiniciar sozinho) e só fica ativo enquanto você tá parado -- solta na hora que anda/corre/pula, então não briga com o jogo. ANDAR/CORRER voltaram a ser 100% do jogo (sem forçação). Não precisa caçar o ID: toque o emote/animação que você já tem e clique CAPTURAR pra preencher o IDLE sozinho. Só funciona com animações que você tem direito de usar -- é permissão do próprio Roblox no ID. Reaplica sozinho se você morrer/respawnar.")
+
+-- --- ABA JOGADORES ---
+
+local playersTab = tabFrames.players
+Widgets.addSectionLabel(playersTab, t("sec_players_in_match"), Color3.fromRGB(0, 150, 255))
+Freecam.setPlayersStatusLabel(Widgets.addFullLabel(playersTab, t("status_none_normal_cam"), Color3.fromRGB(100, 200, 100)))
+local stopSpectateBtnUi = Widgets.addButton(playersTab, t("btn_stop_spectate"), Color3.fromRGB(150, 0, 0), 32)
+stopSpectateBtnUi.MouseButton1Click:Connect(function() Freecam.stopSpectate() end)
+
+Widgets.addInfoLabel(playersTab, "Spectate é 100% real: só muda SUA câmera pra seguir o jogador escolhido, seu personagem continua parado onde estava. NÃO dá pra ativar automações (tipo o ciclo do Mega Ramp) no client de outro jogador remotamente -- cada um precisaria rodar o próprio script pra isso.")
+
+local rowsContainer = Instance.new("Frame")
+rowsContainer.Size = UDim2.new(1, 0, 0, 0)
+rowsContainer.AutomaticSize = Enum.AutomaticSize.Y
+rowsContainer.BackgroundTransparency = 1
+rowsContainer.LayoutOrder = Widgets.tabOrder(playersTab)
+rowsContainer.Parent = playersTab
+
+local rowsLayout = Instance.new("UIListLayout")
+rowsLayout.SortOrder = Enum.SortOrder.LayoutOrder
+rowsLayout.Padding = UDim.new(0, 4)
+rowsLayout.Parent = rowsContainer
+
+local function rebuildPlayerRows()
+    for _, child in ipairs(rowsContainer:GetChildren()) do
+        if child:IsA("Frame") then child:Destroy() end
+    end
+
+    local order = 0
+    for _, plr in ipairs(Players:GetPlayers()) do
+        if plr ~= LocalPlayer then
+            order = order + 1
+
+            local row = Instance.new("Frame")
+            row.Size = UDim2.new(1, 0, 0, 32)
+            row.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
+            row.LayoutOrder = order
+            row.Parent = rowsContainer
+
+            local nameLbl = Instance.new("TextLabel")
+            nameLbl.Size = UDim2.new(0.4, -6, 1, 0)
+            nameLbl.Position = UDim2.new(0, 6, 0, 0)
+            nameLbl.BackgroundTransparency = 1
+            nameLbl.TextColor3 = Color3.new(1, 1, 1)
+            nameLbl.TextSize = 11
+            nameLbl.Font = Enum.Font.Gotham
+            nameLbl.TextXAlignment = Enum.TextXAlignment.Left
+            nameLbl.Text = plr.Name
+            nameLbl.Parent = row
+
+            local tpBtn = Instance.new("TextButton")
+            tpBtn.Size = UDim2.new(0.3, -6, 1, -6)
+            tpBtn.Position = UDim2.new(0.4, 0, 0, 3)
+            tpBtn.BackgroundColor3 = Color3.fromRGB(0, 150, 0)
+            tpBtn.TextColor3 = Color3.new(1, 1, 1)
+            tpBtn.TextSize = 10
+            tpBtn.Font = Enum.Font.GothamBold
+            tpBtn.Text = "Teleportar"
+            tpBtn.Parent = row
+
+            tpBtn.MouseButton1Click:Connect(function()
+                teleportToPlayer(plr)
+            end)
+
+            local specBtn = Instance.new("TextButton")
+            specBtn.Size = UDim2.new(0.3, -6, 1, -6)
+            specBtn.Position = UDim2.new(0.7, 0, 0, 3)
+            specBtn.BackgroundColor3 = Color3.fromRGB(0, 120, 200)
+            specBtn.TextColor3 = Color3.new(1, 1, 1)
+            specBtn.TextSize = 10
+            specBtn.Font = Enum.Font.GothamBold
+            specBtn.Text = t("btn_spectate")
+            specBtn.Parent = row
+
+            specBtn.MouseButton1Click:Connect(function()
+                Freecam.startSpectate(plr)
+            end)
+        end
+    end
+
+    if order == 0 then
+        local emptyLbl = Instance.new("TextLabel")
+        emptyLbl.Size = UDim2.new(1, 0, 0, 28)
+        emptyLbl.BackgroundTransparency = 1
+        emptyLbl.TextColor3 = Color3.fromRGB(150, 150, 150)
+        emptyLbl.TextSize = 10
+        emptyLbl.Font = Enum.Font.Gotham
+        emptyLbl.Text = t("lbl_no_other_players")
+        emptyLbl.LayoutOrder = 1
+        emptyLbl.Parent = rowsContainer
+    end
+end
+
+Players.PlayerAdded:Connect(function() task.wait(0.1) rebuildPlayerRows() end)
+Players.PlayerRemoving:Connect(function() task.wait(0.15) rebuildPlayerRows() end)
+
+rebuildPlayerRows()
+
+Widgets.addDivider(playersTab)
+Widgets.addSectionLabel(playersTab, t("sec_top5"), Color3.fromRGB(255, 215, 0))
+Widgets.addInfoLabel(playersTab, "Vem direto do placar Top 5 que o servidor já manda pra todo mundo (remote LeaderboardUpdate) -- não precisei construir nada, só escutei o mesmo remote que o próprio jogo usa pra desenhar aquele painel.")
+
+local leaderboardRowsContainer = Instance.new("Frame")
+leaderboardRowsContainer.Size = UDim2.new(1, 0, 0, 0)
+leaderboardRowsContainer.AutomaticSize = Enum.AutomaticSize.Y
+leaderboardRowsContainer.BackgroundTransparency = 1
+leaderboardRowsContainer.LayoutOrder = Widgets.tabOrder(playersTab)
+leaderboardRowsContainer.Parent = playersTab
+
+local leaderboardRowsLayout = Instance.new("UIListLayout")
+leaderboardRowsLayout.SortOrder = Enum.SortOrder.LayoutOrder
+leaderboardRowsLayout.Padding = UDim.new(0, 3)
+leaderboardRowsLayout.Parent = leaderboardRowsContainer
+
+local function shortNumberDisplay(n)
+    n = tonumber(n) or 0
+    local abs = math.abs(n)
+    if abs >= 1e12 then
+        return string.format("%.2fT", n / 1e12)
+    elseif abs >= 1e9 then
+        return string.format("%.2fB", n / 1e9)
+    elseif abs >= 1e6 then
+        return string.format("%.2fM", n / 1e6)
+    elseif abs >= 1e3 then
+        return string.format("%.2fK", n / 1e3)
+    else
+        return tostring(math.floor(n))
+    end
+end
+
+refreshLeaderboardUI = function()
+    for _, child in ipairs(leaderboardRowsContainer:GetChildren()) do
+        if child:IsA("Frame") then child:Destroy() end
+    end
+
+    local list = latestLeaderboardData or {}
+    if #list == 0 then
+        local emptyLbl = Instance.new("TextLabel")
+        emptyLbl.Size = UDim2.new(1, 0, 0, 20)
+        emptyLbl.BackgroundTransparency = 1
+        emptyLbl.TextColor3 = Color3.fromRGB(150, 150, 150)
+        emptyLbl.TextSize = 10
+        emptyLbl.Font = Enum.Font.Gotham
+        emptyLbl.Text = t("lbl_waiting_server")
+        emptyLbl.LayoutOrder = 1
+        emptyLbl.Parent = leaderboardRowsContainer
+        return
+    end
+
+    for i, entry in ipairs(list) do
+        local row = Instance.new("Frame")
+        row.Size = UDim2.new(1, 0, 0, 24)
+        row.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
+        row.LayoutOrder = i
+        row.Parent = leaderboardRowsContainer
+
+        local name = tostring(entry.Name or entry.DisplayName or "?")
+        if entry.VIP then name = "[VIP] " .. name end
+        local cashText = "$" .. shortNumberDisplay(entry.Cash or 0)
+
+        local lbl = Instance.new("TextLabel")
+        lbl.Size = UDim2.new(1, -8, 1, 0)
+        lbl.Position = UDim2.new(0, 4, 0, 0)
+        lbl.BackgroundTransparency = 1
+        lbl.TextColor3 = Color3.new(1, 1, 1)
+        lbl.TextSize = 10
+        lbl.Font = Enum.Font.GothamBold
+        lbl.TextXAlignment = Enum.TextXAlignment.Left
+        lbl.Text = "#" .. tostring(entry.Position or i) .. "  " .. name .. "  —  " .. cashText
+        lbl.Parent = row
+    end
+end
+
+refreshLeaderboardUI()
+
+-- --- ABA SLIMES: aceitar gifts automaticamente ---
+
+local slimesTab = tabFrames.slimes
+Widgets.addSectionLabel(slimesTab, "ACEITAR GIFTS AUTOMATICAMENTE", Color3.fromRGB(255, 140, 220))
+
+Widgets.addFeatureToggleButton(slimesTab, "Ativar Aceitar Gifts Automaticamente", AutoAcceptGifts)
+
+Widgets.addInfoLabel(slimesTab, "Quando alguém te manda um gift, dispara GiftAction:FireServer sozinho com as variantes de aceitar mais prováveis E clica sozinho em qualquer botão de confirmação (Aceitar/OK/Confirmar/Accept/Yes/Sim) que aparecer na tela -- cobre tanto o caso de aceitar direto por remote quanto o de precisar confirmar num popup. Desativar para de aceitar sozinho.")
+
+-- --- ABA CONFIGURACOES ---
+
+local settingsTab = tabFrames.settings
+Widgets.addSectionLabel(settingsTab, t("settings_title"), Color3.fromRGB(120, 190, 255))
+
+local langPtBtn = Widgets.addButton(settingsTab, "Portugues", Color3.fromRGB(60, 60, 60), 32)
+local langEnBtn = Widgets.addButton(settingsTab, "English", Color3.fromRGB(60, 60, 60), 32)
+local langEsBtn = Widgets.addButton(settingsTab, "Espanol", Color3.fromRGB(60, 60, 60), 32)
+
+local langButtons = { pt = langPtBtn, en = langEnBtn, es = langEsBtn }
+
+local function refreshLangButtons()
+    for lang, btn in pairs(langButtons) do
+        btn.BackgroundColor3 = (Language.current == lang) and Color3.fromRGB(0, 110, 60) or Color3.fromRGB(60, 60, 60)
+    end
+end
+refreshLangButtons()
+
+local function setLanguage(lang)
+    Language.current = lang
+    addLog("[CONFIG] Idioma definido: " .. lang .. ", reconstruindo o menu...")
+    lastSelectedTabKey = "settings"
+    setupMenu()
+end
+
+langPtBtn.MouseButton1Click:Connect(function() setLanguage("pt") end)
+langEnBtn.MouseButton1Click:Connect(function() setLanguage("en") end)
+langEsBtn.MouseButton1Click:Connect(function() setLanguage("es") end)
+
+Widgets.addInfoLabel(settingsTab, t("settings_info"))
+
+Widgets.addDivider(settingsTab)
+Widgets.addSectionLabel(settingsTab, "OCULTAR HUD DO JOGO", Color3.fromRGB(150, 220, 255))
+
+Widgets.addFeatureToggleButton(settingsTab, "Ocultar HUD (ícones Índice/Loja/Inventário/etc)", HideHud)
+
+Widgets.addInfoLabel(settingsTab, "Esconde os ScreenGuis nativos do jogo (os ícones de atalho no canto esquerdo -- Índice, Loja, Inventário, Carros, Admin, Pintar) e tenta MANTER visível o que mostra dinheiro ganho (canto inferior esquerdo, incluindo os popups '+$X') e o leaderboard (canto superior direito). A decisão de esconder ou manter é por palavra-chave no NOME de cada GUI do jogo -- como não temos o código-fonte do jogo pra saber os nomes exatos, TODO ScreenGui encontrado (escondido ou mantido) aparece no log. Se algo sumiu que não devia (ou ficou visível o que devia sumir), me manda o log que eu ajusto a lista de palavras-chave. Desativar traz tudo de volta.")
+
+Widgets.addDivider(settingsTab)
+Widgets.addSectionLabel(settingsTab, "ADMIN ABUSE", Color3.fromRGB(255, 90, 100))
+local openAdminAbuseBtn = Widgets.addButton(settingsTab, "Abrir/Fechar Painel Admin Abuse", Color3.fromRGB(185, 45, 50), 34)
+openAdminAbuseBtn.MouseButton1Click:Connect(function() AdminAbusePanelFeature.toggle() end)
+
+local adminMaskState = { enabled = false }
+local adminMaskBtn = Instance.new("TextButton")
+adminMaskBtn.Size = UDim2.new(1, 0, 0, 30)
+adminMaskBtn.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+adminMaskBtn.TextColor3 = Color3.new(1, 1, 1)
+adminMaskBtn.TextSize = 12
+adminMaskBtn.Font = Enum.Font.GothamBold
+adminMaskBtn.Text = "Mascara Admin (Client-Side)"
+adminMaskBtn.LayoutOrder = Widgets.tabOrder(settingsTab)
+adminMaskBtn.Parent = settingsTab
+adminMaskBtn.MouseButton1Click:Connect(function()
+    adminMaskState.enabled = not adminMaskState.enabled
+    adminMaskBtn.BackgroundColor3 = adminMaskState.enabled and Color3.fromRGB(0, 130, 60) or Color3.fromRGB(60, 60, 60)
+    AdminAbusePanelFeature.forceAdminMask(adminMaskState.enabled)
+end)
+
+local grantAdminBtn = Widgets.addButton(settingsTab, "Solicitar AdminAccess", Color3.fromRGB(220, 100, 30), 34)
+grantAdminBtn.MouseButton1Click:Connect(function()
+    addLog("[ADMIN-ABUSE] Enviando GrantAdminAccess pro servidor...")
+    if Remotes.adminAbuseRemote then
+        Remotes.adminAbuseRemote:FireServer("GrantAdminAccess")
+        addLog("[ADMIN-ABUSE] ✓ Requisição enviada (aguardando resposta do servidor)")
+    else
+        addLog("[ADMIN-ABUSE] [!] AdminAbuseRemote não encontrado!")
+    end
+end)
+
+Widgets.addInfoLabel(settingsTab, "SERVIDOR: Atalho pro painel de admin do jogo (3x boxes, tree rush, coins, anúncios, sequência 30min). 'Solicitar AdminAccess' manda solicitação pro servidor, que valida seu UserId e responde com AdminAccess=true se você está na lista de admins.\n\nCLIENT-SIDE: 'Mascara Admin' força admin só no seu lado (sem passar pelo servidor) -- destranca todos os botões do painel pra testar. Funciona 100% localmente, mas as ações só fazem efeito de verdade se o servidor reconhecer admin de fato quando você clica.")
+
+local triple3xBoxState = { enabled = false }
+local triple3xBoxBtn = Widgets.addButton(settingsTab, "Ativar 3X Boxes (via Admin)", Color3.fromRGB(105, 75, 220), 34)
+triple3xBoxBtn.MouseButton1Click:Connect(function()
+    triple3xBoxState.enabled = not triple3xBoxState.enabled
+    triple3xBoxBtn.BackgroundColor3 = triple3xBoxState.enabled and Color3.fromRGB(0, 130, 60) or Color3.fromRGB(105, 75, 220)
+    triple3xBoxBtn.Text = triple3xBoxState.enabled and "Desativar 3X Boxes (via Admin)" or "Ativar 3X Boxes (via Admin)"
+    addLog("[ADMIN-ABUSE] Enviando SetTripleBoxes(" .. tostring(triple3xBoxState.enabled) .. ") pro servidor...")
+    if Remotes.adminAbuseRemote then
+        pcall(function() Remotes.adminAbuseRemote:FireServer("SetTripleBoxes", { Enabled = triple3xBoxState.enabled }) end)
+        addLog("[ADMIN-ABUSE] ✓ Requisição enviada (o resultado real -- se funcionou ou não -- chega logo em seguida no log, mandado pelo servidor)")
+    else
+        addLog("[ADMIN-ABUSE] [!] AdminAbuseRemote não encontrado!")
+    end
+end)
+Widgets.addInfoLabel(settingsTab, "Liga/desliga o 3X Boxes direto, sem precisar abrir o painel Admin Abuse. Manda SetTripleBoxes pro servidor -- o retorno de verdade (se ativou ou foi recusado por falta de permissão) aparece automaticamente no log do hub logo depois de clicar, mandado pelo servidor via AdminResult.")
+
+Widgets.addDivider(settingsTab)
+Widgets.addSectionLabel(settingsTab, "TROCAR OUTFIT", Color3.fromRGB(0, 220, 220))
+
+local function clonarOutfit(targetUserId)
+    local targetPlayer = nil
+    for _, player in ipairs(Players:GetPlayers()) do
+        if player.UserId == targetUserId then
+            targetPlayer = player
+            break
+        end
+    end
+
+    if not targetPlayer then
+        addLog("[OUTFIT] [!] Jogador com ID " .. targetUserId .. " não encontrado")
+        return false
+    end
+
+    if not targetPlayer.Character then
+        addLog("[OUTFIT] [!] Personagem do jogador não carregado ainda")
+        return false
+    end
+
+    local character = LocalPlayer.Character
+    if not character then
+        addLog("[OUTFIT] [!] Seu personagem não carregado")
+        return false
+    end
+
+    local targetCharacter = targetPlayer.Character
+
+    local CLONABLE_CLASSES = { "Accessory", "Shirt", "Pants", "ShirtGraphic", "BodyColors" }
+
+    local function isClonable(inst)
+        for _, className in ipairs(CLONABLE_CLASSES) do
+            if inst:IsA(className) then return true end
+        end
+        return false
+    end
+
+    -- Remove roupas/acessórios/cor de pele antigos
+    for _, child in ipairs(character:GetChildren()) do
+        if isClonable(child) then
+            pcall(function() child:Destroy() end)
+        end
+    end
+
+    -- Clona Accessories, Shirt, Pants, ShirtGraphic e BodyColors
+    local clonadosCount = 0
+    for _, child in ipairs(targetCharacter:GetChildren()) do
+        if isClonable(child) then
+            local cloned = child:Clone()
+            cloned.Parent = character
+            clonadosCount = clonadosCount + 1
+        end
+    end
+
+    addLog("[OUTFIT] [✓] Outfit clonado de " .. targetPlayer.Name .. " (" .. clonadosCount .. " itens)")
+    return true
+end
+
+local outfitIdInput = Widgets.addTextField(settingsTab, "ID do jogador:", "")
+local clonarOutfitBtn = Widgets.addButton(settingsTab, "Clonar Outfit", Color3.fromRGB(0, 180, 220), 34)
+
+clonarOutfitBtn.MouseButton1Click:Connect(function()
+    local userId = tonumber(outfitIdInput.Text)
+    if userId then
+        clonarOutfit(userId)
+    else
+        addLog("[OUTFIT] [!] ID inválido")
+    end
+end)
+
+Widgets.addInfoLabel(settingsTab, "Digita o UserID de um jogador e clica 'Clonar Outfit' pra copiar suas roupas visualmente. Seu UserId permanece o mesmo (não é spoofing). Só muda a aparência visual.")
+
+Widgets.addDivider(settingsTab)
+Widgets.addSectionLabel(settingsTab, "LOG DO HUB", Color3.fromRGB(200, 200, 200))
+local copyLogBtn = Widgets.addButton(settingsTab, "Copiar Log Completo (Clipboard)", Color3.fromRGB(90, 90, 200), 34)
+copyLogBtn.MouseButton1Click:Connect(function() copyHubLogToClipboard() end)
+Widgets.addInfoLabel(settingsTab, "Copia as últimas " .. HUB_LOG_BUFFER_MAX .. " linhas de log (com horário) pro clipboard, prontas pra colar -- assim não precisa mais de print de tela do console pra mandar o log.")
+
+-- --- RESPONSIVO + MINIMIZAR ---
+
+local MIN_W, MAX_W = 380, 480
+local MIN_H, MAX_H = 340, 580
+
+local expandedHeight = 420
+local minimized = false
+
+local function computeSize()
+    local viewport = hubCamera.ViewportSize
+    local w = math.clamp(viewport.X - 24, MIN_W, MAX_W)
+    local h = math.clamp(viewport.Y - 90, MIN_H, MAX_H)
+    return w, h
+end
+
+local function applyResponsiveSize()
+    local w, h = computeSize()
+    expandedHeight = h
+    frame.Size = UDim2.new(0, w, 0, minimized and TITLE_HEIGHT or h)
+
+    local viewport = hubCamera.ViewportSize
+    local absPos = frame.AbsolutePosition
+    local clampedX = math.clamp(absPos.X, 0, math.max(0, viewport.X - w))
+    local clampedY = math.clamp(absPos.Y, 0, math.max(0, viewport.Y - TITLE_HEIGHT))
+    if clampedX ~= absPos.X or clampedY ~= absPos.Y then
+        frame.Position = UDim2.new(0, clampedX, 0, clampedY)
+    end
+end
+
+applyResponsiveSize()
+hubCamera:GetPropertyChangedSignal("ViewportSize"):Connect(applyResponsiveSize)
+
+minimizeBtn.MouseButton1Click:Connect(function()
+    minimized = not minimized
+    body.Visible = not minimized
+    frame.Size = UDim2.new(0, frame.AbsoluteSize.X, 0, minimized and TITLE_HEIGHT or expandedHeight)
+    minimizeBtn.Text = minimized and "▢" or "—"
+end)
+
+selectTab(lastSelectedTabKey)
+
+addLog("Hub carregado. Use as abas pra navegar. F5 liga/desliga a Free Cam a qualquer momento.")
+print("[+] MEGA RAMP HUB carregado!")
+
+end
+
+setupMenu()
