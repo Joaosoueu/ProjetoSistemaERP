@@ -783,6 +783,16 @@ local function openHooksLab()
     local function hfield(ph, def) return new("TextBox", hbody, { Size=UDim2.new(1,0,0,26), BackgroundColor3=Color3.fromRGB(48,48,56), BorderSizePixel=0,
         TextColor3=Color3.new(1,1,1), Font=Enum.Font.Gotham, TextSize=12, PlaceholderText=ph, Text=def or "", ClearTextOnFocus=false, LayoutOrder=hnext() }) end
 
+    -- log PROPRIO do HOOK LAB: guarda TUDO (sem corte de 80 linhas) e da p/ copiar/salvar aqui.
+    -- 'log' abaixo sombreia o global -- todas as secoes deste menu escrevem nele + no painel.
+    local hookLines = {}
+    local outerLog = log
+    local function log(msg)
+        table.insert(hookLines, os.date("%H:%M:%S").." "..tostring(msg))
+        if #hookLines > 4000 then table.remove(hookLines, 1) end
+        outerLog(msg)
+    end
+
     -- ---------- 1) CAPABILITY SCAN ----------
     hsec("1) FUNCOES DO EXECUTOR (scan)", Color3.fromRGB(140,220,255))
     local capLbl = hlbl("(clique escanear)")
@@ -954,8 +964,29 @@ local function openHooksLab()
         log("[HOOK] getgc '"..kw.."': "..nT.." tabelas, "..nF.." funcoes"..(ok and "" or " (erro na varredura)"))
     end)
 
+    -- ---------- 6) EXPORTAR LOG (aqui dentro, sem corte) ----------
+    hsec("6) EXPORTAR LOG DO HOOK", Color3.fromRGB(140,220,255))
+    local exLbl = hlbl("(clique copiar ou salvar depois de rodar os testes)")
+    hbtn("Copiar HOOK log (clipboard)", Color3.fromRGB(40,120,150), function()
+        if typeof(setclipboard) == "function" then
+            pcall(setclipboard, table.concat(hookLines, "\n"))
+            exLbl.Text = "copiado: "..#hookLines.." linhas -> cola no chat"
+            log("[HOOK] "..#hookLines.." linhas copiadas")
+        else exLbl.Text = "executor sem setclipboard -- use Salvar" end
+    end)
+    hbtn("Salvar hook_log.txt (workspace)", Color3.fromRGB(0,150,90), function()
+        if typeof(writefile) ~= "function" then exLbl.Text = "sem writefile"; return end
+        pcall(writefile, "hook_log.txt", table.concat(hookLines, "\n"))
+        exLbl.Text = "salvo: workspace/hook_log.txt ("..#hookLines.." linhas)"
+        log("[HOOK] salvo em hook_log.txt")
+    end)
+    hbtn("Limpar HOOK log", Color3.fromRGB(90,60,60), function()
+        for i = #hookLines, 1, -1 do hookLines[i] = nil end
+        exLbl.Text = "log limpo"
+    end)
+
     hsec("", Color3.fromRGB(120,120,120))
-    hlbl("Regra: mudou o resultado no SERVIDOR = brecha; so mudou local/HUD = server-authoritative (OK). Log vai pro painel principal.", Color3.fromRGB(180,220,255))
+    hlbl("Regra: mudou no SERVIDOR = brecha; so local/HUD = OK. Rode os testes e use 'Copiar HOOK log' aqui em cima.", Color3.fromRGB(180,220,255))
     log("[HOOK] HOOKS LAB aberto. Comece por 'Escanear funcoes'.")
     scan()
 end
