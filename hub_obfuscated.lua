@@ -321,12 +321,17 @@ local function installSpy()
 end
 
 -- IN: conecta em TODOS os RemoteEvents (server -> cliente)
+-- ruido de estado (dispara todo segundo) -- escondido salvo se filtrado explicitamente
+local SPY_IGNORE = { UpdateMoney=true, CarShopUpdate=true, LeaderboardUpdate=true,
+    IndexUpdate=true, InventoryUpdate=true, CheckpointLuckUpdate=true, SlimeReveal=true }
 local function installSpyIncoming()
     if spyInHooked then return true end
     local function hookEvt(ev)
         pcall(function()
             ev.OnClientEvent:Connect(function(...)
                 if spyInOn and matchFilter(ev.Name) then
+                    -- com filtro vazio, pula os barulhentos; com filtro, mostra tudo que casar
+                    if spyFilterBox.Text == "" and SPY_IGNORE[ev.Name] then return end
                     pushLine("<- "..ev.Name.."("..spyFmt(...)..")")
                 end
             end)
@@ -742,9 +747,18 @@ local function openHooksLab()
     sg = new("ScreenGui", playerGui, { Name="HooksLabGui", ResetOnSpawn=false, DisplayOrder=10070, IgnoreGuiInset=true })
     sg:GetPropertyChangedSignal("Enabled"):Connect(function() if not sg.Enabled then sg.Enabled = true end end)
 
-    local W, H, TH = 460, 560, 28
-    local fr = new("Frame", sg, { Size=UDim2.new(0,W,0,H), Position=UDim2.new(0.5,-W/2,0.5,-H/2),
-        BackgroundColor3=Color3.fromRGB(20,20,26), BorderSizePixel=0, Active=true, Draggable=true, ClipsDescendants=true })
+    local TH = 28
+    local fr = new("Frame", sg, { AnchorPoint=Vector2.new(0.5,0.5), Position=UDim2.new(0.5,0,0.5,0),
+        Size=UDim2.new(0,460,0,560), BackgroundColor3=Color3.fromRGB(20,20,26), BorderSizePixel=0,
+        Active=true, Draggable=true, ClipsDescendants=true })
+    -- responsivo: cabe em celular (limita ao viewport), recalcula ao girar/redimensionar
+    local cam = workspace.CurrentCamera
+    local function fitHooks()
+        local vp = (cam and cam.ViewportSize) or Vector2.new(800, 600)
+        fr.Size = UDim2.new(0, math.min(460, math.floor(vp.X * 0.94)), 0, math.min(560, math.floor(vp.Y * 0.86)))
+    end
+    fitHooks()
+    if cam then pcall(function() cam:GetPropertyChangedSignal("ViewportSize"):Connect(fitHooks) end) end
     new("UIStroke", fr, { Color=Color3.fromRGB(90,200,240), Thickness=1, Transparency=0.3 })
     local tb = new("Frame", fr, { Size=UDim2.new(1,0,0,TH), BackgroundColor3=Color3.fromRGB(26,36,46), BorderSizePixel=0 })
     new("TextLabel", tb, { Size=UDim2.new(1,-34,1,0), Position=UDim2.new(0,12,0,0), BackgroundTransparency=1,
