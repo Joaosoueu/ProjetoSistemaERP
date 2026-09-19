@@ -253,6 +253,81 @@ fullLabel(("Admin=%s Manage=%s Offline=%s Parkour=%s MiniGame=%s Tree=%s"):forma
     tostring(MiniParkourEvent~=nil), tostring(MiniGameEvent~=nil), tostring(TreeShopAction~=nil)),
     Color3.fromRGB(180,220,255))
 
+-- ======================= REMOTE SPY (captura args REAIS) =======================
+-- Loga os FireServer/InvokeServer que o JOGO manda, com os args EXATOS -- acaba com o
+-- "args chute". Hook em __namecall; checkcaller() garante logar so o jogo (nao os testes).
+-- Uso: liga o SPY, faz a acao no jogo (Gift, Buy, etc.), le/copia o log, e "Replay".
+section("REMOTE SPY (args reais do jogo)", Color3.fromRGB(120,220,255))
+local spyOn = false
+local spyLines = {}
+local spyFilterBox = textField("filtro do spy (nome do remote; vazio = tudo)")
+local lastSpy = nil
+local spyHooked = false
+
+local function spyFmt(...)
+    local a = table.pack(...)
+    local parts = {}
+    for i = 1, a.n do
+        local v = a[i]; local t = typeof(v)
+        if t == "Instance" then parts[i] = v.ClassName..":"..v.Name
+        elseif t == "table" then
+            local kv = {}; for k2, v2 in pairs(v) do kv[#kv+1] = tostring(k2).."="..tostring(v2) end
+            parts[i] = "{"..table.concat(kv, ",").."}"
+        elseif t == "string" then parts[i] = '"'..v..'"'
+        else parts[i] = tostring(v) end
+    end
+    return table.concat(parts, ", ")
+end
+
+local function installSpy()
+    if spyHooked then return true end
+    if typeof(hookmetamethod) ~= "function" or typeof(getnamecallmethod) ~= "function" then
+        log("[SPY] executor sem hookmetamethod/getnamecallmethod"); return false
+    end
+    local old
+    old = hookmetamethod(game, "__namecall", function(self, ...)
+        if spyOn then
+            local ok, method = pcall(getnamecallmethod)
+            if ok and (method == "FireServer" or method == "InvokeServer")
+               and not (typeof(checkcaller) == "function" and checkcaller()) then
+                local nm = (typeof(self) == "Instance") and self.Name or tostring(self)
+                local flt = spyFilterBox.Text:lower()
+                if flt == "" or nm:lower():find(flt, 1, true) then
+                    lastSpy = { remote = self, args = table.pack(...) }
+                    local body = method.." "..nm.."("..spyFmt(...)..")"
+                    table.insert(spyLines, os.date("%H:%M:%S").." "..body)
+                    if #spyLines > 200 then table.remove(spyLines, 1) end
+                    log("[SPY] "..body)
+                end
+            end
+        end
+        return old(self, ...)
+    end)
+    spyHooked = true
+    return true
+end
+
+local spyBtn
+spyBtn = button("SPY: OFF (liga p/ capturar args reais)", Color3.fromRGB(60,90,150), function()
+    if not spyOn then
+        if not installSpy() then return end
+        spyOn = true
+    else
+        spyOn = false
+    end
+    spyBtn.Text = "SPY: " .. (spyOn and "ON (jogue normal p/ capturar)" or "OFF (liga p/ capturar args reais)")
+    spyBtn.BackgroundColor3 = spyOn and Color3.fromRGB(40,120,90) or Color3.fromRGB(60,90,150)
+    log("[SPY] "..(spyOn and "ligado -- faca a acao no jogo (Gift/Buy/etc.)" or "desligado"))
+end)
+button("Copiar SPY log (clipboard)", Color3.fromRGB(60,60,90), function()
+    if typeof(setclipboard) == "function" then pcall(setclipboard, table.concat(spyLines, "\n")); log("[SPY] "..#spyLines.." linhas copiadas") else log("[!] sem setclipboard") end
+end)
+button("Replay ULTIMO capturado (mesmos args)", Color3.fromRGB(150,80,40), function()
+    if not lastSpy then log("[SPY] nada capturado ainda -- ligue o SPY e faca a acao"); return end
+    local ok, err = pcall(function() lastSpy.remote:FireServer(table.unpack(lastSpy.args, 1, lastSpy.args.n)) end)
+    log(ok and ("[SPY] replay -> "..lastSpy.remote.Name.."("..spyFmt(table.unpack(lastSpy.args, 1, lastSpy.args.n))..")") or ("[SPY] replay falhou: "..tostring(err)))
+end)
+
 -- [CRITICO] AdminAbuse -- deve exigir admin no servidor
 section("[CRITICO] AdminAbuse (deve exigir admin)", Color3.fromRGB(255,90,90))
 button("GiveEventCoins +1.000.000 (veja STATUS)", Color3.fromRGB(150,40,40), function()
@@ -366,6 +441,26 @@ button("AUTO-COMPLETE HitTheSlime (~3min, background)", Color3.fromRGB(170,60,40
     timedAutoComplete("HitTheSlime")
     log("   Hit roda ~3min em background; args de Progress por nivel sao chute")
 end)
+-- MULTIPLICADOR: reward = renda/s x mult(60/600) x max(1, ActiveEventCashMultiplier).
+-- Este teste forca o atributo e completa o Memory: se a recompensa refletir o valor
+-- forcado = servidor CONFIA no attr do cliente (brecha). Se vier o normal = HUD only
+-- (atributos setados no cliente NAO replicam pro servidor).
+local multBox = textField("multiplicador forcado (default 1000)")
+multBox.Text = "1000"
+button("Forcar ActiveEventCashMultiplier + AUTO Memory (HUD only)", Color3.fromRGB(120,70,50), function()
+    local m = tonumber(multBox.Text) or 1000
+    pcall(function() LocalPlayer:SetAttribute("ActiveEventCashMultiplier", m) end)
+    log("   attr forcado = "..m.." (local). CONFIRMADO: nao replica -> reward NAO muda (HUD only)")
+    timedAutoComplete("Memory")
+end)
+-- UNICA forma REAL de subir o multiplicador: ativar um evento 10x (server aplica no minigame).
+button("Ativar 10x + AUTO Memory (multiplicador REAL via evento)", Color3.fromRGB(150,90,240), function()
+    if not tenx[1] then log("[!] sem evento 10x no EventConfig"); return end
+    activate(tenx[1].Id)
+    task.wait(1.5)  -- deixa o servidor ativar o evento
+    log("   evento "..tostring(tenx[1].Id).." (10x) ativado -> Memory deve pagar ~10x")
+    timedAutoComplete("Memory")
+end)
 -- LOOP: repete o auto-complete do Memory ate desligar (mede a taxa de farm)
 local loopOn = false
 local loopBtn
@@ -442,6 +537,18 @@ button("Collect x5 (replay/cooldown?)", Color3.fromRGB(120,90,40), function()
 end)
 button("SellSlimeAction SellAll", Color3.fromRGB(120,90,40), function()
     fire(SellSlimeAction, "SellAll", "SellAll")
+end)
+local SlimeShopAction = findRemote("SlimeShopAction")
+button("SlimeShop BuySecretCash (checa saldo?)", Color3.fromRGB(120,90,40), function()
+    fire(SlimeShopAction, "Slime:BuySecretCash", "BuySecretCash")
+end)
+button("SlimeShop BuySecretRobux (sem pagar?)", Color3.fromRGB(150,40,40), function()
+    fire(SlimeShopAction, "Slime:BuySecretRobux", "BuySecretRobux")
+    log("   ganhou o secret sem prompt de Robux = GRATIS")
+end)
+button("SlimeShop BuyDivineGlitterBluRobux (sem pagar?)", Color3.fromRGB(150,40,40), function()
+    fire(SlimeShopAction, "Slime:BuyDivineRobux", "BuyDivineGlitterBluRobux")
+    log("   ganhou o divine sem prompt de Robux = GRATIS")
 end)
 button("Tree Buy commonTree (slot 1) -- seed valido", Color3.fromRGB(120,90,40), function()
     fire(TreeShopAction, "Tree:Buy commonTree", "Buy", 1, "commonTree")
