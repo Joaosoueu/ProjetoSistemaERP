@@ -253,16 +253,18 @@ fullLabel(("Admin=%s Manage=%s Offline=%s Parkour=%s MiniGame=%s Tree=%s"):forma
     tostring(MiniParkourEvent~=nil), tostring(MiniGameEvent~=nil), tostring(TreeShopAction~=nil)),
     Color3.fromRGB(180,220,255))
 
--- ======================= REMOTE SPY (captura args REAIS) =======================
--- Loga os FireServer/InvokeServer que o JOGO manda, com os args EXATOS -- acaba com o
--- "args chute". Hook em __namecall; checkcaller() garante logar so o jogo (nao os testes).
--- Uso: liga o SPY, faz a acao no jogo (Gift, Buy, etc.), le/copia o log, e "Replay".
-section("REMOTE SPY (args reais do jogo)", Color3.fromRGB(120,220,255))
-local spyOn = false
-local spyLines = {}
-local spyFilterBox = textField("filtro do spy (nome do remote; vazio = tudo)")
+-- ======================= REMOTE SPY (captura TUDO: OUT + IN) =======================
+-- OUT: FireServer/InvokeServer que o JOGO manda (hook __namecall + checkcaller).
+-- IN : todos os OnClientEvent (servidor -> cliente): rewards, state, etc.
+-- Guarda cada OUT distinto p/ replay por indice. Salva tudo em arquivo.
+section("REMOTE SPY (captura TUDO: out + in)", Color3.fromRGB(120,220,255))
+local spyOn = false          -- captura OUT (FireServer do jogo)
+local spyInOn = false        -- captura IN (OnClientEvent do servidor)
+local spyLines = {}          -- log textual (out + in)
+local spyCaptured = {}       -- OUT distintos p/ replay: {remote, args, sig}
+local spyFilterBox = textField("filtro (nome do remote; vazio = tudo)")
 local lastSpy = nil
-local spyHooked = false
+local spyHooked, spyInHooked = false, false
 
 local function spyFmt(...)
     local a = table.pack(...)
@@ -278,7 +280,17 @@ local function spyFmt(...)
     end
     return table.concat(parts, ", ")
 end
+local function matchFilter(nm)
+    local flt = spyFilterBox.Text:lower()
+    return flt == "" or (nm ~= nil and nm:lower():find(flt, 1, true) ~= nil)
+end
+local function pushLine(s)
+    table.insert(spyLines, os.date("%H:%M:%S").." "..s)
+    if #spyLines > 500 then table.remove(spyLines, 1) end
+    log("[SPY] "..s)
+end
 
+-- OUT hook (__namecall)
 local function installSpy()
     if spyHooked then return true end
     if typeof(hookmetamethod) ~= "function" or typeof(getnamecallmethod) ~= "function" then
@@ -291,13 +303,14 @@ local function installSpy()
             if ok and (method == "FireServer" or method == "InvokeServer")
                and not (typeof(checkcaller) == "function" and checkcaller()) then
                 local nm = (typeof(self) == "Instance") and self.Name or tostring(self)
-                local flt = spyFilterBox.Text:lower()
-                if flt == "" or nm:lower():find(flt, 1, true) then
-                    lastSpy = { remote = self, args = table.pack(...) }
-                    local body = method.." "..nm.."("..spyFmt(...)..")"
-                    table.insert(spyLines, os.date("%H:%M:%S").." "..body)
-                    if #spyLines > 200 then table.remove(spyLines, 1) end
-                    log("[SPY] "..body)
+                if matchFilter(nm) then
+                    local args = table.pack(...)
+                    lastSpy = { remote = self, args = args }
+                    local sig = method.." "..nm.."("..spyFmt(...)..")"
+                    local dup = false
+                    for _, c in ipairs(spyCaptured) do if c.sig == sig then dup = true; break end end
+                    if not dup then table.insert(spyCaptured, { remote = self, args = args, sig = sig }) end
+                    pushLine("-> "..sig)
                 end
             end
         end
@@ -307,25 +320,68 @@ local function installSpy()
     return true
 end
 
-local spyBtn
-spyBtn = button("SPY: OFF (liga p/ capturar args reais)", Color3.fromRGB(60,90,150), function()
-    if not spyOn then
-        if not installSpy() then return end
-        spyOn = true
-    else
-        spyOn = false
+-- IN: conecta em TODOS os RemoteEvents (server -> cliente)
+local function installSpyIncoming()
+    if spyInHooked then return true end
+    local function hookEvt(ev)
+        pcall(function()
+            ev.OnClientEvent:Connect(function(...)
+                if spyInOn and matchFilter(ev.Name) then
+                    pushLine("<- "..ev.Name.."("..spyFmt(...)..")")
+                end
+            end)
+        end)
     end
-    spyBtn.Text = "SPY: " .. (spyOn and "ON (jogue normal p/ capturar)" or "OFF (liga p/ capturar args reais)")
+    for _, d in ipairs(ReplicatedStorage:GetDescendants()) do
+        if d:IsA("RemoteEvent") then hookEvt(d) end
+    end
+    pcall(function()
+        ReplicatedStorage.DescendantAdded:Connect(function(d)
+            if d:IsA("RemoteEvent") then hookEvt(d) end
+        end)
+    end)
+    spyInHooked = true
+    return true
+end
+
+local spyBtn
+spyBtn = button("SPY OUT: OFF (FireServer do jogo)", Color3.fromRGB(60,90,150), function()
+    if not spyOn then if not installSpy() then return end; spyOn = true else spyOn = false end
+    spyBtn.Text = "SPY OUT: "..(spyOn and "ON (jogue normal)" or "OFF").." (FireServer do jogo)"
     spyBtn.BackgroundColor3 = spyOn and Color3.fromRGB(40,120,90) or Color3.fromRGB(60,90,150)
-    log("[SPY] "..(spyOn and "ligado -- faca a acao no jogo (Gift/Buy/etc.)" or "desligado"))
+    log("[SPY] OUT "..(spyOn and "ligado" or "desligado"))
 end)
-button("Copiar SPY log (clipboard)", Color3.fromRGB(60,60,90), function()
+local spyInBtn
+spyInBtn = button("SPY IN: OFF (server -> cliente)", Color3.fromRGB(60,90,150), function()
+    if not spyInOn then installSpyIncoming(); spyInOn = true else spyInOn = false end
+    spyInBtn.Text = "SPY IN: "..(spyInOn and "ON (rewards/state)" or "OFF").." (server -> cliente)"
+    spyInBtn.BackgroundColor3 = spyInOn and Color3.fromRGB(40,120,90) or Color3.fromRGB(60,90,150)
+    log("[SPY] IN "..(spyInOn and "ligado -- CUIDADO: UpdateMoney spamma; use filtro" or "desligado"))
+end)
+button("Listar OUT capturados p/ replay (#)", Color3.fromRGB(60,60,90), function()
+    if #spyCaptured == 0 then log("[SPY] nada capturado ainda"); return end
+    for i, c in ipairs(spyCaptured) do log("   #"..i.." "..c.sig) end
+end)
+local replayBox = textField("indice p/ Replay #N (ex: 3)")
+button("Replay #N (da lista de capturados)", Color3.fromRGB(150,80,40), function()
+    local i = tonumber(replayBox.Text)
+    local c = i and spyCaptured[i]
+    if not c then log("[SPY] indice invalido -- use 'Listar OUT capturados'"); return end
+    local ok, err = pcall(function() c.remote:FireServer(table.unpack(c.args, 1, c.args.n)) end)
+    log(ok and ("[SPY] replay #"..i.." -> "..c.sig) or ("[SPY] replay #"..i.." falhou: "..tostring(err)))
+end)
+button("Replay ULTIMO capturado", Color3.fromRGB(150,80,40), function()
+    if not lastSpy then log("[SPY] nada capturado ainda"); return end
+    local ok, err = pcall(function() lastSpy.remote:FireServer(table.unpack(lastSpy.args, 1, lastSpy.args.n)) end)
+    log(ok and ("[SPY] replay -> "..lastSpy.remote.Name) or ("[SPY] replay falhou: "..tostring(err)))
+end)
+button("Copiar SPY log (out+in)", Color3.fromRGB(60,60,90), function()
     if typeof(setclipboard) == "function" then pcall(setclipboard, table.concat(spyLines, "\n")); log("[SPY] "..#spyLines.." linhas copiadas") else log("[!] sem setclipboard") end
 end)
-button("Replay ULTIMO capturado (mesmos args)", Color3.fromRGB(150,80,40), function()
-    if not lastSpy then log("[SPY] nada capturado ainda -- ligue o SPY e faca a acao"); return end
-    local ok, err = pcall(function() lastSpy.remote:FireServer(table.unpack(lastSpy.args, 1, lastSpy.args.n)) end)
-    log(ok and ("[SPY] replay -> "..lastSpy.remote.Name.."("..spyFmt(table.unpack(lastSpy.args, 1, lastSpy.args.n))..")") or ("[SPY] replay falhou: "..tostring(err)))
+button("Salvar SPY -> spy_log.txt (workspace)", Color3.fromRGB(0,150,90), function()
+    if typeof(writefile) ~= "function" then log("[!] sem writefile"); return end
+    pcall(writefile, "spy_log.txt", table.concat(spyLines, "\n"))
+    log("[SPY] salvo em workspace/spy_log.txt ("..#spyLines.." linhas)")
 end)
 
 -- [CRITICO] AdminAbuse -- deve exigir admin no servidor
@@ -679,6 +735,217 @@ button("DeclineGift", Color3.fromRGB(120,90,40), function()
     fire(GiftAction, "Gift:Decline", "DeclineGift")
 end)
 
+-- ======================= HOOKS LAB (overlay) =======================
+-- Menu dedicado: escaneia as funcoes do executor e da ferramenta p/ cada hook.
+local function openHooksLab()
+    local sg = playerGui:FindFirstChild("HooksLabGui"); if sg then sg:Destroy() end
+    sg = new("ScreenGui", playerGui, { Name="HooksLabGui", ResetOnSpawn=false, DisplayOrder=10070, IgnoreGuiInset=true })
+    sg:GetPropertyChangedSignal("Enabled"):Connect(function() if not sg.Enabled then sg.Enabled = true end end)
+
+    local W, H, TH = 460, 560, 28
+    local fr = new("Frame", sg, { Size=UDim2.new(0,W,0,H), Position=UDim2.new(0.5,-W/2,0.5,-H/2),
+        BackgroundColor3=Color3.fromRGB(20,20,26), BorderSizePixel=0, Active=true, Draggable=true, ClipsDescendants=true })
+    new("UIStroke", fr, { Color=Color3.fromRGB(90,200,240), Thickness=1, Transparency=0.3 })
+    local tb = new("Frame", fr, { Size=UDim2.new(1,0,0,TH), BackgroundColor3=Color3.fromRGB(26,36,46), BorderSizePixel=0 })
+    new("TextLabel", tb, { Size=UDim2.new(1,-34,1,0), Position=UDim2.new(0,12,0,0), BackgroundTransparency=1,
+        TextColor3=Color3.fromRGB(140,220,255), Font=Enum.Font.GothamBold, TextSize=13, TextXAlignment=Enum.TextXAlignment.Left, Text="HOOKS LAB (executor)" })
+    local xb = new("TextButton", tb, { Size=UDim2.new(0,32,1,0), Position=UDim2.new(1,-32,0,0),
+        BackgroundColor3=Color3.fromRGB(150,45,45), BorderSizePixel=0, TextColor3=Color3.new(1,1,1), Font=Enum.Font.GothamBold, TextSize=14, Text="X" })
+    xb.MouseButton1Click:Connect(function() sg:Destroy() end)
+
+    local hbody = new("ScrollingFrame", fr, { Position=UDim2.new(0,0,0,TH), Size=UDim2.new(1,0,1,-TH),
+        BackgroundTransparency=1, BorderSizePixel=0, ScrollBarThickness=5, CanvasSize=UDim2.new(0,0,0,0), AutomaticCanvasSize=Enum.AutomaticSize.Y })
+    new("UIPadding", hbody, { PaddingLeft=UDim.new(0,10), PaddingRight=UDim.new(0,10), PaddingTop=UDim.new(0,8), PaddingBottom=UDim.new(0,10) })
+    new("UIListLayout", hbody, { SortOrder=Enum.SortOrder.LayoutOrder, Padding=UDim.new(0,5) })
+    local ho = 0
+    local function hnext() ho = ho + 1; return ho end
+    local function hsec(t, c) new("TextLabel", hbody, { Size=UDim2.new(1,0,0,18), BackgroundTransparency=1, TextColor3=c or Color3.fromRGB(140,220,255),
+        Font=Enum.Font.GothamBold, TextSize=12, TextXAlignment=Enum.TextXAlignment.Left, Text=t, LayoutOrder=hnext() }) end
+    local function hbtn(t, c, cb) local b = new("TextButton", hbody, { Size=UDim2.new(1,0,0,28), BackgroundColor3=c, TextColor3=Color3.new(1,1,1),
+        Font=Enum.Font.GothamBold, TextSize=12, Text=t, LayoutOrder=hnext() }); b.MouseButton1Click:Connect(cb); return b end
+    local function hlbl(t, c) return new("TextLabel", hbody, { Size=UDim2.new(1,0,0,0), AutomaticSize=Enum.AutomaticSize.Y, BackgroundColor3=Color3.fromRGB(30,30,38),
+        BorderSizePixel=0, TextColor3=c or Color3.fromRGB(210,210,210), Font=Enum.Font.Code, TextSize=11, TextWrapped=true,
+        TextXAlignment=Enum.TextXAlignment.Left, Text=t, LayoutOrder=hnext() }) end
+    local function hfield(ph, def) return new("TextBox", hbody, { Size=UDim2.new(1,0,0,26), BackgroundColor3=Color3.fromRGB(48,48,56), BorderSizePixel=0,
+        TextColor3=Color3.new(1,1,1), Font=Enum.Font.Gotham, TextSize=12, PlaceholderText=ph, Text=def or "", ClearTextOnFocus=false, LayoutOrder=hnext() }) end
+
+    -- ---------- 1) CAPABILITY SCAN ----------
+    hsec("1) FUNCOES DO EXECUTOR (scan)", Color3.fromRGB(140,220,255))
+    local capLbl = hlbl("(clique escanear)")
+    local function scan()
+        local names = {
+            "hookfunction","hookmetamethod","getrawmetatable","setreadonly","isreadonly","newcclosure",
+            "checkcaller","getnamecallmethod","iscclosure","islclosure","clonefunction",
+            "getconnections","firesignal","firetouchinterest","fireclickdetector","fireproximityprompt",
+            "getgc","getinstances","getnilinstances","getloadedmodules","getsenv","getrenv","getgenv",
+            "getscriptclosure","getscriptbytecode","getscripthash","getcustomasset","gethui","cloneref",
+            "compareinstances","setclipboard","setfpscap","identifyexecutor","request","writefile","readfile",
+        }
+        local env = {}
+        pcall(function() env = (typeof(getgenv) == "function" and getgenv()) or getfenv(0) end)
+        local function has(n)
+            local ok, v = pcall(function() return env[n] end)
+            return ok and typeof(v) == "function"
+        end
+        local have, miss = {}, {}
+        for _, n in ipairs(names) do
+            if has(n) then table.insert(have, n) else table.insert(miss, n) end
+        end
+        -- debug.* set
+        local dbg = {}
+        if typeof(debug) == "table" then
+            for _, dn in ipairs({"getupvalues","getupvalue","setupvalue","getconstants","getproto","getprotos","getinfo","getstack"}) do
+                if typeof(debug[dn]) == "function" then table.insert(dbg, "debug."..dn) end
+            end
+        end
+        capLbl.Text = "TEM ("..#have.."): "..table.concat(have, ", ").."\n\ndebug: "..table.concat(dbg, ", ").."\n\nFALTA: "..table.concat(miss, ", ")
+        log("[HOOK] scan: "..#have.." funcoes + "..#dbg.." debug.*; faltam "..#miss)
+        local exec = "?"; pcall(function() if identifyexecutor then exec = tostring((identifyexecutor())) end end)
+        log("[HOOK] executor: "..exec)
+    end
+    hbtn("Escanear funcoes do executor", Color3.fromRGB(40,120,150), scan)
+
+    -- ---------- 2) TOUCH / CLICK / PROMPT ----------
+    hsec("2) FIRE: touch / click / prompt", Color3.fromRGB(255,180,90))
+    local touchFilter = hfield("nome da parte (ex: Checkpoint)", "Checkpoint")
+    hbtn("firetouchinterest: tocar partes p/ nome", Color3.fromRGB(120,90,40), function()
+        if typeof(firetouchinterest) ~= "function" then log("[HOOK] sem firetouchinterest"); return end
+        local char = LocalPlayer.Character; local hrp = char and char:FindFirstChild("HumanoidRootPart")
+        if not hrp then log("[HOOK] sem HumanoidRootPart"); return end
+        local flt = touchFilter.Text:lower(); local n = 0
+        for _, d in ipairs(workspace:GetDescendants()) do
+            if d:IsA("BasePart") and (flt == "" or d.Name:lower():find(flt, 1, true)) then
+                n = n + 1
+                pcall(function() firetouchinterest(hrp, d, 0); firetouchinterest(hrp, d, 1) end)
+            end
+        end
+        log("[HOOK] firetouchinterest em "..n.." partes ('"..flt.."') -> veja se o servidor contou")
+    end)
+    hbtn("fireclickdetector: TODOS ClickDetectors", Color3.fromRGB(120,90,40), function()
+        if typeof(fireclickdetector) ~= "function" then log("[HOOK] sem fireclickdetector"); return end
+        local n = 0
+        for _, d in ipairs(workspace:GetDescendants()) do
+            if d:IsA("ClickDetector") then n = n + 1; pcall(fireclickdetector, d) end
+        end
+        log("[HOOK] fireclickdetector em "..n.." detectores")
+    end)
+    local promptFilter = hfield("filtro prompt (vazio=todos)", "")
+    hbtn("fireproximityprompt: por filtro", Color3.fromRGB(120,90,40), function()
+        if typeof(fireproximityprompt) ~= "function" then log("[HOOK] sem fireproximityprompt"); return end
+        local flt = promptFilter.Text:lower(); local n = 0
+        for _, d in ipairs(workspace:GetDescendants()) do
+            if d:IsA("ProximityPrompt") and (flt == "" or d.Name:lower():find(flt, 1, true)) then
+                n = n + 1; pcall(function() d.Enabled = true; fireproximityprompt(d) end)
+            end
+        end
+        log("[HOOK] fireproximityprompt em "..n.." prompts ('"..flt.."')")
+    end)
+
+    -- ---------- 3) ARG-TAMPER (MITM do namecall) ----------
+    hsec("3) ARG-TAMPER (altera FireServer real)", Color3.fromRGB(255,90,90))
+    hlbl("Reescreve 1 arg das chamadas REAIS do jogo. Ex: remote=GiftAction, idx=2, val=SELF_USERID -> troca alvo do teu gift real p/ voce. idx e 1-based (arg1=1o depois do :).", Color3.fromRGB(220,200,120))
+    local tRemote = hfield("remote (ex: GiftAction)", "GiftAction")
+    local tIdx = hfield("arg index (ex: 2)", "2")
+    local tVal = hfield("novo valor (SELF_USERID / SELF_PLAYER / texto / numero)", "SELF_USERID")
+    local tamperOn = false
+    local tamperHooked = false
+    local function parseVal(s)
+        if s == "SELF_USERID" then return LocalPlayer.UserId end
+        if s == "SELF_PLAYER" then return LocalPlayer end
+        local n = tonumber(s); if n ~= nil then return n end
+        return s
+    end
+    local function installTamper()
+        if tamperHooked then return true end
+        if typeof(hookmetamethod) ~= "function" or typeof(getnamecallmethod) ~= "function" then log("[HOOK] sem hookmetamethod"); return false end
+        local old
+        old = hookmetamethod(game, "__namecall", function(self, ...)
+            if tamperOn and not (typeof(checkcaller) == "function" and checkcaller()) then
+                local ok, m = pcall(getnamecallmethod)
+                if ok and (m == "FireServer" or m == "InvokeServer") then
+                    local nm = (typeof(self) == "Instance") and self.Name or ""
+                    local want = tRemote.Text:lower()
+                    if want ~= "" and nm:lower():find(want, 1, true) then
+                        local a = table.pack(...)
+                        local idx = math.floor(tonumber(tIdx.Text) or 0)
+                        if idx >= 1 and idx <= a.n then
+                            a[idx] = parseVal(tVal.Text)
+                            log("[TAMPER] "..nm.." arg#"..idx.." -> "..tostring(a[idx]))
+                            return old(self, table.unpack(a, 1, a.n))
+                        end
+                    end
+                end
+            end
+            return old(self, ...)
+        end)
+        tamperHooked = true
+        return true
+    end
+    local tBtn
+    tBtn = hbtn("TAMPER: OFF (liga e faz a acao no jogo)", Color3.fromRGB(150,40,40), function()
+        if not tamperOn then if not installTamper() then return end; tamperOn = true else tamperOn = false end
+        tBtn.Text = "TAMPER: "..(tamperOn and "ON (faca a acao real no jogo)" or "OFF (liga e faz a acao no jogo)")
+        tBtn.BackgroundColor3 = tamperOn and Color3.fromRGB(190,45,40) or Color3.fromRGB(150,40,40)
+        log("[TAMPER] "..(tamperOn and ("ligado: "..tRemote.Text.." arg#"..tIdx.Text.."="..tVal.Text) or "desligado"))
+    end)
+
+    -- ---------- 4) SIGNALS: getconnections ----------
+    hsec("4) SIGNALS (getconnections)", Color3.fromRGB(255,180,90))
+    local sigRemote = hfield("remote p/ OnClientEvent (ex: EventShopUpdate)", "EventShopUpdate")
+    hbtn("Contar conexoes do OnClientEvent", Color3.fromRGB(60,90,150), function()
+        if typeof(getconnections) ~= "function" then log("[HOOK] sem getconnections"); return end
+        local r = findRemote(sigRemote.Text); if not r then log("[HOOK] remote nao achado"); return end
+        local ok, cons = pcall(getconnections, r.OnClientEvent)
+        if ok then log("[HOOK] "..r.Name..".OnClientEvent tem "..#cons.." conexoes (handlers do jogo)") else log("[HOOK] falhou") end
+    end)
+    hbtn("DESLIGAR conexoes (testa anti-cheat client)", Color3.fromRGB(150,40,40), function()
+        if typeof(getconnections) ~= "function" then log("[HOOK] sem getconnections"); return end
+        local r = findRemote(sigRemote.Text); if not r then log("[HOOK] remote nao achado"); return end
+        local ok, cons = pcall(getconnections, r.OnClientEvent)
+        if ok then for _, c in ipairs(cons) do pcall(function() c:Disable() end) end
+            log("[HOOK] desligadas "..#cons.." conexoes de "..r.Name.." (o jogo para de reagir a esse evento)")
+        end
+    end)
+
+    -- ---------- 5) getgc: achar token/slime/multiplicador na memoria ----------
+    hsec("5) getgc SEARCH (memoria do cliente)", Color3.fromRGB(255,180,90))
+    hlbl("Varre a memoria por palavra: acha tabelas/funcoes com ServerToken, Slime, Multiplier, etc. Serve p/ pegar o item segurado do Gift, o token, flags.", Color3.fromRGB(220,200,120))
+    local gcBox = hfield("palavra (ex: ServerToken, Slime, Multiplier)", "ServerToken")
+    hbtn("Buscar no getgc", Color3.fromRGB(120,90,40), function()
+        if typeof(getgc) ~= "function" then log("[HOOK] sem getgc"); return end
+        local kw = gcBox.Text:lower(); if kw == "" then log("[HOOK] digite uma palavra"); return end
+        local nT, nF = 0, 0
+        local ok = pcall(function()
+            for _, o in ipairs(getgc(true)) do
+                local t = typeof(o)
+                if t == "table" then
+                    for k, v in pairs(o) do
+                        if tostring(k):lower():find(kw, 1, true) or tostring(v):lower():find(kw, 1, true) then
+                            nT = nT + 1; log("   [gc-tbl] "..tostring(k).." = "..tostring(v)); break
+                        end
+                    end
+                elseif t == "function" and typeof(debug) == "table" and typeof(debug.getconstants) == "function" then
+                    local okc, cs = pcall(debug.getconstants, o)
+                    if okc then for _, c in ipairs(cs) do
+                        if type(c) == "string" and c:lower():find(kw, 1, true) then
+                            nF = nF + 1
+                            local src = "?"; pcall(function() src = tostring(debug.getinfo(o).short_src) end)
+                            log("   [gc-fn] const '"..tostring(c).."' em "..src); break
+                        end
+                    end end
+                end
+                if nT + nF >= 40 then log("   (limite 40 -- refine)"); break end
+            end
+        end)
+        log("[HOOK] getgc '"..kw.."': "..nT.." tabelas, "..nF.." funcoes"..(ok and "" or " (erro na varredura)"))
+    end)
+
+    hsec("", Color3.fromRGB(120,120,120))
+    hlbl("Regra: mudou o resultado no SERVIDOR = brecha; so mudou local/HUD = server-authoritative (OK). Log vai pro painel principal.", Color3.fromRGB(180,220,255))
+    log("[HOOK] HOOKS LAB aberto. Comece por 'Escanear funcoes'.")
+    scan()
+end
+
 -- ======================= EDITOR DE SCRIPTS (overlay) =======================
 local function openScriptEditor()
     local sg = playerGui:FindFirstChild("ScriptEditorGui"); if sg then sg:Destroy() end
@@ -826,9 +1093,10 @@ local function openScriptEditor()
     refreshList()
 end
 
-section("EDITOR DE SCRIPTS DO CLIENT", Color3.fromRGB(255,120,120))
+section("FERRAMENTAS AVANCADAS", Color3.fromRGB(255,120,120))
 fullLabel("So afeta o CLIENT. Matar PlayerModule quebra o movimento.", Color3.fromRGB(220,200,120))
 button("Abrir Editor (extrair/editar/aplicar)", Color3.fromRGB(150,90,240), openScriptEditor)
+button("Abrir HOOKS LAB (scan + tamper + touch/gc)", Color3.fromRGB(90,200,240), openHooksLab)
 
 -- ---- LOG ----
 section("LOG", Color3.fromRGB(180,180,180))
