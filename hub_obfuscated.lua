@@ -458,7 +458,9 @@ end)
 -- exige progresso E tempo minimo ("Too fast"). Memory ~15s, HitTheSlime ~3min.
 -- StartRound exige proximidade. => teste "paciente": espera o tempo minimo.
 section("[ALTO] Minigames (token/skip)", Color3.fromRGB(255,140,90))
-local MINTIME = { Memory = 16, HitTheSlime = 185 }   -- segundos (folga p/ passar do "Too fast")
+-- janelas: Memory [~15s min .. 60s max] ; HitTheSlime completa DENTRO de ~180s (3min).
+-- completa entre o minimo ("Too fast") e o maximo (round expira). Hit=170 fecha ~10s antes dos 180.
+local MINTIME = { Memory = 16, HitTheSlime = 185 }   -- segundos
 local function startAndGetToken(gameName, timeout)
     capturedToken = nil
     if not fire(MiniGameEvent, gameName..":StartRound", "StartRound", gameName) then return nil end
@@ -580,11 +582,21 @@ button("DUAL: 2 rounds simultaneos? (diagnostico)", Color3.fromRGB(150,90,240), 
         end
     end)
 end)
-button("DUAL COMPLETE: Memory+Hit em paralelo", Color3.fromRGB(150,90,240), function()
-    if not (mgTokens.Memory and mgTokens.HitTheSlime) then log("[DUAL] rode o diagnostico e confirme 2 tokens antes"); return end
-    task.spawn(function() completeWithToken("Memory", mgTokens.Memory) end)
-    task.spawn(function() completeWithToken("HitTheSlime", mgTokens.HitTheSlime) end)
-    log("[DUAL] completando os DOIS em paralelo (Memory ~16s, Hit ~3min) -> pagou os dois = brecha")
+button("DUAL COMPLETE: start + completa os 2 (Memory+Hit)", Color3.fromRGB(150,90,240), function()
+    task.spawn(function()
+        mgTokens.Memory, mgTokens.HitTheSlime, mgRejected = nil, nil, false
+        fire(MiniGameEvent, "DUAL:StartRound Memory", "StartRound", "Memory")
+        task.wait(0.6)
+        fire(MiniGameEvent, "DUAL:StartRound Hit", "StartRound", "HitTheSlime")
+        task.wait(1.5)
+        if not (mgTokens.Memory and mgTokens.HitTheSlime) then
+            log("[DUAL] nao veio 2 tokens (Memory="..tostring(mgTokens.Memory).." Hit="..tostring(mgTokens.HitTheSlime)..") -- fique perto dos 2 pads"); return
+        end
+        log("[DUAL] 2 tokens frescos -> completando os DOIS em paralelo (Memory ~16s, Hit ~3min)")
+        task.spawn(function() completeWithToken("Memory", mgTokens.Memory) end)
+        task.spawn(function() completeWithToken("HitTheSlime", mgTokens.HitTheSlime) end)
+        log("[DUAL] se PAGAR os dois (2 recompensas) = farm dobrado confirmado = BRECHA")
+    end)
 end)
 fullLabel("v Abaixo = CONTROLES (devem ser recusados = servidor OK)", Color3.fromRGB(180,220,255))
 button("INSTANT Memory (sem esperar) -> deve dar 'Too fast'", Color3.fromRGB(120,70,50), function()
