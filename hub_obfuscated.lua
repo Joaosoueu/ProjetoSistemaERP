@@ -540,6 +540,52 @@ loopBtn = button("LOOP AUTO Memory: OFF (repete p/ farmar)", Color3.fromRGB(120,
         log("LOOP Memory PARADO apos "..n.." rodadas")
     end)
 end)
+-- DUAL: dois minigames simultaneos (tokens diferentes). O cliente PARA o outro (:Stop),
+-- mas aqui disparamos os DOIS StartRound direto. Protocolo: ("RoundStarted", jogo, token)
+-- / ("RoundRejected", ...). Se vier 2 tokens diferentes = servidor deixa 2 rounds (farm
+-- dobrado); se o 2o der RoundRejected = 1 round por jogador.
+local mgTokens = { Memory = nil, HitTheSlime = nil }
+local mgRejected = false
+if MiniGameEvent then
+    pcall(function()
+        MiniGameEvent.OnClientEvent:Connect(function(a1, a2, a3)
+            a1 = tostring(a1 or ""); a2 = tostring(a2 or "")
+            if a1 == "RoundStarted" then mgTokens[a2] = tostring(a3 or "")
+            elseif a1 == "RoundRejected" then mgRejected = true end
+        end)
+    end)
+end
+local function completeWithToken(gameName, tok)
+    local dur = MINTIME[gameName] or 16
+    for i=1,9 do
+        task.wait(dur/9)
+        if gameName == "Memory" then fire(MiniGameEvent, "Memory:Progress "..i, "Progress", "Memory", tok, i)
+        else fire(MiniGameEvent, "Hit:Progress "..i, "Progress", "HitTheSlime", tok, i, i) end
+    end
+    fire(MiniGameEvent, gameName..":WinRound", "WinRound", gameName, tok)
+    log("[DUAL] "..gameName.." WinRound (token proprio) -> veja recompensa")
+end
+button("DUAL: 2 rounds simultaneos? (diagnostico)", Color3.fromRGB(150,90,240), function()
+    task.spawn(function()
+        mgTokens.Memory, mgTokens.HitTheSlime, mgRejected = nil, nil, false
+        fire(MiniGameEvent, "DUAL:StartRound Memory", "StartRound", "Memory")
+        task.wait(0.6)
+        fire(MiniGameEvent, "DUAL:StartRound Hit", "StartRound", "HitTheSlime")
+        task.wait(1.2)
+        log("[DUAL] Memory="..tostring(mgTokens.Memory).." | Hit="..tostring(mgTokens.HitTheSlime).." | rejeitado="..tostring(mgRejected))
+        if mgTokens.Memory and mgTokens.HitTheSlime and mgTokens.Memory ~= mgTokens.HitTheSlime then
+            log("[DUAL] >>> 2 tokens DIFERENTES ativos! servidor permite 2 rounds -> farm dobrado")
+        else
+            log("[DUAL] NAO deu 2 tokens. Fique perto dos DOIS pads; se ainda so 1 = 1 round/jogador (OK)")
+        end
+    end)
+end)
+button("DUAL COMPLETE: Memory+Hit em paralelo", Color3.fromRGB(150,90,240), function()
+    if not (mgTokens.Memory and mgTokens.HitTheSlime) then log("[DUAL] rode o diagnostico e confirme 2 tokens antes"); return end
+    task.spawn(function() completeWithToken("Memory", mgTokens.Memory) end)
+    task.spawn(function() completeWithToken("HitTheSlime", mgTokens.HitTheSlime) end)
+    log("[DUAL] completando os DOIS em paralelo (Memory ~16s, Hit ~3min) -> pagou os dois = brecha")
+end)
 fullLabel("v Abaixo = CONTROLES (devem ser recusados = servidor OK)", Color3.fromRGB(180,220,255))
 button("INSTANT Memory (sem esperar) -> deve dar 'Too fast'", Color3.fromRGB(120,70,50), function()
     local tok = startAndGetToken("Memory")
