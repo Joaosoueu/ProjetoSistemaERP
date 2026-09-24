@@ -307,6 +307,53 @@ button("DUMP EggOrder + precos (getgc) -> LOG", Color3.fromRGB(90,200,240), func
     log("[DUMP] EggOrder/Eggs: "..found.." entradas. 0? abra a UI de ovos 1x no jogo e repita.")
 end)
 
+-- DUMP todos os Uids de pet: 1) RequestState p/ popular o estado no cliente;
+-- 2) varre o getgc por GUIDs (8-4-4-4-12) em chaves/campos Uid da tabela Pets.
+local function isGuid(s)
+    return type(s) == "string" and s:match("^%x%x%x%x%x%x%x%x%-%x%x%x%x%-%x%x%x%x%-%x%x%x%x%-%x%x%x%x%x%x%x%x%x%x%x%x$") ~= nil
+end
+button("DUMP todos os Uids de PET (getgc) -> LOG", Color3.fromRGB(90,200,240), function()
+    if typeof(getgc) ~= "function" then log("[!] sem getgc neste executor"); return end
+    fire(PetEvent, "Pet:RequestState", "RequestState")   -- garante estado carregado
+    task.spawn(function()
+        task.wait(0.4)
+        local uids, seen = {}, {}
+        pcall(function()
+            for _, o in ipairs(getgc(true)) do
+                if typeof(o) == "table" then
+                    for k, v in pairs(o) do
+                        -- (a) tabela Pets keyed por Uid: Pets[<guid>] = {...}
+                        if isGuid(k) and not seen[k] then
+                            seen[k] = true
+                            local sp = (type(v) == "table") and (v.Species or v.SpeciesKey or v.Key or v.Name) or nil
+                            local st = (type(v) == "table") and (v.Stars or v.Star or v.Level) or nil
+                            uids[#uids+1] = tostring(k)..(sp and ("  ["..tostring(sp)..(st and (" *"..tostring(st)) or "").."]") or "")
+                        end
+                        -- (b) entrada de pet {Uid=<guid>, ...}
+                        if k == "Uid" and isGuid(v) and not seen[v] then
+                            seen[v] = true
+                            local sp = o.Species or o.SpeciesKey or o.Key or o.Name
+                            local st = o.Stars or o.Star or o.Level
+                            uids[#uids+1] = tostring(v)..(sp and ("  ["..tostring(sp)..(st and (" *"..tostring(st)) or "").."]") or "")
+                        end
+                    end
+                end
+            end
+        end)
+        table.sort(uids)
+        log("[PETS] "..#uids.." Uids encontrados:")
+        for i, u in ipairs(uids) do log("   "..i..") "..u); if i >= 200 then log("   (limite 200)"); break end end
+        if #uids == 0 then log("[PETS] 0 -> clique 'PET RequestState' e abra o inventario 1x, depois repita.") end
+        -- copia a lista crua p/ clipboard tambem
+        if typeof(setclipboard) == "function" then
+            local raw = {}
+            for _, u in ipairs(uids) do raw[#raw+1] = (u:match("^(%x[%x%-]+)") or u) end
+            pcall(setclipboard, table.concat(raw, "\n"))
+            log("[PETS] "..#raw.." Uids copiados p/ clipboard")
+        end
+    end)
+end)
+
 -- PET
 button("PET RequestState (popula estado)", Color3.fromRGB(60,90,150), function()
     fire(PetEvent, "Pet:RequestState", "RequestState")
