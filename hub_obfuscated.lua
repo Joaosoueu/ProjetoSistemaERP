@@ -20,13 +20,19 @@ local function findRemote(name)
 end
 
 -- ---------- log ----------
+-- Auto-copy: toda vez que gera log, o log COMPLETO ja vai pro clipboard
+-- (autoCopyLog=true). Ha tambem botoes separados p/ copiar so o log / dumps.
 local logLines = {}
 local logLbl
+local autoCopyLog = true
 local function log(msg)
     print("[EVENTS-LAB] " .. msg)
     table.insert(logLines, os.date("%H:%M:%S") .. " " .. msg)
-    if #logLines > 120 then table.remove(logLines, 1) end
+    if #logLines > 500 then table.remove(logLines, 1) end
     if logLbl then logLbl.Text = table.concat(logLines, "\n") end
+    if autoCopyLog and typeof(setclipboard) == "function" then
+        pcall(setclipboard, table.concat(logLines, "\n"))
+    end
 end
 
 -- ---------- helpers ----------
@@ -98,11 +104,38 @@ end
 -- ---------- remotes dos sistemas novos ----------
 local PetEvent        = findRemote("PetEvent")
 local MegaSlimeAction = findRemote("MegaSlimeAction")
-local TreeShopAction  = (function()
-    local ts  = ReplicatedStorage:FindFirstChild("TreeSystem")
-    local rem = ts and ts:FindFirstChild("Remotes")
-    return (rem and rem:FindFirstChild("ShopAction")) or ReplicatedStorage:FindFirstChild("ShopAction", true)
+local TreeRemotes     = (function()
+    local ts = ReplicatedStorage:FindFirstChild("TreeSystem")
+    return ts and ts:FindFirstChild("Remotes")
 end)()
+local TreeShopAction  = (TreeRemotes and TreeRemotes:FindFirstChild("ShopAction")) or ReplicatedStorage:FindFirstChild("ShopAction", true)
+local TreeOpenShop    = (TreeRemotes and TreeRemotes:FindFirstChild("OpenShop")) or ReplicatedStorage:FindFirstChild("OpenShop", true)
+local TreeMessage     = (TreeRemotes and TreeRemotes:FindFirstChild("Message")) or ReplicatedStorage:FindFirstChild("Message", true)
+
+-- SlotIndex REAL da arvore: o servidor manda em OpenShop{SlotIndex,Money,Mode}.
+-- Sem esse slot registrado no servidor, Grow30 responde "tree data not ready".
+local treeSlot = nil
+local treeMoney = nil
+if TreeOpenShop then
+    pcall(function()
+        TreeOpenShop.OnClientEvent:Connect(function(a1)
+            if type(a1) == "table" and a1.SlotIndex ~= nil then
+                treeSlot  = tonumber(a1.SlotIndex)
+                treeMoney = tonumber(a1.Money)
+                log("[TREE] OpenShop -> SlotIndex="..tostring(treeSlot).." Money="..tostring(treeMoney).." Mode="..tostring(a1.Mode))
+            end
+        end)
+    end)
+end
+if TreeMessage then
+    pcall(function()
+        TreeMessage.OnClientEvent:Connect(function(...)
+            local parts = {}
+            for _, v in ipairs({...}) do parts[#parts+1] = tostring(v) end
+            log("[TREE] Message: "..table.concat(parts, " | "))
+        end)
+    end)
+end
 
 section("STATUS", Color3.fromRGB(120,220,255))
 fullLabel(("Pet=%s Mega=%s Tree=%s"):format(tostring(PetEvent~=nil), tostring(MegaSlimeAction~=nil), tostring(TreeShopAction~=nil)),
@@ -312,6 +345,67 @@ end)
 local function isGuid(s)
     return type(s) == "string" and s:match("^%x%x%x%x%x%x%x%x%-%x%x%x%x%-%x%x%x%x%-%x%x%x%x%-%x%x%x%x%x%x%x%x%x%x%x%x$") ~= nil
 end
+local function copyToClip(txt, tag)
+    if typeof(setclipboard) ~= "function" then log("[!] executor sem setclipboard"); return end
+    -- loga PRIMEIRO (o auto-copy do log roda aqui), depois poe o conteudo alvo
+    -- no clipboard p/ ele NAO ser sobrescrito pelo auto-copy.
+    log("[COPY] "..tostring(tag).." copiado ("..#txt.." chars)")
+    pcall(setclipboard, txt)
+end
+-- varre o getgc e devolve {uid, uidComRotulo}
+local function scanPetUids()
+    local raw, labeled, seen = {}, {}, {}
+    if typeof(getgc) ~= "function" then return raw, labeled end
+    pcall(function()
+        for _, o in ipairs(getgc(true)) do
+            if typeof(o) == "table" then
+                for k, v in pairs(o) do
+                    if isGuid(k) and not seen[k] then
+                        seen[k] = true; raw[#raw+1] = k
+                        local sp = (type(v) == "table") and (v.Species or v.SpeciesKey or v.Key or v.Name) or nil
+                        local st = (type(v) == "table") and (v.Stars or v.Star or v.Level) or nil
+                        labeled[#labeled+1] = k..(sp and ("  ["..tostring(sp)..(st and (" *"..tostring(st)) or "").."]") or "")
+                    elseif k == "Uid" and isGuid(v) and not seen[v] then
+                        seen[v] = true; raw[#raw+1] = v
+                        local sp = o.Species or o.SpeciesKey or o.Key or o.Name
+                        local st = o.Stars or o.Star or o.Level
+                        labeled[#labeled+1] = v..(sp and ("  ["..tostring(sp)..(st and (" *"..tostring(st)) or "").."]") or "")
+                    end
+                end
+            end
+        end
+    end)
+    table.sort(raw); table.sort(labeled)
+    return raw, labeled
+end
+-- varre o getgc e devolve linhas de ovos (EggOrder + precos)
+local function scanEggs()
+    local lines, seen = {}, {}
+    if typeof(getgc) ~= "function" then return lines end
+    pcall(function()
+        for _, o in ipairs(getgc(true)) do
+            if typeof(o) == "table" then
+                local n = #o
+                if n >= 2 and not seen[o] then
+                    local allEgg = true
+                    for i = 1, n do
+                        if type(o[i]) ~= "string" or not tostring(o[i]):match("^[Ee]gg") then allEgg = false; break end
+                    end
+                    if allEgg then seen[o] = true; lines[#lines+1] = "EggOrder("..n.."): "..table.concat(o, ", ") end
+                end
+                for k, v in pairs(o) do
+                    if type(k) == "string" and k:match("^[Ee]gg%d") and type(v) == "table" and not seen[v] then
+                        seen[v] = true
+                        local price = v.Price or v.Cost or v.price or v.cost or v.Amount
+                        local robux = v.Robux or v.RobuxPrice or v.DevProduct or v.ProductId
+                        lines[#lines+1] = tostring(k).." price="..tostring(price).." robux="..tostring(robux)
+                    end
+                end
+            end
+        end
+    end)
+    return lines
+end
 button("DUMP todos os Uids de PET (getgc) -> LOG", Color3.fromRGB(90,200,240), function()
     if typeof(getgc) ~= "function" then log("[!] sem getgc neste executor"); return end
     fire(PetEvent, "Pet:RequestState", "RequestState")   -- garante estado carregado
@@ -344,13 +438,10 @@ button("DUMP todos os Uids de PET (getgc) -> LOG", Color3.fromRGB(90,200,240), f
         log("[PETS] "..#uids.." Uids encontrados:")
         for i, u in ipairs(uids) do log("   "..i..") "..u); if i >= 200 then log("   (limite 200)"); break end end
         if #uids == 0 then log("[PETS] 0 -> clique 'PET RequestState' e abra o inventario 1x, depois repita.") end
-        -- copia a lista crua p/ clipboard tambem
-        if typeof(setclipboard) == "function" then
-            local raw = {}
-            for _, u in ipairs(uids) do raw[#raw+1] = (u:match("^(%x[%x%-]+)") or u) end
-            pcall(setclipboard, table.concat(raw, "\n"))
-            log("[PETS] "..#raw.." Uids copiados p/ clipboard")
-        end
+        -- copia a lista crua (so os Uids) p/ clipboard, sem ser sobrescrita
+        local raw = {}
+        for _, u in ipairs(uids) do raw[#raw+1] = (u:match("^(%x[%x%-]+)") or u) end
+        if #raw > 0 then copyToClip(table.concat(raw, "\n"), #raw.." Uids de pet") end
     end)
 end)
 
@@ -415,9 +506,47 @@ button("MEGA SellAll (protege o colocado?)", Color3.fromRGB(120,90,40), function
 end)
 
 -- TREE GROW30
-button("Tree Grow30 (SEM pagar? slot=nestBox)", Color3.fromRGB(150,40,40), function()
-    fire(TreeShopAction, "Tree:Grow30", "Grow30", tonumber(nestBox.Text) or 1)
-    log("   adiantou o crescimento sem pagar = brecha")
+-- "tree data not ready" = servidor nao registrou teu SlotIndex. Precisa ABRIR a arvore
+-- (prompt) 1x -> servidor manda OpenShop{SlotIndex} -> ai Grow30 usa esse slot real.
+fullLabel("Tree: ABRA a arvore 1x (ou botao abaixo) p/ capturar o SlotIndex real.", Color3.fromRGB(220,200,120))
+local function fireTreePrompts()
+    if typeof(fireproximityprompt) ~= "function" then log("[TREE] sem fireproximityprompt neste executor"); return 0 end
+    local n = 0
+    for _, d in ipairs(workspace:GetDescendants()) do
+        if d:IsA("ProximityPrompt") then
+            local nm = (d.Name.." "..(d.Parent and d.Parent.Name or "")):lower()
+            if nm:find("tree") or nm:find("arvore") or nm:find("grow") or nm:find("shop") then
+                n = n + 1; pcall(function() d.Enabled = true; fireproximityprompt(d) end)
+            end
+        end
+    end
+    log("[TREE] disparei "..n.." prompt(s) de arvore -> aguardando OpenShop...")
+    return n
+end
+button("Tree: ABRIR arvore (captura SlotIndex)", Color3.fromRGB(60,90,150), function()
+    if not TreeOpenShop then log("[TREE] OpenShop nao encontrado"); return end
+    fireTreePrompts()
+end)
+button("Tree Grow30 (usa slot REAL capturado)", Color3.fromRGB(150,40,40), function()
+    local slot = treeSlot or tonumber(nestBox.Text)
+    if not slot then log("[TREE] sem slot -- abra a arvore 1x (botao ABRIR) antes"); return end
+    fire(TreeShopAction, "Tree:Grow30", "Grow30", slot)
+    log("   Grow30 slot="..tostring(slot).." (real="..tostring(treeSlot)..") -- cresceu sem pagar = brecha")
+end)
+button("Tree: ABRIR + Grow30 (auto, sem pagar?)", Color3.fromRGB(150,40,40), function()
+    task.spawn(function()
+        local before = treeSlot
+        fireTreePrompts()
+        -- espera o servidor mandar OpenShop com o SlotIndex
+        for _ = 1, 30 do
+            if treeSlot and treeSlot ~= before then break end
+            task.wait(0.1)
+        end
+        local slot = treeSlot or tonumber(nestBox.Text)
+        if not slot then log("[TREE] servidor nao mandou SlotIndex (nao abriu). Chegue perto da arvore."); return end
+        fire(TreeShopAction, "Tree:Grow30", "Grow30", slot)
+        log("[TREE] auto Grow30 slot="..tostring(slot).." -- se cresceu sem debitar = brecha")
+    end)
 end)
 
 -- FUZZ automatico: dispara varios args MALFORMADOS em sequencia (nil / tabela / negativo /
@@ -715,6 +844,46 @@ local function openHooksLab()
     log("[HOOK] HOOKS LAB aberto. Comece por 'Escanear funcoes'.")
     scan()
 end
+
+-- ======================= COPIAR (funcoes separadas) =======================
+section("COPIAR (clipboard)", Color3.fromRGB(120,255,180))
+local autoBtn
+autoBtn = button("AUTO-COPY LOG: ON (todo log ja copia)", Color3.fromRGB(40,120,90), function()
+    autoCopyLog = not autoCopyLog
+    autoBtn.Text = "AUTO-COPY LOG: "..(autoCopyLog and "ON (todo log ja copia)" or "OFF")
+    autoBtn.BackgroundColor3 = autoCopyLog and Color3.fromRGB(40,120,90) or Color3.fromRGB(90,60,60)
+end)
+button("Copiar LOG gerado (separado)", Color3.fromRGB(40,120,150), function()
+    copyToClip(table.concat(logLines, "\n"), "LOG ("..#logLines.." linhas)")
+end)
+button("Copiar SPY log (out+in)", Color3.fromRGB(40,120,150), function()
+    copyToClip(table.concat(spyLines, "\n"), "SPY ("..#spyLines.." linhas)")
+end)
+button("Copiar Uids de PET (so os ids)", Color3.fromRGB(40,120,150), function()
+    local raw = scanPetUids()
+    copyToClip(table.concat(raw, "\n"), #raw.." Uids de pet")
+end)
+button("Copiar Uids de PET (com rotulo)", Color3.fromRGB(40,120,150), function()
+    local _, labeled = scanPetUids()
+    copyToClip(table.concat(labeled, "\n"), #labeled.." Uids rotulados")
+end)
+button("Copiar EggOrder + precos", Color3.fromRGB(40,120,150), function()
+    local eggs = scanEggs()
+    copyToClip(table.concat(eggs, "\n"), #eggs.." linhas de ovos")
+end)
+button("Copiar TUDO (log + uids + ovos + slot)", Color3.fromRGB(0,150,90), function()
+    local raw, labeled = scanPetUids()
+    local eggs = scanEggs()
+    local blk = {
+        "===== LOG =====", table.concat(logLines, "\n"),
+        "", "===== SPY =====", table.concat(spyLines, "\n"),
+        "", "===== PET Uids ("..#labeled..") =====", table.concat(labeled, "\n"),
+        "", "===== EGGS ("..#eggs..") =====", table.concat(eggs, "\n"),
+        "", "===== TREE =====", "SlotIndex="..tostring(treeSlot).." Money="..tostring(treeMoney),
+        "", "===== EggKey campo="..eggBox.Text.." | Uid campo="..uidBox.Text.." =====",
+    }
+    copyToClip(table.concat(blk, "\n"), "TUDO")
+end)
 
 section("FERRAMENTAS", Color3.fromRGB(255,120,120))
 button("Abrir HOOKS LAB (scan + tamper + getgc)", Color3.fromRGB(90,200,240), openHooksLab)
