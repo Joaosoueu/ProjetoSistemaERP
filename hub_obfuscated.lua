@@ -311,6 +311,56 @@ button("Tree Grow30 (SEM pagar? slot=nestBox)", Color3.fromRGB(150,40,40), funct
     log("   adiantou o crescimento sem pagar = brecha")
 end)
 
+-- FUZZ automatico: dispara varios args MALFORMADOS em sequencia (nil / tabela / negativo /
+-- gigante / tipo errado). Olhe o LOG e o jogo: se o servidor CONCEDER algum invalido = brecha.
+fullLabel("v FUZZ: manda args ruins em sequencia. Veja qual o servidor ACEITA.", Color3.fromRGB(255,200,120))
+button("FUZZ Pet BuyEgg (NestIndex/EggKey ruins)", Color3.fromRGB(150,80,40), function()
+    task.spawn(function()
+        local egg = eggBox.Text
+        local cases = {
+            {NestIndex = -1,     EggKey = egg},
+            {NestIndex = 0,      EggKey = egg},
+            {NestIndex = 999999, EggKey = egg},
+            {NestIndex = 1,      EggKey = ""},
+            {NestIndex = 1,      EggKey = "FAKE_EGG"},
+            {NestIndex = 1,      EggKey = {}},
+            {NestIndex = 1},                    -- EggKey nil
+            "NAO_TABELA",                       -- payload nao e tabela
+        }
+        for i, c in ipairs(cases) do
+            fire(PetEvent, "FUZZ BuyEgg#"..i, "BuyEgg", c); task.wait(0.25)
+        end
+        log("[FUZZ] BuyEgg: se ganhou ovo em algum caso invalido = brecha (checar no servidor)")
+    end)
+end)
+button("FUZZ Pet SellPet (Uid ruins)", Color3.fromRGB(150,80,40), function()
+    task.spawn(function()
+        local cases = { {Uid=""}, {Uid="FAKE"}, {Uid=-1}, {Uid=0}, {Uid={}}, {}, "NAO_TABELA" }
+        for i, c in ipairs(cases) do
+            fire(PetEvent, "FUZZ SellPet#"..i, "SellPet", c); task.wait(0.25)
+        end
+        log("[FUZZ] SellPet: creditou/dup com Uid invalido = brecha")
+    end)
+end)
+button("FUZZ Mega Sell (Uid ruins)", Color3.fromRGB(150,80,40), function()
+    task.spawn(function()
+        local cases = { {Uid=""}, {Uid="FAKE"}, {Uid=-1}, {Uid={}}, {}, "NAO_TABELA" }
+        for i, c in ipairs(cases) do
+            fire(MegaSlimeAction, "FUZZ MegaSell#"..i, "Sell", c); task.wait(0.25)
+        end
+        log("[FUZZ] Mega Sell: idem SellPet")
+    end)
+end)
+button("FUZZ Tree Grow30 (slot ruins)", Color3.fromRGB(150,80,40), function()
+    task.spawn(function()
+        for _, v in ipairs({-1, 0, 999999, 1.5}) do
+            fire(TreeShopAction, "FUZZ Grow30("..tostring(v)..")", "Grow30", v); task.wait(0.25)
+        end
+        fire(TreeShopAction, "FUZZ Grow30(nil)", "Grow30")
+        log("[FUZZ] Grow30: cresceu com slot invalido/sem pagar = brecha")
+    end)
+end)
+
 -- ======================= HOOKS LAB (overlay) =======================
 -- Menu dedicado: escaneia as funcoes do executor e da ferramenta p/ cada hook.
 local function openHooksLab()
