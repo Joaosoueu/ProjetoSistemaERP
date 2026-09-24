@@ -249,8 +249,63 @@ end)
 section("[NOVO] Pet / Mega Slime / Tree-Grow", Color3.fromRGB(255,140,90))
 fullLabel("EggKey/Uid = do servidor. SPY ON -> faca 1 acao real -> cole o valor.", Color3.fromRGB(220,200,120))
 local nestBox = textField("NestIndex / slot (default 1)"); nestBox.Text = "1"
-local eggBox  = textField("EggKey (pego no SPY)")
+local eggBox  = textField("EggKey (pego no SPY)"); eggBox.Text = "Egg2"
 local uidBox  = textField("Pet/Mega Uid (pego no SPY)")
+
+-- Uids REAIS capturados pelo SPY (2026-09-24). Botoes p/ preencher rapido.
+local UID_A    = "dca26359-8786-43bf-9520-98658a0f5211"  -- pet real A
+local UID_B    = "c88f8de6-9c18-4269-9d66-83afc29d7804"  -- pet real B (vendido/equipado)
+local UID_FAKE = "00000000-0000-0000-0000-000000000000"  -- GUID inexistente (teste posse)
+uidBox.Text = UID_B
+fullLabel("Uid A/B = reais do SPY; FAKE = nao existe (testa posse).", Color3.fromRGB(220,200,120))
+button("usar Uid A ("..UID_A:sub(1,8)..")", Color3.fromRGB(60,90,150), function()
+    uidBox.Text = UID_A; log("[NOVO] uid = A "..UID_A)
+end)
+button("usar Uid B ("..UID_B:sub(1,8)..")", Color3.fromRGB(60,90,150), function()
+    uidBox.Text = UID_B; log("[NOVO] uid = B "..UID_B)
+end)
+button("usar Uid FALSO (posse?)", Color3.fromRGB(150,80,40), function()
+    uidBox.Text = UID_FAKE; log("[NOVO] uid = FAKE "..UID_FAKE.." -> se creditar/equipar = sem checar dono")
+end)
+
+-- DUMP EggOrder + precos: varre o getgc do cliente e loga os EggKeys reais e o custo
+-- de cada ovo, pra voce mirar no mais caro. Abra a UI de ovos 1x antes se der 0.
+button("DUMP EggOrder + precos (getgc) -> LOG", Color3.fromRGB(90,200,240), function()
+    if typeof(getgc) ~= "function" then log("[!] sem getgc neste executor"); return end
+    local found = 0
+    local seen = {}
+    pcall(function()
+        for _, o in ipairs(getgc(true)) do
+            if typeof(o) == "table" then
+                -- (a) array ordenado de EggKeys: {"Egg1","Egg2",...}
+                local n = #o
+                if n >= 2 and not seen[o] then
+                    local allEgg = true
+                    for i = 1, n do
+                        local it = o[i]
+                        if type(it) ~= "string" or not tostring(it):match("^[Ee]gg") then allEgg = false; break end
+                    end
+                    if allEgg then
+                        seen[o] = true; found = found + 1
+                        log("[EGG] EggOrder("..n.."): "..table.concat(o, ", "))
+                    end
+                end
+                -- (b) tabela de config Eggs: EggKey -> {Price/Cost/Robux...}
+                for k, v in pairs(o) do
+                    if type(k) == "string" and k:match("^[Ee]gg%d") and type(v) == "table" and not seen[v] then
+                        seen[v] = true
+                        local price = v.Price or v.Cost or v.price or v.cost or v.Amount
+                        local robux = v.Robux or v.RobuxPrice or v.DevProduct or v.ProductId
+                        log("[EGG] "..tostring(k).." price="..tostring(price).." robux="..tostring(robux))
+                        found = found + 1
+                    end
+                end
+            end
+            if found >= 80 then log("   (limite 80)"); break end
+        end
+    end)
+    log("[DUMP] EggOrder/Eggs: "..found.." entradas. 0? abra a UI de ovos 1x no jogo e repita.")
+end)
 
 -- PET
 button("PET RequestState (popula estado)", Color3.fromRGB(60,90,150), function()
@@ -277,6 +332,13 @@ button("PET UpgradePetStar (Uid) -- checa saldo?", Color3.fromRGB(120,90,40), fu
 end)
 button("PET PrepareRobuxPetStar (SEM pagar?)", Color3.fromRGB(150,40,40), function()
     fire(PetEvent, "Pet:PrepareRobuxPetStar", "PrepareRobuxPetStar", {Uid = uidBox.Text})
+end)
+button("PET EquipPet (Uid) -- equipa pet alheio/falso?", Color3.fromRGB(120,90,40), function()
+    fire(PetEvent, "Pet:EquipPet", "EquipPet", {Uid = uidBox.Text})
+    log("   Uid falso/de outro save equipado = servidor nao checa posse")
+end)
+button("PET UnequipPet", Color3.fromRGB(60,90,150), function()
+    fire(PetEvent, "Pet:UnequipPet", "UnequipPet", {})
 end)
 button("PET SellPet (Uid)", Color3.fromRGB(120,90,40), function()
     fire(PetEvent, "Pet:SellPet", "SellPet", {Uid = uidBox.Text})
